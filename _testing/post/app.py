@@ -1,4 +1,11 @@
 # app.py
+# References:
+## https://stackoverflow.com/questions/5769382/can-i-put-a-breakpoint-in-a-running-python-program-that-drops-to-the-interactive
+## https://scotch.io/bar-talk/processing-incoming-request-data-in-flask
+## https://groups.google.com/forum/#!topic/mitappinventortest/JmmIYXAs_uM
+## http://puravidaapps.com/postfile.php
+## https://stackoverflow.com/questions/47679398/file-upload-error-in-flask
+
 
 from flask import Flask, request  # import main Flask class and request object
 
