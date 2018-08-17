@@ -22,6 +22,7 @@ def query_example():
 #@app.route('/form-example', methods=['GET', 'POST'])
 @app.route('/fe', methods=['GET', 'POST'])
 def form_example():
+    print("fe called")
     if request.method == 'POST':  # this block is only entered when the form is submitted
         language = request.form.get('language')
         framework = request.form['framework']
@@ -42,4 +43,5 @@ def json_example():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)  # run app in debug mode on port 5000
+    print("running from main")
+    app.run(debug=True, port=5000, host= '0.0.0.0')  # run app in debug mode on port 5000
