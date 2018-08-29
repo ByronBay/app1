@@ -8,6 +8,7 @@
 
 
 from flask import Flask, request, jsonify  # import main Flask class and request object
+import datetime
 
 import csv
 
@@ -28,27 +29,63 @@ def monitor_results(func):
 def query_example():
     return 'Todo...'
 
-
 # allow both GET and POST requests
 #@app.route('/form-example', methods=['GET', 'POST'])
 @app.route('/fe', methods=['GET', 'POST'])
 @monitor_results
 def form_example():
     print("fe called")
-    #print(request)
+    print(request)
     if request.method == 'POST':  # this block is only entered when the form is submitted
+        print("1---")
+        image =  request.get_data()
+        newFile=open('test.jpg','wb')
+        newFile.write(image)
+        print("2---")
+        fileName = request.args.get("fileName")
+        print(fileName)
+        print("3---")
+
+        return '''<h1>The image is is: {}</h1>
+                  <h1>The color is: {}</h1>'''.format(fileName, "dummy")
+
+    return '''<form method="POST">
+                  Language: <input type="text" name="language"><br>
+                  Framework: <input type="text" name="framework"><br>
+                  <input type="submit" value="Submit"><br>
+              </form>'''
+
+
+# allow both GET and POST requests
+#@app.route('/form-example', methods=['GET', 'POST'])
+@app.route('/fe_dev', methods=['GET', 'POST'])
+@monitor_results
+def form_example_dev():
+    print("fe _dev called")
+    print(request)
+    if request.method == 'POST':  # this block is only entered when the form is submitted
+        print("1---")
+        print(request.get_data())
+        print("2---")
         f = request.form
-        #print(f)
+        print(f)
+        fileName = request.form.get('fileName')
+        print(fileName)
+        print("3---")
+        a = request.args
+        print(a)
+        print("4---")
 
         file = open('outfile.txt', 'w') 
         writer = csv.writer(file, delimiter = '\t')
 
         for key in f.keys():
+            print(key)
             for value in f.getlist(key):
                 print(key,":",value)
                 writer.writerow([key] +[":"]+ [value])
                 writer.writerow(["new"] +[":"]+ ["line"])
-                #print(key)
+                
 
         framework = request.form.get('framework')
         language = request.form.get('language')

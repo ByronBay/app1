@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "/Users/michaelbach/anaconda3/bin/python3",
-    "python.venvPath": "./venv/bin/python3"
+    "python.venvPath": "./venv/bin/python3",
 }
