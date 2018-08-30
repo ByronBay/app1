@@ -9,10 +9,18 @@
 
 from flask import Flask, request, jsonify  # import main Flask class and request object
 import datetime
+import uuid
+import cv2
 
 import csv
 
 app = Flask(__name__)  # create the Flask app
+
+def get_uuid():
+    return uuid.uuid4()
+
+def get_timestamp():
+    return datetime.datetime.now().isoformat().replace(':','-')
 
 def monitor_results(func):
     def wrapper(*func_args, **func_kwargs):
@@ -38,16 +46,43 @@ def form_example():
     print(request)
     if request.method == 'POST':  # this block is only entered when the form is submitted
         print("1---")
+        
         image =  request.get_data()
-        newFile=open('test.jpg','wb')
+        device = {
+            'fileName' : request.args.get("fileName"),
+            'deviceID' : request.args.get("deviceID"),
+            'simSerialNumber' : request.args.get("simSerialNumber"),
+            'phoneNumber' : request.args.get("phoneNumber"),
+            'networkOperatorName' : request.args.get("networkOperatorName")
+        }
+
+        timestamp = get_timestamp()
+        uuid = get_uuid()
+        fileNameServer = timestamp + "_" + str(uuid) + ".jpg"
+        
+        data = {
+			'meta' : {
+                'uuid' : uuid,
+                'timestamp' : timestamp,
+                'filenameServer' : fileNameServer
+                } ,
+            'device' : device ,
+            'result' : {
+                'version' : "1.0.0",
+                'rgb' : { 'value': [1,2,4], 'confidence' : 500},
+                'hsv' : {'value' : [3,4,5], 'confidence' : 400},
+                'ral' : {'value' : 12002, 'confidence' : 0},
+                'fashion' : {'value' : 'peach', 'confidence' : 200}
+            }
+        }
+
+        newFile=open(fileNameServer,'wb')
         newFile.write(image)
         print("2---")
-        fileName = request.args.get("fileName")
-        print(fileName)
+        print(fileNameServer)
         print("3---")
 
-        return '''<h1>The image is is: {}</h1>
-                  <h1>The color is: {}</h1>'''.format(fileName, "dummy")
+        return jsonify(data)
 
     return '''<form method="POST">
                   Language: <input type="text" name="language"><br>
