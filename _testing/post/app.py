@@ -8,19 +8,13 @@
 
 
 from flask import Flask, request, jsonify  # import main Flask class and request object
-import datetime
-import uuid
-import cv2
 
-import csv
+import pathlib
+import os
+import caas
 
 app = Flask(__name__)  # create the Flask app
 
-def get_uuid():
-    return uuid.uuid4()
-
-def get_timestamp():
-    return datetime.datetime.now().isoformat().replace(':','-')
 
 def monitor_results(func):
     def wrapper(*func_args, **func_kwargs):
@@ -47,8 +41,8 @@ def form_example():
     if request.method == 'POST':  # this block is only entered when the form is submitted
         print("1---")
         
-        image =  request.get_data()
-        device = {
+        imageData =  request.get_data()
+        deviceInformation = {
             'fileName' : request.args.get("fileName"),
             'deviceID' : request.args.get("deviceID"),
             'simSerialNumber' : request.args.get("simSerialNumber"),
@@ -56,88 +50,40 @@ def form_example():
             'networkOperatorName' : request.args.get("networkOperatorName")
         }
 
-        timestamp = get_timestamp()
-        uuid = get_uuid()
+        timestamp = caas.aux.get_timestamp()
+        uuid = caas.aux.get_uuid()
+        
+        directoryServer = timestamp + "_" + str(uuid) 
         fileNameServer = timestamp + "_" + str(uuid) + ".jpg"
         
+        pfnImageServer = os.path.join(directoryServer, fileNameServer)
+        pathlib.Path(directoryServer).mkdir(parents=True, exist_ok=True) 
+
+        newFile=open(pfnImageServer,'wb')
+        newFile.write(imageData)
+        newFile.close()
+        
+        print("2---")
+        print(pfnImageServer)
+        print("3---")
+
+        resultData = caas.proc.process_image(directoryServer, pfnImageServer)
+
         data = {
 			'meta' : {
                 'uuid' : uuid,
                 'timestamp' : timestamp,
-                'filenameServer' : fileNameServer
+                'filenameServer' : pfnImageServer
                 } ,
-            'device' : device ,
-            'result' : {
-                'version' : "1.0.0",
-                'rgb' : { 'value': [1,2,4], 'confidence' : 500},
-                'hsv' : {'value' : [3,4,5], 'confidence' : 400},
-                'ral' : {'value' : 12002, 'confidence' : 0},
-                'fashion' : {'value' : 'peach', 'confidence' : 200}
-            }
+            'device' : deviceInformation ,
+            'result' : resultData
         }
 
-        newFile=open(fileNameServer,'wb')
-        newFile.write(image)
-        print("2---")
-        print(fileNameServer)
-        print("3---")
 
         return jsonify(data)
 
-    return '''<form method="POST">
-                  Language: <input type="text" name="language"><br>
-                  Framework: <input type="text" name="framework"><br>
-                  <input type="submit" value="Submit"><br>
-              </form>'''
+    return '''request was not post'''
 
-
-# allow both GET and POST requests
-#@app.route('/form-example', methods=['GET', 'POST'])
-@app.route('/fe_dev', methods=['GET', 'POST'])
-@monitor_results
-def form_example_dev():
-    print("fe _dev called")
-    print(request)
-    if request.method == 'POST':  # this block is only entered when the form is submitted
-        print("1---")
-        print(request.get_data())
-        print("2---")
-        f = request.form
-        print(f)
-        fileName = request.form.get('fileName')
-        print(fileName)
-        print("3---")
-        a = request.args
-        print(a)
-        print("4---")
-
-        file = open('outfile.txt', 'w') 
-        writer = csv.writer(file, delimiter = '\t')
-
-        for key in f.keys():
-            print(key)
-            for value in f.getlist(key):
-                print(key,":",value)
-                writer.writerow([key] +[":"]+ [value])
-                writer.writerow(["new"] +[":"]+ ["line"])
-                
-
-        framework = request.form.get('framework')
-        language = request.form.get('language')
-
-        return '''<h1>The language value is: {}</h1>
-                  <h1>The framework value is: {}</h1>'''.format(language, framework)
-
-    return '''<form method="POST">
-                  Language: <input type="text" name="language"><br>
-                  Framework: <input type="text" name="framework"><br>
-                  <input type="submit" value="Submit"><br>
-              </form>'''
-
-
-@app.route('/json-example')
-def json_example():
-    return 'Todo...'
 
 
 if __name__ == '__main__':
