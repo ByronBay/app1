@@ -1,0 +1,6645 @@
+[
+    {
+        "literal name": "cloudy blue",
+        "r": 172,
+        "g": 194,
+        "b": 217,
+        "comment": ""
+    },
+    {
+        "literal name": "dark pastel green",
+        "r": 86,
+        "g": 174,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "dust",
+        "r": 178,
+        "g": 153,
+        "b": 110,
+        "comment": ""
+    },
+    {
+        "literal name": "electric lime",
+        "r": 168,
+        "g": 255,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "fresh green",
+        "r": 105,
+        "g": 216,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "light eggplant",
+        "r": 137,
+        "g": 69,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "nasty green",
+        "r": 112,
+        "g": 178,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "really light blue",
+        "r": 212,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "tea",
+        "r": 101,
+        "g": 171,
+        "b": 124,
+        "comment": ""
+    },
+    {
+        "literal name": "warm purple",
+        "r": 149,
+        "g": 46,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "yellowish tan",
+        "r": 252,
+        "g": 252,
+        "b": 129,
+        "comment": ""
+    },
+    {
+        "literal name": "cement",
+        "r": 165,
+        "g": 163,
+        "b": 145,
+        "comment": ""
+    },
+    {
+        "literal name": "dark grass green",
+        "r": 56,
+        "g": 128,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty teal",
+        "r": 76,
+        "g": 144,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "grey teal",
+        "r": 94,
+        "g": 155,
+        "b": 138,
+        "comment": ""
+    },
+    {
+        "literal name": "macaroni and cheese",
+        "r": 239,
+        "g": 180,
+        "b": 53,
+        "comment": ""
+    },
+    {
+        "literal name": "pinkish tan",
+        "r": 217,
+        "g": 155,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "spruce",
+        "r": 10,
+        "g": 95,
+        "b": 56,
+        "comment": ""
+    },
+    {
+        "literal name": "strong blue",
+        "r": 12,
+        "g": 6,
+        "b": 247,
+        "comment": ""
+    },
+    {
+        "literal name": "toxic green",
+        "r": 97,
+        "g": 222,
+        "b": 42,
+        "comment": ""
+    },
+    {
+        "literal name": "windows blue",
+        "r": 55,
+        "g": 120,
+        "b": 191,
+        "comment": ""
+    },
+    {
+        "literal name": "blue blue",
+        "r": 34,
+        "g": 66,
+        "b": 199,
+        "comment": ""
+    },
+    {
+        "literal name": "blue with a hint of purple",
+        "r": 83,
+        "g": 60,
+        "b": 198,
+        "comment": ""
+    },
+    {
+        "literal name": "booger",
+        "r": 155,
+        "g": 181,
+        "b": 60,
+        "comment": ""
+    },
+    {
+        "literal name": "bright sea green",
+        "r": 5,
+        "g": 255,
+        "b": 166,
+        "comment": ""
+    },
+    {
+        "literal name": "dark green blue",
+        "r": 31,
+        "g": 99,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "deep turquoise",
+        "r": 1,
+        "g": 115,
+        "b": 116,
+        "comment": ""
+    },
+    {
+        "literal name": "green teal",
+        "r": 12,
+        "g": 181,
+        "b": 119,
+        "comment": ""
+    },
+    {
+        "literal name": "strong pink",
+        "r": 255,
+        "g": 7,
+        "b": 137,
+        "comment": ""
+    },
+    {
+        "literal name": "bland",
+        "r": 175,
+        "g": 168,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "deep aqua",
+        "r": 8,
+        "g": 120,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "lavender pink",
+        "r": 221,
+        "g": 133,
+        "b": 215,
+        "comment": ""
+    },
+    {
+        "literal name": "light moss green",
+        "r": 166,
+        "g": 200,
+        "b": 117,
+        "comment": ""
+    },
+    {
+        "literal name": "light seafoam green",
+        "r": 167,
+        "g": 255,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "olive yellow",
+        "r": 194,
+        "g": 183,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "pig pink",
+        "r": 231,
+        "g": 142,
+        "b": 165,
+        "comment": ""
+    },
+    {
+        "literal name": "deep lilac",
+        "r": 150,
+        "g": 110,
+        "b": 189,
+        "comment": ""
+    },
+    {
+        "literal name": "desert",
+        "r": 204,
+        "g": 173,
+        "b": 96,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty lavender",
+        "r": 172,
+        "g": 134,
+        "b": 168,
+        "comment": ""
+    },
+    {
+        "literal name": "purpley grey",
+        "r": 148,
+        "g": 126,
+        "b": 148,
+        "comment": ""
+    },
+    {
+        "literal name": "purply",
+        "r": 152,
+        "g": 63,
+        "b": 178,
+        "comment": ""
+    },
+    {
+        "literal name": "candy pink",
+        "r": 255,
+        "g": 99,
+        "b": 233,
+        "comment": ""
+    },
+    {
+        "literal name": "light pastel green",
+        "r": 178,
+        "g": 251,
+        "b": 165,
+        "comment": ""
+    },
+    {
+        "literal name": "boring green",
+        "r": 99,
+        "g": 179,
+        "b": 101,
+        "comment": ""
+    },
+    {
+        "literal name": "kiwi green",
+        "r": 142,
+        "g": 229,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "light grey green",
+        "r": 183,
+        "g": 225,
+        "b": 161,
+        "comment": ""
+    },
+    {
+        "literal name": "orange pink",
+        "r": 255,
+        "g": 111,
+        "b": 82,
+        "comment": ""
+    },
+    {
+        "literal name": "tea green",
+        "r": 189,
+        "g": 248,
+        "b": 163,
+        "comment": ""
+    },
+    {
+        "literal name": "very light brown",
+        "r": 211,
+        "g": 182,
+        "b": 131,
+        "comment": ""
+    },
+    {
+        "literal name": "egg shell",
+        "r": 255,
+        "g": 252,
+        "b": 196,
+        "comment": ""
+    },
+    {
+        "literal name": "eggplant purple",
+        "r": 67,
+        "g": 5,
+        "b": 65,
+        "comment": ""
+    },
+    {
+        "literal name": "powder pink",
+        "r": 255,
+        "g": 178,
+        "b": 208,
+        "comment": ""
+    },
+    {
+        "literal name": "reddish grey",
+        "r": 153,
+        "g": 117,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "baby shit brown",
+        "r": 173,
+        "g": 144,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "liliac",
+        "r": 196,
+        "g": 142,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "stormy blue",
+        "r": 80,
+        "g": 123,
+        "b": 156,
+        "comment": ""
+    },
+    {
+        "literal name": "ugly brown",
+        "r": 125,
+        "g": 113,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "custard",
+        "r": 255,
+        "g": 253,
+        "b": 120,
+        "comment": ""
+    },
+    {
+        "literal name": "darkish pink",
+        "r": 218,
+        "g": 70,
+        "b": 125,
+        "comment": ""
+    },
+    {
+        "literal name": "deep brown",
+        "r": 65,
+        "g": 2,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish beige",
+        "r": 201,
+        "g": 209,
+        "b": 121,
+        "comment": ""
+    },
+    {
+        "literal name": "manilla",
+        "r": 255,
+        "g": 250,
+        "b": 134,
+        "comment": ""
+    },
+    {
+        "literal name": "off blue",
+        "r": 86,
+        "g": 132,
+        "b": 174,
+        "comment": ""
+    },
+    {
+        "literal name": "battleship grey",
+        "r": 107,
+        "g": 124,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "browny green",
+        "r": 111,
+        "g": 108,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "bruise",
+        "r": 126,
+        "g": 64,
+        "b": 113,
+        "comment": ""
+    },
+    {
+        "literal name": "kelley green",
+        "r": 0,
+        "g": 147,
+        "b": 55,
+        "comment": ""
+    },
+    {
+        "literal name": "sickly yellow",
+        "r": 208,
+        "g": 228,
+        "b": 41,
+        "comment": ""
+    },
+    {
+        "literal name": "sunny yellow",
+        "r": 255,
+        "g": 249,
+        "b": 23,
+        "comment": ""
+    },
+    {
+        "literal name": "azul",
+        "r": 29,
+        "g": 93,
+        "b": 236,
+        "comment": ""
+    },
+    {
+        "literal name": "darkgreen",
+        "r": 5,
+        "g": 73,
+        "b": 7,
+        "comment": ""
+    },
+    {
+        "literal name": "green/yellow",
+        "r": 181,
+        "g": 206,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "lichen",
+        "r": 143,
+        "g": 182,
+        "b": 123,
+        "comment": ""
+    },
+    {
+        "literal name": "light light green",
+        "r": 200,
+        "g": 255,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "pale gold",
+        "r": 253,
+        "g": 222,
+        "b": 108,
+        "comment": ""
+    },
+    {
+        "literal name": "sun yellow",
+        "r": 255,
+        "g": 223,
+        "b": 34,
+        "comment": ""
+    },
+    {
+        "literal name": "tan green",
+        "r": 169,
+        "g": 190,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "burple",
+        "r": 104,
+        "g": 50,
+        "b": 227,
+        "comment": ""
+    },
+    {
+        "literal name": "butterscotch",
+        "r": 253,
+        "g": 177,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "toupe",
+        "r": 199,
+        "g": 172,
+        "b": 125,
+        "comment": ""
+    },
+    {
+        "literal name": "dark cream",
+        "r": 255,
+        "g": 243,
+        "b": 154,
+        "comment": ""
+    },
+    {
+        "literal name": "indian red",
+        "r": 133,
+        "g": 14,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "light lavendar",
+        "r": 239,
+        "g": 192,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "poison green",
+        "r": 64,
+        "g": 253,
+        "b": 20,
+        "comment": ""
+    },
+    {
+        "literal name": "baby puke green",
+        "r": 182,
+        "g": 196,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "bright yellow green",
+        "r": 157,
+        "g": 255,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "charcoal grey",
+        "r": 60,
+        "g": 65,
+        "b": 66,
+        "comment": ""
+    },
+    {
+        "literal name": "squash",
+        "r": 242,
+        "g": 171,
+        "b": 21,
+        "comment": ""
+    },
+    {
+        "literal name": "cinnamon",
+        "r": 172,
+        "g": 79,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "light pea green",
+        "r": 196,
+        "g": 254,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "radioactive green",
+        "r": 44,
+        "g": 250,
+        "b": 31,
+        "comment": ""
+    },
+    {
+        "literal name": "raw sienna",
+        "r": 154,
+        "g": 98,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "baby purple",
+        "r": 202,
+        "g": 155,
+        "b": 247,
+        "comment": ""
+    },
+    {
+        "literal name": "cocoa",
+        "r": 135,
+        "g": 95,
+        "b": 66,
+        "comment": ""
+    },
+    {
+        "literal name": "light royal blue",
+        "r": 58,
+        "g": 46,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "orangeish",
+        "r": 253,
+        "g": 141,
+        "b": 73,
+        "comment": ""
+    },
+    {
+        "literal name": "rust brown",
+        "r": 139,
+        "g": 49,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "sand brown",
+        "r": 203,
+        "g": 165,
+        "b": 96,
+        "comment": ""
+    },
+    {
+        "literal name": "swamp",
+        "r": 105,
+        "g": 131,
+        "b": 57,
+        "comment": ""
+    },
+    {
+        "literal name": "tealish green",
+        "r": 12,
+        "g": 220,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "burnt siena",
+        "r": 183,
+        "g": 82,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "camo",
+        "r": 127,
+        "g": 143,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "dusk blue",
+        "r": 38,
+        "g": 83,
+        "b": 141,
+        "comment": ""
+    },
+    {
+        "literal name": "fern",
+        "r": 99,
+        "g": 169,
+        "b": 80,
+        "comment": ""
+    },
+    {
+        "literal name": "old rose",
+        "r": 200,
+        "g": 127,
+        "b": 137,
+        "comment": ""
+    },
+    {
+        "literal name": "pale light green",
+        "r": 177,
+        "g": 252,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "peachy pink",
+        "r": 255,
+        "g": 154,
+        "b": 138,
+        "comment": ""
+    },
+    {
+        "literal name": "rosy pink",
+        "r": 246,
+        "g": 104,
+        "b": 142,
+        "comment": ""
+    },
+    {
+        "literal name": "light bluish green",
+        "r": 118,
+        "g": 253,
+        "b": 168,
+        "comment": ""
+    },
+    {
+        "literal name": "light bright green",
+        "r": 83,
+        "g": 254,
+        "b": 92,
+        "comment": ""
+    },
+    {
+        "literal name": "light neon green",
+        "r": 78,
+        "g": 253,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "light seafoam",
+        "r": 160,
+        "g": 254,
+        "b": 191,
+        "comment": ""
+    },
+    {
+        "literal name": "tiffany blue",
+        "r": 123,
+        "g": 242,
+        "b": 218,
+        "comment": ""
+    },
+    {
+        "literal name": "washed out green",
+        "r": 188,
+        "g": 245,
+        "b": 166,
+        "comment": ""
+    },
+    {
+        "literal name": "browny orange",
+        "r": 202,
+        "g": 107,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "nice blue",
+        "r": 16,
+        "g": 122,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "sapphire",
+        "r": 33,
+        "g": 56,
+        "b": 171,
+        "comment": ""
+    },
+    {
+        "literal name": "greyish teal",
+        "r": 113,
+        "g": 159,
+        "b": 145,
+        "comment": ""
+    },
+    {
+        "literal name": "orangey yellow",
+        "r": 253,
+        "g": 185,
+        "b": 21,
+        "comment": ""
+    },
+    {
+        "literal name": "parchment",
+        "r": 254,
+        "g": 252,
+        "b": 175,
+        "comment": ""
+    },
+    {
+        "literal name": "straw",
+        "r": 252,
+        "g": 246,
+        "b": 121,
+        "comment": ""
+    },
+    {
+        "literal name": "very dark brown",
+        "r": 29,
+        "g": 2,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "terracota",
+        "r": 203,
+        "g": 104,
+        "b": 67,
+        "comment": ""
+    },
+    {
+        "literal name": "ugly blue",
+        "r": 49,
+        "g": 102,
+        "b": 138,
+        "comment": ""
+    },
+    {
+        "literal name": "clear blue",
+        "r": 36,
+        "g": 122,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "creme",
+        "r": 255,
+        "g": 255,
+        "b": 182,
+        "comment": ""
+    },
+    {
+        "literal name": "foam green",
+        "r": 144,
+        "g": 253,
+        "b": 169,
+        "comment": ""
+    },
+    {
+        "literal name": "grey/green",
+        "r": 134,
+        "g": 161,
+        "b": 125,
+        "comment": ""
+    },
+    {
+        "literal name": "light gold",
+        "r": 253,
+        "g": 220,
+        "b": 92,
+        "comment": ""
+    },
+    {
+        "literal name": "seafoam blue",
+        "r": 120,
+        "g": 209,
+        "b": 182,
+        "comment": ""
+    },
+    {
+        "literal name": "topaz",
+        "r": 19,
+        "g": 187,
+        "b": 175,
+        "comment": ""
+    },
+    {
+        "literal name": "violet pink",
+        "r": 251,
+        "g": 95,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "wintergreen",
+        "r": 32,
+        "g": 249,
+        "b": 134,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow tan",
+        "r": 255,
+        "g": 227,
+        "b": 110,
+        "comment": ""
+    },
+    {
+        "literal name": "dark fuchsia",
+        "r": 157,
+        "g": 7,
+        "b": 89,
+        "comment": ""
+    },
+    {
+        "literal name": "indigo blue",
+        "r": 58,
+        "g": 24,
+        "b": 177,
+        "comment": ""
+    },
+    {
+        "literal name": "light yellowish green",
+        "r": 194,
+        "g": 255,
+        "b": 137,
+        "comment": ""
+    },
+    {
+        "literal name": "pale magenta",
+        "r": 215,
+        "g": 103,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "rich purple",
+        "r": 114,
+        "g": 0,
+        "b": 88,
+        "comment": ""
+    },
+    {
+        "literal name": "sunflower yellow",
+        "r": 255,
+        "g": 218,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "green/blue",
+        "r": 1,
+        "g": 192,
+        "b": 141,
+        "comment": ""
+    },
+    {
+        "literal name": "leather",
+        "r": 172,
+        "g": 116,
+        "b": 52,
+        "comment": ""
+    },
+    {
+        "literal name": "racing green",
+        "r": 1,
+        "g": 70,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "vivid purple",
+        "r": 153,
+        "g": 0,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "dark royal blue",
+        "r": 2,
+        "g": 6,
+        "b": 111,
+        "comment": ""
+    },
+    {
+        "literal name": "hazel",
+        "r": 142,
+        "g": 118,
+        "b": 24,
+        "comment": ""
+    },
+    {
+        "literal name": "muted pink",
+        "r": 209,
+        "g": 118,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "booger green",
+        "r": 150,
+        "g": 180,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "canary",
+        "r": 253,
+        "g": 255,
+        "b": 99,
+        "comment": ""
+    },
+    {
+        "literal name": "cool grey",
+        "r": 149,
+        "g": 163,
+        "b": 166,
+        "comment": ""
+    },
+    {
+        "literal name": "dark taupe",
+        "r": 127,
+        "g": 104,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "darkish purple",
+        "r": 117,
+        "g": 25,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "true green",
+        "r": 8,
+        "g": 148,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "coral pink",
+        "r": 255,
+        "g": 97,
+        "b": 99,
+        "comment": ""
+    },
+    {
+        "literal name": "dark sage",
+        "r": 89,
+        "g": 133,
+        "b": 86,
+        "comment": ""
+    },
+    {
+        "literal name": "dark slate blue",
+        "r": 33,
+        "g": 71,
+        "b": 97,
+        "comment": ""
+    },
+    {
+        "literal name": "flat blue",
+        "r": 60,
+        "g": 115,
+        "b": 168,
+        "comment": ""
+    },
+    {
+        "literal name": "mushroom",
+        "r": 186,
+        "g": 158,
+        "b": 136,
+        "comment": ""
+    },
+    {
+        "literal name": "rich blue",
+        "r": 2,
+        "g": 27,
+        "b": 249,
+        "comment": ""
+    },
+    {
+        "literal name": "dirty purple",
+        "r": 115,
+        "g": 74,
+        "b": 101,
+        "comment": ""
+    },
+    {
+        "literal name": "greenblue",
+        "r": 35,
+        "g": 196,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "icky green",
+        "r": 143,
+        "g": 174,
+        "b": 34,
+        "comment": ""
+    },
+    {
+        "literal name": "light khaki",
+        "r": 230,
+        "g": 242,
+        "b": 162,
+        "comment": ""
+    },
+    {
+        "literal name": "warm blue",
+        "r": 75,
+        "g": 87,
+        "b": 219,
+        "comment": ""
+    },
+    {
+        "literal name": "dark hot pink",
+        "r": 217,
+        "g": 1,
+        "b": 102,
+        "comment": ""
+    },
+    {
+        "literal name": "deep sea blue",
+        "r": 1,
+        "g": 84,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "carmine",
+        "r": 157,
+        "g": 2,
+        "b": 22,
+        "comment": ""
+    },
+    {
+        "literal name": "dark yellow green",
+        "r": 114,
+        "g": 143,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "pale peach",
+        "r": 255,
+        "g": 229,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "plum purple",
+        "r": 78,
+        "g": 5,
+        "b": 80,
+        "comment": ""
+    },
+    {
+        "literal name": "golden rod",
+        "r": 249,
+        "g": 188,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "neon red",
+        "r": 255,
+        "g": 7,
+        "b": 58,
+        "comment": ""
+    },
+    {
+        "literal name": "old pink",
+        "r": 199,
+        "g": 121,
+        "b": 134,
+        "comment": ""
+    },
+    {
+        "literal name": "very pale blue",
+        "r": 214,
+        "g": 255,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "blood orange",
+        "r": 254,
+        "g": 75,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "grapefruit",
+        "r": 253,
+        "g": 89,
+        "b": 86,
+        "comment": ""
+    },
+    {
+        "literal name": "sand yellow",
+        "r": 252,
+        "g": 225,
+        "b": 102,
+        "comment": ""
+    },
+    {
+        "literal name": "clay brown",
+        "r": 178,
+        "g": 113,
+        "b": 61,
+        "comment": ""
+    },
+    {
+        "literal name": "dark blue grey",
+        "r": 31,
+        "g": 59,
+        "b": 77,
+        "comment": ""
+    },
+    {
+        "literal name": "flat green",
+        "r": 105,
+        "g": 157,
+        "b": 76,
+        "comment": ""
+    },
+    {
+        "literal name": "light green blue",
+        "r": 86,
+        "g": 252,
+        "b": 162,
+        "comment": ""
+    },
+    {
+        "literal name": "warm pink",
+        "r": 251,
+        "g": 85,
+        "b": 129,
+        "comment": ""
+    },
+    {
+        "literal name": "dodger blue",
+        "r": 62,
+        "g": 130,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "gross green",
+        "r": 160,
+        "g": 191,
+        "b": 22,
+        "comment": ""
+    },
+    {
+        "literal name": "ice",
+        "r": 214,
+        "g": 255,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "metallic blue",
+        "r": 79,
+        "g": 115,
+        "b": 142,
+        "comment": ""
+    },
+    {
+        "literal name": "pale salmon",
+        "r": 255,
+        "g": 177,
+        "b": 154,
+        "comment": ""
+    },
+    {
+        "literal name": "sap green",
+        "r": 92,
+        "g": 139,
+        "b": 21,
+        "comment": ""
+    },
+    {
+        "literal name": "algae",
+        "r": 84,
+        "g": 172,
+        "b": 104,
+        "comment": ""
+    },
+    {
+        "literal name": "bluey grey",
+        "r": 137,
+        "g": 160,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "greeny grey",
+        "r": 126,
+        "g": 160,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "highlighter green",
+        "r": 27,
+        "g": 252,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "light light blue",
+        "r": 202,
+        "g": 255,
+        "b": 251,
+        "comment": ""
+    },
+    {
+        "literal name": "light mint",
+        "r": 182,
+        "g": 255,
+        "b": 187,
+        "comment": ""
+    },
+    {
+        "literal name": "raw umber",
+        "r": 167,
+        "g": 94,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "vivid blue",
+        "r": 21,
+        "g": 46,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "deep lavender",
+        "r": 141,
+        "g": 94,
+        "b": 183,
+        "comment": ""
+    },
+    {
+        "literal name": "dull teal",
+        "r": 95,
+        "g": 158,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "light greenish blue",
+        "r": 99,
+        "g": 247,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "mud green",
+        "r": 96,
+        "g": 102,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "pinky",
+        "r": 252,
+        "g": 134,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "red wine",
+        "r": 140,
+        "g": 0,
+        "b": 52,
+        "comment": ""
+    },
+    {
+        "literal name": "shit green",
+        "r": 117,
+        "g": 128,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "tan brown",
+        "r": 171,
+        "g": 126,
+        "b": 76,
+        "comment": ""
+    },
+    {
+        "literal name": "darkblue",
+        "r": 3,
+        "g": 7,
+        "b": 100,
+        "comment": ""
+    },
+    {
+        "literal name": "rosa",
+        "r": 254,
+        "g": 134,
+        "b": 164,
+        "comment": ""
+    },
+    {
+        "literal name": "lipstick",
+        "r": 213,
+        "g": 23,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "pale mauve",
+        "r": 254,
+        "g": 208,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "claret",
+        "r": 104,
+        "g": 0,
+        "b": 24,
+        "comment": ""
+    },
+    {
+        "literal name": "dandelion",
+        "r": 254,
+        "g": 223,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "orangered",
+        "r": 254,
+        "g": 66,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "poop green",
+        "r": 111,
+        "g": 124,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "ruby",
+        "r": 202,
+        "g": 1,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "dark",
+        "r": 27,
+        "g": 36,
+        "b": 49,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish turquoise",
+        "r": 0,
+        "g": 251,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "pastel red",
+        "r": 219,
+        "g": 88,
+        "b": 86,
+        "comment": ""
+    },
+    {
+        "literal name": "piss yellow",
+        "r": 221,
+        "g": 214,
+        "b": 24,
+        "comment": ""
+    },
+    {
+        "literal name": "bright cyan",
+        "r": 65,
+        "g": 253,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "dark coral",
+        "r": 207,
+        "g": 82,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "algae green",
+        "r": 33,
+        "g": 195,
+        "b": 111,
+        "comment": ""
+    },
+    {
+        "literal name": "darkish red",
+        "r": 169,
+        "g": 3,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "reddy brown",
+        "r": 110,
+        "g": 16,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "blush pink",
+        "r": 254,
+        "g": 130,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "camouflage green",
+        "r": 75,
+        "g": 97,
+        "b": 19,
+        "comment": ""
+    },
+    {
+        "literal name": "lawn green",
+        "r": 77,
+        "g": 164,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "putty",
+        "r": 190,
+        "g": 174,
+        "b": 138,
+        "comment": ""
+    },
+    {
+        "literal name": "vibrant blue",
+        "r": 3,
+        "g": 57,
+        "b": 248,
+        "comment": ""
+    },
+    {
+        "literal name": "dark sand",
+        "r": 168,
+        "g": 143,
+        "b": 89,
+        "comment": ""
+    },
+    {
+        "literal name": "purple/blue",
+        "r": 93,
+        "g": 33,
+        "b": 208,
+        "comment": ""
+    },
+    {
+        "literal name": "saffron",
+        "r": 254,
+        "g": 178,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "twilight",
+        "r": 78,
+        "g": 81,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "warm brown",
+        "r": 150,
+        "g": 78,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "bluegrey",
+        "r": 133,
+        "g": 163,
+        "b": 178,
+        "comment": ""
+    },
+    {
+        "literal name": "bubble gum pink",
+        "r": 255,
+        "g": 105,
+        "b": 175,
+        "comment": ""
+    },
+    {
+        "literal name": "duck egg blue",
+        "r": 195,
+        "g": 251,
+        "b": 244,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish cyan",
+        "r": 42,
+        "g": 254,
+        "b": 183,
+        "comment": ""
+    },
+    {
+        "literal name": "petrol",
+        "r": 0,
+        "g": 95,
+        "b": 106,
+        "comment": ""
+    },
+    {
+        "literal name": "royal",
+        "r": 12,
+        "g": 23,
+        "b": 147,
+        "comment": ""
+    },
+    {
+        "literal name": "butter",
+        "r": 255,
+        "g": 255,
+        "b": 129,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty orange",
+        "r": 240,
+        "g": 131,
+        "b": 58,
+        "comment": ""
+    },
+    {
+        "literal name": "off yellow",
+        "r": 241,
+        "g": 243,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "pale olive green",
+        "r": 177,
+        "g": 210,
+        "b": 123,
+        "comment": ""
+    },
+    {
+        "literal name": "orangish",
+        "r": 252,
+        "g": 130,
+        "b": 74,
+        "comment": ""
+    },
+    {
+        "literal name": "leaf",
+        "r": 113,
+        "g": 170,
+        "b": 52,
+        "comment": ""
+    },
+    {
+        "literal name": "light blue grey",
+        "r": 183,
+        "g": 201,
+        "b": 226,
+        "comment": ""
+    },
+    {
+        "literal name": "dried blood",
+        "r": 75,
+        "g": 1,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "lightish purple",
+        "r": 165,
+        "g": 82,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "rusty red",
+        "r": 175,
+        "g": 47,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "lavender blue",
+        "r": 139,
+        "g": 136,
+        "b": 248,
+        "comment": ""
+    },
+    {
+        "literal name": "light grass green",
+        "r": 154,
+        "g": 247,
+        "b": 100,
+        "comment": ""
+    },
+    {
+        "literal name": "light mint green",
+        "r": 166,
+        "g": 251,
+        "b": 178,
+        "comment": ""
+    },
+    {
+        "literal name": "sunflower",
+        "r": 255,
+        "g": 197,
+        "b": 18,
+        "comment": ""
+    },
+    {
+        "literal name": "velvet",
+        "r": 117,
+        "g": 8,
+        "b": 81,
+        "comment": ""
+    },
+    {
+        "literal name": "brick orange",
+        "r": 193,
+        "g": 74,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "lightish red",
+        "r": 254,
+        "g": 47,
+        "b": 74,
+        "comment": ""
+    },
+    {
+        "literal name": "pure blue",
+        "r": 2,
+        "g": 3,
+        "b": 226,
+        "comment": ""
+    },
+    {
+        "literal name": "twilight blue",
+        "r": 10,
+        "g": 67,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "violet red",
+        "r": 165,
+        "g": 0,
+        "b": 85,
+        "comment": ""
+    },
+    {
+        "literal name": "yellowy brown",
+        "r": 174,
+        "g": 139,
+        "b": 12,
+        "comment": ""
+    },
+    {
+        "literal name": "carnation",
+        "r": 253,
+        "g": 121,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "muddy yellow",
+        "r": 191,
+        "g": 172,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "dark seafoam green",
+        "r": 62,
+        "g": 175,
+        "b": 118,
+        "comment": ""
+    },
+    {
+        "literal name": "deep rose",
+        "r": 199,
+        "g": 71,
+        "b": 103,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty red",
+        "r": 185,
+        "g": 72,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "grey/blue",
+        "r": 100,
+        "g": 125,
+        "b": 142,
+        "comment": ""
+    },
+    {
+        "literal name": "lemon lime",
+        "r": 191,
+        "g": 254,
+        "b": 40,
+        "comment": ""
+    },
+    {
+        "literal name": "purple/pink",
+        "r": 215,
+        "g": 37,
+        "b": 222,
+        "comment": ""
+    },
+    {
+        "literal name": "brown yellow",
+        "r": 178,
+        "g": 151,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "purple brown",
+        "r": 103,
+        "g": 58,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "wisteria",
+        "r": 168,
+        "g": 125,
+        "b": 194,
+        "comment": ""
+    },
+    {
+        "literal name": "banana yellow",
+        "r": 250,
+        "g": 254,
+        "b": 75,
+        "comment": ""
+    },
+    {
+        "literal name": "lipstick red",
+        "r": 192,
+        "g": 2,
+        "b": 47,
+        "comment": ""
+    },
+    {
+        "literal name": "water blue",
+        "r": 14,
+        "g": 135,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "brown grey",
+        "r": 141,
+        "g": 132,
+        "b": 104,
+        "comment": ""
+    },
+    {
+        "literal name": "vibrant purple",
+        "r": 173,
+        "g": 3,
+        "b": 222,
+        "comment": ""
+    },
+    {
+        "literal name": "baby green",
+        "r": 140,
+        "g": 255,
+        "b": 158,
+        "comment": ""
+    },
+    {
+        "literal name": "barf green",
+        "r": 148,
+        "g": 172,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "eggshell blue",
+        "r": 196,
+        "g": 255,
+        "b": 247,
+        "comment": ""
+    },
+    {
+        "literal name": "sandy yellow",
+        "r": 253,
+        "g": 238,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "cool green",
+        "r": 51,
+        "g": 184,
+        "b": 100,
+        "comment": ""
+    },
+    {
+        "literal name": "pale",
+        "r": 255,
+        "g": 249,
+        "b": 208,
+        "comment": ""
+    },
+    {
+        "literal name": "blue/grey",
+        "r": 117,
+        "g": 141,
+        "b": 163,
+        "comment": ""
+    },
+    {
+        "literal name": "hot magenta",
+        "r": 245,
+        "g": 4,
+        "b": 201,
+        "comment": ""
+    },
+    {
+        "literal name": "greyblue",
+        "r": 119,
+        "g": 161,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "purpley",
+        "r": 135,
+        "g": 86,
+        "b": 228,
+        "comment": ""
+    },
+    {
+        "literal name": "baby shit green",
+        "r": 136,
+        "g": 151,
+        "b": 23,
+        "comment": ""
+    },
+    {
+        "literal name": "brownish pink",
+        "r": 194,
+        "g": 126,
+        "b": 121,
+        "comment": ""
+    },
+    {
+        "literal name": "dark aquamarine",
+        "r": 1,
+        "g": 115,
+        "b": 113,
+        "comment": ""
+    },
+    {
+        "literal name": "diarrhea",
+        "r": 159,
+        "g": 131,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "light mustard",
+        "r": 247,
+        "g": 213,
+        "b": 96,
+        "comment": ""
+    },
+    {
+        "literal name": "pale sky blue",
+        "r": 189,
+        "g": 246,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "turtle green",
+        "r": 117,
+        "g": 184,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "bright olive",
+        "r": 156,
+        "g": 187,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "dark grey blue",
+        "r": 41,
+        "g": 70,
+        "b": 91,
+        "comment": ""
+    },
+    {
+        "literal name": "greeny brown",
+        "r": 105,
+        "g": 96,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "lemon green",
+        "r": 173,
+        "g": 248,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "light periwinkle",
+        "r": 193,
+        "g": 198,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "seaweed green",
+        "r": 53,
+        "g": 173,
+        "b": 107,
+        "comment": ""
+    },
+    {
+        "literal name": "sunshine yellow",
+        "r": 255,
+        "g": 253,
+        "b": 55,
+        "comment": ""
+    },
+    {
+        "literal name": "ugly purple",
+        "r": 164,
+        "g": 66,
+        "b": 160,
+        "comment": ""
+    },
+    {
+        "literal name": "medium pink",
+        "r": 243,
+        "g": 97,
+        "b": 150,
+        "comment": ""
+    },
+    {
+        "literal name": "puke brown",
+        "r": 148,
+        "g": 119,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "very light pink",
+        "r": 255,
+        "g": 244,
+        "b": 242,
+        "comment": ""
+    },
+    {
+        "literal name": "viridian",
+        "r": 30,
+        "g": 145,
+        "b": 103,
+        "comment": ""
+    },
+    {
+        "literal name": "bile",
+        "r": 181,
+        "g": 195,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "faded yellow",
+        "r": 254,
+        "g": 255,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "very pale green",
+        "r": 207,
+        "g": 253,
+        "b": 188,
+        "comment": ""
+    },
+    {
+        "literal name": "vibrant green",
+        "r": 10,
+        "g": 221,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "bright lime",
+        "r": 135,
+        "g": 253,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "spearmint",
+        "r": 30,
+        "g": 248,
+        "b": 118,
+        "comment": ""
+    },
+    {
+        "literal name": "light aquamarine",
+        "r": 123,
+        "g": 253,
+        "b": 199,
+        "comment": ""
+    },
+    {
+        "literal name": "light sage",
+        "r": 188,
+        "g": 236,
+        "b": 172,
+        "comment": ""
+    },
+    {
+        "literal name": "yellowgreen",
+        "r": 187,
+        "g": 249,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "baby poo",
+        "r": 171,
+        "g": 144,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "dark seafoam",
+        "r": 31,
+        "g": 181,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "deep teal",
+        "r": 0,
+        "g": 85,
+        "b": 90,
+        "comment": ""
+    },
+    {
+        "literal name": "heather",
+        "r": 164,
+        "g": 132,
+        "b": 172,
+        "comment": ""
+    },
+    {
+        "literal name": "rust orange",
+        "r": 196,
+        "g": 85,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "dirty blue",
+        "r": 63,
+        "g": 130,
+        "b": 157,
+        "comment": ""
+    },
+    {
+        "literal name": "fern green",
+        "r": 84,
+        "g": 141,
+        "b": 68,
+        "comment": ""
+    },
+    {
+        "literal name": "bright lilac",
+        "r": 201,
+        "g": 94,
+        "b": 251,
+        "comment": ""
+    },
+    {
+        "literal name": "weird green",
+        "r": 58,
+        "g": 229,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "peacock blue",
+        "r": 1,
+        "g": 103,
+        "b": 149,
+        "comment": ""
+    },
+    {
+        "literal name": "avocado green",
+        "r": 135,
+        "g": 169,
+        "b": 34,
+        "comment": ""
+    },
+    {
+        "literal name": "faded orange",
+        "r": 240,
+        "g": 148,
+        "b": 77,
+        "comment": ""
+    },
+    {
+        "literal name": "grape purple",
+        "r": 93,
+        "g": 20,
+        "b": 81,
+        "comment": ""
+    },
+    {
+        "literal name": "hot green",
+        "r": 37,
+        "g": 255,
+        "b": 41,
+        "comment": ""
+    },
+    {
+        "literal name": "lime yellow",
+        "r": 208,
+        "g": 254,
+        "b": 29,
+        "comment": ""
+    },
+    {
+        "literal name": "mango",
+        "r": 255,
+        "g": 166,
+        "b": 43,
+        "comment": ""
+    },
+    {
+        "literal name": "shamrock",
+        "r": 1,
+        "g": 180,
+        "b": 76,
+        "comment": ""
+    },
+    {
+        "literal name": "bubblegum",
+        "r": 255,
+        "g": 108,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "purplish brown",
+        "r": 107,
+        "g": 66,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "vomit yellow",
+        "r": 199,
+        "g": 193,
+        "b": 12,
+        "comment": ""
+    },
+    {
+        "literal name": "pale cyan",
+        "r": 183,
+        "g": 255,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "key lime",
+        "r": 174,
+        "g": 255,
+        "b": 110,
+        "comment": ""
+    },
+    {
+        "literal name": "tomato red",
+        "r": 236,
+        "g": 45,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "lightgreen",
+        "r": 118,
+        "g": 255,
+        "b": 123,
+        "comment": ""
+    },
+    {
+        "literal name": "merlot",
+        "r": 115,
+        "g": 0,
+        "b": 57,
+        "comment": ""
+    },
+    {
+        "literal name": "night blue",
+        "r": 4,
+        "g": 3,
+        "b": 72,
+        "comment": ""
+    },
+    {
+        "literal name": "purpleish pink",
+        "r": 223,
+        "g": 78,
+        "b": 200,
+        "comment": ""
+    },
+    {
+        "literal name": "apple",
+        "r": 110,
+        "g": 203,
+        "b": 60,
+        "comment": ""
+    },
+    {
+        "literal name": "baby poop green",
+        "r": 143,
+        "g": 152,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "green apple",
+        "r": 94,
+        "g": 220,
+        "b": 31,
+        "comment": ""
+    },
+    {
+        "literal name": "heliotrope",
+        "r": 217,
+        "g": 79,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow/green",
+        "r": 200,
+        "g": 253,
+        "b": 61,
+        "comment": ""
+    },
+    {
+        "literal name": "almost black",
+        "r": 7,
+        "g": 13,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "cool blue",
+        "r": 73,
+        "g": 132,
+        "b": 184,
+        "comment": ""
+    },
+    {
+        "literal name": "leafy green",
+        "r": 81,
+        "g": 183,
+        "b": 59,
+        "comment": ""
+    },
+    {
+        "literal name": "mustard brown",
+        "r": 172,
+        "g": 126,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "dusk",
+        "r": 78,
+        "g": 84,
+        "b": 129,
+        "comment": ""
+    },
+    {
+        "literal name": "dull brown",
+        "r": 135,
+        "g": 110,
+        "b": 75,
+        "comment": ""
+    },
+    {
+        "literal name": "frog green",
+        "r": 88,
+        "g": 188,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "vivid green",
+        "r": 47,
+        "g": 239,
+        "b": 16,
+        "comment": ""
+    },
+    {
+        "literal name": "bright light green",
+        "r": 45,
+        "g": 254,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "fluro green",
+        "r": 10,
+        "g": 255,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "kiwi",
+        "r": 156,
+        "g": 239,
+        "b": 67,
+        "comment": ""
+    },
+    {
+        "literal name": "seaweed",
+        "r": 24,
+        "g": 209,
+        "b": 123,
+        "comment": ""
+    },
+    {
+        "literal name": "navy green",
+        "r": 53,
+        "g": 83,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "ultramarine blue",
+        "r": 24,
+        "g": 5,
+        "b": 219,
+        "comment": ""
+    },
+    {
+        "literal name": "iris",
+        "r": 98,
+        "g": 88,
+        "b": 196,
+        "comment": ""
+    },
+    {
+        "literal name": "pastel orange",
+        "r": 255,
+        "g": 150,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "yellowish orange",
+        "r": 255,
+        "g": 171,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "perrywinkle",
+        "r": 143,
+        "g": 140,
+        "b": 231,
+        "comment": ""
+    },
+    {
+        "literal name": "tealish",
+        "r": 36,
+        "g": 188,
+        "b": 168,
+        "comment": ""
+    },
+    {
+        "literal name": "dark plum",
+        "r": 63,
+        "g": 1,
+        "b": 44,
+        "comment": ""
+    },
+    {
+        "literal name": "pear",
+        "r": 203,
+        "g": 248,
+        "b": 95,
+        "comment": ""
+    },
+    {
+        "literal name": "pinkish orange",
+        "r": 255,
+        "g": 114,
+        "b": 76,
+        "comment": ""
+    },
+    {
+        "literal name": "midnight purple",
+        "r": 40,
+        "g": 1,
+        "b": 55,
+        "comment": ""
+    },
+    {
+        "literal name": "light urple",
+        "r": 179,
+        "g": 111,
+        "b": 246,
+        "comment": ""
+    },
+    {
+        "literal name": "dark mint",
+        "r": 72,
+        "g": 192,
+        "b": 114,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish tan",
+        "r": 188,
+        "g": 203,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "light burgundy",
+        "r": 168,
+        "g": 65,
+        "b": 91,
+        "comment": ""
+    },
+    {
+        "literal name": "turquoise blue",
+        "r": 6,
+        "g": 177,
+        "b": 196,
+        "comment": ""
+    },
+    {
+        "literal name": "ugly pink",
+        "r": 205,
+        "g": 117,
+        "b": 132,
+        "comment": ""
+    },
+    {
+        "literal name": "sandy",
+        "r": 241,
+        "g": 218,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "electric pink",
+        "r": 255,
+        "g": 4,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "muted purple",
+        "r": 128,
+        "g": 91,
+        "b": 135,
+        "comment": ""
+    },
+    {
+        "literal name": "mid green",
+        "r": 80,
+        "g": 167,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "greyish",
+        "r": 168,
+        "g": 164,
+        "b": 149,
+        "comment": ""
+    },
+    {
+        "literal name": "neon yellow",
+        "r": 207,
+        "g": 255,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "banana",
+        "r": 255,
+        "g": 255,
+        "b": 126,
+        "comment": ""
+    },
+    {
+        "literal name": "carnation pink",
+        "r": 255,
+        "g": 127,
+        "b": 167,
+        "comment": ""
+    },
+    {
+        "literal name": "tomato",
+        "r": 239,
+        "g": 64,
+        "b": 38,
+        "comment": ""
+    },
+    {
+        "literal name": "sea",
+        "r": 60,
+        "g": 153,
+        "b": 146,
+        "comment": ""
+    },
+    {
+        "literal name": "muddy brown",
+        "r": 136,
+        "g": 104,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "turquoise green",
+        "r": 4,
+        "g": 244,
+        "b": 137,
+        "comment": ""
+    },
+    {
+        "literal name": "buff",
+        "r": 254,
+        "g": 246,
+        "b": 158,
+        "comment": ""
+    },
+    {
+        "literal name": "fawn",
+        "r": 207,
+        "g": 175,
+        "b": 123,
+        "comment": ""
+    },
+    {
+        "literal name": "muted blue",
+        "r": 59,
+        "g": 113,
+        "b": 159,
+        "comment": ""
+    },
+    {
+        "literal name": "pale rose",
+        "r": 253,
+        "g": 193,
+        "b": 197,
+        "comment": ""
+    },
+    {
+        "literal name": "dark mint green",
+        "r": 32,
+        "g": 192,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "amethyst",
+        "r": 155,
+        "g": 95,
+        "b": 192,
+        "comment": ""
+    },
+    {
+        "literal name": "blue/green",
+        "r": 15,
+        "g": 155,
+        "b": 142,
+        "comment": ""
+    },
+    {
+        "literal name": "chestnut",
+        "r": 116,
+        "g": 40,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "sick green",
+        "r": 157,
+        "g": 185,
+        "b": 44,
+        "comment": ""
+    },
+    {
+        "literal name": "pea",
+        "r": 164,
+        "g": 191,
+        "b": 32,
+        "comment": ""
+    },
+    {
+        "literal name": "rusty orange",
+        "r": 205,
+        "g": 89,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "stone",
+        "r": 173,
+        "g": 165,
+        "b": 135,
+        "comment": ""
+    },
+    {
+        "literal name": "rose red",
+        "r": 190,
+        "g": 1,
+        "b": 60,
+        "comment": ""
+    },
+    {
+        "literal name": "pale aqua",
+        "r": 184,
+        "g": 255,
+        "b": 235,
+        "comment": ""
+    },
+    {
+        "literal name": "deep orange",
+        "r": 220,
+        "g": 77,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "earth",
+        "r": 162,
+        "g": 101,
+        "b": 62,
+        "comment": ""
+    },
+    {
+        "literal name": "mossy green",
+        "r": 99,
+        "g": 139,
+        "b": 39,
+        "comment": ""
+    },
+    {
+        "literal name": "grassy green",
+        "r": 65,
+        "g": 156,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "pale lime green",
+        "r": 177,
+        "g": 255,
+        "b": 101,
+        "comment": ""
+    },
+    {
+        "literal name": "light grey blue",
+        "r": 157,
+        "g": 188,
+        "b": 212,
+        "comment": ""
+    },
+    {
+        "literal name": "pale grey",
+        "r": 253,
+        "g": 253,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "asparagus",
+        "r": 119,
+        "g": 171,
+        "b": 86,
+        "comment": ""
+    },
+    {
+        "literal name": "blueberry",
+        "r": 70,
+        "g": 65,
+        "b": 150,
+        "comment": ""
+    },
+    {
+        "literal name": "purple red",
+        "r": 153,
+        "g": 1,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "pale lime",
+        "r": 190,
+        "g": 253,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish teal",
+        "r": 50,
+        "g": 191,
+        "b": 132,
+        "comment": ""
+    },
+    {
+        "literal name": "caramel",
+        "r": 175,
+        "g": 111,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "deep magenta",
+        "r": 160,
+        "g": 2,
+        "b": 92,
+        "comment": ""
+    },
+    {
+        "literal name": "light peach",
+        "r": 255,
+        "g": 216,
+        "b": 177,
+        "comment": ""
+    },
+    {
+        "literal name": "milk chocolate",
+        "r": 127,
+        "g": 78,
+        "b": 30,
+        "comment": ""
+    },
+    {
+        "literal name": "ocher",
+        "r": 191,
+        "g": 155,
+        "b": 12,
+        "comment": ""
+    },
+    {
+        "literal name": "off green",
+        "r": 107,
+        "g": 163,
+        "b": 83,
+        "comment": ""
+    },
+    {
+        "literal name": "purply pink",
+        "r": 240,
+        "g": 117,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "lightblue",
+        "r": 123,
+        "g": 200,
+        "b": 246,
+        "comment": ""
+    },
+    {
+        "literal name": "dusky blue",
+        "r": 71,
+        "g": 95,
+        "b": 148,
+        "comment": ""
+    },
+    {
+        "literal name": "golden",
+        "r": 245,
+        "g": 191,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "light beige",
+        "r": 255,
+        "g": 254,
+        "b": 182,
+        "comment": ""
+    },
+    {
+        "literal name": "butter yellow",
+        "r": 255,
+        "g": 253,
+        "b": 116,
+        "comment": ""
+    },
+    {
+        "literal name": "dusky purple",
+        "r": 137,
+        "g": 91,
+        "b": 123,
+        "comment": ""
+    },
+    {
+        "literal name": "french blue",
+        "r": 67,
+        "g": 107,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "ugly yellow",
+        "r": 208,
+        "g": 193,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "greeny yellow",
+        "r": 198,
+        "g": 248,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "orangish red",
+        "r": 244,
+        "g": 54,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "shamrock green",
+        "r": 2,
+        "g": 193,
+        "b": 77,
+        "comment": ""
+    },
+    {
+        "literal name": "orangish brown",
+        "r": 178,
+        "g": 95,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "tree green",
+        "r": 42,
+        "g": 126,
+        "b": 25,
+        "comment": ""
+    },
+    {
+        "literal name": "deep violet",
+        "r": 73,
+        "g": 6,
+        "b": 72,
+        "comment": ""
+    },
+    {
+        "literal name": "gunmetal",
+        "r": 83,
+        "g": 98,
+        "b": 103,
+        "comment": ""
+    },
+    {
+        "literal name": "blue/purple",
+        "r": 90,
+        "g": 6,
+        "b": 239,
+        "comment": ""
+    },
+    {
+        "literal name": "cherry",
+        "r": 207,
+        "g": 2,
+        "b": 52,
+        "comment": ""
+    },
+    {
+        "literal name": "sandy brown",
+        "r": 196,
+        "g": 166,
+        "b": 97,
+        "comment": ""
+    },
+    {
+        "literal name": "warm grey",
+        "r": 151,
+        "g": 138,
+        "b": 132,
+        "comment": ""
+    },
+    {
+        "literal name": "dark indigo",
+        "r": 31,
+        "g": 9,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "midnight",
+        "r": 3,
+        "g": 1,
+        "b": 45,
+        "comment": ""
+    },
+    {
+        "literal name": "bluey green",
+        "r": 43,
+        "g": 177,
+        "b": 121,
+        "comment": ""
+    },
+    {
+        "literal name": "grey pink",
+        "r": 195,
+        "g": 144,
+        "b": 155,
+        "comment": ""
+    },
+    {
+        "literal name": "soft purple",
+        "r": 166,
+        "g": 111,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "blood",
+        "r": 119,
+        "g": 0,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "brown red",
+        "r": 146,
+        "g": 43,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "medium grey",
+        "r": 125,
+        "g": 127,
+        "b": 124,
+        "comment": ""
+    },
+    {
+        "literal name": "berry",
+        "r": 153,
+        "g": 15,
+        "b": 75,
+        "comment": ""
+    },
+    {
+        "literal name": "poo",
+        "r": 143,
+        "g": 115,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "purpley pink",
+        "r": 200,
+        "g": 60,
+        "b": 185,
+        "comment": ""
+    },
+    {
+        "literal name": "light salmon",
+        "r": 254,
+        "g": 169,
+        "b": 147,
+        "comment": ""
+    },
+    {
+        "literal name": "snot",
+        "r": 172,
+        "g": 187,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "easter purple",
+        "r": 192,
+        "g": 113,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "light yellow green",
+        "r": 204,
+        "g": 253,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "dark navy blue",
+        "r": 0,
+        "g": 2,
+        "b": 46,
+        "comment": ""
+    },
+    {
+        "literal name": "drab",
+        "r": 130,
+        "g": 131,
+        "b": 68,
+        "comment": ""
+    },
+    {
+        "literal name": "light rose",
+        "r": 255,
+        "g": 197,
+        "b": 203,
+        "comment": ""
+    },
+    {
+        "literal name": "rouge",
+        "r": 171,
+        "g": 18,
+        "b": 57,
+        "comment": ""
+    },
+    {
+        "literal name": "purplish red",
+        "r": 176,
+        "g": 5,
+        "b": 75,
+        "comment": ""
+    },
+    {
+        "literal name": "slime green",
+        "r": 153,
+        "g": 204,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "baby poop",
+        "r": 147,
+        "g": 124,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "irish green",
+        "r": 1,
+        "g": 149,
+        "b": 41,
+        "comment": ""
+    },
+    {
+        "literal name": "pink/purple",
+        "r": 239,
+        "g": 29,
+        "b": 231,
+        "comment": ""
+    },
+    {
+        "literal name": "dark navy",
+        "r": 0,
+        "g": 4,
+        "b": 53,
+        "comment": ""
+    },
+    {
+        "literal name": "greeny blue",
+        "r": 66,
+        "g": 179,
+        "b": 149,
+        "comment": ""
+    },
+    {
+        "literal name": "light plum",
+        "r": 157,
+        "g": 87,
+        "b": 131,
+        "comment": ""
+    },
+    {
+        "literal name": "pinkish grey",
+        "r": 200,
+        "g": 172,
+        "b": 169,
+        "comment": ""
+    },
+    {
+        "literal name": "dirty orange",
+        "r": 200,
+        "g": 118,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "rust red",
+        "r": 170,
+        "g": 39,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "pale lilac",
+        "r": 228,
+        "g": 203,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "orangey red",
+        "r": 250,
+        "g": 66,
+        "b": 36,
+        "comment": ""
+    },
+    {
+        "literal name": "primary blue",
+        "r": 8,
+        "g": 4,
+        "b": 249,
+        "comment": ""
+    },
+    {
+        "literal name": "kermit green",
+        "r": 92,
+        "g": 178,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "brownish purple",
+        "r": 118,
+        "g": 66,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "murky green",
+        "r": 108,
+        "g": 122,
+        "b": 14,
+        "comment": ""
+    },
+    {
+        "literal name": "wheat",
+        "r": 251,
+        "g": 221,
+        "b": 126,
+        "comment": ""
+    },
+    {
+        "literal name": "very dark purple",
+        "r": 42,
+        "g": 1,
+        "b": 52,
+        "comment": ""
+    },
+    {
+        "literal name": "bottle green",
+        "r": 4,
+        "g": 74,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "watermelon",
+        "r": 253,
+        "g": 70,
+        "b": 89,
+        "comment": ""
+    },
+    {
+        "literal name": "deep sky blue",
+        "r": 13,
+        "g": 117,
+        "b": 248,
+        "comment": ""
+    },
+    {
+        "literal name": "fire engine red",
+        "r": 254,
+        "g": 0,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow ochre",
+        "r": 203,
+        "g": 157,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "pumpkin orange",
+        "r": 251,
+        "g": 125,
+        "b": 7,
+        "comment": ""
+    },
+    {
+        "literal name": "pale olive",
+        "r": 185,
+        "g": 204,
+        "b": 129,
+        "comment": ""
+    },
+    {
+        "literal name": "light lilac",
+        "r": 237,
+        "g": 200,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "lightish green",
+        "r": 97,
+        "g": 225,
+        "b": 96,
+        "comment": ""
+    },
+    {
+        "literal name": "carolina blue",
+        "r": 138,
+        "g": 184,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "mulberry",
+        "r": 146,
+        "g": 10,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "shocking pink",
+        "r": 254,
+        "g": 2,
+        "b": 162,
+        "comment": ""
+    },
+    {
+        "literal name": "auburn",
+        "r": 154,
+        "g": 48,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "bright lime green",
+        "r": 101,
+        "g": 254,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "celadon",
+        "r": 190,
+        "g": 253,
+        "b": 183,
+        "comment": ""
+    },
+    {
+        "literal name": "pinkish brown",
+        "r": 177,
+        "g": 114,
+        "b": 97,
+        "comment": ""
+    },
+    {
+        "literal name": "poo brown",
+        "r": 136,
+        "g": 95,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "bright sky blue",
+        "r": 2,
+        "g": 204,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "celery",
+        "r": 193,
+        "g": 253,
+        "b": 149,
+        "comment": ""
+    },
+    {
+        "literal name": "dirt brown",
+        "r": 131,
+        "g": 101,
+        "b": 57,
+        "comment": ""
+    },
+    {
+        "literal name": "strawberry",
+        "r": 251,
+        "g": 41,
+        "b": 67,
+        "comment": ""
+    },
+    {
+        "literal name": "dark lime",
+        "r": 132,
+        "g": 183,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "copper",
+        "r": 182,
+        "g": 99,
+        "b": 37,
+        "comment": ""
+    },
+    {
+        "literal name": "medium brown",
+        "r": 127,
+        "g": 81,
+        "b": 18,
+        "comment": ""
+    },
+    {
+        "literal name": "muted green",
+        "r": 95,
+        "g": 160,
+        "b": 82,
+        "comment": ""
+    },
+    {
+        "literal name": "robin's egg",
+        "r": 109,
+        "g": 237,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "bright aqua",
+        "r": 11,
+        "g": 249,
+        "b": 234,
+        "comment": ""
+    },
+    {
+        "literal name": "bright lavender",
+        "r": 199,
+        "g": 96,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "ivory",
+        "r": 255,
+        "g": 255,
+        "b": 203,
+        "comment": ""
+    },
+    {
+        "literal name": "very light purple",
+        "r": 246,
+        "g": 206,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "light navy",
+        "r": 21,
+        "g": 80,
+        "b": 132,
+        "comment": ""
+    },
+    {
+        "literal name": "pink red",
+        "r": 245,
+        "g": 5,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "olive brown",
+        "r": 100,
+        "g": 84,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "poop brown",
+        "r": 122,
+        "g": 89,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "mustard green",
+        "r": 168,
+        "g": 181,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "ocean green",
+        "r": 61,
+        "g": 153,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "very dark blue",
+        "r": 0,
+        "g": 1,
+        "b": 51,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty green",
+        "r": 118,
+        "g": 169,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "light navy blue",
+        "r": 46,
+        "g": 90,
+        "b": 136,
+        "comment": ""
+    },
+    {
+        "literal name": "minty green",
+        "r": 11,
+        "g": 247,
+        "b": 125,
+        "comment": ""
+    },
+    {
+        "literal name": "adobe",
+        "r": 189,
+        "g": 108,
+        "b": 72,
+        "comment": ""
+    },
+    {
+        "literal name": "barney",
+        "r": 172,
+        "g": 29,
+        "b": 184,
+        "comment": ""
+    },
+    {
+        "literal name": "jade green",
+        "r": 43,
+        "g": 175,
+        "b": 106,
+        "comment": ""
+    },
+    {
+        "literal name": "bright light blue",
+        "r": 38,
+        "g": 247,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "light lime",
+        "r": 174,
+        "g": 253,
+        "b": 108,
+        "comment": ""
+    },
+    {
+        "literal name": "dark khaki",
+        "r": 155,
+        "g": 143,
+        "b": 85,
+        "comment": ""
+    },
+    {
+        "literal name": "orange yellow",
+        "r": 255,
+        "g": 173,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "ocre",
+        "r": 198,
+        "g": 156,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "maize",
+        "r": 244,
+        "g": 208,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "faded pink",
+        "r": 222,
+        "g": 157,
+        "b": 172,
+        "comment": ""
+    },
+    {
+        "literal name": "british racing green",
+        "r": 5,
+        "g": 72,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "sandstone",
+        "r": 201,
+        "g": 174,
+        "b": 116,
+        "comment": ""
+    },
+    {
+        "literal name": "mud brown",
+        "r": 96,
+        "g": 70,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "light sea green",
+        "r": 152,
+        "g": 246,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "robin egg blue",
+        "r": 138,
+        "g": 241,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "aqua marine",
+        "r": 46,
+        "g": 232,
+        "b": 187,
+        "comment": ""
+    },
+    {
+        "literal name": "dark sea green",
+        "r": 17,
+        "g": 135,
+        "b": 93,
+        "comment": ""
+    },
+    {
+        "literal name": "soft pink",
+        "r": 253,
+        "g": 176,
+        "b": 192,
+        "comment": ""
+    },
+    {
+        "literal name": "orangey brown",
+        "r": 177,
+        "g": 96,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "cherry red",
+        "r": 247,
+        "g": 2,
+        "b": 42,
+        "comment": ""
+    },
+    {
+        "literal name": "burnt yellow",
+        "r": 213,
+        "g": 171,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "brownish grey",
+        "r": 134,
+        "g": 119,
+        "b": 95,
+        "comment": ""
+    },
+    {
+        "literal name": "camel",
+        "r": 198,
+        "g": 159,
+        "b": 89,
+        "comment": ""
+    },
+    {
+        "literal name": "purplish grey",
+        "r": 122,
+        "g": 104,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "marine",
+        "r": 4,
+        "g": 46,
+        "b": 96,
+        "comment": ""
+    },
+    {
+        "literal name": "greyish pink",
+        "r": 200,
+        "g": 141,
+        "b": 148,
+        "comment": ""
+    },
+    {
+        "literal name": "pale turquoise",
+        "r": 165,
+        "g": 251,
+        "b": 213,
+        "comment": ""
+    },
+    {
+        "literal name": "pastel yellow",
+        "r": 255,
+        "g": 254,
+        "b": 113,
+        "comment": ""
+    },
+    {
+        "literal name": "bluey purple",
+        "r": 98,
+        "g": 65,
+        "b": 199,
+        "comment": ""
+    },
+    {
+        "literal name": "canary yellow",
+        "r": 255,
+        "g": 254,
+        "b": 64,
+        "comment": ""
+    },
+    {
+        "literal name": "faded red",
+        "r": 211,
+        "g": 73,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "sepia",
+        "r": 152,
+        "g": 94,
+        "b": 43,
+        "comment": ""
+    },
+    {
+        "literal name": "coffee",
+        "r": 166,
+        "g": 129,
+        "b": 76,
+        "comment": ""
+    },
+    {
+        "literal name": "bright magenta",
+        "r": 255,
+        "g": 8,
+        "b": 232,
+        "comment": ""
+    },
+    {
+        "literal name": "mocha",
+        "r": 157,
+        "g": 118,
+        "b": 81,
+        "comment": ""
+    },
+    {
+        "literal name": "ecru",
+        "r": 254,
+        "g": 255,
+        "b": 202,
+        "comment": ""
+    },
+    {
+        "literal name": "purpleish",
+        "r": 152,
+        "g": 86,
+        "b": 141,
+        "comment": ""
+    },
+    {
+        "literal name": "cranberry",
+        "r": 158,
+        "g": 0,
+        "b": 58,
+        "comment": ""
+    },
+    {
+        "literal name": "darkish green",
+        "r": 40,
+        "g": 124,
+        "b": 55,
+        "comment": ""
+    },
+    {
+        "literal name": "brown orange",
+        "r": 185,
+        "g": 105,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "dusky rose",
+        "r": 186,
+        "g": 104,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "melon",
+        "r": 255,
+        "g": 120,
+        "b": 85,
+        "comment": ""
+    },
+    {
+        "literal name": "sickly green",
+        "r": 148,
+        "g": 178,
+        "b": 28,
+        "comment": ""
+    },
+    {
+        "literal name": "silver",
+        "r": 197,
+        "g": 201,
+        "b": 199,
+        "comment": ""
+    },
+    {
+        "literal name": "purply blue",
+        "r": 102,
+        "g": 26,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "purpleish blue",
+        "r": 97,
+        "g": 64,
+        "b": 239,
+        "comment": ""
+    },
+    {
+        "literal name": "hospital green",
+        "r": 155,
+        "g": 229,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "shit brown",
+        "r": 123,
+        "g": 88,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "mid blue",
+        "r": 39,
+        "g": 106,
+        "b": 179,
+        "comment": ""
+    },
+    {
+        "literal name": "amber",
+        "r": 254,
+        "g": 179,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "easter green",
+        "r": 140,
+        "g": 253,
+        "b": 126,
+        "comment": ""
+    },
+    {
+        "literal name": "soft blue",
+        "r": 100,
+        "g": 136,
+        "b": 234,
+        "comment": ""
+    },
+    {
+        "literal name": "cerulean blue",
+        "r": 5,
+        "g": 110,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "golden brown",
+        "r": 178,
+        "g": 122,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "bright turquoise",
+        "r": 15,
+        "g": 254,
+        "b": 249,
+        "comment": ""
+    },
+    {
+        "literal name": "red pink",
+        "r": 250,
+        "g": 42,
+        "b": 85,
+        "comment": ""
+    },
+    {
+        "literal name": "red purple",
+        "r": 130,
+        "g": 7,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "greyish brown",
+        "r": 122,
+        "g": 106,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "vermillion",
+        "r": 244,
+        "g": 50,
+        "b": 12,
+        "comment": ""
+    },
+    {
+        "literal name": "russet",
+        "r": 161,
+        "g": 57,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "steel grey",
+        "r": 111,
+        "g": 130,
+        "b": 138,
+        "comment": ""
+    },
+    {
+        "literal name": "lighter purple",
+        "r": 165,
+        "g": 90,
+        "b": 244,
+        "comment": ""
+    },
+    {
+        "literal name": "bright violet",
+        "r": 173,
+        "g": 10,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "prussian blue",
+        "r": 0,
+        "g": 69,
+        "b": 119,
+        "comment": ""
+    },
+    {
+        "literal name": "slate green",
+        "r": 101,
+        "g": 141,
+        "b": 109,
+        "comment": ""
+    },
+    {
+        "literal name": "dirty pink",
+        "r": 202,
+        "g": 123,
+        "b": 128,
+        "comment": ""
+    },
+    {
+        "literal name": "dark blue green",
+        "r": 0,
+        "g": 82,
+        "b": 73,
+        "comment": ""
+    },
+    {
+        "literal name": "pine",
+        "r": 43,
+        "g": 93,
+        "b": 52,
+        "comment": ""
+    },
+    {
+        "literal name": "yellowy green",
+        "r": 191,
+        "g": 241,
+        "b": 40,
+        "comment": ""
+    },
+    {
+        "literal name": "dark gold",
+        "r": 181,
+        "g": 148,
+        "b": 16,
+        "comment": ""
+    },
+    {
+        "literal name": "bluish",
+        "r": 41,
+        "g": 118,
+        "b": 187,
+        "comment": ""
+    },
+    {
+        "literal name": "darkish blue",
+        "r": 1,
+        "g": 65,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "dull red",
+        "r": 187,
+        "g": 63,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "pinky red",
+        "r": 252,
+        "g": 38,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "bronze",
+        "r": 168,
+        "g": 121,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "pale teal",
+        "r": 130,
+        "g": 203,
+        "b": 178,
+        "comment": ""
+    },
+    {
+        "literal name": "military green",
+        "r": 102,
+        "g": 124,
+        "b": 62,
+        "comment": ""
+    },
+    {
+        "literal name": "barbie pink",
+        "r": 254,
+        "g": 70,
+        "b": 165,
+        "comment": ""
+    },
+    {
+        "literal name": "bubblegum pink",
+        "r": 254,
+        "g": 131,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "pea soup green",
+        "r": 148,
+        "g": 166,
+        "b": 23,
+        "comment": ""
+    },
+    {
+        "literal name": "dark mustard",
+        "r": 168,
+        "g": 137,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "shit",
+        "r": 127,
+        "g": 95,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "medium purple",
+        "r": 158,
+        "g": 67,
+        "b": 162,
+        "comment": ""
+    },
+    {
+        "literal name": "very dark green",
+        "r": 6,
+        "g": 46,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "dirt",
+        "r": 138,
+        "g": 110,
+        "b": 69,
+        "comment": ""
+    },
+    {
+        "literal name": "dusky pink",
+        "r": 204,
+        "g": 122,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "red violet",
+        "r": 158,
+        "g": 1,
+        "b": 104,
+        "comment": ""
+    },
+    {
+        "literal name": "lemon yellow",
+        "r": 253,
+        "g": 255,
+        "b": 56,
+        "comment": ""
+    },
+    {
+        "literal name": "pistachio",
+        "r": 192,
+        "g": 250,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "dull yellow",
+        "r": 238,
+        "g": 220,
+        "b": 91,
+        "comment": ""
+    },
+    {
+        "literal name": "dark lime green",
+        "r": 126,
+        "g": 189,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "denim blue",
+        "r": 59,
+        "g": 91,
+        "b": 146,
+        "comment": ""
+    },
+    {
+        "literal name": "teal blue",
+        "r": 1,
+        "g": 136,
+        "b": 159,
+        "comment": ""
+    },
+    {
+        "literal name": "lightish blue",
+        "r": 61,
+        "g": 122,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "purpley blue",
+        "r": 95,
+        "g": 52,
+        "b": 231,
+        "comment": ""
+    },
+    {
+        "literal name": "light indigo",
+        "r": 109,
+        "g": 90,
+        "b": 207,
+        "comment": ""
+    },
+    {
+        "literal name": "swamp green",
+        "r": 116,
+        "g": 133,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "brown green",
+        "r": 112,
+        "g": 108,
+        "b": 17,
+        "comment": ""
+    },
+    {
+        "literal name": "dark maroon",
+        "r": 60,
+        "g": 0,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "hot purple",
+        "r": 203,
+        "g": 0,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "dark forest green",
+        "r": 0,
+        "g": 45,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "faded blue",
+        "r": 101,
+        "g": 140,
+        "b": 187,
+        "comment": ""
+    },
+    {
+        "literal name": "drab green",
+        "r": 116,
+        "g": 149,
+        "b": 81,
+        "comment": ""
+    },
+    {
+        "literal name": "light lime green",
+        "r": 185,
+        "g": 255,
+        "b": 102,
+        "comment": ""
+    },
+    {
+        "literal name": "snot green",
+        "r": 157,
+        "g": 193,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "yellowish",
+        "r": 250,
+        "g": 238,
+        "b": 102,
+        "comment": ""
+    },
+    {
+        "literal name": "light blue green",
+        "r": 126,
+        "g": 251,
+        "b": 179,
+        "comment": ""
+    },
+    {
+        "literal name": "bordeaux",
+        "r": 123,
+        "g": 0,
+        "b": 44,
+        "comment": ""
+    },
+    {
+        "literal name": "light mauve",
+        "r": 194,
+        "g": 146,
+        "b": 161,
+        "comment": ""
+    },
+    {
+        "literal name": "ocean",
+        "r": 1,
+        "g": 123,
+        "b": 146,
+        "comment": ""
+    },
+    {
+        "literal name": "marigold",
+        "r": 252,
+        "g": 192,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "muddy green",
+        "r": 101,
+        "g": 116,
+        "b": 50,
+        "comment": ""
+    },
+    {
+        "literal name": "dull orange",
+        "r": 216,
+        "g": 134,
+        "b": 59,
+        "comment": ""
+    },
+    {
+        "literal name": "steel",
+        "r": 115,
+        "g": 133,
+        "b": 149,
+        "comment": ""
+    },
+    {
+        "literal name": "electric purple",
+        "r": 170,
+        "g": 35,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "fluorescent green",
+        "r": 8,
+        "g": 255,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "yellowish brown",
+        "r": 155,
+        "g": 122,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "blush",
+        "r": 242,
+        "g": 158,
+        "b": 142,
+        "comment": ""
+    },
+    {
+        "literal name": "soft green",
+        "r": 111,
+        "g": 194,
+        "b": 118,
+        "comment": ""
+    },
+    {
+        "literal name": "bright orange",
+        "r": 255,
+        "g": 91,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "lemon",
+        "r": 253,
+        "g": 255,
+        "b": 82,
+        "comment": ""
+    },
+    {
+        "literal name": "purple grey",
+        "r": 134,
+        "g": 111,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "acid green",
+        "r": 143,
+        "g": 254,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "pale lavender",
+        "r": 238,
+        "g": 207,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "violet blue",
+        "r": 81,
+        "g": 10,
+        "b": 201,
+        "comment": ""
+    },
+    {
+        "literal name": "light forest green",
+        "r": 79,
+        "g": 145,
+        "b": 83,
+        "comment": ""
+    },
+    {
+        "literal name": "burnt red",
+        "r": 159,
+        "g": 35,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "khaki green",
+        "r": 114,
+        "g": 134,
+        "b": 57,
+        "comment": ""
+    },
+    {
+        "literal name": "cerise",
+        "r": 222,
+        "g": 12,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "faded purple",
+        "r": 145,
+        "g": 110,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "apricot",
+        "r": 255,
+        "g": 177,
+        "b": 109,
+        "comment": ""
+    },
+    {
+        "literal name": "dark olive green",
+        "r": 60,
+        "g": 77,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "grey brown",
+        "r": 127,
+        "g": 112,
+        "b": 83,
+        "comment": ""
+    },
+    {
+        "literal name": "green grey",
+        "r": 119,
+        "g": 146,
+        "b": 111,
+        "comment": ""
+    },
+    {
+        "literal name": "true blue",
+        "r": 1,
+        "g": 15,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "pale violet",
+        "r": 206,
+        "g": 174,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "periwinkle blue",
+        "r": 143,
+        "g": 153,
+        "b": 251,
+        "comment": ""
+    },
+    {
+        "literal name": "light sky blue",
+        "r": 198,
+        "g": 252,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "blurple",
+        "r": 85,
+        "g": 57,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "green brown",
+        "r": 84,
+        "g": 78,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "bluegreen",
+        "r": 1,
+        "g": 122,
+        "b": 121,
+        "comment": ""
+    },
+    {
+        "literal name": "bright teal",
+        "r": 1,
+        "g": 249,
+        "b": 198,
+        "comment": ""
+    },
+    {
+        "literal name": "brownish yellow",
+        "r": 201,
+        "g": 176,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "pea soup",
+        "r": 146,
+        "g": 153,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "forest",
+        "r": 11,
+        "g": 85,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "barney purple",
+        "r": 160,
+        "g": 4,
+        "b": 152,
+        "comment": ""
+    },
+    {
+        "literal name": "ultramarine",
+        "r": 32,
+        "g": 0,
+        "b": 177,
+        "comment": ""
+    },
+    {
+        "literal name": "purplish",
+        "r": 148,
+        "g": 86,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "puke yellow",
+        "r": 194,
+        "g": 190,
+        "b": 14,
+        "comment": ""
+    },
+    {
+        "literal name": "bluish grey",
+        "r": 116,
+        "g": 139,
+        "b": 151,
+        "comment": ""
+    },
+    {
+        "literal name": "dark periwinkle",
+        "r": 102,
+        "g": 95,
+        "b": 209,
+        "comment": ""
+    },
+    {
+        "literal name": "dark lilac",
+        "r": 156,
+        "g": 109,
+        "b": 165,
+        "comment": ""
+    },
+    {
+        "literal name": "reddish",
+        "r": 196,
+        "g": 66,
+        "b": 64,
+        "comment": ""
+    },
+    {
+        "literal name": "light maroon",
+        "r": 162,
+        "g": 72,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty purple",
+        "r": 130,
+        "g": 95,
+        "b": 135,
+        "comment": ""
+    },
+    {
+        "literal name": "terra cotta",
+        "r": 201,
+        "g": 100,
+        "b": 59,
+        "comment": ""
+    },
+    {
+        "literal name": "avocado",
+        "r": 144,
+        "g": 177,
+        "b": 52,
+        "comment": ""
+    },
+    {
+        "literal name": "marine blue",
+        "r": 1,
+        "g": 56,
+        "b": 106,
+        "comment": ""
+    },
+    {
+        "literal name": "teal green",
+        "r": 37,
+        "g": 163,
+        "b": 111,
+        "comment": ""
+    },
+    {
+        "literal name": "slate grey",
+        "r": 89,
+        "g": 101,
+        "b": 109,
+        "comment": ""
+    },
+    {
+        "literal name": "lighter green",
+        "r": 117,
+        "g": 253,
+        "b": 99,
+        "comment": ""
+    },
+    {
+        "literal name": "electric green",
+        "r": 33,
+        "g": 252,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty blue",
+        "r": 90,
+        "g": 134,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "golden yellow",
+        "r": 254,
+        "g": 198,
+        "b": 21,
+        "comment": ""
+    },
+    {
+        "literal name": "bright yellow",
+        "r": 255,
+        "g": 253,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "light lavender",
+        "r": 223,
+        "g": 197,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "umber",
+        "r": 178,
+        "g": 100,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "poop",
+        "r": 127,
+        "g": 94,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "dark peach",
+        "r": 222,
+        "g": 126,
+        "b": 93,
+        "comment": ""
+    },
+    {
+        "literal name": "jungle green",
+        "r": 4,
+        "g": 130,
+        "b": 67,
+        "comment": ""
+    },
+    {
+        "literal name": "eggshell",
+        "r": 255,
+        "g": 255,
+        "b": 212,
+        "comment": ""
+    },
+    {
+        "literal name": "denim",
+        "r": 59,
+        "g": 99,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow brown",
+        "r": 183,
+        "g": 148,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "dull purple",
+        "r": 132,
+        "g": 89,
+        "b": 126,
+        "comment": ""
+    },
+    {
+        "literal name": "chocolate brown",
+        "r": 65,
+        "g": 25,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "wine red",
+        "r": 123,
+        "g": 3,
+        "b": 35,
+        "comment": ""
+    },
+    {
+        "literal name": "neon blue",
+        "r": 4,
+        "g": 217,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "dirty green",
+        "r": 102,
+        "g": 126,
+        "b": 44,
+        "comment": ""
+    },
+    {
+        "literal name": "light tan",
+        "r": 251,
+        "g": 238,
+        "b": 172,
+        "comment": ""
+    },
+    {
+        "literal name": "ice blue",
+        "r": 215,
+        "g": 255,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "cadet blue",
+        "r": 78,
+        "g": 116,
+        "b": 150,
+        "comment": ""
+    },
+    {
+        "literal name": "dark mauve",
+        "r": 135,
+        "g": 76,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "very light blue",
+        "r": 213,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "grey purple",
+        "r": 130,
+        "g": 109,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "pastel pink",
+        "r": 255,
+        "g": 186,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "very light green",
+        "r": 209,
+        "g": 255,
+        "b": 189,
+        "comment": ""
+    },
+    {
+        "literal name": "dark sky blue",
+        "r": 68,
+        "g": 142,
+        "b": 228,
+        "comment": ""
+    },
+    {
+        "literal name": "evergreen",
+        "r": 5,
+        "g": 71,
+        "b": 42,
+        "comment": ""
+    },
+    {
+        "literal name": "dull pink",
+        "r": 213,
+        "g": 134,
+        "b": 157,
+        "comment": ""
+    },
+    {
+        "literal name": "aubergine",
+        "r": 61,
+        "g": 7,
+        "b": 52,
+        "comment": ""
+    },
+    {
+        "literal name": "mahogany",
+        "r": 74,
+        "g": 1,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "reddish orange",
+        "r": 248,
+        "g": 72,
+        "b": 28,
+        "comment": ""
+    },
+    {
+        "literal name": "deep green",
+        "r": 2,
+        "g": 89,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "vomit green",
+        "r": 137,
+        "g": 162,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "purple pink",
+        "r": 224,
+        "g": 63,
+        "b": 216,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty pink",
+        "r": 213,
+        "g": 138,
+        "b": 148,
+        "comment": ""
+    },
+    {
+        "literal name": "faded green",
+        "r": 123,
+        "g": 178,
+        "b": 116,
+        "comment": ""
+    },
+    {
+        "literal name": "camo green",
+        "r": 82,
+        "g": 101,
+        "b": 37,
+        "comment": ""
+    },
+    {
+        "literal name": "pinky purple",
+        "r": 201,
+        "g": 76,
+        "b": 190,
+        "comment": ""
+    },
+    {
+        "literal name": "pink purple",
+        "r": 219,
+        "g": 75,
+        "b": 218,
+        "comment": ""
+    },
+    {
+        "literal name": "brownish red",
+        "r": 158,
+        "g": 54,
+        "b": 35,
+        "comment": ""
+    },
+    {
+        "literal name": "dark rose",
+        "r": 181,
+        "g": 72,
+        "b": 93,
+        "comment": ""
+    },
+    {
+        "literal name": "mud",
+        "r": 115,
+        "g": 92,
+        "b": 18,
+        "comment": ""
+    },
+    {
+        "literal name": "brownish",
+        "r": 156,
+        "g": 109,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "emerald green",
+        "r": 2,
+        "g": 143,
+        "b": 30,
+        "comment": ""
+    },
+    {
+        "literal name": "pale brown",
+        "r": 177,
+        "g": 145,
+        "b": 110,
+        "comment": ""
+    },
+    {
+        "literal name": "dull blue",
+        "r": 73,
+        "g": 117,
+        "b": 156,
+        "comment": ""
+    },
+    {
+        "literal name": "burnt umber",
+        "r": 160,
+        "g": 69,
+        "b": 14,
+        "comment": ""
+    },
+    {
+        "literal name": "medium green",
+        "r": 57,
+        "g": 173,
+        "b": 72,
+        "comment": ""
+    },
+    {
+        "literal name": "clay",
+        "r": 182,
+        "g": 106,
+        "b": 80,
+        "comment": ""
+    },
+    {
+        "literal name": "light aqua",
+        "r": 140,
+        "g": 255,
+        "b": 219,
+        "comment": ""
+    },
+    {
+        "literal name": "light olive green",
+        "r": 164,
+        "g": 190,
+        "b": 92,
+        "comment": ""
+    },
+    {
+        "literal name": "brownish orange",
+        "r": 203,
+        "g": 119,
+        "b": 35,
+        "comment": ""
+    },
+    {
+        "literal name": "dark aqua",
+        "r": 5,
+        "g": 105,
+        "b": 107,
+        "comment": ""
+    },
+    {
+        "literal name": "purplish pink",
+        "r": 206,
+        "g": 93,
+        "b": 174,
+        "comment": ""
+    },
+    {
+        "literal name": "dark salmon",
+        "r": 200,
+        "g": 90,
+        "b": 83,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish grey",
+        "r": 150,
+        "g": 174,
+        "b": 141,
+        "comment": ""
+    },
+    {
+        "literal name": "jade",
+        "r": 31,
+        "g": 167,
+        "b": 116,
+        "comment": ""
+    },
+    {
+        "literal name": "ugly green",
+        "r": 122,
+        "g": 151,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "dark beige",
+        "r": 172,
+        "g": 147,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "emerald",
+        "r": 1,
+        "g": 160,
+        "b": 73,
+        "comment": ""
+    },
+    {
+        "literal name": "pale red",
+        "r": 217,
+        "g": 84,
+        "b": 77,
+        "comment": ""
+    },
+    {
+        "literal name": "light magenta",
+        "r": 250,
+        "g": 95,
+        "b": 247,
+        "comment": ""
+    },
+    {
+        "literal name": "sky",
+        "r": 130,
+        "g": 202,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "light cyan",
+        "r": 172,
+        "g": 255,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow orange",
+        "r": 252,
+        "g": 176,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "reddish purple",
+        "r": 145,
+        "g": 9,
+        "b": 81,
+        "comment": ""
+    },
+    {
+        "literal name": "reddish pink",
+        "r": 254,
+        "g": 44,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "orchid",
+        "r": 200,
+        "g": 117,
+        "b": 196,
+        "comment": ""
+    },
+    {
+        "literal name": "dirty yellow",
+        "r": 205,
+        "g": 197,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "orange red",
+        "r": 253,
+        "g": 65,
+        "b": 30,
+        "comment": ""
+    },
+    {
+        "literal name": "deep red",
+        "r": 154,
+        "g": 2,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "orange brown",
+        "r": 190,
+        "g": 100,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "cobalt blue",
+        "r": 3,
+        "g": 10,
+        "b": 167,
+        "comment": ""
+    },
+    {
+        "literal name": "neon pink",
+        "r": 254,
+        "g": 1,
+        "b": 154,
+        "comment": ""
+    },
+    {
+        "literal name": "rose pink",
+        "r": 247,
+        "g": 135,
+        "b": 154,
+        "comment": ""
+    },
+    {
+        "literal name": "greyish purple",
+        "r": 136,
+        "g": 113,
+        "b": 145,
+        "comment": ""
+    },
+    {
+        "literal name": "raspberry",
+        "r": 176,
+        "g": 1,
+        "b": 73,
+        "comment": ""
+    },
+    {
+        "literal name": "aqua green",
+        "r": 18,
+        "g": 225,
+        "b": 147,
+        "comment": ""
+    },
+    {
+        "literal name": "salmon pink",
+        "r": 254,
+        "g": 123,
+        "b": 124,
+        "comment": ""
+    },
+    {
+        "literal name": "tangerine",
+        "r": 255,
+        "g": 148,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "brownish green",
+        "r": 106,
+        "g": 110,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "red brown",
+        "r": 139,
+        "g": 46,
+        "b": 22,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish brown",
+        "r": 105,
+        "g": 97,
+        "b": 18,
+        "comment": ""
+    },
+    {
+        "literal name": "pumpkin",
+        "r": 225,
+        "g": 119,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "pine green",
+        "r": 10,
+        "g": 72,
+        "b": 30,
+        "comment": ""
+    },
+    {
+        "literal name": "charcoal",
+        "r": 52,
+        "g": 56,
+        "b": 55,
+        "comment": ""
+    },
+    {
+        "literal name": "baby pink",
+        "r": 255,
+        "g": 183,
+        "b": 206,
+        "comment": ""
+    },
+    {
+        "literal name": "cornflower",
+        "r": 106,
+        "g": 121,
+        "b": 247,
+        "comment": ""
+    },
+    {
+        "literal name": "blue violet",
+        "r": 93,
+        "g": 6,
+        "b": 233,
+        "comment": ""
+    },
+    {
+        "literal name": "chocolate",
+        "r": 61,
+        "g": 28,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "greyish green",
+        "r": 130,
+        "g": 166,
+        "b": 125,
+        "comment": ""
+    },
+    {
+        "literal name": "scarlet",
+        "r": 190,
+        "g": 1,
+        "b": 25,
+        "comment": ""
+    },
+    {
+        "literal name": "green yellow",
+        "r": 201,
+        "g": 255,
+        "b": 39,
+        "comment": ""
+    },
+    {
+        "literal name": "dark olive",
+        "r": 55,
+        "g": 62,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "sienna",
+        "r": 169,
+        "g": 86,
+        "b": 30,
+        "comment": ""
+    },
+    {
+        "literal name": "pastel purple",
+        "r": 202,
+        "g": 160,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "terracotta",
+        "r": 202,
+        "g": 102,
+        "b": 65,
+        "comment": ""
+    },
+    {
+        "literal name": "aqua blue",
+        "r": 2,
+        "g": 216,
+        "b": 233,
+        "comment": ""
+    },
+    {
+        "literal name": "sage green",
+        "r": 136,
+        "g": 179,
+        "b": 120,
+        "comment": ""
+    },
+    {
+        "literal name": "blood red",
+        "r": 152,
+        "g": 0,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "deep pink",
+        "r": 203,
+        "g": 1,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "grass",
+        "r": 92,
+        "g": 172,
+        "b": 45,
+        "comment": ""
+    },
+    {
+        "literal name": "moss",
+        "r": 118,
+        "g": 153,
+        "b": 88,
+        "comment": ""
+    },
+    {
+        "literal name": "pastel blue",
+        "r": 162,
+        "g": 191,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "bluish green",
+        "r": 16,
+        "g": 166,
+        "b": 116,
+        "comment": ""
+    },
+    {
+        "literal name": "green blue",
+        "r": 6,
+        "g": 180,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "dark tan",
+        "r": 175,
+        "g": 136,
+        "b": 74,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish blue",
+        "r": 11,
+        "g": 139,
+        "b": 135,
+        "comment": ""
+    },
+    {
+        "literal name": "pale orange",
+        "r": 255,
+        "g": 167,
+        "b": 86,
+        "comment": ""
+    },
+    {
+        "literal name": "vomit",
+        "r": 162,
+        "g": 164,
+        "b": 21,
+        "comment": ""
+    },
+    {
+        "literal name": "forrest green",
+        "r": 21,
+        "g": 68,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "dark lavender",
+        "r": 133,
+        "g": 103,
+        "b": 152,
+        "comment": ""
+    },
+    {
+        "literal name": "dark violet",
+        "r": 52,
+        "g": 1,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "purple blue",
+        "r": 99,
+        "g": 45,
+        "b": 233,
+        "comment": ""
+    },
+    {
+        "literal name": "dark cyan",
+        "r": 10,
+        "g": 136,
+        "b": 138,
+        "comment": ""
+    },
+    {
+        "literal name": "olive drab",
+        "r": 111,
+        "g": 118,
+        "b": 50,
+        "comment": ""
+    },
+    {
+        "literal name": "pinkish",
+        "r": 212,
+        "g": 106,
+        "b": 126,
+        "comment": ""
+    },
+    {
+        "literal name": "cobalt",
+        "r": 30,
+        "g": 72,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "neon purple",
+        "r": 188,
+        "g": 19,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "light turquoise",
+        "r": 126,
+        "g": 244,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "apple green",
+        "r": 118,
+        "g": 205,
+        "b": 38,
+        "comment": ""
+    },
+    {
+        "literal name": "dull green",
+        "r": 116,
+        "g": 166,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "wine",
+        "r": 128,
+        "g": 1,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "powder blue",
+        "r": 177,
+        "g": 209,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "off white",
+        "r": 255,
+        "g": 255,
+        "b": 228,
+        "comment": ""
+    },
+    {
+        "literal name": "electric blue",
+        "r": 6,
+        "g": 82,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "dark turquoise",
+        "r": 4,
+        "g": 92,
+        "b": 90,
+        "comment": ""
+    },
+    {
+        "literal name": "blue purple",
+        "r": 87,
+        "g": 41,
+        "b": 206,
+        "comment": ""
+    },
+    {
+        "literal name": "azure",
+        "r": 6,
+        "g": 154,
+        "b": 243,
+        "comment": ""
+    },
+    {
+        "literal name": "bright red",
+        "r": 255,
+        "g": 0,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "pinkish red",
+        "r": 241,
+        "g": 12,
+        "b": 69,
+        "comment": ""
+    },
+    {
+        "literal name": "cornflower blue",
+        "r": 81,
+        "g": 112,
+        "b": 215,
+        "comment": ""
+    },
+    {
+        "literal name": "light olive",
+        "r": 172,
+        "g": 191,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "grape",
+        "r": 108,
+        "g": 52,
+        "b": 97,
+        "comment": ""
+    },
+    {
+        "literal name": "greyish blue",
+        "r": 94,
+        "g": 129,
+        "b": 157,
+        "comment": ""
+    },
+    {
+        "literal name": "purplish blue",
+        "r": 96,
+        "g": 30,
+        "b": 249,
+        "comment": ""
+    },
+    {
+        "literal name": "yellowish green",
+        "r": 176,
+        "g": 221,
+        "b": 22,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish yellow",
+        "r": 205,
+        "g": 253,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "medium blue",
+        "r": 44,
+        "g": 111,
+        "b": 187,
+        "comment": ""
+    },
+    {
+        "literal name": "dusty rose",
+        "r": 192,
+        "g": 115,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "light violet",
+        "r": 214,
+        "g": 180,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "midnight blue",
+        "r": 2,
+        "g": 0,
+        "b": 53,
+        "comment": ""
+    },
+    {
+        "literal name": "bluish purple",
+        "r": 112,
+        "g": 59,
+        "b": 231,
+        "comment": ""
+    },
+    {
+        "literal name": "red orange",
+        "r": 253,
+        "g": 60,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "dark magenta",
+        "r": 150,
+        "g": 0,
+        "b": 86,
+        "comment": ""
+    },
+    {
+        "literal name": "greenish",
+        "r": 64,
+        "g": 163,
+        "b": 104,
+        "comment": ""
+    },
+    {
+        "literal name": "ocean blue",
+        "r": 3,
+        "g": 113,
+        "b": 156,
+        "comment": ""
+    },
+    {
+        "literal name": "coral",
+        "r": 252,
+        "g": 90,
+        "b": 80,
+        "comment": ""
+    },
+    {
+        "literal name": "cream",
+        "r": 255,
+        "g": 255,
+        "b": 194,
+        "comment": ""
+    },
+    {
+        "literal name": "reddish brown",
+        "r": 127,
+        "g": 43,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "burnt sienna",
+        "r": 176,
+        "g": 78,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "brick",
+        "r": 160,
+        "g": 54,
+        "b": 35,
+        "comment": ""
+    },
+    {
+        "literal name": "sage",
+        "r": 135,
+        "g": 174,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "grey green",
+        "r": 120,
+        "g": 155,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "white",
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "robin's egg blue",
+        "r": 152,
+        "g": 239,
+        "b": 249,
+        "comment": ""
+    },
+    {
+        "literal name": "moss green",
+        "r": 101,
+        "g": 139,
+        "b": 56,
+        "comment": ""
+    },
+    {
+        "literal name": "steel blue",
+        "r": 90,
+        "g": 125,
+        "b": 154,
+        "comment": ""
+    },
+    {
+        "literal name": "eggplant",
+        "r": 56,
+        "g": 8,
+        "b": 53,
+        "comment": ""
+    },
+    {
+        "literal name": "light yellow",
+        "r": 255,
+        "g": 254,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "leaf green",
+        "r": 92,
+        "g": 169,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "light grey",
+        "r": 216,
+        "g": 220,
+        "b": 214,
+        "comment": ""
+    },
+    {
+        "literal name": "puke",
+        "r": 165,
+        "g": 165,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "pinkish purple",
+        "r": 214,
+        "g": 72,
+        "b": 215,
+        "comment": ""
+    },
+    {
+        "literal name": "sea blue",
+        "r": 4,
+        "g": 116,
+        "b": 149,
+        "comment": ""
+    },
+    {
+        "literal name": "pale purple",
+        "r": 183,
+        "g": 144,
+        "b": 212,
+        "comment": ""
+    },
+    {
+        "literal name": "slate blue",
+        "r": 91,
+        "g": 124,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "blue grey",
+        "r": 96,
+        "g": 124,
+        "b": 142,
+        "comment": ""
+    },
+    {
+        "literal name": "hunter green",
+        "r": 11,
+        "g": 64,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "fuchsia",
+        "r": 237,
+        "g": 13,
+        "b": 217,
+        "comment": ""
+    },
+    {
+        "literal name": "crimson",
+        "r": 140,
+        "g": 0,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "pale yellow",
+        "r": 255,
+        "g": 255,
+        "b": 132,
+        "comment": ""
+    },
+    {
+        "literal name": "ochre",
+        "r": 191,
+        "g": 144,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "mustard yellow",
+        "r": 210,
+        "g": 189,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "light red",
+        "r": 255,
+        "g": 71,
+        "b": 76,
+        "comment": ""
+    },
+    {
+        "literal name": "cerulean",
+        "r": 4,
+        "g": 133,
+        "b": 209,
+        "comment": ""
+    },
+    {
+        "literal name": "pale pink",
+        "r": 255,
+        "g": 207,
+        "b": 220,
+        "comment": ""
+    },
+    {
+        "literal name": "deep blue",
+        "r": 4,
+        "g": 2,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "rust",
+        "r": 168,
+        "g": 60,
+        "b": 9,
+        "comment": ""
+    },
+    {
+        "literal name": "light teal",
+        "r": 144,
+        "g": 228,
+        "b": 193,
+        "comment": ""
+    },
+    {
+        "literal name": "slate",
+        "r": 81,
+        "g": 101,
+        "b": 114,
+        "comment": ""
+    },
+    {
+        "literal name": "goldenrod",
+        "r": 250,
+        "g": 194,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "dark yellow",
+        "r": 213,
+        "g": 182,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "dark grey",
+        "r": 54,
+        "g": 55,
+        "b": 55,
+        "comment": ""
+    },
+    {
+        "literal name": "army green",
+        "r": 75,
+        "g": 93,
+        "b": 22,
+        "comment": ""
+    },
+    {
+        "literal name": "grey blue",
+        "r": 107,
+        "g": 139,
+        "b": 164,
+        "comment": ""
+    },
+    {
+        "literal name": "seafoam",
+        "r": 128,
+        "g": 249,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "puce",
+        "r": 165,
+        "g": 126,
+        "b": 82,
+        "comment": ""
+    },
+    {
+        "literal name": "spring green",
+        "r": 169,
+        "g": 249,
+        "b": 113,
+        "comment": ""
+    },
+    {
+        "literal name": "dark orange",
+        "r": 198,
+        "g": 81,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "sand",
+        "r": 226,
+        "g": 202,
+        "b": 118,
+        "comment": ""
+    },
+    {
+        "literal name": "pastel green",
+        "r": 176,
+        "g": 255,
+        "b": 157,
+        "comment": ""
+    },
+    {
+        "literal name": "mint",
+        "r": 159,
+        "g": 254,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "light orange",
+        "r": 253,
+        "g": 170,
+        "b": 72,
+        "comment": ""
+    },
+    {
+        "literal name": "bright pink",
+        "r": 254,
+        "g": 1,
+        "b": 177,
+        "comment": ""
+    },
+    {
+        "literal name": "chartreuse",
+        "r": 193,
+        "g": 248,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "deep purple",
+        "r": 54,
+        "g": 1,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "dark brown",
+        "r": 52,
+        "g": 28,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "taupe",
+        "r": 185,
+        "g": 162,
+        "b": 129,
+        "comment": ""
+    },
+    {
+        "literal name": "pea green",
+        "r": 142,
+        "g": 171,
+        "b": 18,
+        "comment": ""
+    },
+    {
+        "literal name": "puke green",
+        "r": 154,
+        "g": 174,
+        "b": 7,
+        "comment": ""
+    },
+    {
+        "literal name": "kelly green",
+        "r": 2,
+        "g": 171,
+        "b": 46,
+        "comment": ""
+    },
+    {
+        "literal name": "seafoam green",
+        "r": 122,
+        "g": 249,
+        "b": 171,
+        "comment": ""
+    },
+    {
+        "literal name": "blue green",
+        "r": 19,
+        "g": 126,
+        "b": 109,
+        "comment": ""
+    },
+    {
+        "literal name": "khaki",
+        "r": 170,
+        "g": 166,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "burgundy",
+        "r": 97,
+        "g": 0,
+        "b": 35,
+        "comment": ""
+    },
+    {
+        "literal name": "dark teal",
+        "r": 1,
+        "g": 77,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "brick red",
+        "r": 143,
+        "g": 20,
+        "b": 2,
+        "comment": ""
+    },
+    {
+        "literal name": "royal purple",
+        "r": 75,
+        "g": 0,
+        "b": 110,
+        "comment": ""
+    },
+    {
+        "literal name": "plum",
+        "r": 88,
+        "g": 15,
+        "b": 65,
+        "comment": ""
+    },
+    {
+        "literal name": "mint green",
+        "r": 143,
+        "g": 255,
+        "b": 159,
+        "comment": ""
+    },
+    {
+        "literal name": "gold",
+        "r": 219,
+        "g": 180,
+        "b": 12,
+        "comment": ""
+    },
+    {
+        "literal name": "baby blue",
+        "r": 162,
+        "g": 207,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow green",
+        "r": 192,
+        "g": 251,
+        "b": 45,
+        "comment": ""
+    },
+    {
+        "literal name": "bright purple",
+        "r": 190,
+        "g": 3,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "dark red",
+        "r": 132,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "pale blue",
+        "r": 208,
+        "g": 254,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "grass green",
+        "r": 63,
+        "g": 155,
+        "b": 11,
+        "comment": ""
+    },
+    {
+        "literal name": "navy",
+        "r": 1,
+        "g": 21,
+        "b": 62,
+        "comment": ""
+    },
+    {
+        "literal name": "aquamarine",
+        "r": 4,
+        "g": 216,
+        "b": 178,
+        "comment": ""
+    },
+    {
+        "literal name": "burnt orange",
+        "r": 192,
+        "g": 78,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "neon green",
+        "r": 12,
+        "g": 255,
+        "b": 12,
+        "comment": ""
+    },
+    {
+        "literal name": "bright blue",
+        "r": 1,
+        "g": 101,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "rose",
+        "r": 207,
+        "g": 98,
+        "b": 117,
+        "comment": ""
+    },
+    {
+        "literal name": "light pink",
+        "r": 255,
+        "g": 209,
+        "b": 223,
+        "comment": ""
+    },
+    {
+        "literal name": "mustard",
+        "r": 206,
+        "g": 179,
+        "b": 1,
+        "comment": ""
+    },
+    {
+        "literal name": "indigo",
+        "r": 56,
+        "g": 2,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "lime",
+        "r": 170,
+        "g": 255,
+        "b": 50,
+        "comment": ""
+    },
+    {
+        "literal name": "sea green",
+        "r": 83,
+        "g": 252,
+        "b": 161,
+        "comment": ""
+    },
+    {
+        "literal name": "periwinkle",
+        "r": 142,
+        "g": 130,
+        "b": 254,
+        "comment": ""
+    },
+    {
+        "literal name": "dark pink",
+        "r": 203,
+        "g": 65,
+        "b": 107,
+        "comment": ""
+    },
+    {
+        "literal name": "olive green",
+        "r": 103,
+        "g": 122,
+        "b": 4,
+        "comment": ""
+    },
+    {
+        "literal name": "peach",
+        "r": 255,
+        "g": 176,
+        "b": 124,
+        "comment": ""
+    },
+    {
+        "literal name": "pale green",
+        "r": 199,
+        "g": 253,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "light brown",
+        "r": 173,
+        "g": 129,
+        "b": 80,
+        "comment": ""
+    },
+    {
+        "literal name": "hot pink",
+        "r": 255,
+        "g": 2,
+        "b": 141,
+        "comment": ""
+    },
+    {
+        "literal name": "black",
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "lilac",
+        "r": 206,
+        "g": 162,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "navy blue",
+        "r": 0,
+        "g": 17,
+        "b": 70,
+        "comment": ""
+    },
+    {
+        "literal name": "royal blue",
+        "r": 5,
+        "g": 4,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "beige",
+        "r": 230,
+        "g": 218,
+        "b": 166,
+        "comment": ""
+    },
+    {
+        "literal name": "salmon",
+        "r": 255,
+        "g": 121,
+        "b": 108,
+        "comment": ""
+    },
+    {
+        "literal name": "olive",
+        "r": 110,
+        "g": 117,
+        "b": 14,
+        "comment": ""
+    },
+    {
+        "literal name": "maroon",
+        "r": 101,
+        "g": 0,
+        "b": 33,
+        "comment": ""
+    },
+    {
+        "literal name": "bright green",
+        "r": 1,
+        "g": 255,
+        "b": 7,
+        "comment": ""
+    },
+    {
+        "literal name": "dark purple",
+        "r": 53,
+        "g": 6,
+        "b": 62,
+        "comment": ""
+    },
+    {
+        "literal name": "mauve",
+        "r": 174,
+        "g": 113,
+        "b": 129,
+        "comment": ""
+    },
+    {
+        "literal name": "forest green",
+        "r": 6,
+        "g": 71,
+        "b": 12,
+        "comment": ""
+    },
+    {
+        "literal name": "aqua",
+        "r": 19,
+        "g": 234,
+        "b": 201,
+        "comment": ""
+    },
+    {
+        "literal name": "cyan",
+        "r": 0,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "tan",
+        "r": 209,
+        "g": 178,
+        "b": 111,
+        "comment": ""
+    },
+    {
+        "literal name": "dark blue",
+        "r": 0,
+        "g": 3,
+        "b": 91,
+        "comment": ""
+    },
+    {
+        "literal name": "lavender",
+        "r": 199,
+        "g": 159,
+        "b": 239,
+        "comment": ""
+    },
+    {
+        "literal name": "turquoise",
+        "r": 6,
+        "g": 194,
+        "b": 172,
+        "comment": ""
+    },
+    {
+        "literal name": "dark green",
+        "r": 3,
+        "g": 53,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "violet",
+        "r": 154,
+        "g": 14,
+        "b": 234,
+        "comment": ""
+    },
+    {
+        "literal name": "light purple",
+        "r": 191,
+        "g": 119,
+        "b": 246,
+        "comment": ""
+    },
+    {
+        "literal name": "lime green",
+        "r": 137,
+        "g": 254,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "grey",
+        "r": 146,
+        "g": 149,
+        "b": 145,
+        "comment": ""
+    },
+    {
+        "literal name": "sky blue",
+        "r": 117,
+        "g": 187,
+        "b": 253,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow",
+        "r": 255,
+        "g": 255,
+        "b": 20,
+        "comment": ""
+    },
+    {
+        "literal name": "magenta",
+        "r": 194,
+        "g": 0,
+        "b": 120,
+        "comment": ""
+    },
+    {
+        "literal name": "light green",
+        "r": 150,
+        "g": 249,
+        "b": 123,
+        "comment": ""
+    },
+    {
+        "literal name": "orange",
+        "r": 249,
+        "g": 115,
+        "b": 6,
+        "comment": ""
+    },
+    {
+        "literal name": "teal",
+        "r": 2,
+        "g": 147,
+        "b": 134,
+        "comment": ""
+    },
+    {
+        "literal name": "light blue",
+        "r": 149,
+        "g": 208,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "red",
+        "r": 229,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "brown",
+        "r": 101,
+        "g": 55,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "pink",
+        "r": 255,
+        "g": 129,
+        "b": 192,
+        "comment": ""
+    },
+    {
+        "literal name": "blue",
+        "r": 3,
+        "g": 67,
+        "b": 223,
+        "comment": ""
+    },
+    {
+        "literal name": "green",
+        "r": 21,
+        "g": 176,
+        "b": 26,
+        "comment": ""
+    },
+    {
+        "literal name": "purple",
+        "r": 126,
+        "g": 30,
+        "b": 156,
+        "comment": ""
+    }
+]
