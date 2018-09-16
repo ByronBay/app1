@@ -4,6 +4,7 @@ import caas
 folders = []
 files = []
  
+
 for entry in os.scandir('.'):
     
     if not entry.is_dir() :

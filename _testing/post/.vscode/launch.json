@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Flask",
-            "type": "pythonExperimental",
+            "type": "python",
             "request": "launch",
             "module": "flask",
             "env": {
