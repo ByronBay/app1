@@ -1,0 +1,5273 @@
+[
+    {
+        "literal name": "snow",
+        "r": 255,
+        "g": 250,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "ghost white",
+        "r": 248,
+        "g": 248,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "GhostWhite",
+        "r": 248,
+        "g": 248,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "white smoke",
+        "r": 245,
+        "g": 245,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "WhiteSmoke",
+        "r": 245,
+        "g": 245,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "gainsboro",
+        "r": 220,
+        "g": 220,
+        "b": 220,
+        "comment": ""
+    },
+    {
+        "literal name": "floral white",
+        "r": 255,
+        "g": 250,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "FloralWhite",
+        "r": 255,
+        "g": 250,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "old lace",
+        "r": 253,
+        "g": 245,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "OldLace",
+        "r": 253,
+        "g": 245,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "linen",
+        "r": 250,
+        "g": 240,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "antique white",
+        "r": 250,
+        "g": 235,
+        "b": 215,
+        "comment": ""
+    },
+    {
+        "literal name": "AntiqueWhite",
+        "r": 250,
+        "g": 235,
+        "b": 215,
+        "comment": ""
+    },
+    {
+        "literal name": "papaya whip",
+        "r": 255,
+        "g": 239,
+        "b": 213,
+        "comment": ""
+    },
+    {
+        "literal name": "PapayaWhip",
+        "r": 255,
+        "g": 239,
+        "b": 213,
+        "comment": ""
+    },
+    {
+        "literal name": "blanched almond",
+        "r": 255,
+        "g": 235,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "BlanchedAlmond",
+        "r": 255,
+        "g": 235,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "bisque",
+        "r": 255,
+        "g": 228,
+        "b": 196,
+        "comment": ""
+    },
+    {
+        "literal name": "peach puff",
+        "r": 255,
+        "g": 218,
+        "b": 185,
+        "comment": ""
+    },
+    {
+        "literal name": "PeachPuff",
+        "r": 255,
+        "g": 218,
+        "b": 185,
+        "comment": ""
+    },
+    {
+        "literal name": "navajo white",
+        "r": 255,
+        "g": 222,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "NavajoWhite",
+        "r": 255,
+        "g": 222,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "moccasin",
+        "r": 255,
+        "g": 228,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "cornsilk",
+        "r": 255,
+        "g": 248,
+        "b": 220,
+        "comment": ""
+    },
+    {
+        "literal name": "ivory",
+        "r": 255,
+        "g": 255,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "lemon chiffon",
+        "r": 255,
+        "g": 250,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "LemonChiffon",
+        "r": 255,
+        "g": 250,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "seashell",
+        "r": 255,
+        "g": 245,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "honeydew",
+        "r": 240,
+        "g": 255,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "mint cream",
+        "r": 245,
+        "g": 255,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "MintCream",
+        "r": 245,
+        "g": 255,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "azure",
+        "r": 240,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "alice blue",
+        "r": 240,
+        "g": 248,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "AliceBlue",
+        "r": 240,
+        "g": 248,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "lavender",
+        "r": 230,
+        "g": 230,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "lavender blush",
+        "r": 255,
+        "g": 240,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "LavenderBlush",
+        "r": 255,
+        "g": 240,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "misty rose",
+        "r": 255,
+        "g": 228,
+        "b": 225,
+        "comment": ""
+    },
+    {
+        "literal name": "MistyRose",
+        "r": 255,
+        "g": 228,
+        "b": 225,
+        "comment": ""
+    },
+    {
+        "literal name": "white",
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "black",
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "dark slate gray",
+        "r": 47,
+        "g": 79,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSlateGray",
+        "r": 47,
+        "g": 79,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "dark slate grey",
+        "r": 47,
+        "g": 79,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSlateGrey",
+        "r": 47,
+        "g": 79,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "dim gray",
+        "r": 105,
+        "g": 105,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "DimGray",
+        "r": 105,
+        "g": 105,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "dim grey",
+        "r": 105,
+        "g": 105,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "DimGrey",
+        "r": 105,
+        "g": 105,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "slate gray",
+        "r": 112,
+        "g": 128,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateGray",
+        "r": 112,
+        "g": 128,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "slate grey",
+        "r": 112,
+        "g": 128,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateGrey",
+        "r": 112,
+        "g": 128,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "light slate gray",
+        "r": 119,
+        "g": 136,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSlateGray",
+        "r": 119,
+        "g": 136,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "light slate grey",
+        "r": 119,
+        "g": 136,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSlateGrey",
+        "r": 119,
+        "g": 136,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "gray",
+        "r": 190,
+        "g": 190,
+        "b": 190,
+        "comment": ""
+    },
+    {
+        "literal name": "grey",
+        "r": 190,
+        "g": 190,
+        "b": 190,
+        "comment": ""
+    },
+    {
+        "literal name": "light grey",
+        "r": 211,
+        "g": 211,
+        "b": 211,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGrey",
+        "r": 211,
+        "g": 211,
+        "b": 211,
+        "comment": ""
+    },
+    {
+        "literal name": "light gray",
+        "r": 211,
+        "g": 211,
+        "b": 211,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGray",
+        "r": 211,
+        "g": 211,
+        "b": 211,
+        "comment": ""
+    },
+    {
+        "literal name": "midnight blue",
+        "r": 25,
+        "g": 25,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "MidnightBlue",
+        "r": 25,
+        "g": 25,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "navy",
+        "r": 0,
+        "g": 0,
+        "b": 128,
+        "comment": ""
+    },
+    {
+        "literal name": "navy blue",
+        "r": 0,
+        "g": 0,
+        "b": 128,
+        "comment": ""
+    },
+    {
+        "literal name": "NavyBlue",
+        "r": 0,
+        "g": 0,
+        "b": 128,
+        "comment": ""
+    },
+    {
+        "literal name": "cornflower blue",
+        "r": 100,
+        "g": 149,
+        "b": 237,
+        "comment": ""
+    },
+    {
+        "literal name": "CornflowerBlue",
+        "r": 100,
+        "g": 149,
+        "b": 237,
+        "comment": ""
+    },
+    {
+        "literal name": "dark slate blue",
+        "r": 72,
+        "g": 61,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSlateBlue",
+        "r": 72,
+        "g": 61,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "slate blue",
+        "r": 106,
+        "g": 90,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateBlue",
+        "r": 106,
+        "g": 90,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "medium slate blue",
+        "r": 123,
+        "g": 104,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumSlateBlue",
+        "r": 123,
+        "g": 104,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "light slate blue",
+        "r": 132,
+        "g": 112,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSlateBlue",
+        "r": 132,
+        "g": 112,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "medium blue",
+        "r": 0,
+        "g": 0,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumBlue",
+        "r": 0,
+        "g": 0,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "royal blue",
+        "r": 65,
+        "g": 105,
+        "b": 225,
+        "comment": ""
+    },
+    {
+        "literal name": "RoyalBlue",
+        "r": 65,
+        "g": 105,
+        "b": 225,
+        "comment": ""
+    },
+    {
+        "literal name": "blue",
+        "r": 0,
+        "g": 0,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "dodger blue",
+        "r": 30,
+        "g": 144,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "DodgerBlue",
+        "r": 30,
+        "g": 144,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "deep sky blue",
+        "r": 0,
+        "g": 191,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepSkyBlue",
+        "r": 0,
+        "g": 191,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "sky blue",
+        "r": 135,
+        "g": 206,
+        "b": 235,
+        "comment": ""
+    },
+    {
+        "literal name": "SkyBlue",
+        "r": 135,
+        "g": 206,
+        "b": 235,
+        "comment": ""
+    },
+    {
+        "literal name": "light sky blue",
+        "r": 135,
+        "g": 206,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSkyBlue",
+        "r": 135,
+        "g": 206,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "steel blue",
+        "r": 70,
+        "g": 130,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "SteelBlue",
+        "r": 70,
+        "g": 130,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "light steel blue",
+        "r": 176,
+        "g": 196,
+        "b": 222,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSteelBlue",
+        "r": 176,
+        "g": 196,
+        "b": 222,
+        "comment": ""
+    },
+    {
+        "literal name": "light blue",
+        "r": 173,
+        "g": 216,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "LightBlue",
+        "r": 173,
+        "g": 216,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "powder blue",
+        "r": 176,
+        "g": 224,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "PowderBlue",
+        "r": 176,
+        "g": 224,
+        "b": 230,
+        "comment": ""
+    },
+    {
+        "literal name": "pale turquoise",
+        "r": 175,
+        "g": 238,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleTurquoise",
+        "r": 175,
+        "g": 238,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "dark turquoise",
+        "r": 0,
+        "g": 206,
+        "b": 209,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkTurquoise",
+        "r": 0,
+        "g": 206,
+        "b": 209,
+        "comment": ""
+    },
+    {
+        "literal name": "medium turquoise",
+        "r": 72,
+        "g": 209,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumTurquoise",
+        "r": 72,
+        "g": 209,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "turquoise",
+        "r": 64,
+        "g": 224,
+        "b": 208,
+        "comment": ""
+    },
+    {
+        "literal name": "cyan",
+        "r": 0,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "light cyan",
+        "r": 224,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "LightCyan",
+        "r": 224,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "cadet blue",
+        "r": 95,
+        "g": 158,
+        "b": 160,
+        "comment": ""
+    },
+    {
+        "literal name": "CadetBlue",
+        "r": 95,
+        "g": 158,
+        "b": 160,
+        "comment": ""
+    },
+    {
+        "literal name": "medium aquamarine",
+        "r": 102,
+        "g": 205,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumAquamarine",
+        "r": 102,
+        "g": 205,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "aquamarine",
+        "r": 127,
+        "g": 255,
+        "b": 212,
+        "comment": ""
+    },
+    {
+        "literal name": "dark green",
+        "r": 0,
+        "g": 100,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkGreen",
+        "r": 0,
+        "g": 100,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "dark olive green",
+        "r": 85,
+        "g": 107,
+        "b": 47,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOliveGreen",
+        "r": 85,
+        "g": 107,
+        "b": 47,
+        "comment": ""
+    },
+    {
+        "literal name": "dark sea green",
+        "r": 143,
+        "g": 188,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSeaGreen",
+        "r": 143,
+        "g": 188,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "sea green",
+        "r": 46,
+        "g": 139,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "SeaGreen",
+        "r": 46,
+        "g": 139,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "medium sea green",
+        "r": 60,
+        "g": 179,
+        "b": 113,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumSeaGreen",
+        "r": 60,
+        "g": 179,
+        "b": 113,
+        "comment": ""
+    },
+    {
+        "literal name": "light sea green",
+        "r": 32,
+        "g": 178,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSeaGreen",
+        "r": 32,
+        "g": 178,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "pale green",
+        "r": 152,
+        "g": 251,
+        "b": 152,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleGreen",
+        "r": 152,
+        "g": 251,
+        "b": 152,
+        "comment": ""
+    },
+    {
+        "literal name": "spring green",
+        "r": 0,
+        "g": 255,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "SpringGreen",
+        "r": 0,
+        "g": 255,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "lawn green",
+        "r": 124,
+        "g": 252,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "LawnGreen",
+        "r": 124,
+        "g": 252,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "green",
+        "r": 0,
+        "g": 255,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "chartreuse",
+        "r": 127,
+        "g": 255,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "medium spring green",
+        "r": 0,
+        "g": 250,
+        "b": 154,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumSpringGreen",
+        "r": 0,
+        "g": 250,
+        "b": 154,
+        "comment": ""
+    },
+    {
+        "literal name": "green yellow",
+        "r": 173,
+        "g": 255,
+        "b": 47,
+        "comment": ""
+    },
+    {
+        "literal name": "GreenYellow",
+        "r": 173,
+        "g": 255,
+        "b": 47,
+        "comment": ""
+    },
+    {
+        "literal name": "lime green",
+        "r": 50,
+        "g": 205,
+        "b": 50,
+        "comment": ""
+    },
+    {
+        "literal name": "LimeGreen",
+        "r": 50,
+        "g": 205,
+        "b": 50,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow green",
+        "r": 154,
+        "g": 205,
+        "b": 50,
+        "comment": ""
+    },
+    {
+        "literal name": "YellowGreen",
+        "r": 154,
+        "g": 205,
+        "b": 50,
+        "comment": ""
+    },
+    {
+        "literal name": "forest green",
+        "r": 34,
+        "g": 139,
+        "b": 34,
+        "comment": ""
+    },
+    {
+        "literal name": "ForestGreen",
+        "r": 34,
+        "g": 139,
+        "b": 34,
+        "comment": ""
+    },
+    {
+        "literal name": "olive drab",
+        "r": 107,
+        "g": 142,
+        "b": 35,
+        "comment": ""
+    },
+    {
+        "literal name": "OliveDrab",
+        "r": 107,
+        "g": 142,
+        "b": 35,
+        "comment": ""
+    },
+    {
+        "literal name": "dark khaki",
+        "r": 189,
+        "g": 183,
+        "b": 107,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkKhaki",
+        "r": 189,
+        "g": 183,
+        "b": 107,
+        "comment": ""
+    },
+    {
+        "literal name": "khaki",
+        "r": 240,
+        "g": 230,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "pale goldenrod",
+        "r": 238,
+        "g": 232,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleGoldenrod",
+        "r": 238,
+        "g": 232,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "light goldenrod yellow",
+        "r": 250,
+        "g": 250,
+        "b": 210,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGoldenrodYellow",
+        "r": 250,
+        "g": 250,
+        "b": 210,
+        "comment": ""
+    },
+    {
+        "literal name": "light yellow",
+        "r": 255,
+        "g": 255,
+        "b": 224,
+        "comment": ""
+    },
+    {
+        "literal name": "LightYellow",
+        "r": 255,
+        "g": 255,
+        "b": 224,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow",
+        "r": 255,
+        "g": 255,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "gold",
+        "r": 255,
+        "g": 215,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "light goldenrod",
+        "r": 238,
+        "g": 221,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGoldenrod",
+        "r": 238,
+        "g": 221,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "goldenrod",
+        "r": 218,
+        "g": 165,
+        "b": 32,
+        "comment": ""
+    },
+    {
+        "literal name": "dark goldenrod",
+        "r": 184,
+        "g": 134,
+        "b": 11,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkGoldenrod",
+        "r": 184,
+        "g": 134,
+        "b": 11,
+        "comment": ""
+    },
+    {
+        "literal name": "rosy brown",
+        "r": 188,
+        "g": 143,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "RosyBrown",
+        "r": 188,
+        "g": 143,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "indian red",
+        "r": 205,
+        "g": 92,
+        "b": 92,
+        "comment": ""
+    },
+    {
+        "literal name": "IndianRed",
+        "r": 205,
+        "g": 92,
+        "b": 92,
+        "comment": ""
+    },
+    {
+        "literal name": "saddle brown",
+        "r": 139,
+        "g": 69,
+        "b": 19,
+        "comment": ""
+    },
+    {
+        "literal name": "SaddleBrown",
+        "r": 139,
+        "g": 69,
+        "b": 19,
+        "comment": ""
+    },
+    {
+        "literal name": "sienna",
+        "r": 160,
+        "g": 82,
+        "b": 45,
+        "comment": ""
+    },
+    {
+        "literal name": "peru",
+        "r": 205,
+        "g": 133,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "burlywood",
+        "r": 222,
+        "g": 184,
+        "b": 135,
+        "comment": ""
+    },
+    {
+        "literal name": "beige",
+        "r": 245,
+        "g": 245,
+        "b": 220,
+        "comment": ""
+    },
+    {
+        "literal name": "wheat",
+        "r": 245,
+        "g": 222,
+        "b": 179,
+        "comment": ""
+    },
+    {
+        "literal name": "sandy brown",
+        "r": 244,
+        "g": 164,
+        "b": 96,
+        "comment": ""
+    },
+    {
+        "literal name": "SandyBrown",
+        "r": 244,
+        "g": 164,
+        "b": 96,
+        "comment": ""
+    },
+    {
+        "literal name": "tan",
+        "r": 210,
+        "g": 180,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "chocolate",
+        "r": 210,
+        "g": 105,
+        "b": 30,
+        "comment": ""
+    },
+    {
+        "literal name": "firebrick",
+        "r": 178,
+        "g": 34,
+        "b": 34,
+        "comment": ""
+    },
+    {
+        "literal name": "brown",
+        "r": 165,
+        "g": 42,
+        "b": 42,
+        "comment": ""
+    },
+    {
+        "literal name": "dark salmon",
+        "r": 233,
+        "g": 150,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSalmon",
+        "r": 233,
+        "g": 150,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "salmon",
+        "r": 250,
+        "g": 128,
+        "b": 114,
+        "comment": ""
+    },
+    {
+        "literal name": "light salmon",
+        "r": 255,
+        "g": 160,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSalmon",
+        "r": 255,
+        "g": 160,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "orange",
+        "r": 255,
+        "g": 165,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "dark orange",
+        "r": 255,
+        "g": 140,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrange",
+        "r": 255,
+        "g": 140,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "coral",
+        "r": 255,
+        "g": 127,
+        "b": 80,
+        "comment": ""
+    },
+    {
+        "literal name": "light coral",
+        "r": 240,
+        "g": 128,
+        "b": 128,
+        "comment": ""
+    },
+    {
+        "literal name": "LightCoral",
+        "r": 240,
+        "g": 128,
+        "b": 128,
+        "comment": ""
+    },
+    {
+        "literal name": "tomato",
+        "r": 255,
+        "g": 99,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "orange red",
+        "r": 255,
+        "g": 69,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "OrangeRed",
+        "r": 255,
+        "g": 69,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "red",
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "hot pink",
+        "r": 255,
+        "g": 105,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "HotPink",
+        "r": 255,
+        "g": 105,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "deep pink",
+        "r": 255,
+        "g": 20,
+        "b": 147,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepPink",
+        "r": 255,
+        "g": 20,
+        "b": 147,
+        "comment": ""
+    },
+    {
+        "literal name": "pink",
+        "r": 255,
+        "g": 192,
+        "b": 203,
+        "comment": ""
+    },
+    {
+        "literal name": "light pink",
+        "r": 255,
+        "g": 182,
+        "b": 193,
+        "comment": ""
+    },
+    {
+        "literal name": "LightPink",
+        "r": 255,
+        "g": 182,
+        "b": 193,
+        "comment": ""
+    },
+    {
+        "literal name": "pale violet red",
+        "r": 219,
+        "g": 112,
+        "b": 147,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleVioletRed",
+        "r": 219,
+        "g": 112,
+        "b": 147,
+        "comment": ""
+    },
+    {
+        "literal name": "maroon",
+        "r": 176,
+        "g": 48,
+        "b": 96,
+        "comment": ""
+    },
+    {
+        "literal name": "medium violet red",
+        "r": 199,
+        "g": 21,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumVioletRed",
+        "r": 199,
+        "g": 21,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "violet red",
+        "r": 208,
+        "g": 32,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "VioletRed",
+        "r": 208,
+        "g": 32,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "magenta",
+        "r": 255,
+        "g": 0,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "violet",
+        "r": 238,
+        "g": 130,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "plum",
+        "r": 221,
+        "g": 160,
+        "b": 221,
+        "comment": ""
+    },
+    {
+        "literal name": "orchid",
+        "r": 218,
+        "g": 112,
+        "b": 214,
+        "comment": ""
+    },
+    {
+        "literal name": "medium orchid",
+        "r": 186,
+        "g": 85,
+        "b": 211,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumOrchid",
+        "r": 186,
+        "g": 85,
+        "b": 211,
+        "comment": ""
+    },
+    {
+        "literal name": "dark orchid",
+        "r": 153,
+        "g": 50,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrchid",
+        "r": 153,
+        "g": 50,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "dark violet",
+        "r": 148,
+        "g": 0,
+        "b": 211,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkViolet",
+        "r": 148,
+        "g": 0,
+        "b": 211,
+        "comment": ""
+    },
+    {
+        "literal name": "blue violet",
+        "r": 138,
+        "g": 43,
+        "b": 226,
+        "comment": ""
+    },
+    {
+        "literal name": "BlueViolet",
+        "r": 138,
+        "g": 43,
+        "b": 226,
+        "comment": ""
+    },
+    {
+        "literal name": "purple",
+        "r": 160,
+        "g": 32,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "medium purple",
+        "r": 147,
+        "g": 112,
+        "b": 219,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumPurple",
+        "r": 147,
+        "g": 112,
+        "b": 219,
+        "comment": ""
+    },
+    {
+        "literal name": "thistle",
+        "r": 216,
+        "g": 191,
+        "b": 216,
+        "comment": ""
+    },
+    {
+        "literal name": "snow1",
+        "r": 255,
+        "g": 250,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "snow2",
+        "r": 238,
+        "g": 233,
+        "b": 233,
+        "comment": ""
+    },
+    {
+        "literal name": "snow3",
+        "r": 205,
+        "g": 201,
+        "b": 201,
+        "comment": ""
+    },
+    {
+        "literal name": "snow4",
+        "r": 139,
+        "g": 137,
+        "b": 137,
+        "comment": ""
+    },
+    {
+        "literal name": "seashell1",
+        "r": 255,
+        "g": 245,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "seashell2",
+        "r": 238,
+        "g": 229,
+        "b": 222,
+        "comment": ""
+    },
+    {
+        "literal name": "seashell3",
+        "r": 205,
+        "g": 197,
+        "b": 191,
+        "comment": ""
+    },
+    {
+        "literal name": "seashell4",
+        "r": 139,
+        "g": 134,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "AntiqueWhite1",
+        "r": 255,
+        "g": 239,
+        "b": 219,
+        "comment": ""
+    },
+    {
+        "literal name": "AntiqueWhite2",
+        "r": 238,
+        "g": 223,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "AntiqueWhite3",
+        "r": 205,
+        "g": 192,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "AntiqueWhite4",
+        "r": 139,
+        "g": 131,
+        "b": 120,
+        "comment": ""
+    },
+    {
+        "literal name": "bisque1",
+        "r": 255,
+        "g": 228,
+        "b": 196,
+        "comment": ""
+    },
+    {
+        "literal name": "bisque2",
+        "r": 238,
+        "g": 213,
+        "b": 183,
+        "comment": ""
+    },
+    {
+        "literal name": "bisque3",
+        "r": 205,
+        "g": 183,
+        "b": 158,
+        "comment": ""
+    },
+    {
+        "literal name": "bisque4",
+        "r": 139,
+        "g": 125,
+        "b": 107,
+        "comment": ""
+    },
+    {
+        "literal name": "PeachPuff1",
+        "r": 255,
+        "g": 218,
+        "b": 185,
+        "comment": ""
+    },
+    {
+        "literal name": "PeachPuff2",
+        "r": 238,
+        "g": 203,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "PeachPuff3",
+        "r": 205,
+        "g": 175,
+        "b": 149,
+        "comment": ""
+    },
+    {
+        "literal name": "PeachPuff4",
+        "r": 139,
+        "g": 119,
+        "b": 101,
+        "comment": ""
+    },
+    {
+        "literal name": "NavajoWhite1",
+        "r": 255,
+        "g": 222,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "NavajoWhite2",
+        "r": 238,
+        "g": 207,
+        "b": 161,
+        "comment": ""
+    },
+    {
+        "literal name": "NavajoWhite3",
+        "r": 205,
+        "g": 179,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "NavajoWhite4",
+        "r": 139,
+        "g": 121,
+        "b": 94,
+        "comment": ""
+    },
+    {
+        "literal name": "LemonChiffon1",
+        "r": 255,
+        "g": 250,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "LemonChiffon2",
+        "r": 238,
+        "g": 233,
+        "b": 191,
+        "comment": ""
+    },
+    {
+        "literal name": "LemonChiffon3",
+        "r": 205,
+        "g": 201,
+        "b": 165,
+        "comment": ""
+    },
+    {
+        "literal name": "LemonChiffon4",
+        "r": 139,
+        "g": 137,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "cornsilk1",
+        "r": 255,
+        "g": 248,
+        "b": 220,
+        "comment": ""
+    },
+    {
+        "literal name": "cornsilk2",
+        "r": 238,
+        "g": 232,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "cornsilk3",
+        "r": 205,
+        "g": 200,
+        "b": 177,
+        "comment": ""
+    },
+    {
+        "literal name": "cornsilk4",
+        "r": 139,
+        "g": 136,
+        "b": 120,
+        "comment": ""
+    },
+    {
+        "literal name": "ivory1",
+        "r": 255,
+        "g": 255,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "ivory2",
+        "r": 238,
+        "g": 238,
+        "b": 224,
+        "comment": ""
+    },
+    {
+        "literal name": "ivory3",
+        "r": 205,
+        "g": 205,
+        "b": 193,
+        "comment": ""
+    },
+    {
+        "literal name": "ivory4",
+        "r": 139,
+        "g": 139,
+        "b": 131,
+        "comment": ""
+    },
+    {
+        "literal name": "honeydew1",
+        "r": 240,
+        "g": 255,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "honeydew2",
+        "r": 224,
+        "g": 238,
+        "b": 224,
+        "comment": ""
+    },
+    {
+        "literal name": "honeydew3",
+        "r": 193,
+        "g": 205,
+        "b": 193,
+        "comment": ""
+    },
+    {
+        "literal name": "honeydew4",
+        "r": 131,
+        "g": 139,
+        "b": 131,
+        "comment": ""
+    },
+    {
+        "literal name": "LavenderBlush1",
+        "r": 255,
+        "g": 240,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "LavenderBlush2",
+        "r": 238,
+        "g": 224,
+        "b": 229,
+        "comment": ""
+    },
+    {
+        "literal name": "LavenderBlush3",
+        "r": 205,
+        "g": 193,
+        "b": 197,
+        "comment": ""
+    },
+    {
+        "literal name": "LavenderBlush4",
+        "r": 139,
+        "g": 131,
+        "b": 134,
+        "comment": ""
+    },
+    {
+        "literal name": "MistyRose1",
+        "r": 255,
+        "g": 228,
+        "b": 225,
+        "comment": ""
+    },
+    {
+        "literal name": "MistyRose2",
+        "r": 238,
+        "g": 213,
+        "b": 210,
+        "comment": ""
+    },
+    {
+        "literal name": "MistyRose3",
+        "r": 205,
+        "g": 183,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "MistyRose4",
+        "r": 139,
+        "g": 125,
+        "b": 123,
+        "comment": ""
+    },
+    {
+        "literal name": "azure1",
+        "r": 240,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "azure2",
+        "r": 224,
+        "g": 238,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "azure3",
+        "r": 193,
+        "g": 205,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "azure4",
+        "r": 131,
+        "g": 139,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateBlue1",
+        "r": 131,
+        "g": 111,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateBlue2",
+        "r": 122,
+        "g": 103,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateBlue3",
+        "r": 105,
+        "g": 89,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateBlue4",
+        "r": 71,
+        "g": 60,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "RoyalBlue1",
+        "r": 72,
+        "g": 118,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "RoyalBlue2",
+        "r": 67,
+        "g": 110,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "RoyalBlue3",
+        "r": 58,
+        "g": 95,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "RoyalBlue4",
+        "r": 39,
+        "g": 64,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "blue1",
+        "r": 0,
+        "g": 0,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "blue2",
+        "r": 0,
+        "g": 0,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "blue3",
+        "r": 0,
+        "g": 0,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "blue4",
+        "r": 0,
+        "g": 0,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "DodgerBlue1",
+        "r": 30,
+        "g": 144,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "DodgerBlue2",
+        "r": 28,
+        "g": 134,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "DodgerBlue3",
+        "r": 24,
+        "g": 116,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "DodgerBlue4",
+        "r": 16,
+        "g": 78,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "SteelBlue1",
+        "r": 99,
+        "g": 184,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "SteelBlue2",
+        "r": 92,
+        "g": 172,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "SteelBlue3",
+        "r": 79,
+        "g": 148,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "SteelBlue4",
+        "r": 54,
+        "g": 100,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepSkyBlue1",
+        "r": 0,
+        "g": 191,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepSkyBlue2",
+        "r": 0,
+        "g": 178,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepSkyBlue3",
+        "r": 0,
+        "g": 154,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepSkyBlue4",
+        "r": 0,
+        "g": 104,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "SkyBlue1",
+        "r": 135,
+        "g": 206,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "SkyBlue2",
+        "r": 126,
+        "g": 192,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "SkyBlue3",
+        "r": 108,
+        "g": 166,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "SkyBlue4",
+        "r": 74,
+        "g": 112,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSkyBlue1",
+        "r": 176,
+        "g": 226,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSkyBlue2",
+        "r": 164,
+        "g": 211,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSkyBlue3",
+        "r": 141,
+        "g": 182,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSkyBlue4",
+        "r": 96,
+        "g": 123,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateGray1",
+        "r": 198,
+        "g": 226,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateGray2",
+        "r": 185,
+        "g": 211,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateGray3",
+        "r": 159,
+        "g": 182,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "SlateGray4",
+        "r": 108,
+        "g": 123,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSteelBlue1",
+        "r": 202,
+        "g": 225,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSteelBlue2",
+        "r": 188,
+        "g": 210,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSteelBlue3",
+        "r": 162,
+        "g": 181,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSteelBlue4",
+        "r": 110,
+        "g": 123,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "LightBlue1",
+        "r": 191,
+        "g": 239,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "LightBlue2",
+        "r": 178,
+        "g": 223,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "LightBlue3",
+        "r": 154,
+        "g": 192,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "LightBlue4",
+        "r": 104,
+        "g": 131,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "LightCyan1",
+        "r": 224,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "LightCyan2",
+        "r": 209,
+        "g": 238,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "LightCyan3",
+        "r": 180,
+        "g": 205,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "LightCyan4",
+        "r": 122,
+        "g": 139,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleTurquoise1",
+        "r": 187,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleTurquoise2",
+        "r": 174,
+        "g": 238,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleTurquoise3",
+        "r": 150,
+        "g": 205,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleTurquoise4",
+        "r": 102,
+        "g": 139,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "CadetBlue1",
+        "r": 152,
+        "g": 245,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "CadetBlue2",
+        "r": 142,
+        "g": 229,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "CadetBlue3",
+        "r": 122,
+        "g": 197,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "CadetBlue4",
+        "r": 83,
+        "g": 134,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "turquoise1",
+        "r": 0,
+        "g": 245,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "turquoise2",
+        "r": 0,
+        "g": 229,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "turquoise3",
+        "r": 0,
+        "g": 197,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "turquoise4",
+        "r": 0,
+        "g": 134,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "cyan1",
+        "r": 0,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "cyan2",
+        "r": 0,
+        "g": 238,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "cyan3",
+        "r": 0,
+        "g": 205,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "cyan4",
+        "r": 0,
+        "g": 139,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSlateGray1",
+        "r": 151,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSlateGray2",
+        "r": 141,
+        "g": 238,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSlateGray3",
+        "r": 121,
+        "g": 205,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSlateGray4",
+        "r": 82,
+        "g": 139,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "aquamarine1",
+        "r": 127,
+        "g": 255,
+        "b": 212,
+        "comment": ""
+    },
+    {
+        "literal name": "aquamarine2",
+        "r": 118,
+        "g": 238,
+        "b": 198,
+        "comment": ""
+    },
+    {
+        "literal name": "aquamarine3",
+        "r": 102,
+        "g": 205,
+        "b": 170,
+        "comment": ""
+    },
+    {
+        "literal name": "aquamarine4",
+        "r": 69,
+        "g": 139,
+        "b": 116,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSeaGreen1",
+        "r": 193,
+        "g": 255,
+        "b": 193,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSeaGreen2",
+        "r": 180,
+        "g": 238,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSeaGreen3",
+        "r": 155,
+        "g": 205,
+        "b": 155,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkSeaGreen4",
+        "r": 105,
+        "g": 139,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "SeaGreen1",
+        "r": 84,
+        "g": 255,
+        "b": 159,
+        "comment": ""
+    },
+    {
+        "literal name": "SeaGreen2",
+        "r": 78,
+        "g": 238,
+        "b": 148,
+        "comment": ""
+    },
+    {
+        "literal name": "SeaGreen3",
+        "r": 67,
+        "g": 205,
+        "b": 128,
+        "comment": ""
+    },
+    {
+        "literal name": "SeaGreen4",
+        "r": 46,
+        "g": 139,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleGreen1",
+        "r": 154,
+        "g": 255,
+        "b": 154,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleGreen2",
+        "r": 144,
+        "g": 238,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleGreen3",
+        "r": 124,
+        "g": 205,
+        "b": 124,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleGreen4",
+        "r": 84,
+        "g": 139,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "SpringGreen1",
+        "r": 0,
+        "g": 255,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "SpringGreen2",
+        "r": 0,
+        "g": 238,
+        "b": 118,
+        "comment": ""
+    },
+    {
+        "literal name": "SpringGreen3",
+        "r": 0,
+        "g": 205,
+        "b": 102,
+        "comment": ""
+    },
+    {
+        "literal name": "SpringGreen4",
+        "r": 0,
+        "g": 139,
+        "b": 69,
+        "comment": ""
+    },
+    {
+        "literal name": "green1",
+        "r": 0,
+        "g": 255,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "green2",
+        "r": 0,
+        "g": 238,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "green3",
+        "r": 0,
+        "g": 205,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "green4",
+        "r": 0,
+        "g": 139,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "chartreuse1",
+        "r": 127,
+        "g": 255,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "chartreuse2",
+        "r": 118,
+        "g": 238,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "chartreuse3",
+        "r": 102,
+        "g": 205,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "chartreuse4",
+        "r": 69,
+        "g": 139,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "OliveDrab1",
+        "r": 192,
+        "g": 255,
+        "b": 62,
+        "comment": ""
+    },
+    {
+        "literal name": "OliveDrab2",
+        "r": 179,
+        "g": 238,
+        "b": 58,
+        "comment": ""
+    },
+    {
+        "literal name": "OliveDrab3",
+        "r": 154,
+        "g": 205,
+        "b": 50,
+        "comment": ""
+    },
+    {
+        "literal name": "OliveDrab4",
+        "r": 105,
+        "g": 139,
+        "b": 34,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOliveGreen1",
+        "r": 202,
+        "g": 255,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOliveGreen2",
+        "r": 188,
+        "g": 238,
+        "b": 104,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOliveGreen3",
+        "r": 162,
+        "g": 205,
+        "b": 90,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOliveGreen4",
+        "r": 110,
+        "g": 139,
+        "b": 61,
+        "comment": ""
+    },
+    {
+        "literal name": "khaki1",
+        "r": 255,
+        "g": 246,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "khaki2",
+        "r": 238,
+        "g": 230,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "khaki3",
+        "r": 205,
+        "g": 198,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "khaki4",
+        "r": 139,
+        "g": 134,
+        "b": 78,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGoldenrod1",
+        "r": 255,
+        "g": 236,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGoldenrod2",
+        "r": 238,
+        "g": 220,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGoldenrod3",
+        "r": 205,
+        "g": 190,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGoldenrod4",
+        "r": 139,
+        "g": 129,
+        "b": 76,
+        "comment": ""
+    },
+    {
+        "literal name": "LightYellow1",
+        "r": 255,
+        "g": 255,
+        "b": 224,
+        "comment": ""
+    },
+    {
+        "literal name": "LightYellow2",
+        "r": 238,
+        "g": 238,
+        "b": 209,
+        "comment": ""
+    },
+    {
+        "literal name": "LightYellow3",
+        "r": 205,
+        "g": 205,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "LightYellow4",
+        "r": 139,
+        "g": 139,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow1",
+        "r": 255,
+        "g": 255,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow2",
+        "r": 238,
+        "g": 238,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow3",
+        "r": 205,
+        "g": 205,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "yellow4",
+        "r": 139,
+        "g": 139,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "gold1",
+        "r": 255,
+        "g": 215,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "gold2",
+        "r": 238,
+        "g": 201,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "gold3",
+        "r": 205,
+        "g": 173,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "gold4",
+        "r": 139,
+        "g": 117,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "goldenrod1",
+        "r": 255,
+        "g": 193,
+        "b": 37,
+        "comment": ""
+    },
+    {
+        "literal name": "goldenrod2",
+        "r": 238,
+        "g": 180,
+        "b": 34,
+        "comment": ""
+    },
+    {
+        "literal name": "goldenrod3",
+        "r": 205,
+        "g": 155,
+        "b": 29,
+        "comment": ""
+    },
+    {
+        "literal name": "goldenrod4",
+        "r": 139,
+        "g": 105,
+        "b": 20,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkGoldenrod1",
+        "r": 255,
+        "g": 185,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkGoldenrod2",
+        "r": 238,
+        "g": 173,
+        "b": 14,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkGoldenrod3",
+        "r": 205,
+        "g": 149,
+        "b": 12,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkGoldenrod4",
+        "r": 139,
+        "g": 101,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "RosyBrown1",
+        "r": 255,
+        "g": 193,
+        "b": 193,
+        "comment": ""
+    },
+    {
+        "literal name": "RosyBrown2",
+        "r": 238,
+        "g": 180,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "RosyBrown3",
+        "r": 205,
+        "g": 155,
+        "b": 155,
+        "comment": ""
+    },
+    {
+        "literal name": "RosyBrown4",
+        "r": 139,
+        "g": 105,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "IndianRed1",
+        "r": 255,
+        "g": 106,
+        "b": 106,
+        "comment": ""
+    },
+    {
+        "literal name": "IndianRed2",
+        "r": 238,
+        "g": 99,
+        "b": 99,
+        "comment": ""
+    },
+    {
+        "literal name": "IndianRed3",
+        "r": 205,
+        "g": 85,
+        "b": 85,
+        "comment": ""
+    },
+    {
+        "literal name": "IndianRed4",
+        "r": 139,
+        "g": 58,
+        "b": 58,
+        "comment": ""
+    },
+    {
+        "literal name": "sienna1",
+        "r": 255,
+        "g": 130,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "sienna2",
+        "r": 238,
+        "g": 121,
+        "b": 66,
+        "comment": ""
+    },
+    {
+        "literal name": "sienna3",
+        "r": 205,
+        "g": 104,
+        "b": 57,
+        "comment": ""
+    },
+    {
+        "literal name": "sienna4",
+        "r": 139,
+        "g": 71,
+        "b": 38,
+        "comment": ""
+    },
+    {
+        "literal name": "burlywood1",
+        "r": 255,
+        "g": 211,
+        "b": 155,
+        "comment": ""
+    },
+    {
+        "literal name": "burlywood2",
+        "r": 238,
+        "g": 197,
+        "b": 145,
+        "comment": ""
+    },
+    {
+        "literal name": "burlywood3",
+        "r": 205,
+        "g": 170,
+        "b": 125,
+        "comment": ""
+    },
+    {
+        "literal name": "burlywood4",
+        "r": 139,
+        "g": 115,
+        "b": 85,
+        "comment": ""
+    },
+    {
+        "literal name": "wheat1",
+        "r": 255,
+        "g": 231,
+        "b": 186,
+        "comment": ""
+    },
+    {
+        "literal name": "wheat2",
+        "r": 238,
+        "g": 216,
+        "b": 174,
+        "comment": ""
+    },
+    {
+        "literal name": "wheat3",
+        "r": 205,
+        "g": 186,
+        "b": 150,
+        "comment": ""
+    },
+    {
+        "literal name": "wheat4",
+        "r": 139,
+        "g": 126,
+        "b": 102,
+        "comment": ""
+    },
+    {
+        "literal name": "tan1",
+        "r": 255,
+        "g": 165,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "tan2",
+        "r": 238,
+        "g": 154,
+        "b": 73,
+        "comment": ""
+    },
+    {
+        "literal name": "tan3",
+        "r": 205,
+        "g": 133,
+        "b": 63,
+        "comment": ""
+    },
+    {
+        "literal name": "tan4",
+        "r": 139,
+        "g": 90,
+        "b": 43,
+        "comment": ""
+    },
+    {
+        "literal name": "chocolate1",
+        "r": 255,
+        "g": 127,
+        "b": 36,
+        "comment": ""
+    },
+    {
+        "literal name": "chocolate2",
+        "r": 238,
+        "g": 118,
+        "b": 33,
+        "comment": ""
+    },
+    {
+        "literal name": "chocolate3",
+        "r": 205,
+        "g": 102,
+        "b": 29,
+        "comment": ""
+    },
+    {
+        "literal name": "chocolate4",
+        "r": 139,
+        "g": 69,
+        "b": 19,
+        "comment": ""
+    },
+    {
+        "literal name": "firebrick1",
+        "r": 255,
+        "g": 48,
+        "b": 48,
+        "comment": ""
+    },
+    {
+        "literal name": "firebrick2",
+        "r": 238,
+        "g": 44,
+        "b": 44,
+        "comment": ""
+    },
+    {
+        "literal name": "firebrick3",
+        "r": 205,
+        "g": 38,
+        "b": 38,
+        "comment": ""
+    },
+    {
+        "literal name": "firebrick4",
+        "r": 139,
+        "g": 26,
+        "b": 26,
+        "comment": ""
+    },
+    {
+        "literal name": "brown1",
+        "r": 255,
+        "g": 64,
+        "b": 64,
+        "comment": ""
+    },
+    {
+        "literal name": "brown2",
+        "r": 238,
+        "g": 59,
+        "b": 59,
+        "comment": ""
+    },
+    {
+        "literal name": "brown3",
+        "r": 205,
+        "g": 51,
+        "b": 51,
+        "comment": ""
+    },
+    {
+        "literal name": "brown4",
+        "r": 139,
+        "g": 35,
+        "b": 35,
+        "comment": ""
+    },
+    {
+        "literal name": "salmon1",
+        "r": 255,
+        "g": 140,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "salmon2",
+        "r": 238,
+        "g": 130,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "salmon3",
+        "r": 205,
+        "g": 112,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "salmon4",
+        "r": 139,
+        "g": 76,
+        "b": 57,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSalmon1",
+        "r": 255,
+        "g": 160,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSalmon2",
+        "r": 238,
+        "g": 149,
+        "b": 114,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSalmon3",
+        "r": 205,
+        "g": 129,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "LightSalmon4",
+        "r": 139,
+        "g": 87,
+        "b": 66,
+        "comment": ""
+    },
+    {
+        "literal name": "orange1",
+        "r": 255,
+        "g": 165,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "orange2",
+        "r": 238,
+        "g": 154,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "orange3",
+        "r": 205,
+        "g": 133,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "orange4",
+        "r": 139,
+        "g": 90,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrange1",
+        "r": 255,
+        "g": 127,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrange2",
+        "r": 238,
+        "g": 118,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrange3",
+        "r": 205,
+        "g": 102,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrange4",
+        "r": 139,
+        "g": 69,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "coral1",
+        "r": 255,
+        "g": 114,
+        "b": 86,
+        "comment": ""
+    },
+    {
+        "literal name": "coral2",
+        "r": 238,
+        "g": 106,
+        "b": 80,
+        "comment": ""
+    },
+    {
+        "literal name": "coral3",
+        "r": 205,
+        "g": 91,
+        "b": 69,
+        "comment": ""
+    },
+    {
+        "literal name": "coral4",
+        "r": 139,
+        "g": 62,
+        "b": 47,
+        "comment": ""
+    },
+    {
+        "literal name": "tomato1",
+        "r": 255,
+        "g": 99,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "tomato2",
+        "r": 238,
+        "g": 92,
+        "b": 66,
+        "comment": ""
+    },
+    {
+        "literal name": "tomato3",
+        "r": 205,
+        "g": 79,
+        "b": 57,
+        "comment": ""
+    },
+    {
+        "literal name": "tomato4",
+        "r": 139,
+        "g": 54,
+        "b": 38,
+        "comment": ""
+    },
+    {
+        "literal name": "OrangeRed1",
+        "r": 255,
+        "g": 69,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "OrangeRed2",
+        "r": 238,
+        "g": 64,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "OrangeRed3",
+        "r": 205,
+        "g": 55,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "OrangeRed4",
+        "r": 139,
+        "g": 37,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "red1",
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "red2",
+        "r": 238,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "red3",
+        "r": 205,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "red4",
+        "r": 139,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "DebianRed",
+        "r": 215,
+        "g": 7,
+        "b": 81,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepPink1",
+        "r": 255,
+        "g": 20,
+        "b": 147,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepPink2",
+        "r": 238,
+        "g": 18,
+        "b": 137,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepPink3",
+        "r": 205,
+        "g": 16,
+        "b": 118,
+        "comment": ""
+    },
+    {
+        "literal name": "DeepPink4",
+        "r": 139,
+        "g": 10,
+        "b": 80,
+        "comment": ""
+    },
+    {
+        "literal name": "HotPink1",
+        "r": 255,
+        "g": 110,
+        "b": 180,
+        "comment": ""
+    },
+    {
+        "literal name": "HotPink2",
+        "r": 238,
+        "g": 106,
+        "b": 167,
+        "comment": ""
+    },
+    {
+        "literal name": "HotPink3",
+        "r": 205,
+        "g": 96,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "HotPink4",
+        "r": 139,
+        "g": 58,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "pink1",
+        "r": 255,
+        "g": 181,
+        "b": 197,
+        "comment": ""
+    },
+    {
+        "literal name": "pink2",
+        "r": 238,
+        "g": 169,
+        "b": 184,
+        "comment": ""
+    },
+    {
+        "literal name": "pink3",
+        "r": 205,
+        "g": 145,
+        "b": 158,
+        "comment": ""
+    },
+    {
+        "literal name": "pink4",
+        "r": 139,
+        "g": 99,
+        "b": 108,
+        "comment": ""
+    },
+    {
+        "literal name": "LightPink1",
+        "r": 255,
+        "g": 174,
+        "b": 185,
+        "comment": ""
+    },
+    {
+        "literal name": "LightPink2",
+        "r": 238,
+        "g": 162,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "LightPink3",
+        "r": 205,
+        "g": 140,
+        "b": 149,
+        "comment": ""
+    },
+    {
+        "literal name": "LightPink4",
+        "r": 139,
+        "g": 95,
+        "b": 101,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleVioletRed1",
+        "r": 255,
+        "g": 130,
+        "b": 171,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleVioletRed2",
+        "r": 238,
+        "g": 121,
+        "b": 159,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleVioletRed3",
+        "r": 205,
+        "g": 104,
+        "b": 137,
+        "comment": ""
+    },
+    {
+        "literal name": "PaleVioletRed4",
+        "r": 139,
+        "g": 71,
+        "b": 93,
+        "comment": ""
+    },
+    {
+        "literal name": "maroon1",
+        "r": 255,
+        "g": 52,
+        "b": 179,
+        "comment": ""
+    },
+    {
+        "literal name": "maroon2",
+        "r": 238,
+        "g": 48,
+        "b": 167,
+        "comment": ""
+    },
+    {
+        "literal name": "maroon3",
+        "r": 205,
+        "g": 41,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "maroon4",
+        "r": 139,
+        "g": 28,
+        "b": 98,
+        "comment": ""
+    },
+    {
+        "literal name": "VioletRed1",
+        "r": 255,
+        "g": 62,
+        "b": 150,
+        "comment": ""
+    },
+    {
+        "literal name": "VioletRed2",
+        "r": 238,
+        "g": 58,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "VioletRed3",
+        "r": 205,
+        "g": 50,
+        "b": 120,
+        "comment": ""
+    },
+    {
+        "literal name": "VioletRed4",
+        "r": 139,
+        "g": 34,
+        "b": 82,
+        "comment": ""
+    },
+    {
+        "literal name": "magenta1",
+        "r": 255,
+        "g": 0,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "magenta2",
+        "r": 238,
+        "g": 0,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "magenta3",
+        "r": 205,
+        "g": 0,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "magenta4",
+        "r": 139,
+        "g": 0,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "orchid1",
+        "r": 255,
+        "g": 131,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "orchid2",
+        "r": 238,
+        "g": 122,
+        "b": 233,
+        "comment": ""
+    },
+    {
+        "literal name": "orchid3",
+        "r": 205,
+        "g": 105,
+        "b": 201,
+        "comment": ""
+    },
+    {
+        "literal name": "orchid4",
+        "r": 139,
+        "g": 71,
+        "b": 137,
+        "comment": ""
+    },
+    {
+        "literal name": "plum1",
+        "r": 255,
+        "g": 187,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "plum2",
+        "r": 238,
+        "g": 174,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "plum3",
+        "r": 205,
+        "g": 150,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "plum4",
+        "r": 139,
+        "g": 102,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumOrchid1",
+        "r": 224,
+        "g": 102,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumOrchid2",
+        "r": 209,
+        "g": 95,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumOrchid3",
+        "r": 180,
+        "g": 82,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumOrchid4",
+        "r": 122,
+        "g": 55,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrchid1",
+        "r": 191,
+        "g": 62,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrchid2",
+        "r": 178,
+        "g": 58,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrchid3",
+        "r": 154,
+        "g": 50,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkOrchid4",
+        "r": 104,
+        "g": 34,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "purple1",
+        "r": 155,
+        "g": 48,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "purple2",
+        "r": 145,
+        "g": 44,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "purple3",
+        "r": 125,
+        "g": 38,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "purple4",
+        "r": 85,
+        "g": 26,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumPurple1",
+        "r": 171,
+        "g": 130,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumPurple2",
+        "r": 159,
+        "g": 121,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumPurple3",
+        "r": 137,
+        "g": 104,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "MediumPurple4",
+        "r": 93,
+        "g": 71,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "thistle1",
+        "r": 255,
+        "g": 225,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "thistle2",
+        "r": 238,
+        "g": 210,
+        "b": 238,
+        "comment": ""
+    },
+    {
+        "literal name": "thistle3",
+        "r": 205,
+        "g": 181,
+        "b": 205,
+        "comment": ""
+    },
+    {
+        "literal name": "thistle4",
+        "r": 139,
+        "g": 123,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "gray0",
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "grey0",
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "gray1",
+        "r": 3,
+        "g": 3,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "grey1",
+        "r": 3,
+        "g": 3,
+        "b": 3,
+        "comment": ""
+    },
+    {
+        "literal name": "gray2",
+        "r": 5,
+        "g": 5,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "grey2",
+        "r": 5,
+        "g": 5,
+        "b": 5,
+        "comment": ""
+    },
+    {
+        "literal name": "gray3",
+        "r": 8,
+        "g": 8,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "grey3",
+        "r": 8,
+        "g": 8,
+        "b": 8,
+        "comment": ""
+    },
+    {
+        "literal name": "gray4",
+        "r": 10,
+        "g": 10,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "grey4",
+        "r": 10,
+        "g": 10,
+        "b": 10,
+        "comment": ""
+    },
+    {
+        "literal name": "gray5",
+        "r": 13,
+        "g": 13,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "grey5",
+        "r": 13,
+        "g": 13,
+        "b": 13,
+        "comment": ""
+    },
+    {
+        "literal name": "gray6",
+        "r": 15,
+        "g": 15,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "grey6",
+        "r": 15,
+        "g": 15,
+        "b": 15,
+        "comment": ""
+    },
+    {
+        "literal name": "gray7",
+        "r": 18,
+        "g": 18,
+        "b": 18,
+        "comment": ""
+    },
+    {
+        "literal name": "grey7",
+        "r": 18,
+        "g": 18,
+        "b": 18,
+        "comment": ""
+    },
+    {
+        "literal name": "gray8",
+        "r": 20,
+        "g": 20,
+        "b": 20,
+        "comment": ""
+    },
+    {
+        "literal name": "grey8",
+        "r": 20,
+        "g": 20,
+        "b": 20,
+        "comment": ""
+    },
+    {
+        "literal name": "gray9",
+        "r": 23,
+        "g": 23,
+        "b": 23,
+        "comment": ""
+    },
+    {
+        "literal name": "grey9",
+        "r": 23,
+        "g": 23,
+        "b": 23,
+        "comment": ""
+    },
+    {
+        "literal name": "gray10",
+        "r": 26,
+        "g": 26,
+        "b": 26,
+        "comment": ""
+    },
+    {
+        "literal name": "grey10",
+        "r": 26,
+        "g": 26,
+        "b": 26,
+        "comment": ""
+    },
+    {
+        "literal name": "gray11",
+        "r": 28,
+        "g": 28,
+        "b": 28,
+        "comment": ""
+    },
+    {
+        "literal name": "grey11",
+        "r": 28,
+        "g": 28,
+        "b": 28,
+        "comment": ""
+    },
+    {
+        "literal name": "gray12",
+        "r": 31,
+        "g": 31,
+        "b": 31,
+        "comment": ""
+    },
+    {
+        "literal name": "grey12",
+        "r": 31,
+        "g": 31,
+        "b": 31,
+        "comment": ""
+    },
+    {
+        "literal name": "gray13",
+        "r": 33,
+        "g": 33,
+        "b": 33,
+        "comment": ""
+    },
+    {
+        "literal name": "grey13",
+        "r": 33,
+        "g": 33,
+        "b": 33,
+        "comment": ""
+    },
+    {
+        "literal name": "gray14",
+        "r": 36,
+        "g": 36,
+        "b": 36,
+        "comment": ""
+    },
+    {
+        "literal name": "grey14",
+        "r": 36,
+        "g": 36,
+        "b": 36,
+        "comment": ""
+    },
+    {
+        "literal name": "gray15",
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "comment": ""
+    },
+    {
+        "literal name": "grey15",
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "comment": ""
+    },
+    {
+        "literal name": "gray16",
+        "r": 41,
+        "g": 41,
+        "b": 41,
+        "comment": ""
+    },
+    {
+        "literal name": "grey16",
+        "r": 41,
+        "g": 41,
+        "b": 41,
+        "comment": ""
+    },
+    {
+        "literal name": "gray17",
+        "r": 43,
+        "g": 43,
+        "b": 43,
+        "comment": ""
+    },
+    {
+        "literal name": "grey17",
+        "r": 43,
+        "g": 43,
+        "b": 43,
+        "comment": ""
+    },
+    {
+        "literal name": "gray18",
+        "r": 46,
+        "g": 46,
+        "b": 46,
+        "comment": ""
+    },
+    {
+        "literal name": "grey18",
+        "r": 46,
+        "g": 46,
+        "b": 46,
+        "comment": ""
+    },
+    {
+        "literal name": "gray19",
+        "r": 48,
+        "g": 48,
+        "b": 48,
+        "comment": ""
+    },
+    {
+        "literal name": "grey19",
+        "r": 48,
+        "g": 48,
+        "b": 48,
+        "comment": ""
+    },
+    {
+        "literal name": "gray20",
+        "r": 51,
+        "g": 51,
+        "b": 51,
+        "comment": ""
+    },
+    {
+        "literal name": "grey20",
+        "r": 51,
+        "g": 51,
+        "b": 51,
+        "comment": ""
+    },
+    {
+        "literal name": "gray21",
+        "r": 54,
+        "g": 54,
+        "b": 54,
+        "comment": ""
+    },
+    {
+        "literal name": "grey21",
+        "r": 54,
+        "g": 54,
+        "b": 54,
+        "comment": ""
+    },
+    {
+        "literal name": "gray22",
+        "r": 56,
+        "g": 56,
+        "b": 56,
+        "comment": ""
+    },
+    {
+        "literal name": "grey22",
+        "r": 56,
+        "g": 56,
+        "b": 56,
+        "comment": ""
+    },
+    {
+        "literal name": "gray23",
+        "r": 59,
+        "g": 59,
+        "b": 59,
+        "comment": ""
+    },
+    {
+        "literal name": "grey23",
+        "r": 59,
+        "g": 59,
+        "b": 59,
+        "comment": ""
+    },
+    {
+        "literal name": "gray24",
+        "r": 61,
+        "g": 61,
+        "b": 61,
+        "comment": ""
+    },
+    {
+        "literal name": "grey24",
+        "r": 61,
+        "g": 61,
+        "b": 61,
+        "comment": ""
+    },
+    {
+        "literal name": "gray25",
+        "r": 64,
+        "g": 64,
+        "b": 64,
+        "comment": ""
+    },
+    {
+        "literal name": "grey25",
+        "r": 64,
+        "g": 64,
+        "b": 64,
+        "comment": ""
+    },
+    {
+        "literal name": "gray26",
+        "r": 66,
+        "g": 66,
+        "b": 66,
+        "comment": ""
+    },
+    {
+        "literal name": "grey26",
+        "r": 66,
+        "g": 66,
+        "b": 66,
+        "comment": ""
+    },
+    {
+        "literal name": "gray27",
+        "r": 69,
+        "g": 69,
+        "b": 69,
+        "comment": ""
+    },
+    {
+        "literal name": "grey27",
+        "r": 69,
+        "g": 69,
+        "b": 69,
+        "comment": ""
+    },
+    {
+        "literal name": "gray28",
+        "r": 71,
+        "g": 71,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "grey28",
+        "r": 71,
+        "g": 71,
+        "b": 71,
+        "comment": ""
+    },
+    {
+        "literal name": "gray29",
+        "r": 74,
+        "g": 74,
+        "b": 74,
+        "comment": ""
+    },
+    {
+        "literal name": "grey29",
+        "r": 74,
+        "g": 74,
+        "b": 74,
+        "comment": ""
+    },
+    {
+        "literal name": "gray30",
+        "r": 77,
+        "g": 77,
+        "b": 77,
+        "comment": ""
+    },
+    {
+        "literal name": "grey30",
+        "r": 77,
+        "g": 77,
+        "b": 77,
+        "comment": ""
+    },
+    {
+        "literal name": "gray31",
+        "r": 79,
+        "g": 79,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "grey31",
+        "r": 79,
+        "g": 79,
+        "b": 79,
+        "comment": ""
+    },
+    {
+        "literal name": "gray32",
+        "r": 82,
+        "g": 82,
+        "b": 82,
+        "comment": ""
+    },
+    {
+        "literal name": "grey32",
+        "r": 82,
+        "g": 82,
+        "b": 82,
+        "comment": ""
+    },
+    {
+        "literal name": "gray33",
+        "r": 84,
+        "g": 84,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "grey33",
+        "r": 84,
+        "g": 84,
+        "b": 84,
+        "comment": ""
+    },
+    {
+        "literal name": "gray34",
+        "r": 87,
+        "g": 87,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "grey34",
+        "r": 87,
+        "g": 87,
+        "b": 87,
+        "comment": ""
+    },
+    {
+        "literal name": "gray35",
+        "r": 89,
+        "g": 89,
+        "b": 89,
+        "comment": ""
+    },
+    {
+        "literal name": "grey35",
+        "r": 89,
+        "g": 89,
+        "b": 89,
+        "comment": ""
+    },
+    {
+        "literal name": "gray36",
+        "r": 92,
+        "g": 92,
+        "b": 92,
+        "comment": ""
+    },
+    {
+        "literal name": "grey36",
+        "r": 92,
+        "g": 92,
+        "b": 92,
+        "comment": ""
+    },
+    {
+        "literal name": "gray37",
+        "r": 94,
+        "g": 94,
+        "b": 94,
+        "comment": ""
+    },
+    {
+        "literal name": "grey37",
+        "r": 94,
+        "g": 94,
+        "b": 94,
+        "comment": ""
+    },
+    {
+        "literal name": "gray38",
+        "r": 97,
+        "g": 97,
+        "b": 97,
+        "comment": ""
+    },
+    {
+        "literal name": "grey38",
+        "r": 97,
+        "g": 97,
+        "b": 97,
+        "comment": ""
+    },
+    {
+        "literal name": "gray39",
+        "r": 99,
+        "g": 99,
+        "b": 99,
+        "comment": ""
+    },
+    {
+        "literal name": "grey39",
+        "r": 99,
+        "g": 99,
+        "b": 99,
+        "comment": ""
+    },
+    {
+        "literal name": "gray40",
+        "r": 102,
+        "g": 102,
+        "b": 102,
+        "comment": ""
+    },
+    {
+        "literal name": "grey40",
+        "r": 102,
+        "g": 102,
+        "b": 102,
+        "comment": ""
+    },
+    {
+        "literal name": "gray41",
+        "r": 105,
+        "g": 105,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "grey41",
+        "r": 105,
+        "g": 105,
+        "b": 105,
+        "comment": ""
+    },
+    {
+        "literal name": "gray42",
+        "r": 107,
+        "g": 107,
+        "b": 107,
+        "comment": ""
+    },
+    {
+        "literal name": "grey42",
+        "r": 107,
+        "g": 107,
+        "b": 107,
+        "comment": ""
+    },
+    {
+        "literal name": "gray43",
+        "r": 110,
+        "g": 110,
+        "b": 110,
+        "comment": ""
+    },
+    {
+        "literal name": "grey43",
+        "r": 110,
+        "g": 110,
+        "b": 110,
+        "comment": ""
+    },
+    {
+        "literal name": "gray44",
+        "r": 112,
+        "g": 112,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "grey44",
+        "r": 112,
+        "g": 112,
+        "b": 112,
+        "comment": ""
+    },
+    {
+        "literal name": "gray45",
+        "r": 115,
+        "g": 115,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "grey45",
+        "r": 115,
+        "g": 115,
+        "b": 115,
+        "comment": ""
+    },
+    {
+        "literal name": "gray46",
+        "r": 117,
+        "g": 117,
+        "b": 117,
+        "comment": ""
+    },
+    {
+        "literal name": "grey46",
+        "r": 117,
+        "g": 117,
+        "b": 117,
+        "comment": ""
+    },
+    {
+        "literal name": "gray47",
+        "r": 120,
+        "g": 120,
+        "b": 120,
+        "comment": ""
+    },
+    {
+        "literal name": "grey47",
+        "r": 120,
+        "g": 120,
+        "b": 120,
+        "comment": ""
+    },
+    {
+        "literal name": "gray48",
+        "r": 122,
+        "g": 122,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "grey48",
+        "r": 122,
+        "g": 122,
+        "b": 122,
+        "comment": ""
+    },
+    {
+        "literal name": "gray49",
+        "r": 125,
+        "g": 125,
+        "b": 125,
+        "comment": ""
+    },
+    {
+        "literal name": "grey49",
+        "r": 125,
+        "g": 125,
+        "b": 125,
+        "comment": ""
+    },
+    {
+        "literal name": "gray50",
+        "r": 127,
+        "g": 127,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "grey50",
+        "r": 127,
+        "g": 127,
+        "b": 127,
+        "comment": ""
+    },
+    {
+        "literal name": "gray51",
+        "r": 130,
+        "g": 130,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "grey51",
+        "r": 130,
+        "g": 130,
+        "b": 130,
+        "comment": ""
+    },
+    {
+        "literal name": "gray52",
+        "r": 133,
+        "g": 133,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "grey52",
+        "r": 133,
+        "g": 133,
+        "b": 133,
+        "comment": ""
+    },
+    {
+        "literal name": "gray53",
+        "r": 135,
+        "g": 135,
+        "b": 135,
+        "comment": ""
+    },
+    {
+        "literal name": "grey53",
+        "r": 135,
+        "g": 135,
+        "b": 135,
+        "comment": ""
+    },
+    {
+        "literal name": "gray54",
+        "r": 138,
+        "g": 138,
+        "b": 138,
+        "comment": ""
+    },
+    {
+        "literal name": "grey54",
+        "r": 138,
+        "g": 138,
+        "b": 138,
+        "comment": ""
+    },
+    {
+        "literal name": "gray55",
+        "r": 140,
+        "g": 140,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "grey55",
+        "r": 140,
+        "g": 140,
+        "b": 140,
+        "comment": ""
+    },
+    {
+        "literal name": "gray56",
+        "r": 143,
+        "g": 143,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "grey56",
+        "r": 143,
+        "g": 143,
+        "b": 143,
+        "comment": ""
+    },
+    {
+        "literal name": "gray57",
+        "r": 145,
+        "g": 145,
+        "b": 145,
+        "comment": ""
+    },
+    {
+        "literal name": "grey57",
+        "r": 145,
+        "g": 145,
+        "b": 145,
+        "comment": ""
+    },
+    {
+        "literal name": "gray58",
+        "r": 148,
+        "g": 148,
+        "b": 148,
+        "comment": ""
+    },
+    {
+        "literal name": "grey58",
+        "r": 148,
+        "g": 148,
+        "b": 148,
+        "comment": ""
+    },
+    {
+        "literal name": "gray59",
+        "r": 150,
+        "g": 150,
+        "b": 150,
+        "comment": ""
+    },
+    {
+        "literal name": "grey59",
+        "r": 150,
+        "g": 150,
+        "b": 150,
+        "comment": ""
+    },
+    {
+        "literal name": "gray60",
+        "r": 153,
+        "g": 153,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "grey60",
+        "r": 153,
+        "g": 153,
+        "b": 153,
+        "comment": ""
+    },
+    {
+        "literal name": "gray61",
+        "r": 156,
+        "g": 156,
+        "b": 156,
+        "comment": ""
+    },
+    {
+        "literal name": "grey61",
+        "r": 156,
+        "g": 156,
+        "b": 156,
+        "comment": ""
+    },
+    {
+        "literal name": "gray62",
+        "r": 158,
+        "g": 158,
+        "b": 158,
+        "comment": ""
+    },
+    {
+        "literal name": "grey62",
+        "r": 158,
+        "g": 158,
+        "b": 158,
+        "comment": ""
+    },
+    {
+        "literal name": "gray63",
+        "r": 161,
+        "g": 161,
+        "b": 161,
+        "comment": ""
+    },
+    {
+        "literal name": "grey63",
+        "r": 161,
+        "g": 161,
+        "b": 161,
+        "comment": ""
+    },
+    {
+        "literal name": "gray64",
+        "r": 163,
+        "g": 163,
+        "b": 163,
+        "comment": ""
+    },
+    {
+        "literal name": "grey64",
+        "r": 163,
+        "g": 163,
+        "b": 163,
+        "comment": ""
+    },
+    {
+        "literal name": "gray65",
+        "r": 166,
+        "g": 166,
+        "b": 166,
+        "comment": ""
+    },
+    {
+        "literal name": "grey65",
+        "r": 166,
+        "g": 166,
+        "b": 166,
+        "comment": ""
+    },
+    {
+        "literal name": "gray66",
+        "r": 168,
+        "g": 168,
+        "b": 168,
+        "comment": ""
+    },
+    {
+        "literal name": "grey66",
+        "r": 168,
+        "g": 168,
+        "b": 168,
+        "comment": ""
+    },
+    {
+        "literal name": "gray67",
+        "r": 171,
+        "g": 171,
+        "b": 171,
+        "comment": ""
+    },
+    {
+        "literal name": "grey67",
+        "r": 171,
+        "g": 171,
+        "b": 171,
+        "comment": ""
+    },
+    {
+        "literal name": "gray68",
+        "r": 173,
+        "g": 173,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "grey68",
+        "r": 173,
+        "g": 173,
+        "b": 173,
+        "comment": ""
+    },
+    {
+        "literal name": "gray69",
+        "r": 176,
+        "g": 176,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "grey69",
+        "r": 176,
+        "g": 176,
+        "b": 176,
+        "comment": ""
+    },
+    {
+        "literal name": "gray70",
+        "r": 179,
+        "g": 179,
+        "b": 179,
+        "comment": ""
+    },
+    {
+        "literal name": "grey70",
+        "r": 179,
+        "g": 179,
+        "b": 179,
+        "comment": ""
+    },
+    {
+        "literal name": "gray71",
+        "r": 181,
+        "g": 181,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "grey71",
+        "r": 181,
+        "g": 181,
+        "b": 181,
+        "comment": ""
+    },
+    {
+        "literal name": "gray72",
+        "r": 184,
+        "g": 184,
+        "b": 184,
+        "comment": ""
+    },
+    {
+        "literal name": "grey72",
+        "r": 184,
+        "g": 184,
+        "b": 184,
+        "comment": ""
+    },
+    {
+        "literal name": "gray73",
+        "r": 186,
+        "g": 186,
+        "b": 186,
+        "comment": ""
+    },
+    {
+        "literal name": "grey73",
+        "r": 186,
+        "g": 186,
+        "b": 186,
+        "comment": ""
+    },
+    {
+        "literal name": "gray74",
+        "r": 189,
+        "g": 189,
+        "b": 189,
+        "comment": ""
+    },
+    {
+        "literal name": "grey74",
+        "r": 189,
+        "g": 189,
+        "b": 189,
+        "comment": ""
+    },
+    {
+        "literal name": "gray75",
+        "r": 191,
+        "g": 191,
+        "b": 191,
+        "comment": ""
+    },
+    {
+        "literal name": "grey75",
+        "r": 191,
+        "g": 191,
+        "b": 191,
+        "comment": ""
+    },
+    {
+        "literal name": "gray76",
+        "r": 194,
+        "g": 194,
+        "b": 194,
+        "comment": ""
+    },
+    {
+        "literal name": "grey76",
+        "r": 194,
+        "g": 194,
+        "b": 194,
+        "comment": ""
+    },
+    {
+        "literal name": "gray77",
+        "r": 196,
+        "g": 196,
+        "b": 196,
+        "comment": ""
+    },
+    {
+        "literal name": "grey77",
+        "r": 196,
+        "g": 196,
+        "b": 196,
+        "comment": ""
+    },
+    {
+        "literal name": "gray78",
+        "r": 199,
+        "g": 199,
+        "b": 199,
+        "comment": ""
+    },
+    {
+        "literal name": "grey78",
+        "r": 199,
+        "g": 199,
+        "b": 199,
+        "comment": ""
+    },
+    {
+        "literal name": "gray79",
+        "r": 201,
+        "g": 201,
+        "b": 201,
+        "comment": ""
+    },
+    {
+        "literal name": "grey79",
+        "r": 201,
+        "g": 201,
+        "b": 201,
+        "comment": ""
+    },
+    {
+        "literal name": "gray80",
+        "r": 204,
+        "g": 204,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "grey80",
+        "r": 204,
+        "g": 204,
+        "b": 204,
+        "comment": ""
+    },
+    {
+        "literal name": "gray81",
+        "r": 207,
+        "g": 207,
+        "b": 207,
+        "comment": ""
+    },
+    {
+        "literal name": "grey81",
+        "r": 207,
+        "g": 207,
+        "b": 207,
+        "comment": ""
+    },
+    {
+        "literal name": "gray82",
+        "r": 209,
+        "g": 209,
+        "b": 209,
+        "comment": ""
+    },
+    {
+        "literal name": "grey82",
+        "r": 209,
+        "g": 209,
+        "b": 209,
+        "comment": ""
+    },
+    {
+        "literal name": "gray83",
+        "r": 212,
+        "g": 212,
+        "b": 212,
+        "comment": ""
+    },
+    {
+        "literal name": "grey83",
+        "r": 212,
+        "g": 212,
+        "b": 212,
+        "comment": ""
+    },
+    {
+        "literal name": "gray84",
+        "r": 214,
+        "g": 214,
+        "b": 214,
+        "comment": ""
+    },
+    {
+        "literal name": "grey84",
+        "r": 214,
+        "g": 214,
+        "b": 214,
+        "comment": ""
+    },
+    {
+        "literal name": "gray85",
+        "r": 217,
+        "g": 217,
+        "b": 217,
+        "comment": ""
+    },
+    {
+        "literal name": "grey85",
+        "r": 217,
+        "g": 217,
+        "b": 217,
+        "comment": ""
+    },
+    {
+        "literal name": "gray86",
+        "r": 219,
+        "g": 219,
+        "b": 219,
+        "comment": ""
+    },
+    {
+        "literal name": "grey86",
+        "r": 219,
+        "g": 219,
+        "b": 219,
+        "comment": ""
+    },
+    {
+        "literal name": "gray87",
+        "r": 222,
+        "g": 222,
+        "b": 222,
+        "comment": ""
+    },
+    {
+        "literal name": "grey87",
+        "r": 222,
+        "g": 222,
+        "b": 222,
+        "comment": ""
+    },
+    {
+        "literal name": "gray88",
+        "r": 224,
+        "g": 224,
+        "b": 224,
+        "comment": ""
+    },
+    {
+        "literal name": "grey88",
+        "r": 224,
+        "g": 224,
+        "b": 224,
+        "comment": ""
+    },
+    {
+        "literal name": "gray89",
+        "r": 227,
+        "g": 227,
+        "b": 227,
+        "comment": ""
+    },
+    {
+        "literal name": "grey89",
+        "r": 227,
+        "g": 227,
+        "b": 227,
+        "comment": ""
+    },
+    {
+        "literal name": "gray90",
+        "r": 229,
+        "g": 229,
+        "b": 229,
+        "comment": ""
+    },
+    {
+        "literal name": "grey90",
+        "r": 229,
+        "g": 229,
+        "b": 229,
+        "comment": ""
+    },
+    {
+        "literal name": "gray91",
+        "r": 232,
+        "g": 232,
+        "b": 232,
+        "comment": ""
+    },
+    {
+        "literal name": "grey91",
+        "r": 232,
+        "g": 232,
+        "b": 232,
+        "comment": ""
+    },
+    {
+        "literal name": "gray92",
+        "r": 235,
+        "g": 235,
+        "b": 235,
+        "comment": ""
+    },
+    {
+        "literal name": "grey92",
+        "r": 235,
+        "g": 235,
+        "b": 235,
+        "comment": ""
+    },
+    {
+        "literal name": "gray93",
+        "r": 237,
+        "g": 237,
+        "b": 237,
+        "comment": ""
+    },
+    {
+        "literal name": "grey93",
+        "r": 237,
+        "g": 237,
+        "b": 237,
+        "comment": ""
+    },
+    {
+        "literal name": "gray94",
+        "r": 240,
+        "g": 240,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "grey94",
+        "r": 240,
+        "g": 240,
+        "b": 240,
+        "comment": ""
+    },
+    {
+        "literal name": "gray95",
+        "r": 242,
+        "g": 242,
+        "b": 242,
+        "comment": ""
+    },
+    {
+        "literal name": "grey95",
+        "r": 242,
+        "g": 242,
+        "b": 242,
+        "comment": ""
+    },
+    {
+        "literal name": "gray96",
+        "r": 245,
+        "g": 245,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "grey96",
+        "r": 245,
+        "g": 245,
+        "b": 245,
+        "comment": ""
+    },
+    {
+        "literal name": "gray97",
+        "r": 247,
+        "g": 247,
+        "b": 247,
+        "comment": ""
+    },
+    {
+        "literal name": "grey97",
+        "r": 247,
+        "g": 247,
+        "b": 247,
+        "comment": ""
+    },
+    {
+        "literal name": "gray98",
+        "r": 250,
+        "g": 250,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "grey98",
+        "r": 250,
+        "g": 250,
+        "b": 250,
+        "comment": ""
+    },
+    {
+        "literal name": "gray99",
+        "r": 252,
+        "g": 252,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "grey99",
+        "r": 252,
+        "g": 252,
+        "b": 252,
+        "comment": ""
+    },
+    {
+        "literal name": "gray100",
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "grey100",
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "comment": ""
+    },
+    {
+        "literal name": "dark grey",
+        "r": 169,
+        "g": 169,
+        "b": 169,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkGrey",
+        "r": 169,
+        "g": 169,
+        "b": 169,
+        "comment": ""
+    },
+    {
+        "literal name": "dark gray",
+        "r": 169,
+        "g": 169,
+        "b": 169,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkGray",
+        "r": 169,
+        "g": 169,
+        "b": 169,
+        "comment": ""
+    },
+    {
+        "literal name": "dark blue",
+        "r": 0,
+        "g": 0,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkBlue",
+        "r": 0,
+        "g": 0,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "dark cyan",
+        "r": 0,
+        "g": 139,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkCyan",
+        "r": 0,
+        "g": 139,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "dark magenta",
+        "r": 139,
+        "g": 0,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkMagenta",
+        "r": 139,
+        "g": 0,
+        "b": 139,
+        "comment": ""
+    },
+    {
+        "literal name": "dark red",
+        "r": 139,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "DarkRed",
+        "r": 139,
+        "g": 0,
+        "b": 0,
+        "comment": ""
+    },
+    {
+        "literal name": "light green",
+        "r": 144,
+        "g": 238,
+        "b": 144,
+        "comment": ""
+    },
+    {
+        "literal name": "LightGreen",
+        "r": 144,
+        "g": 238,
+        "b": 144,
+        "comment": ""
+    }
+]

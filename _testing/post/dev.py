@@ -12,12 +12,13 @@ for entry in os.scandir('.'):
 
     first_n_cahr = entry.path[0:5]
 
-    if first_n_cahr != "./201":
+    # any path with 201 in the beginning is most likely a path with an image to process in
+    if first_n_cahr.find("201") < 0:
         continue
 
-    directoryServer = entry.path
-    pfnImageServer = os.path.join(directoryServer, directoryServer[2:]+'.jpg')
+    imagePath = entry.path
+    imagePathFilename = os.path.join(imagePath, imagePath[2:]+'.jpg')
 
-    print(pfnImageServer)
+    print(imagePathFilename)
 
-    caas.proc.process_main(directoryServer, pfnImageServer)
+    caas.proc.process_main(imagePath, imagePathFilename)

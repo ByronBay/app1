@@ -1,22 +1,28 @@
-__all__ = ["aux", "proc"]
+__all__ = ["lib", "proc"]
 
 from caas.lib import *
 from caas.proc import *
 
 import json
-from pprint import pprint
 
 print("running __init__")
 
+
 c_x11 = {}
 
-#with open('caas/colors/x11_rgb.json') as f:
-#    c_x11 = json.load(f)
+try:
+    with open('caas/colors/x11_rgb.json') as f:
+        c_x11 = json.load(f)
+
+except Exception:
+    pass
+
 
 c_xkcd = {}
 
-with open("caas/colors/xkcd.json") as f:
-    c_xkcd = json.load(f)
+try:
+    with open("caas/colors/xkcd.json") as f:
+        c_xkcd = json.load(f)
 
-
-pprint(c_xkcd)
+except Exception:
+    pass
