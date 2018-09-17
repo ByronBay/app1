@@ -21,4 +21,7 @@ for entry in os.scandir('.'):
 
     print(imagePathFilename)
 
+    rgb = [100, 150,200]
+    result_to_phone = caas.proc.process_colors(rgb)
+
     caas.proc.process_main(imagePath, imagePathFilename)

@@ -7,22 +7,44 @@ import json
 
 print("running __init__")
 
+colors = {}
 
-c_x11 = {}
 
 try:
+    colors = {}
+    with open('caas/colors/test.json') as f:
+        colors = json.load(f)
+
+    #colors["test"] = {}
+
+    for color in colors:
+        for attribute, value in color.items():
+            print(attribute)
+            print(value)
+
+except Exception:
+    pass
+
+
+try:
+    c = {}
     with open('caas/colors/x11_rgb.json') as f:
-        c_x11 = json.load(f)
+        c = json.load(f)
+
+    colors["x11"] = {}
 
 except Exception:
     pass
 
-
-c_xkcd = {}
 
 try:
+    c = {}
     with open("caas/colors/xkcd.json") as f:
-        c_xkcd = json.load(f)
+        c = json.load(f)
+
+    colors["xkcd"] = {}
 
 except Exception:
     pass
+
+print(colors)

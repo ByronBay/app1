@@ -1,7 +1,7 @@
 import os
 import cv2
 import pathlib
-import caas.lib
+import caas
 from scipy import spatial
 
 
@@ -9,6 +9,8 @@ def process_colors(rgb_values):
 
     # compare against known colors
     # NearestRGB = (RGB[spatial.KDTree(RGB).query(pt)[1]]) # using function from scipy spatial library.
+
+    print(caas.c_x11)
 
     returnDict = {
         'version': "1.0.0",

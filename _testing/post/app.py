@@ -50,8 +50,8 @@ def form_example():
             'networkOperatorName' : request.args.get("networkOperatorName")
         }
 
-        timestamp = caas.aux.get_timestamp()
-        uuid = caas.aux.get_uuid()
+        timestamp = caas.lib.get_timestamp()
+        uuid = caas.lib.get_uuid()
         
         directoryServer = timestamp + "_" + str(uuid) 
         fileNameServer = timestamp + "_" + str(uuid) + ".jpg"
