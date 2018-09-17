@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/Users/michaelbach/anaconda3/bin/python3",
+    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Anaconda3_64\\python.exe",
     "python.venvPath": "./venv/bin/python3",
 }

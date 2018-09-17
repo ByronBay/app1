@@ -1,6 +1,6 @@
 __all__ = ["aux", "proc"]
 
-from caas.aux import *
+from caas.lib import *
 from caas.proc import *
 
 import json

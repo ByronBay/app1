@@ -3,6 +3,8 @@ Flask tutorial: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-par
 
 ## Preparation Win
 
+set path=c:\Users\michael.bach\AppData\Local\Continuum\anaconda3;%path%
+
 ## Preparation Mac / Linux
 
 ## First run
