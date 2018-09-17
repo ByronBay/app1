@@ -18,6 +18,7 @@ try:
     #colors["test"] = {}
 
     for color in colors:
+        rgb_ = [color["r"], color["g"], color["b"]]
         for attribute, value in color.items():
             print(attribute)
             print(value)
