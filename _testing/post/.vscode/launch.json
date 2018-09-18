@@ -26,6 +26,12 @@
             "program": "${file}"
         },
         {
+            "name": "Python: dev.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/dev.py"
+        },
+        {
             "name": "Python: Attach",
             "type": "python",
             "request": "attach",
@@ -49,7 +55,6 @@
             "program": "${file}",
             "console": "externalTerminal"
         },
-        
         {
             "name": "Python: Flask (0.11.x or later)",
             "type": "python",
@@ -71,8 +76,6 @@
             "request": "launch",
             "module": "module.name"
         },
-       
-        
         {
             "name": "Python: All debug Options",
             "type": "python",

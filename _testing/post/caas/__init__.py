@@ -4,6 +4,7 @@ from caas.lib import *
 from caas.proc import *
 
 import json
+import numpy as np
 
 print("running __init__")
 
@@ -15,17 +16,21 @@ try:
     with open('caas/colors/test.json') as f:
         colors = json.load(f)
 
-    #colors["test"] = {}
+    n_colors = len(colors)
 
-    for color in colors:
-        rgb_ = [color["r"], color["g"], color["b"]]
-        for attribute, value in color.items():
-            print(attribute)
-            print(value)
+    rgbs = np.ndarray([0, 3])
+    names = []
+    comments = []
 
-except Exception:
-    pass
+    for i, color in enumerate(colors):
+        rgb_ = np.atleast_1d([color["r"], color["g"], color["b"]])
 
+        rgbs = np.vstack([1, 2, 3], rgb_)
+        names.append(color["literal name"])
+        comments.append(color["comment"])
+
+except Exception as e:
+    print(e)
 
 try:
     c = {}
