@@ -18,6 +18,10 @@ set path=c:\Users\michael.bach\AppData\Local\Continuum\anaconda3;%path%
 
 * pip freeze > requirements.txt
 
+# Jupyter notbeook
+
+* jupyter notebook
+
 # Development Web-Server
 
 * Outputs to console
