@@ -7,15 +7,16 @@ from scipy import spatial
 
 def process_colors(rgb_values):
 
-    # compare against known colors
-    # NearestRGB = (RGB[spatial.KDTree(RGB).query(pt)[1]]) # using function from scipy spatial library.
+    cd = caas.color_definitions
 
-    # print(caas.c_x11)
+    # compare against known colors
+    RGB = cd["x11"]["rgbs"]
+    # using function from scipy spatial library.
+    NearestRGB = (RGB[spatial.KDTree(RGB).query(rgb_values)[1]])
 
     returnDict = {
         'version': "1.0.0",
-        'rgb': {'value': [1, 2, 4], 'confidence': 500},
-        'hsv': {'value': [3, 4, 5], 'confidence': 400},
+        'rgb': {'value': rgb_values, 'confidence': 500},
         'ral': {'value': 12002, 'confidence': 0},
         'fashion': {'value': 'peach', 'confidence': 200}
     }

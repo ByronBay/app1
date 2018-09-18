@@ -6,51 +6,39 @@ from caas.proc import *
 import json
 import numpy as np
 
-print("running __init__")
-
-colors = {}
+color_definitions = {}
 
 
-try:
-    colors = {}
-    with open('caas/colors/test.json') as f:
-        colors = json.load(f)
+def import_color_definitions(name, pfnColorDefinition, colors_collected):
 
-    n_colors = len(colors)
+    try:
 
-    rgbs = np.ndarray([0, 3])
-    names = []
-    comments = []
+        colors_from_file = {}
+        with open(pfnColorDefinition) as f:
+            colors_from_file = json.load(f)
 
-    for i, color in enumerate(colors):
-        rgb_ = np.atleast_1d([color["r"], color["g"], color["b"]])
+        n_colors = len(colors_from_file)
 
-        rgbs = np.vstack([1, 2, 3], rgb_)
-        names.append(color["literal name"])
-        comments.append(color["comment"])
+        rgbs = np.array([])
+        names = []
+        comments = []
 
-except Exception as e:
-    print(e)
+        for single_color in colors_from_file:
+            rgb_ = np.atleast_1d(
+                [single_color["r"], single_color["g"], single_color["b"]])
 
-try:
-    c = {}
-    with open('caas/colors/x11_rgb.json') as f:
-        c = json.load(f)
+            rgbs = np.append(rgbs, rgb_)
+            names.append(single_color["literal name"])
+            comments.append(single_color["comment"])
 
-    colors["x11"] = {}
+        rgbs = np.reshape(rgbs, (n_colors, -1))
+    except Exception as e:
+        print(e)
 
-except Exception:
-    pass
+    colors_collected[name] = {"rgbs": rgbs,
+                              "names": names, "comments": comments}
 
 
-try:
-    c = {}
-    with open("caas/colors/xkcd.json") as f:
-        c = json.load(f)
-
-    colors["xkcd"] = {}
-
-except Exception:
-    pass
-
-print(colors)
+import_color_definitions("test", "caas/colors/test.json", color_definitions)
+import_color_definitions("x11", "caas/colors/x11_rgb.json", color_definitions)
+import_color_definitions("xkcd", "caas/colors/xkcd.json", color_definitions)
