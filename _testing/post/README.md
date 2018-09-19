@@ -1,5 +1,6 @@
 # microblog
-Flask tutorial: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+<https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world>
 
 ## Preparation Win
 
@@ -9,20 +10,20 @@ set path=c:\Users\michael.bach\AppData\Local\Continuum\anaconda3;%path%
 
 ## First run
 
-* git clone https://github.com/ByronBay/app1.git
+* git clone <https://github.com/ByronBay/app1.git>
 * python -m venv venv
 * source venv/bin/activate
 * pip install -r requirements.txt
 
-# Create pip requirements
+## Create pip requirements
 
 * pip freeze > requirements.txt
 
-# Jupyter notbeook
+## Jupyter notbeook
 
 * jupyter notebook
 
-# Development Web-Server
+## Development Web-Server
 
 * Outputs to console
 * python -m smtpd -n -c DebuggingServer localhost:8025
@@ -32,6 +33,6 @@ set path=c:\Users\michael.bach\AppData\Local\Continuum\anaconda3;%path%
 
 * export MAIL_SERVER=localhost ; export MAIL_PORT=8025
 
-# Flask shell
+## Flask shell
 
 * flask shell
