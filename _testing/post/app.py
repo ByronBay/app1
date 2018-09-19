@@ -67,7 +67,7 @@ def form_example():
         print(pfnImageServer)
         print("3---")
 
-        resultData = caas.proc.process_image(directoryServer, pfnImageServer)
+        resultData = caas.proc.process_image_for_color(directoryServer, pfnImageServer)
 
         data = {
 			'meta' : {

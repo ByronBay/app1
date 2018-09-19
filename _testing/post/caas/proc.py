@@ -17,7 +17,7 @@ def color_to_json(scheme, index, rgb):
     return returnDict
 
 
-def process_colors(rgb_values):
+def process_colors(workingPath, imagePathFilename, rgb_values):
 
     cd = caas.color_definitions
 
@@ -70,7 +70,7 @@ def process_colors(rgb_values):
 
 # imagePath, imagePathFilename
 
-def process_image(workingPath, imagePathFilename):
+def process_image_for_color(workingPath, imagePathFilename):
 
     # load image
     print("Load image : " + imagePathFilename)
@@ -98,12 +98,23 @@ def process_main(imagePath, imagePathFilename):
     pathlib.Path(workingPath).mkdir(parents=True, exist_ok=True)
 
     # process image
-    rgb = process_image(workingPath, imagePathFilename)
+    rgb = process_image_for_color(workingPath, imagePathFilename)
 
     # process colors
-    returnDict = process_colors(rgb)
+    result_color = process_colors(workingPath, imagePathFilename, rgb)
 
     # generate return value in case of errors
     # TBD
+
+    returnDict = {}
+
+    returnDict["version"] = {
+        "number": "1.0.0",
+        "description": "first version of result consolidation"
+    }
+
+    returnDict["results"] = {
+        "color" : result_color
+    }
 
     return returnDict
