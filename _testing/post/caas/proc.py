@@ -17,7 +17,7 @@ def color_to_json(scheme, index, rgb):
     return returnDict
 
 
-def process_colors(workingPath, imagePathFilename, rgb_values):
+def color_from_rgb(workingPath, imagePathFilename, rgb_values):
 
     cd = caas.color_definitions
 
@@ -70,7 +70,7 @@ def process_colors(workingPath, imagePathFilename, rgb_values):
 
 # imagePath, imagePathFilename
 
-def process_image_for_color(workingPath, imagePathFilename):
+def rgb_from_image(workingPath, imagePathFilename):
 
     # load image
     print("Load image : " + imagePathFilename)
@@ -79,11 +79,11 @@ def process_image_for_color(workingPath, imagePathFilename):
 
     thumbnail = cv2.resize(img, (128, 128), interpolation=cv2.INTER_CUBIC)
 
-    cv2.imwrite(os.path.join(workingPath, "thumbnail.jpg"), thumbnail)
+    cv2.imwrite(os.path.join(workingPath, "thumbnail.png"), thumbnail)
 
     imgProc = cv2.resize(img, (128*3, 128*3), interpolation=cv2.INTER_CUBIC)
 
-    cv2.imwrite(os.path.join(workingPath, "proc.jpg"), imgProc)
+    cv2.imwrite(os.path.join(workingPath, "proc.png"), imgProc)
 
     return [100, 150, 200]
 
@@ -98,10 +98,10 @@ def process_main(imagePath, imagePathFilename):
     pathlib.Path(workingPath).mkdir(parents=True, exist_ok=True)
 
     # process image
-    rgb = process_image_for_color(workingPath, imagePathFilename)
+    rgb = rgb_from_image(workingPath, imagePathFilename)
 
     # process colors
-    result_color = process_colors(workingPath, imagePathFilename, rgb)
+    result_color = color_from_rgb(workingPath, imagePathFilename, rgb)
 
     # generate return value in case of errors
     # TBD
@@ -114,7 +114,7 @@ def process_main(imagePath, imagePathFilename):
     }
 
     returnDict["results"] = {
-        "color" : result_color
+        "color": result_color
     }
 
     return returnDict
