@@ -4,7 +4,7 @@ import pathlib
 import caas
 from scipy import spatial
 import numpy as np
-
+import json
 
 def color_to_json(scheme, index, rgb):
 
@@ -17,7 +17,9 @@ def color_to_json(scheme, index, rgb):
     return returnDict
 
 
-def color_from_rgb(workingPath, imagePathFilename, rgb_values):
+def color_from_rgb(workingPath, imagePathFilename, result_image):
+
+    rgb_values = result_image["rgb"]
 
     cd = caas.color_definitions
 
@@ -77,15 +79,29 @@ def rgb_from_image(workingPath, imagePathFilename):
 
     img = cv2.imread(imagePathFilename, cv2.IMREAD_COLOR)
 
+    # make thumbnail, possibly for downloading to phone
     thumbnail = cv2.resize(img, (128, 128), interpolation=cv2.INTER_CUBIC)
 
-    cv2.imwrite(os.path.join(workingPath, "thumbnail.png"), thumbnail)
+    pfnThumbnail = os.path.join(workingPath, "thumbnail.png") 
 
+    cv2.imwrite( pfnThumbnail, thumbnail)
+
+    # cur out inner third 
     imgProc = cv2.resize(img, (128*3, 128*3), interpolation=cv2.INTER_CUBIC)
+    imgProc = imgProc[128:256, 128:256]
 
-    cv2.imwrite(os.path.join(workingPath, "proc.png"), imgProc)
+    pfnProc = os.path.join(workingPath, "proc.png")
 
-    return [100, 150, 200]
+    cv2.imwrite(pfnProc, imgProc)
+
+    
+    # done
+    return {
+        "thumbnail": pfnThumbnail,
+        "processing": pfnProc,
+        "rgb" :[100, 150, 200] 
+    }
+    
 
 
 def process_main(imagePath, imagePathFilename):
@@ -98,10 +114,10 @@ def process_main(imagePath, imagePathFilename):
     pathlib.Path(workingPath).mkdir(parents=True, exist_ok=True)
 
     # process image
-    rgb = rgb_from_image(workingPath, imagePathFilename)
+    result_image = rgb_from_image(workingPath, imagePathFilename)
 
     # process colors
-    result_color = color_from_rgb(workingPath, imagePathFilename, rgb)
+    result_color = color_from_rgb(workingPath, imagePathFilename, result_image)
 
     # generate return value in case of errors
     # TBD
@@ -116,5 +132,11 @@ def process_main(imagePath, imagePathFilename):
     returnDict["results"] = {
         "color": result_color
     }
+
+    pfnReturnDict = os.path.join(workingPath, "return_dict.json.txt")
+
+    #with open(pfnReturnDict, 'w') as file:
+    #    #print(json.dumps(returnDict))
+    #    file.write("test")#json.dumps(returnDict)) 
 
     return returnDict
