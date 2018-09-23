@@ -2,16 +2,28 @@ import os
 import cv2
 import pathlib
 import caas
+from caas.lib import *
 from scipy import spatial
 import numpy as np
 import json
+from sklearn.cluster import KMeans
+from sklearn import metrics
+
 
 def color_to_json(scheme, index, rgb):
 
+    rgb_array = caas.color_definitions[scheme]["rgbs"][index]
+    
+    rgb = rgb_array.tolist()
+
+    diff_array = caas.color_definitions[scheme]["rgbs"][index]-rgb
+
+    diff = diff_array.tolist()
+
     returnDict = {
-        'rgb': caas.color_definitions[scheme]["rgbs"][index],
+        'rgb': rgb,
         'name': caas.color_definitions[scheme]["names"][index],
-        'diff': caas.color_definitions[scheme]["rgbs"][index]-rgb
+        'diff': diff
     }
 
     return returnDict
@@ -67,6 +79,8 @@ def color_from_rgb(workingPath, imagePathFilename, result_image):
         }
     }
 
+    #print(json.dumps(color))
+
     return color
 
 
@@ -94,13 +108,52 @@ def rgb_from_image(workingPath, imagePathFilename):
 
     cv2.imwrite(pfnProc, imgProc)
 
-    
-    # done
-    return {
+    ####
+
+    clusters = 3
+
+    # Reshape the image to be a list of pixels
+    image_array = imgProc.reshape((imgProc.shape[0] * imgProc.shape[1], 3))
+    print(image_array)
+    # Clusters the pixels
+    clt = KMeans(n_clusters=clusters)
+    clt.fit(image_array)
+
+    print("clustering done")
+
+    # Finds how many pixels are in each cluster
+    hist = centroid_histogram(clt)
+
+    print("histogram done")
+
+    # Sort the clusters according to how many pixel they have
+    #zipped = zip(hist, clt.cluster_centers_)
+    #zipped.sort(reverse=True, key=lambda x: x[0])
+    zipped = sorted(zip(hist, clt.cluster_centers_), key=lambda x: x[0])
+
+    hist, clt.cluster_centers = zip(*zipped)
+
+    silhouette = metrics.silhouette_score(
+    image_array, clt.labels_, metric='euclidean')
+
+    print("Cluster: {} , Silhouette {}".format(clusters, silhouette))
+
+    print("sorting done")
+
+    # Todo: find center: ie. most representative rgb-triple
+
+    ####
+
+    returnDict = {
         "thumbnail": pfnThumbnail,
         "processing": pfnProc,
         "rgb" :[100, 150, 200] 
-    }
+    } 
+    
+    print(json.dumps(returnDict))
+
+    # done
+    return returnDict
     
 
 
@@ -112,6 +165,12 @@ def process_main(imagePath, imagePathFilename):
     workingPath = os.path.join(imagePath, timestamp)
 
     pathlib.Path(workingPath).mkdir(parents=True, exist_ok=True)
+
+    # here: determine wether image is an inquiry for color or a reference image
+    # reference images have marker in it
+
+    #  = check_for_marker(workingPath, imagePathFilename)
+
 
     # process image
     result_image = rgb_from_image(workingPath, imagePathFilename)
@@ -134,6 +193,8 @@ def process_main(imagePath, imagePathFilename):
     }
 
     pfnReturnDict = os.path.join(workingPath, "return_dict.json.txt")
+
+    print(json.dumps(returnDict))
 
     #with open(pfnReturnDict, 'w') as file:
     #    #print(json.dumps(returnDict))

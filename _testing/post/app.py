@@ -53,6 +53,8 @@ def form_example():
             'networkOperatorName': request.args.get("networkOperatorName")
         }
 
+        print(deviceInformation)
+
         timestamp = caas.lib.get_timestamp()
         uuid = caas.lib.get_uuid()
 
@@ -70,7 +72,7 @@ def form_example():
         print(pfnImageServer)
         print("3---")
 
-        resultData = caas.proc.rgb_from_image(directoryServer, pfnImageServer)
+        resultData = caas.proc.process_main(directoryServer, pfnImageServer)
 
         data = {
             'meta': {

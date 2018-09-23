@@ -36,3 +36,11 @@ set path=c:\Users\michael.bach\AppData\Local\Continuum\anaconda3;%path%
 ## Flask shell
 
 * flask shell
+
+## Setting for mac / linux
+
+```json
+{
+    "python.pythonPath": "${workspaceFolder}/venv/bin/python"
+}
+```
