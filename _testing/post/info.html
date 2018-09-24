@@ -11,24 +11,27 @@
   <script type="text/javascript">
     // print the result to the page title
 
-    var navAppCodeName = {navAppCodeName: navigator.appCodeName};
-    var navAppName = {navAppName: navigator.appName};
-    var navAppVersion = {navAppVersion: navigator.appVersion};
-    var navCookiesEnabled = {navCookiesEnabled: navigator.cookieEnabled};
-    var navGeolocation = {navGeolocation: navigator.geolocation};
-    var navLanguage = {navLanguage: navigator.language};
-    var navOnLine = {navOnLine: navigator.onLine};
-    var navPlatform = {navPlatform: navigator.platform};
-    var navProduct = {navProduct: navigator.product};
-    var navUserAgent = {navUserAgent: navigator.userAgent};
-    var navVendor = {navVendor: navigator.vendor}; 
+    const navAppCodeName = {navAppCodeName: navigator.appCodeName};
+    const navAppName = {navAppName: navigator.appName};
+    const navAppVersion = {navAppVersion: navigator.appVersion};
+    const navCookiesEnabled = {navCookiesEnabled: navigator.cookieEnabled};
+    const navGeolocation = {navGeolocation: navigator.geolocation};
+    const navLanguage = {navLanguage: navigator.language};
+    const navOnLine = {navOnLine: navigator.onLine};
+    const navPlatform = {navPlatform: navigator.platform};
+    const navProduct = {navProduct: navigator.product};
+    const navUserAgent = {navUserAgent: navigator.userAgent};
+    const navVendor = {navVendor: navigator.vendor}; 
 
-    navAll = Object.assign({}, navAppCodeName, navAppName, navAppVersion, navCookiesEnabled, navGeolocation, navLanguage, navOnLine, navPlatform, navProduct, navUserAgent, navVendor);
-    
+    navAll = [navAppCodeName, navAppName, navAppVersion, navCookiesEnabled, navGeolocation, navLanguage, navOnLine, navPlatform, navProduct, navUserAgent, navVendor]
+
     text = JSON.stringify(navAll)
-    
-    window.document.title = text;
+    textEncode = encodeURIComponent(text)
+
+    window.document.title = textEncode;
     window.document.writeln(text);
+    window.document.writeln(textEncode);
+
   
 </script>
   
