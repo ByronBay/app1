@@ -10,8 +10,27 @@
 <body>
   <script type="text/javascript">
     // print the result to the page title
-    window.document.title = navigator.appVersion + ";language=" + navigator.language;
-  </script>
+
+    var navAppCodeName = {navAppCodeName: navigator.appCodeName};
+    var navAppName = {navAppName: navigator.appName};
+    var navAppVersion = {navAppVersion: navigator.appVersion};
+    var navCookiesEnabled = {navCookiesEnabled: navigator.cookieEnabled};
+    var navGeolocation = {navGeolocation: navigator.geolocation};
+    var navLanguage = {navLanguage: navigator.language};
+    var navOnLine = {navOnLine: navigator.onLine};
+    var navPlatform = {navPlatform: navigator.platform};
+    var navProduct = {navProduct: navigator.product};
+    var navUserAgent = {navUserAgent: navigator.userAgent};
+    var navVendor = {navVendor: navigator.vendor}; 
+
+    navAll = Object.assign({}, navAppCodeName, navAppName, navAppVersion, navCookiesEnabled, navGeolocation, navLanguage, navOnLine, navPlatform, navProduct, navUserAgent, navVendor);
+    
+    text = JSON.stringify(navAll)
+    
+    window.document.title = text;
+    window.document.writeln(text);
+  
+</script>
   
 </body>
 </html>
