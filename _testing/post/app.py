@@ -46,16 +46,26 @@ def form_example():
         print("1---")
 
         imageData = request.get_data()
+
         deviceInformation = {
             "fileName": request.args.get("fileName"),
             "deviceID": request.args.get("deviceID"),
             "simSerialNumber": request.args.get("simSerialNumber"),
             "phoneNumber": request.args.get("phoneNumber"),
             "networkOperatorName": request.args.get("networkOperatorName"),
-            "browserNavAttributes": request.args.get("browserNavAttributes")
+            "browserNavAttributes": request.args.get("browserNavAttributes"),
+            "locationSensor" : request.args.get("locationSensor"),
+            "timeNow" : request.args.get("timeNow"),
+            "timeSystem" : request.args.get("timeSystem")
         }
 
-        print(json.dumps(deviceInformation))
+        print(deviceInformation["locationSensor"])
+        
+        print("13--")
+
+        print(deviceInformation)
+
+        print("15--")
 
         timestamp = caas.lib.get_timestamp()
         uuid = caas.lib.get_uuid()
@@ -86,7 +96,14 @@ def form_example():
             'result': resultData
         }
 
-        return jsonify(data)
+        returnData = jsonify(data)
+
+        print("4---")
+        print(data)
+        print("5---")
+
+
+        return returnData
 
     return '''request was not post'''
 
