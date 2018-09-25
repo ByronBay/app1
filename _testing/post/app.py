@@ -13,6 +13,7 @@ from flask import Flask, request, jsonify
 import pathlib
 import os
 import caas
+import json
 
 app = Flask(__name__)  # create the Flask app
 
@@ -46,14 +47,15 @@ def form_example():
 
         imageData = request.get_data()
         deviceInformation = {
-            'fileName': request.args.get("fileName"),
-            'deviceID': request.args.get("deviceID"),
-            'simSerialNumber': request.args.get("simSerialNumber"),
-            'phoneNumber': request.args.get("phoneNumber"),
-            'networkOperatorName': request.args.get("networkOperatorName")
+            "fileName": request.args.get("fileName"),
+            "deviceID": request.args.get("deviceID"),
+            "simSerialNumber": request.args.get("simSerialNumber"),
+            "phoneNumber": request.args.get("phoneNumber"),
+            "networkOperatorName": request.args.get("networkOperatorName"),
+            "browserNavAttributes": request.args.get("browserNavAttributes")
         }
 
-        print(deviceInformation)
+        print(json.dumps(deviceInformation))
 
         timestamp = caas.lib.get_timestamp()
         uuid = caas.lib.get_uuid()
