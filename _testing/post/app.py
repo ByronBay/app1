@@ -84,7 +84,8 @@ def form_example():
         print(pfnImageServer)
         print("3---")
 
-        resultData = caas.proc.process_main(directoryServer, pfnImageServer)
+        resultData = {}
+        #resultData = caas.proc.process_main(directoryServer, pfnImageServer)
 
         data = {
             'meta': {
@@ -93,7 +94,8 @@ def form_example():
                 'filenameServer': pfnImageServer
             },
             'device': deviceInformation,
-            'result': resultData
+            'result': resultData,
+            'result_simple' : ["text", 250,100,200]
         }
 
         returnData = jsonify(data)
