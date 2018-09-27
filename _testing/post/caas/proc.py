@@ -6,6 +6,7 @@ from caas.lib import *
 from scipy import spatial
 import numpy as np
 import json
+from random import randint
 from sklearn.cluster import KMeans
 from sklearn import metrics
 
@@ -149,12 +150,20 @@ def rgb_from_image(workingPath, imagePathFilename):
         "processing": pfnProc,
         "rgb" :[100, 150, 200] 
     } 
-    
-    print(json.dumps(returnDict))
-
+        
     # done
     return returnDict
     
+
+def rgb_from_image_dev(workingPath, imagePathFilename):
+    
+    returnDict = {
+        "thumbnail": "na",
+        "processing": "na",
+        "rgb" :[randint(0,255), randint(0,255), randint(0,255)] 
+    }
+
+    return returnDict
 
 
 def process_main(imagePath, imagePathFilename):
@@ -173,6 +182,7 @@ def process_main(imagePath, imagePathFilename):
 
 
     # process image
+    #result_image = rgb_from_image_dev(workingPath, imagePathFilename)
     result_image = rgb_from_image(workingPath, imagePathFilename)
 
     # process colors

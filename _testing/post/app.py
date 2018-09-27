@@ -84,8 +84,16 @@ def form_example():
         print(pfnImageServer)
         print("3---")
 
-        resultData = {}
-        #resultData = caas.proc.process_main(directoryServer, pfnImageServer)
+        #resultData = {}
+        resultData = caas.proc.process_main(directoryServer, pfnImageServer)
+
+        print("34--")
+
+        print(resultData)
+
+        print("35--")
+
+        best_color = resultData["results"]["color"]["results"]["best"]
 
         data = {
             'meta': {
@@ -95,7 +103,7 @@ def form_example():
             },
             'device': deviceInformation,
             'result': resultData,
-            'result_simple' : ["text", 250,100,200]
+            'result_simple' : [ "Your color is called \n{}\n and comes from the color-scheme\n{}.".format(best_color["name"],best_color["scheme"]), best_color["rgb"][0], best_color["rgb"][1], best_color["rgb"][2]]
         }
 
         returnData = jsonify(data)
