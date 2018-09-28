@@ -2,7 +2,7 @@ import datetime
 import uuid
 import numpy as np
 import json
-from caas import color_definitions
+import caas
 
 
 def color_to_json(scheme, index, rgb):

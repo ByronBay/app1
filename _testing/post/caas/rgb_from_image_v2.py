@@ -1,8 +1,10 @@
 import cv2
 import os
+
 from sklearn.cluster import KMeans
 from sklearn import metrics
 from caas.lib import centroid_histogram
+import numpy as np
 
 
 def run(path_to_current_image, path_and_filename_to_current_image):
@@ -23,46 +25,47 @@ def run(path_to_current_image, path_and_filename_to_current_image):
     imgProc = cv2.resize(img, (128*3, 128*3), interpolation=cv2.INTER_CUBIC)
     imgProc = imgProc[128:256, 128:256]
 
-    pfnProc = os.path.join(path_to_current_image, "proc.png")
-
+    pfnProc = os.path.join(path_to_current_image, "proc_rgb.png")
     cv2.imwrite(pfnProc, imgProc)
 
     ####
 
-    clusters = 3
-
     # Reshape the image to be a list of pixels
     image_array = imgProc.reshape((imgProc.shape[0] * imgProc.shape[1], 3))
     print(image_array)
-    # Clusters the pixels
-    clt = KMeans(n_clusters=clusters)
-    clt.fit(image_array)
 
-    print("clustering done")
+    silhouette_max = -1
+    bgr_win = []
 
-    # Finds how many pixels are in each cluster
-    hist = centroid_histogram(clt)
+    for clusters in range(2, 11):
 
-    print("histogram done")
+        # Clusters the pixels
+        clt = KMeans(n_clusters=clusters)
+        clt.fit(image_array)
 
-    # Sort the clusters according to how many pixel they have
-    #zipped = zip(hist, clt.cluster_centers_)
-    #zipped.sort(reverse=True, key=lambda x: x[0])
-    zipped = sorted(zip(hist, clt.cluster_centers_),
-                    reverse=True, key=lambda x: x[0])
+        # Finds how many pixels are in each cluster
+        hist = centroid_histogram(clt)
 
-    hist, clt.cluster_centers = zip(*zipped)
+        # Sort the clusters according to how many pixel they have
+        zipped = sorted(zip(hist, clt.cluster_centers_),
+                        reverse=True, key=lambda x: x[0])
 
-    silhouette = metrics.silhouette_score(
-        image_array, clt.labels_, metric='euclidean')
+        hist, clt.cluster_centers = zip(*zipped)
 
-    print("Cluster: {} , Silhouette {}".format(clusters, silhouette))
+        silhouette = metrics.silhouette_score(
+            image_array, clt.labels_, metric='euclidean', sample_size=2500)
 
-    bgr_win = clt.cluster_centers[0]
+        bgr = clt.cluster_centers[0]
 
-    print("sorting done")
+        if silhouette > silhouette_max:
+            silhouette_max = silhouette
+            bgr_win = bgr
 
-    # Todo: find center: ie. most representative rgb-triple
+        print("Cluster: {} , Silhouette: {}, bgr: {}".format(
+            clusters, silhouette, bgr_win))
+
+    print("iterating done, winning cluster-values:")
+    print("Silhouette: {}, bgr: {}".format(silhouette_max, bgr_win))
 
     ####
 

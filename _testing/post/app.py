@@ -13,6 +13,8 @@ from flask import Flask, request, jsonify
 import pathlib
 import os
 import caas
+import caas.lib
+import caas.proc
 import json
 
 app = Flask(__name__)  # create the Flask app
@@ -20,9 +22,13 @@ app = Flask(__name__)  # create the Flask app
 
 def monitor_results(func):
     def wrapper(*func_args, **func_kwargs):
+        print("===")
         print('function call ' + func.__name__ + '()')
+        print("---")
         retval = func(*func_args, **func_kwargs)
+        print("---")
         print('function ' + func.__name__ + '() returns ' + repr(retval))
+        print("===")
         return retval
     wrapper.__name__ = func.__name__
     return wrapper
@@ -54,18 +60,20 @@ def form_example():
             "phoneNumber": request.args.get("phoneNumber"),
             "networkOperatorName": request.args.get("networkOperatorName"),
             "browserNavAttributes": request.args.get("browserNavAttributes"),
-            "locationSensor" : request.args.get("locationSensor"),
-            "timeNow" : request.args.get("timeNow"),
-            "timeSystem" : request.args.get("timeSystem")
+            "locationSensor": request.args.get("locationSensor"),
+            "timeNow": request.args.get("timeNow"),
+            "timeSystem": request.args.get("timeSystem")
         }
 
         print(deviceInformation["locationSensor"])
-        
+
         print("13--")
 
         print(deviceInformation)
 
         print("15--")
+
+        # prepare file locations
 
         timestamp = caas.lib.get_timestamp()
         uuid = caas.lib.get_uuid()
@@ -75,21 +83,31 @@ def form_example():
         directory_name_of_current_image = timestamp + "_" + str(uuid)
         filename_of_current_image = timestamp + "_" + str(uuid) + ".jpg"
 
-        path_and_filename_to_current_image = os.path.join(location_prefix_of_data_directories, directory_name_of_current_image, filename_of_current_image)
-        path_to_current_image = os.path.join(location_prefix_of_data_directories, directory_name_of_current_image)
+        path_and_filename_to_current_image = os.path.join(
+            location_prefix_of_data_directories, directory_name_of_current_image, filename_of_current_image)
+        path_to_current_image = os.path.join(
+            location_prefix_of_data_directories, directory_name_of_current_image)
         pathlib.Path(path_to_current_image).mkdir(parents=True, exist_ok=True)
+
+        # write information
 
         newFile = open(path_and_filename_to_current_image, 'wb')
         newFile.write(imageData)
         newFile.close()
 
+        with open(os.path.join(path_to_current_image, 'deviceInformation.json'), 'w') as fp:
+            json.dump(deviceInformation, fp)
+
         print("2---")
-        print("path_and_filename_to_current_image : {}".format(path_and_filename_to_current_image))
-        print("path_to_current_image              : {}".format(path_to_current_image))
+        print("path_and_filename_to_current_image : {}".format(
+            path_and_filename_to_current_image))
+        print("path_to_current_image              : {}".format(
+            path_to_current_image))
         print("3---")
 
         #resultData = {}
-        resultData = caas.proc.process_main(path_to_current_image, path_and_filename_to_current_image)
+        resultData = caas.proc.process_main(
+            path_to_current_image, path_and_filename_to_current_image)
 
         print("34--")
 
@@ -107,15 +125,23 @@ def form_example():
             },
             'device': deviceInformation,
             'result': resultData,
-            'result_simple' : [ "Your color is called \n{}\n and comes from the color-scheme\n{}.".format(best_color["name"],best_color["scheme"]), best_color["rgb"][0], best_color["rgb"][1], best_color["rgb"][2]]
+            'result_simple': [
+                "Your color is called \n{}\n and comes from the color-scheme\n{}.".format(
+                    best_color["name"], best_color["scheme"]),
+                best_color["rgb"][0],
+                best_color["rgb"][1],
+                best_color["rgb"][2]
+            ]
         }
 
         returnData = jsonify(data)
 
+        with open(os.path.join(resultData["results"]["workingPath"], 'returnData.json'), 'w') as fp:
+            json.dump(repr(data), fp)
+
         print("4---")
         print(data)
         print("5---")
-
 
         return returnData
 

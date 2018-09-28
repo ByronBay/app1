@@ -1,25 +1,19 @@
 import os
-import caas
+import caas.proc
 
 folders = []
 files = []
 
 
-for entry in os.scandir('.data'):
+for entry in os.scandir('./data/'):
 
     if not entry.is_dir():
         continue
 
-    first_n_cahr = entry.path[0:5]
-
-    # any path with 201 in the beginning is most likely a path with an image to process in
-    if first_n_cahr.find("201") < 0:
-        continue
-
     imagePath = entry.path
-    imagePathFilename = os.path.join(imagePath, imagePath[2:]+'.jpg')
+    imagePathFilename = os.path.join(imagePath, imagePath[7:]+'.jpg')
 
-    print(imagePathFilename)
+    print("imagePathFilename  : {}".format(imagePathFilename))
 
     #rgb = [171, 195, 218]
     #result_to_phone = caas.proc.process_colors(rgb)

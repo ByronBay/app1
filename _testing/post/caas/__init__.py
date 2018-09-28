@@ -1,8 +1,3 @@
-__all__ = ["lib", "proc"]
-
-from caas.lib import *
-from caas.proc import *
-
 import json
 import numpy as np
 
