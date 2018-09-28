@@ -130,7 +130,7 @@ def rgb_from_image(workingPath, imagePathFilename):
     # Sort the clusters according to how many pixel they have
     #zipped = zip(hist, clt.cluster_centers_)
     #zipped.sort(reverse=True, key=lambda x: x[0])
-    zipped = sorted(zip(hist, clt.cluster_centers_), key=lambda x: x[0])
+    zipped = sorted(zip(hist, clt.cluster_centers_), reverse=True, key=lambda x: x[0])
 
     hist, clt.cluster_centers = zip(*zipped)
 
@@ -138,6 +138,8 @@ def rgb_from_image(workingPath, imagePathFilename):
     image_array, clt.labels_, metric='euclidean')
 
     print("Cluster: {} , Silhouette {}".format(clusters, silhouette))
+
+    bgr_win = clt.cluster_centers[0]
 
     print("sorting done")
 
@@ -148,7 +150,7 @@ def rgb_from_image(workingPath, imagePathFilename):
     returnDict = {
         "thumbnail": pfnThumbnail,
         "processing": pfnProc,
-        "rgb" :[100, 150, 200] 
+        "rgb" :[bgr_win[2], bgr_win[1], bgr_win[0]] 
     } 
         
     # done
