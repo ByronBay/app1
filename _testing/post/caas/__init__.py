@@ -34,6 +34,6 @@ def import_color_definitions(name, pfnColorDefinition, colors_collected):
                               "names": names, "comments": comments}
 
 
-#import_color_definitions("test", "caas/colors/test.json", color_definitions)
+# import_color_definitions("test", "caas/colors/test.json", color_definitions)
 import_color_definitions("x11", "caas/colors/x11_rgb.json", color_definitions)
 import_color_definitions("xkcd", "caas/colors/xkcd.json", color_definitions)

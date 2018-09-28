@@ -46,8 +46,8 @@ def run(path_to_current_image, path_and_filename_to_current_image):
     print("histogram done")
 
     # Sort the clusters according to how many pixel they have
-    #zipped = zip(hist, clt.cluster_centers_)
-    #zipped.sort(reverse=True, key=lambda x: x[0])
+    # zipped = zip(hist, clt.cluster_centers_)
+    # zipped.sort(reverse=True, key=lambda x: x[0])
     zipped = sorted(zip(hist, clt.cluster_centers_),
                     reverse=True, key=lambda x: x[0])
 

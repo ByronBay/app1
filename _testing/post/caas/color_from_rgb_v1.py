@@ -3,6 +3,7 @@ import numpy as np
 
 import caas
 
+
 def run(workingPath, imagePathFilename, result_image):
 
     rgb_values = result_image["rgb"]

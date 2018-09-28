@@ -105,7 +105,7 @@ def form_example():
             path_to_current_image))
         print("3---")
 
-        #resultData = {}
+        # resultData = {}
         resultData = caas.proc.process_main(
             path_to_current_image, path_and_filename_to_current_image)
 

@@ -15,9 +15,6 @@ for entry in os.scandir('./data/'):
 
     print("imagePathFilename  : {}".format(imagePathFilename))
 
-    #rgb = [171, 195, 218]
-    #result_to_phone = caas.proc.process_colors(rgb)
-
     result_to_phone = caas.proc.process_main(imagePath, imagePathFilename)
 
     print(result_to_phone)
