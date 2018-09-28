@@ -9,12 +9,12 @@ import json
 from random import randint
 from sklearn.cluster import KMeans
 from sklearn import metrics
-
+import rgb_from_image_v1
 
 def color_to_json(scheme, index, rgb):
 
     rgb_array = caas.color_definitions[scheme]["rgbs"][index]
-    
+
     rgb = rgb_array.tolist()
 
     diff_array = caas.color_definitions[scheme]["rgbs"][index]-rgb
@@ -80,32 +80,30 @@ def color_from_rgb(workingPath, imagePathFilename, result_image):
         }
     }
 
-    #print(json.dumps(color))
+    # print(json.dumps(color))
 
     return color
 
 
-# imagePath, imagePathFilename
-
-def rgb_from_image(workingPath, imagePathFilename):
+def rgb_from_image_v1(path_to_current_image, path_and_filename_to_current_image):
 
     # load image
-    print("Load image : " + imagePathFilename)
+    print("Load image : " + path_and_filename_to_current_image)
 
-    img = cv2.imread(imagePathFilename, cv2.IMREAD_COLOR)
+    img = cv2.imread(path_and_filename_to_current_image, cv2.IMREAD_COLOR)
 
     # make thumbnail, possibly for downloading to phone
     thumbnail = cv2.resize(img, (128, 128), interpolation=cv2.INTER_CUBIC)
 
-    pfnThumbnail = os.path.join(workingPath, "thumbnail.png") 
+    pfnThumbnail = os.path.join(path_to_current_image, "thumbnail.png")
 
-    cv2.imwrite( pfnThumbnail, thumbnail)
+    cv2.imwrite(pfnThumbnail, thumbnail)
 
-    # cur out inner third 
+    # cur out inner third
     imgProc = cv2.resize(img, (128*3, 128*3), interpolation=cv2.INTER_CUBIC)
     imgProc = imgProc[128:256, 128:256]
 
-    pfnProc = os.path.join(workingPath, "proc.png")
+    pfnProc = os.path.join(path_to_current_image, "proc.png")
 
     cv2.imwrite(pfnProc, imgProc)
 
@@ -130,12 +128,13 @@ def rgb_from_image(workingPath, imagePathFilename):
     # Sort the clusters according to how many pixel they have
     #zipped = zip(hist, clt.cluster_centers_)
     #zipped.sort(reverse=True, key=lambda x: x[0])
-    zipped = sorted(zip(hist, clt.cluster_centers_), reverse=True, key=lambda x: x[0])
+    zipped = sorted(zip(hist, clt.cluster_centers_),
+                    reverse=True, key=lambda x: x[0])
 
     hist, clt.cluster_centers = zip(*zipped)
 
     silhouette = metrics.silhouette_score(
-    image_array, clt.labels_, metric='euclidean')
+        image_array, clt.labels_, metric='euclidean')
 
     print("Cluster: {} , Silhouette {}".format(clusters, silhouette))
 
@@ -150,30 +149,30 @@ def rgb_from_image(workingPath, imagePathFilename):
     returnDict = {
         "thumbnail": pfnThumbnail,
         "processing": pfnProc,
-        "rgb" :[bgr_win[2], bgr_win[1], bgr_win[0]] 
-    } 
-        
+        "rgb": [bgr_win[2], bgr_win[1], bgr_win[0]]
+    }
+
     # done
     return returnDict
-    
+
 
 def rgb_from_image_dev(workingPath, imagePathFilename):
-    
+
     returnDict = {
         "thumbnail": "na",
         "processing": "na",
-        "rgb" :[randint(0,255), randint(0,255), randint(0,255)] 
+        "rgb": [randint(0, 255), randint(0, 255), randint(0, 255)]
     }
 
     return returnDict
 
 
-def process_main(imagePath, imagePathFilename):
+def process_main(path_to_current_image, path_and_filename_to_current_image):
 
     # make working dir
     timestamp = caas.lib.get_timestamp()
 
-    workingPath = os.path.join(imagePath, timestamp)
+    workingPath = os.path.join(path_to_current_image, timestamp)
 
     pathlib.Path(workingPath).mkdir(parents=True, exist_ok=True)
 
@@ -182,13 +181,14 @@ def process_main(imagePath, imagePathFilename):
 
     #  = check_for_marker(workingPath, imagePathFilename)
 
-
     # process image
     #result_image = rgb_from_image_dev(workingPath, imagePathFilename)
-    result_image = rgb_from_image(workingPath, imagePathFilename)
+    result_image = rgb_from_image_v1(
+        workingPath, path_and_filename_to_current_image)
 
     # process colors
-    result_color = color_from_rgb(workingPath, imagePathFilename, result_image)
+    result_color = color_from_rgb(
+        workingPath, path_and_filename_to_current_image, result_image)
 
     # generate return value in case of errors
     # TBD
@@ -208,8 +208,8 @@ def process_main(imagePath, imagePathFilename):
 
     print(json.dumps(returnDict))
 
-    #with open(pfnReturnDict, 'w') as file:
+    # with open(pfnReturnDict, 'w') as file:
     #    #print(json.dumps(returnDict))
-    #    file.write("test")#json.dumps(returnDict)) 
+    #    file.write("test")#json.dumps(returnDict))
 
     return returnDict

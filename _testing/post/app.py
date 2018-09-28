@@ -70,22 +70,26 @@ def form_example():
         timestamp = caas.lib.get_timestamp()
         uuid = caas.lib.get_uuid()
 
-        directoryServer = timestamp + "_" + str(uuid)
-        fileNameServer = timestamp + "_" + str(uuid) + ".jpg"
+        location_prefix_of_data_directories = "data"
 
-        pfnImageServer = os.path.join(directoryServer, fileNameServer)
-        pathlib.Path(directoryServer).mkdir(parents=True, exist_ok=True)
+        directory_name_of_current_image = timestamp + "_" + str(uuid)
+        filename_of_current_image = timestamp + "_" + str(uuid) + ".jpg"
 
-        newFile = open(pfnImageServer, 'wb')
+        path_and_filename_to_current_image = os.path.join(location_prefix_of_data_directories, directory_name_of_current_image, filename_of_current_image)
+        path_to_current_image = os.path.join(location_prefix_of_data_directories, directory_name_of_current_image)
+        pathlib.Path(path_to_current_image).mkdir(parents=True, exist_ok=True)
+
+        newFile = open(path_and_filename_to_current_image, 'wb')
         newFile.write(imageData)
         newFile.close()
 
         print("2---")
-        print(pfnImageServer)
+        print("path_and_filename_to_current_image : {}".format(path_and_filename_to_current_image))
+        print("path_to_current_image              : {}".format(path_to_current_image))
         print("3---")
 
         #resultData = {}
-        resultData = caas.proc.process_main(directoryServer, pfnImageServer)
+        resultData = caas.proc.process_main(path_to_current_image, path_and_filename_to_current_image)
 
         print("34--")
 
@@ -99,7 +103,7 @@ def form_example():
             'meta': {
                 'uuid': uuid,
                 'timestamp': timestamp,
-                'filenameServer': pfnImageServer
+                'filenameServer': path_and_filename_to_current_image
             },
             'device': deviceInformation,
             'result': resultData,

@@ -5,7 +5,7 @@ folders = []
 files = []
 
 
-for entry in os.scandir('.'):
+for entry in os.scandir('.data'):
 
     if not entry.is_dir():
         continue
