@@ -34,19 +34,53 @@ def monitor_results(func):
     return wrapper
 
 
-# @app.route('/query-example')
-@app.route('/qe')
-def query_example():
-    return 'Todo...'
+@app.route('/api/v1/feedback', methods=['GET'])
+def image_analysis_feedback():
+
+    print("/api/v1/feedback called")
+    # print(request)
+
+    feedbackInformation = {
+        "id": request.args.get("id"),
+        "userliking": request.args.get("userliking"),
+        "deviceID": request.args.get("deviceID"),
+        "simSerialNumber": request.args.get("simSerialNumber"),
+        "phoneNumber": request.args.get("phoneNumber"),
+        "networkOperatorName": request.args.get("networkOperatorName"),
+        "browserNavAttributes": request.args.get("browserNavAttributes"),
+        "locationSensor": request.args.get("locationSensor"),
+        "timeNow": request.args.get("timeNow"),
+        "timeSystem": request.args.get("timeSystem")
+    }
+
+    print("feedback id         : {}".format(feedbackInformation["id"]))
+    print("feedback userliking : {}".format(feedbackInformation["userliking"]))
+
+    message_text = "😊\nThat really makes us happy.\nThank you for your feedback!"
+
+    if feedbackInformation["userliking"] == "bad":
+        message_text = "😢\nWe are sorry we couldn't help this time.\nThank you for your feedback!"
+
+    data = {
+        'message': [
+            message_text
+        ]
+    }
+
+    returnData = jsonify(data)
+
+    print("message : {}".format(data['message']))
+
+    return returnData
 
 # allow both GET and POST requests
 # @app.route('/form-example', methods=['GET', 'POST'])
 
 
-@app.route('/fe', methods=['GET', 'POST'])
+@app.route('/api/v1/image', methods=['POST'])
 @monitor_results
-def form_example():
-    print("fe called")
+def image_analysis_request():
+    print("/api/v1/image called")
     print(request)
     if request.method == 'POST':  # this block is only entered when the form is submitted
         print("1---")
@@ -116,6 +150,7 @@ def form_example():
         print("35--")
 
         best_color = resultData["results"]["color"]["results"]["best"]
+        feedback_identifier = resultData["results"]["workingPath"]
 
         data = {
             'meta': {
@@ -130,7 +165,8 @@ def form_example():
                     best_color["name"], best_color["scheme"]),
                 best_color["rgb"][0],
                 best_color["rgb"][1],
-                best_color["rgb"][2]
+                best_color["rgb"][2],
+                feedback_identifier
             ]
         }
 
@@ -139,13 +175,15 @@ def form_example():
         with open(os.path.join(resultData["results"]["workingPath"], 'returnData.json'), 'w') as fp:
             json.dump(repr(data), fp)
 
+        print("3.5--")
+        print("result simple : {}".format(data['result_simple']))
         print("4---")
         print(data)
         print("5---")
 
         return returnData
 
-    return '''request was not post'''
+    return jsonify({"message": "request not supported"}), 405
 
 
 if __name__ == '__main__':
