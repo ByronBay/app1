@@ -43,18 +43,10 @@ def image_analysis_feedback():
     feedbackInformation = {
         "id": request.args.get("id"),
         "userliking": request.args.get("userliking"),
-        "deviceID": request.args.get("deviceID"),
-        "simSerialNumber": request.args.get("simSerialNumber"),
-        "phoneNumber": request.args.get("phoneNumber"),
-        "networkOperatorName": request.args.get("networkOperatorName"),
-        "browserNavAttributes": request.args.get("browserNavAttributes"),
-        "locationSensor": request.args.get("locationSensor"),
-        "timeNow": request.args.get("timeNow"),
-        "timeSystem": request.args.get("timeSystem")
     }
 
-    print("feedback id         : {}".format(feedbackInformation["id"]))
-    print("feedback userliking : {}".format(feedbackInformation["userliking"]))
+    for key, value in request.args.to_dict().items():
+        print("** key: {} \nvalue: {}".format(key, value))
 
     message_text = "😊\nThat really makes us happy.\nThank you for your feedback!"
 
@@ -87,23 +79,9 @@ def image_analysis_request():
 
         imageData = request.get_data()
 
-        deviceInformation = {
-            "fileName": request.args.get("fileName"),
-            "deviceID": request.args.get("deviceID"),
-            "simSerialNumber": request.args.get("simSerialNumber"),
-            "phoneNumber": request.args.get("phoneNumber"),
-            "networkOperatorName": request.args.get("networkOperatorName"),
-            "browserNavAttributes": request.args.get("browserNavAttributes"),
-            "locationSensor": request.args.get("locationSensor"),
-            "timeNow": request.args.get("timeNow"),
-            "timeSystem": request.args.get("timeSystem")
-        }
+        for key, value in request.args.to_dict().items():
+            print("** key: {} \nvalue: {}".format(key, value))
 
-        print(deviceInformation["locationSensor"])
-
-        print("13--")
-
-        print(deviceInformation)
 
         print("15--")
 
@@ -130,7 +108,7 @@ def image_analysis_request():
         newFile.close()
 
         with open(os.path.join(path_to_current_image, 'deviceInformation.json'), 'w') as fp:
-            json.dump(deviceInformation, fp)
+            json.dump(request.args.to_dict(), fp)
 
         print("2---")
         print("path_and_filename_to_current_image : {}".format(
@@ -158,7 +136,7 @@ def image_analysis_request():
                 'timestamp': timestamp,
                 'filenameServer': path_and_filename_to_current_image
             },
-            'device': deviceInformation,
+            'device': 'x',
             'result': resultData,
             'result_simple': [
                 "Your color is called \n{}\n and comes from the color-scheme\n{}.".format(

@@ -23,6 +23,8 @@ def run(path_to_current_image, path_and_filename_to_current_image):
     imgProc = cv2.resize(img, (128*3, 128*3), interpolation=cv2.INTER_CUBIC)
     imgProc = imgProc[128:256, 128:256]
 
+    imgProc = cv2.medianBlur(imgProc, 5)
+
     pfnProc = os.path.join(path_to_current_image, "proc.png")
 
     cv2.imwrite(pfnProc, imgProc)

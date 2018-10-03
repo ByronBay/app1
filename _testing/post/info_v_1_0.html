@@ -1,0 +1,60 @@
+<!doctype html>
+
+<head>
+  <meta name="author" content="puravidaapps.com">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Info</title>
+</head>
+
+<body>
+  <script type="text/javascript">
+    // print the result to the page title
+
+    const navAppVersion = {};
+    const navCookiesEnabled = {};
+    const navGeolocation = {};
+    const navLanguage = {};
+    const navOnLine = {};
+    const navPlatform = {};
+    const navProduct = {};
+    const navUserAgent = {};
+    const navVendor = {};
+
+    navData_v1 = {
+      appCodeName: navigator.appCodeName,
+      appName: navigator.appName,
+      appVersion: navigator.appVersion,
+      cookiesEnabled: navigator.cookieEnabled,
+      language: navigator.language,
+      onLine: navigator.onLine,
+      platform: navigator.platform,
+      product: navigator.product,
+      userAgent: navigator.userAgent,
+      vendor: navigator.vendor
+    }
+
+    navAll = {
+      dataType: {
+        version: "1.0",
+        name: "browserNavigationAttributes",
+        comment: "all but geolocation"
+      },
+      data: navData_v1
+    }
+
+    text = JSON.stringify(navAll)
+    //textEncode = encodeURIComponent(text)
+
+    window.document.title = text;//Encode;
+    window.document.writeln(text);
+    //window.document.writeln("   -   ");
+    //window.document.writeln(textEncode);
+
+
+  </script>
+
+</body>
+
+</html>
