@@ -1,8 +1,10 @@
 import cv2
 import os
+import numpy as np
+import json
+import caas.lib
 from sklearn.cluster import KMeans
 from sklearn import metrics
-from caas.lib import centroid_histogram
 
 
 def run(path_to_current_image, path_and_filename_to_current_image):
@@ -43,7 +45,7 @@ def run(path_to_current_image, path_and_filename_to_current_image):
     print("clustering done")
 
     # Finds how many pixels are in each cluster
-    hist = centroid_histogram(clt)
+    hist = caas.lib.centroid_histogram(clt)
 
     print("histogram done")
 
@@ -60,19 +62,32 @@ def run(path_to_current_image, path_and_filename_to_current_image):
 
     print("Cluster: {} , Silhouette {}".format(clusters, silhouette))
 
-    bgr_win = clt.cluster_centers[0]
+    bgr = clt.cluster_centers[0]
 
     print("sorting done")
 
-    # Todo: find center: ie. most representative rgb-triple
+    # document color segments
+
+    # CV_8UC1
+
+    ### im_color = cv2.applyColorMap(
+    ###    np.uint8(np.reshape(1+clt.labels_, (128, 128))),
+    ###    caas.lib.colormap_jet(clusters))
+
+    ### pfnSeg = os.path.join(path_to_current_image, "segments.png")
+
+    ### cv2.imwrite(pfnSeg, im_color)
 
     ####
 
     returnDict = {
         "thumbnail": pfnThumbnail,
         "processing": pfnProc,
-        "rgb": [bgr_win[2], bgr_win[1], bgr_win[0]]
+        "rgb": [bgr[2], bgr[1], bgr[0]]
     }
+
+    print("rgb_from_image_v1 result:")
+    print(json.dumps(returnDict))
 
     # done
     return returnDict

@@ -1,5 +1,6 @@
 from scipy import spatial
 import numpy as np
+import json
 
 import caas
 
@@ -46,6 +47,7 @@ def run(workingPath, imagePathFilename, result_image):
 
     color["results"] = {
         "schemata": color_scheme_result,
+        "rgbFromImage" : rgb_values,
         "best": {
             "name": color_scheme_result[color_scheme_bestfit]["p1"]["name"],
             "rgb": color_scheme_result[color_scheme_bestfit]["p1"]["rgb"],
@@ -54,6 +56,7 @@ def run(workingPath, imagePathFilename, result_image):
         }
     }
 
-    # print(json.dumps(color))
+    print("color_from_rgb_result:")
+    print(json.dumps(color))
 
     return color

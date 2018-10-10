@@ -1,8 +1,10 @@
 import json
 import numpy as np
+import pathlib
 
 color_definitions = {}
 
+storage_root = pathlib.PurePath('.',"data")
 
 def import_color_definitions(name, pfnColorDefinition, colors_collected):
 

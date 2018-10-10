@@ -1,6 +1,6 @@
 import cv2
 import os
-
+import json 
 from sklearn.cluster import KMeans
 from sklearn import metrics
 from caas.lib import centroid_histogram
@@ -37,7 +37,7 @@ def run(path_to_current_image, path_and_filename_to_current_image):
     silhouette_max = -1
     bgr_win = []
 
-    for clusters in range(2, 11):
+    for clusters in range(2, 8):
 
         # Clusters the pixels
         clt = KMeans(n_clusters=clusters)
@@ -53,7 +53,7 @@ def run(path_to_current_image, path_and_filename_to_current_image):
         hist, clt.cluster_centers = zip(*zipped)
 
         silhouette = metrics.silhouette_score(
-            image_array, clt.labels_, metric='euclidean', sample_size=2500)
+            image_array, clt.labels_, metric='euclidean', sample_size=500)
 
         bgr = clt.cluster_centers[0]
 
@@ -74,6 +74,9 @@ def run(path_to_current_image, path_and_filename_to_current_image):
         "processing": pfnProc,
         "rgb": [bgr_win[2], bgr_win[1], bgr_win[0]]
     }
+
+    print("rgb_from_image_v2 result:")
+    print(json.dumps(returnDict))
 
     # done
     return returnDict

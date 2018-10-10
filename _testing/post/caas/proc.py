@@ -38,7 +38,7 @@ def process_main(path_to_current_image, path_and_filename_to_current_image):
 
     # process image
     # result_image = rgb_from_image_dev(workingPath, imagePathFilename)
-    result_image = caas.rgb_from_image_v2.run(
+    result_image = caas.rgb_from_image_v1.run(
         workingPath, path_and_filename_to_current_image)
 
     # process colors
@@ -60,11 +60,11 @@ def process_main(path_to_current_image, path_and_filename_to_current_image):
         "color": result_color
     }
 
+    print("processing result:")
     print(json.dumps(returnDict))
 
-    # pfnReturnDict = os.path.join(workingPath, "return_dict.json.txt")
-    # with open(pfnReturnDict, 'w') as file:
-    #    #print(json.dumps(returnDict))
-    #    file.write("test")#json.dumps(returnDict))
-
+    pfnOutFile = os.path.join(workingPath, "processing.json")
+    
+    caas.lib.save_dict_as_json(returnDict, pfnOutFile)
+    
     return returnDict
