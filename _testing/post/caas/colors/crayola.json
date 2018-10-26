@@ -1,0 +1,1143 @@
+[
+ {
+   "r": 0,
+   "g": 70,
+   "b": 140,
+   "literal name": " Midnight Blue",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 102,
+   "b": 204,
+   "literal name": " Navy Blue",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 102,
+   "b": 255,
+   "literal name": " Blue (III)",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 117,
+   "b": 94,
+   "literal name": " Tropical Rain Forest",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 128,
+   "b": 128,
+   "literal name": " Teal Blue",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 149,
+   "b": 183,
+   "literal name": " Blue-Green",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 157,
+   "b": 196,
+   "literal name": " Pacific Blue",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 204,
+   "b": 153,
+   "literal name": " Caribbean Green",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 204,
+   "b": 204,
+   "literal name": " Robin's Egg Blue",
+   "comment": ""
+ },
+ {
+   "r": 1,
+   "g": 120,
+   "b": 111,
+   "literal name": " Pine Green",
+   "comment": ""
+ },
+ {
+   "r": 2,
+   "g": 164,
+   "b": 211,
+   "literal name": " Cerulean",
+   "comment": ""
+ },
+ {
+   "r": 21,
+   "g": 96,
+   "b": 189,
+   "literal name": " Denim",
+   "comment": ""
+ },
+ {
+   "r": 26,
+   "g": 179,
+   "b": 133,
+   "literal name": " Mountain Meadow",
+   "comment": ""
+ },
+ {
+   "r": 40,
+   "g": 135,
+   "b": 200,
+   "literal name": " Green-Blue",
+   "comment": ""
+ },
+ {
+   "r": 41,
+   "g": 171,
+   "b": 135,
+   "literal name": " Jungle Green",
+   "comment": ""
+ },
+ {
+   "r": 45,
+   "g": 56,
+   "b": 58,
+   "literal name": " Outer Space",
+   "comment": ""
+ },
+ {
+   "r": 46,
+   "g": 180,
+   "b": 230,
+   "literal name": " Blue (I)",
+   "comment": ""
+ },
+ {
+   "r": 48,
+   "g": 191,
+   "b": 191,
+   "literal name": " Maximum Blue Green",
+   "comment": ""
+ },
+ {
+   "r": 51,
+   "g": 154,
+   "b": 204,
+   "literal name": " Cerulean Blue",
+   "comment": ""
+ },
+ {
+   "r": 51,
+   "g": 204,
+   "b": 153,
+   "literal name": " Shamrock",
+   "comment": ""
+ },
+ {
+   "r": 58,
+   "g": 166,
+   "b": 85,
+   "literal name": " Green",
+   "comment": ""
+ },
+ {
+   "r": 63,
+   "g": 38,
+   "b": 191,
+   "literal name": " Ultramarine Blue",
+   "comment": ""
+ },
+ {
+   "r": 69,
+   "g": 112,
+   "b": 230,
+   "literal name": " Blue (II)",
+   "comment": ""
+ },
+ {
+   "r": 71,
+   "g": 171,
+   "b": 204,
+   "literal name": " Maximum Blue",
+   "comment": ""
+ },
+ {
+   "r": 77,
+   "g": 140,
+   "b": 87,
+   "literal name": " Middle Green",
+   "comment": ""
+ },
+ {
+   "r": 79,
+   "g": 105,
+   "b": 198,
+   "literal name": " Indigo",
+   "comment": ""
+ },
+ {
+   "r": 94,
+   "g": 140,
+   "b": 49,
+   "literal name": " Maximum Green",
+   "comment": ""
+ },
+ {
+   "r": 95,
+   "g": 167,
+   "b": 119,
+   "literal name": " Forest Green",
+   "comment": ""
+ },
+ {
+   "r": 97,
+   "g": 64,
+   "b": 81,
+   "literal name": " Eggplant",
+   "comment": ""
+ },
+ {
+   "r": 99,
+   "g": 183,
+   "b": 108,
+   "literal name": " Fern",
+   "comment": ""
+ },
+ {
+   "r": 100,
+   "g": 86,
+   "b": 183,
+   "literal name": " Blue-Violet",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 45,
+   "b": 193,
+   "literal name": " Purple Heart",
+   "comment": ""
+ },
+ {
+   "r": 102,
+   "g": 66,
+   "b": 40,
+   "literal name": " Van Dyke Brown",
+   "comment": ""
+ },
+ {
+   "r": 102,
+   "g": 82,
+   "b": 51,
+   "literal name": " Raw Umber",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 63,
+   "b": 160,
+   "literal name": " Royal Purple",
+   "comment": ""
+ },
+ {
+   "r": 108,
+   "g": 166,
+   "b": 124,
+   "literal name": " Medium Chrome Green",
+   "comment": ""
+ },
+ {
+   "r": 108,
+   "g": 218,
+   "b": 231,
+   "literal name": " Turquoise Blue",
+   "comment": ""
+ },
+ {
+   "r": 112,
+   "g": 112,
+   "b": 204,
+   "literal name": " Celestial Blue",
+   "comment": ""
+ },
+ {
+   "r": 115,
+   "g": 46,
+   "b": 108,
+   "literal name": " Violet (I)",
+   "comment": ""
+ },
+ {
+   "r": 115,
+   "g": 51,
+   "b": 128,
+   "literal name": " Maximum Purple",
+   "comment": ""
+ },
+ {
+   "r": 115,
+   "g": 106,
+   "b": 98,
+   "literal name": " Charcoal Gray",
+   "comment": ""
+ },
+ {
+   "r": 118,
+   "g": 110,
+   "b": 200,
+   "literal name": " Violet-Blue",
+   "comment": ""
+ },
+ {
+   "r": 118,
+   "g": 215,
+   "b": 234,
+   "literal name": " Sky Blue",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 137,
+   "b": 184,
+   "literal name": " Wild Blue Yonder",
+   "comment": ""
+ },
+ {
+   "r": 123,
+   "g": 160,
+   "b": 91,
+   "literal name": " Asparagus",
+   "comment": ""
+ },
+ {
+   "r": 126,
+   "g": 212,
+   "b": 230,
+   "literal name": " Middle Blue",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 55,
+   "b": 144,
+   "literal name": " Vivid Violet",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 85,
+   "b": 51,
+   "literal name": " Burnt Umber",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 89,
+   "b": 163,
+   "literal name": " Violet (II)",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 112,
+   "b": 80,
+   "literal name": " Shadow",
+   "comment": ""
+ },
+ {
+   "r": 135,
+   "g": 66,
+   "b": 31,
+   "literal name": " Fuzzy Wuzzy",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 114,
+   "b": 190,
+   "literal name": " Middle Blue Purple",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 134,
+   "b": 128,
+   "literal name": " Gray",
+   "comment": ""
+ },
+ {
+   "r": 140,
+   "g": 144,
+   "b": 200,
+   "literal name": " Cobalt Blue",
+   "comment": ""
+ },
+ {
+   "r": 141,
+   "g": 144,
+   "b": 161,
+   "literal name": " Manatee",
+   "comment": ""
+ },
+ {
+   "r": 141,
+   "g": 217,
+   "b": 204,
+   "literal name": " Middle Blue Green",
+   "comment": ""
+ },
+ {
+   "r": 142,
+   "g": 49,
+   "b": 121,
+   "literal name": " Plum",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 71,
+   "b": 179,
+   "literal name": " Medium Violet",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 216,
+   "b": 216,
+   "literal name": " Light Blue",
+   "comment": ""
+ },
+ {
+   "r": 146,
+   "g": 111,
+   "b": 91,
+   "literal name": " Beaver",
+   "comment": ""
+ },
+ {
+   "r": 146,
+   "g": 146,
+   "b": 110,
+   "literal name": " Gold (I)",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 204,
+   "b": 234,
+   "literal name": " Cornflower",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 223,
+   "b": 184,
+   "literal name": " Sea Green",
+   "comment": ""
+ },
+ {
+   "r": 149,
+   "g": 224,
+   "b": 232,
+   "literal name": " Aquamarine",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 153,
+   "b": 204,
+   "literal name": " Blue Bell",
+   "comment": ""
+ },
+ {
+   "r": 157,
+   "g": 224,
+   "b": 147,
+   "literal name": " Granny Smith Apple",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 91,
+   "b": 64,
+   "literal name": " Sepia",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 173,
+   "b": 208,
+   "literal name": "Wild Blue Yonder",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 11,
+   "b": 94,
+   "literal name": " Jazzberry Jam",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 83,
+   "b": 83,
+   "literal name": " Middle Red Purple",
+   "comment": ""
+ },
+ {
+   "r": 166,
+   "g": 58,
+   "b": 121,
+   "literal name": " Maximum Red Purple",
+   "comment": ""
+ },
+ {
+   "r": 169,
+   "g": 178,
+   "b": 195,
+   "literal name": " Cadet Blue",
+   "comment": ""
+ },
+ {
+   "r": 172,
+   "g": 172,
+   "b": 230,
+   "literal name": " Maximum Blue Purple",
+   "comment": ""
+ },
+ {
+   "r": 172,
+   "g": 191,
+   "b": 96,
+   "literal name": " Middle Green Yellow",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 89,
+   "b": 62,
+   "literal name": " Brown",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 227,
+   "b": 19,
+   "literal name": " Inchworm",
+   "comment": ""
+ },
+ {
+   "r": 179,
+   "g": 59,
+   "b": 36,
+   "literal name": " Dark Venetian Red",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 179,
+   "b": 92,
+   "literal name": " Olive Green",
+   "comment": ""
+ },
+ {
+   "r": 185,
+   "g": 78,
+   "b": 72,
+   "literal name": " Indian Red",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 51,
+   "b": 133,
+   "literal name": " Red-Violet",
+   "comment": ""
+ },
+ {
+   "r": 190,
+   "g": 230,
+   "b": 75,
+   "literal name": " Light Chrome Green",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 143,
+   "b": 204,
+   "literal name": " Lavender (I)",
+   "comment": ""
+ },
+ {
+   "r": 193,
+   "g": 84,
+   "b": 193,
+   "literal name": " Fuchsia",
+   "comment": ""
+ },
+ {
+   "r": 195,
+   "g": 33,
+   "b": 72,
+   "literal name": " Maroon",
+   "comment": ""
+ },
+ {
+   "r": 195,
+   "g": 205,
+   "b": 230,
+   "literal name": " Periwinkle",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 225,
+   "b": 122,
+   "literal name": " Yellow-Green",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 45,
+   "b": 66,
+   "literal name": " Brick Red",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 80,
+   "b": 155,
+   "literal name": " Mulberry",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 138,
+   "b": 101,
+   "literal name": " Antique Brass",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 200,
+   "b": 205,
+   "literal name": " Blue-Gray",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 160,
+   "b": 220,
+   "literal name": " Wisteria",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 192,
+   "b": 187,
+   "literal name": " Silver",
+   "comment": ""
+ },
+ {
+   "r": 202,
+   "g": 52,
+   "b": 53,
+   "literal name": " Mahogany",
+   "comment": ""
+ },
+ {
+   "r": 204,
+   "g": 51,
+   "b": 54,
+   "literal name": " Madder Lake",
+   "comment": ""
+ },
+ {
+   "r": 204,
+   "g": 71,
+   "b": 75,
+   "literal name": " English Vermilion",
+   "comment": ""
+ },
+ {
+   "r": 204,
+   "g": 85,
+   "b": 61,
+   "literal name": " Venetian Red",
+   "comment": ""
+ },
+ {
+   "r": 210,
+   "g": 125,
+   "b": 70,
+   "literal name": " Raw Sienna",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 174,
+   "b": 221,
+   "literal name": " Purple Mountains' Majesty",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 33,
+   "b": 33,
+   "literal name": " Maximum Red",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 108,
+   "b": 190,
+   "literal name": " Medium Rose",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 130,
+   "b": 181,
+   "literal name": " Middle Purple",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 154,
+   "b": 108,
+   "literal name": " Tan",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 214,
+   "b": 207,
+   "literal name": " Timberwolf",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 230,
+   "b": 80,
+   "literal name": " Maximum Green Yellow",
+   "comment": ""
+ },
+ {
+   "r": 218,
+   "g": 50,
+   "b": 135,
+   "literal name": " Cerise",
+   "comment": ""
+ },
+ {
+   "r": 218,
+   "g": 138,
+   "b": 103,
+   "literal name": " Copper",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 80,
+   "b": 121,
+   "literal name": " Blush",
+   "comment": ""
+ },
+ {
+   "r": 222,
+   "g": 166,
+   "b": 129,
+   "literal name": " Tumbleweed",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 44,
+   "b": 44,
+   "literal name": " Permanent Geranium Lake",
+   "comment": ""
+ },
+ {
+   "r": 226,
+   "g": 156,
+   "b": 210,
+   "literal name": " Orchid",
+   "comment": ""
+ },
+ {
+   "r": 227,
+   "g": 11,
+   "b": 92,
+   "literal name": " Razzmatazz",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 144,
+   "b": 115,
+   "literal name": " Middle Red",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 46,
+   "b": 107,
+   "literal name": " Carmine",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 103,
+   "b": 206,
+   "literal name": " Brilliant Rose",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 115,
+   "b": 92,
+   "literal name": " Light Venetian Red",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 188,
+   "b": 92,
+   "literal name": " Raw Sienna (I)",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 190,
+   "b": 138,
+   "literal name": " Gold (II)",
+   "comment": ""
+ },
+ {
+   "r": 231,
+   "g": 114,
+   "b": 0,
+   "literal name": " Mango Tango",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 116,
+   "b": 81,
+   "literal name": " Burnt Sienna",
+   "comment": ""
+ },
+ {
+   "r": 235,
+   "g": 176,
+   "b": 215,
+   "literal name": " Thistle",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 177,
+   "b": 118,
+   "literal name": " Middle Yellow Red",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 235,
+   "b": 189,
+   "literal name": " Spring Green",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 10,
+   "b": 63,
+   "literal name": " Red",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 201,
+   "b": 175,
+   "literal name": " Desert Sand",
+   "comment": ""
+ },
+ {
+   "r": 238,
+   "g": 217,
+   "b": 196,
+   "literal name": " Almond",
+   "comment": ""
+ },
+ {
+   "r": 240,
+   "g": 145,
+   "b": 169,
+   "literal name": " Mauvelous",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 231,
+   "b": 136,
+   "literal name": " Green-Yellow",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 186,
+   "b": 73,
+   "literal name": " Maximum Yellow Red",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 198,
+   "b": 73,
+   "literal name": " Maize",
+   "comment": ""
+ },
+ {
+   "r": 246,
+   "g": 83,
+   "b": 166,
+   "literal name": " Magenta",
+   "comment": ""
+ },
+ {
+   "r": 247,
+   "g": 70,
+   "b": 138,
+   "literal name": " Violet-Red",
+   "comment": ""
+ },
+ {
+   "r": 247,
+   "g": 163,
+   "b": 142,
+   "literal name": " Pink Sherbert",
+   "comment": ""
+ },
+ {
+   "r": 248,
+   "g": 213,
+   "b": 104,
+   "literal name": " Orange-Yellow",
+   "comment": ""
+ },
+ {
+   "r": 250,
+   "g": 250,
+   "b": 55,
+   "literal name": " Maximum Yellow",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 174,
+   "b": 210,
+   "literal name": " Lavender (II)",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 231,
+   "b": 178,
+   "literal name": " Banana Mania",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 116,
+   "b": 253,
+   "literal name": " Pink Flamingo",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 128,
+   "b": 165,
+   "literal name": " Tickle Me Pink",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 214,
+   "b": 103,
+   "literal name": " Goldenrod",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 232,
+   "b": 131,
+   "literal name": " Yellow",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 14,
+   "b": 53,
+   "literal name": " Scarlet",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 213,
+   "b": 177,
+   "literal name": " Apricot",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 215,
+   "b": 228,
+   "literal name": " Pig Pink",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 76,
+   "b": 64,
+   "literal name": " Sunset Orange",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 111,
+   "b": 94,
+   "literal name": " Bittersweet",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 186,
+   "b": 173,
+   "literal name": " Melon",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 216,
+   "b": 93,
+   "literal name": " Dandelion",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 51,
+   "b": 153,
+   "literal name": " Wild Strawberry",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 63,
+   "b": 52,
+   "literal name": " Orange-Red",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 104,
+   "b": 31,
+   "literal name": " Red-Orange",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 112,
+   "b": 52,
+   "literal name": " Burnt Orange",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 136,
+   "b": 100,
+   "literal name": " Orange",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 145,
+   "b": 164,
+   "literal name": " Salmon",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 153,
+   "b": 128,
+   "literal name": " Vivid Tangerine",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 166,
+   "b": 201,
+   "literal name": " Carnation Pink",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 174,
+   "b": 66,
+   "literal name": " Yellow-Orange",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 183,
+   "b": 213,
+   "literal name": " Cotton Candy",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 185,
+   "b": 123,
+   "literal name": " Macaroni and Cheese",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 203,
+   "b": 164,
+   "literal name": " Peach",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 235,
+   "b": 0,
+   "literal name": " Middle Yellow",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 255,
+   "b": 153,
+   "literal name": " Canary",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 255,
+   "b": 159,
+   "literal name": " Lemon Yellow",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 255,
+   "b": 255,
+   "literal name": " White",
+   "comment": ""
+ }
+]

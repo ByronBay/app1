@@ -36,6 +36,13 @@ def import_color_definitions(name, pfnColorDefinition, colors_collected):
                               "names": names, "comments": comments}
 
 
-# import_color_definitions("test", "caas/colors/test.json", color_definitions)
+# import_color_definitions("test", "caas/colors/_test.json", color_definitions)
+
+import_color_definitions("colorhexa", "caas/colors/colorhexa.json", color_definitions)
+import_color_definitions("company", "caas/colors/company.json", color_definitions)
+import_color_definitions("crayola", "caas/colors/crayola.json", color_definitions)
+import_color_definitions("fs595", "caas/colors/fs595.json", color_definitions)
+import_color_definitions("pantone", "caas/colors/pantone.json", color_definitions)
+import_color_definitions("ral_standard", "caas/colors/ral_standard.json", color_definitions)
 import_color_definitions("x11", "caas/colors/x11_rgb.json", color_definitions)
 import_color_definitions("xkcd", "caas/colors/xkcd.json", color_definitions)

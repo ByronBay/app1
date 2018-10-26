@@ -1,0 +1,1423 @@
+[
+ {
+   "r": 0,
+   "g": 16,
+   "b": 104,
+   "literal name": "Blue FS 15056",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 104,
+   "b": 69,
+   "literal name": "Green FS 14115",
+   "comment": ""
+ },
+ {
+   "r": 2,
+   "g": 52,
+   "b": 87,
+   "literal name": "Dark Blue FS 15102",
+   "comment": ""
+ },
+ {
+   "r": 3,
+   "g": 18,
+   "b": 15,
+   "literal name": "Purple FS 17100",
+   "comment": ""
+ },
+ {
+   "r": 5,
+   "g": 17,
+   "b": 17,
+   "literal name": "Black FS 27038",
+   "comment": ""
+ },
+ {
+   "r": 7,
+   "g": 13,
+   "b": 9,
+   "literal name": "Sea Blue FS 15042",
+   "comment": ""
+ },
+ {
+   "r": 7,
+   "g": 13,
+   "b": 27,
+   "literal name": "Blue Angels Blue FS 15050",
+   "comment": ""
+ },
+ {
+   "r": 14,
+   "g": 90,
+   "b": 139,
+   "literal name": "Bright Blue FS 15183",
+   "comment": ""
+ },
+ {
+   "r": 21,
+   "g": 27,
+   "b": 23,
+   "literal name": "Sea Blue FS 35042",
+   "comment": ""
+ },
+ {
+   "r": 23,
+   "g": 35,
+   "b": 57,
+   "literal name": "Gray FS 26044",
+   "comment": ""
+ },
+ {
+   "r": 25,
+   "g": 72,
+   "b": 30,
+   "literal name": "Green FS 34138",
+   "comment": ""
+ },
+ {
+   "r": 27,
+   "g": 75,
+   "b": 33,
+   "literal name": "Medium Green FS 34108",
+   "comment": ""
+ },
+ {
+   "r": 36,
+   "g": 39,
+   "b": 46,
+   "literal name": "Black Gray FS 37031",
+   "comment": ""
+ },
+ {
+   "r": 38,
+   "g": 58,
+   "b": 117,
+   "literal name": "Blue FS 35052",
+   "comment": ""
+ },
+ {
+   "r": 39,
+   "g": 61,
+   "b": 85,
+   "literal name": "Dark Blue FS 35109",
+   "comment": ""
+ },
+ {
+   "r": 39,
+   "g": 88,
+   "b": 181,
+   "literal name": "Blue FS 25095",
+   "comment": ""
+ },
+ {
+   "r": 40,
+   "g": 42,
+   "b": 29,
+   "literal name": "Green FS 34084",
+   "comment": ""
+ },
+ {
+   "r": 42,
+   "g": 44,
+   "b": 31,
+   "literal name": "Dark Green FS 34031",
+   "comment": ""
+ },
+ {
+   "r": 42,
+   "g": 49,
+   "b": 65,
+   "literal name": "Insignia Blue FS 15044",
+   "comment": ""
+ },
+ {
+   "r": 47,
+   "g": 96,
+   "b": 49,
+   "literal name": "Green FS 34230",
+   "comment": ""
+ },
+ {
+   "r": 50,
+   "g": 60,
+   "b": 72,
+   "literal name": "Insignia Blue FS 35044",
+   "comment": ""
+ },
+ {
+   "r": 52,
+   "g": 58,
+   "b": 72,
+   "literal name": "Dark Gray FS 26008",
+   "comment": ""
+ },
+ {
+   "r": 52,
+   "g": 64,
+   "b": 52,
+   "literal name": "Green FS 34077",
+   "comment": ""
+ },
+ {
+   "r": 53,
+   "g": 55,
+   "b": 54,
+   "literal name": "Engine Gray FS 16076",
+   "comment": ""
+ },
+ {
+   "r": 53,
+   "g": 80,
+   "b": 97,
+   "literal name": "Dark Blue FS 35045",
+   "comment": ""
+ },
+ {
+   "r": 53,
+   "g": 146,
+   "b": 189,
+   "literal name": "Blue FS 35250",
+   "comment": ""
+ },
+ {
+   "r": 54,
+   "g": 74,
+   "b": 65,
+   "literal name": "Dark Green FS 34092",
+   "comment": ""
+ },
+ {
+   "r": 55,
+   "g": 56,
+   "b": 40,
+   "literal name": "Dark Green FS 34064",
+   "comment": ""
+ },
+ {
+   "r": 55,
+   "g": 61,
+   "b": 47,
+   "literal name": "Green FS 14052",
+   "comment": ""
+ },
+ {
+   "r": 55,
+   "g": 61,
+   "b": 47,
+   "literal name": "Green FS 24052",
+   "comment": ""
+ },
+ {
+   "r": 55,
+   "g": 61,
+   "b": 49,
+   "literal name": "USMC Green FS 34052",
+   "comment": ""
+ },
+ {
+   "r": 58,
+   "g": 70,
+   "b": 48,
+   "literal name": "Green FS 34083",
+   "comment": ""
+ },
+ {
+   "r": 59,
+   "g": 62,
+   "b": 81,
+   "literal name": "Gray FS 36076",
+   "comment": ""
+ },
+ {
+   "r": 59,
+   "g": 63,
+   "b": 66,
+   "literal name": "Engine Gray FS 16081",
+   "comment": ""
+ },
+ {
+   "r": 59,
+   "g": 63,
+   "b": 66,
+   "literal name": "Dark Gunship Gray FS 36081",
+   "comment": ""
+ },
+ {
+   "r": 59,
+   "g": 63,
+   "b": 66,
+   "literal name": "Seaplane Gray FS 26081",
+   "comment": ""
+ },
+ {
+   "r": 59,
+   "g": 72,
+   "b": 44,
+   "literal name": "Field Green FS 34095",
+   "comment": ""
+ },
+ {
+   "r": 60,
+   "g": 30,
+   "b": 22,
+   "literal name": "Red Brown FS 30108",
+   "comment": ""
+ },
+ {
+   "r": 60,
+   "g": 52,
+   "b": 31,
+   "literal name": "Olive Drab FS 14087",
+   "comment": ""
+ },
+ {
+   "r": 60,
+   "g": 52,
+   "b": 31,
+   "literal name": "Olive Drab FS 34088",
+   "comment": ""
+ },
+ {
+   "r": 60,
+   "g": 52,
+   "b": 33,
+   "literal name": "Olive Drab FS 34087",
+   "comment": ""
+ },
+ {
+   "r": 61,
+   "g": 110,
+   "b": 63,
+   "literal name": "Dark Green FS 14062",
+   "comment": ""
+ },
+ {
+   "r": 62,
+   "g": 61,
+   "b": 41,
+   "literal name": "Green FS 34094",
+   "comment": ""
+ },
+ {
+   "r": 63,
+   "g": 73,
+   "b": 82,
+   "literal name": "Medium Gunship Gray FS 26118",
+   "comment": ""
+ },
+ {
+   "r": 64,
+   "g": 64,
+   "b": 52,
+   "literal name": "I. R. Dark Green FS 34086",
+   "comment": ""
+ },
+ {
+   "r": 64,
+   "g": 71,
+   "b": 77,
+   "literal name": "Dark Gull Gray FS 36176",
+   "comment": ""
+ },
+ {
+   "r": 65,
+   "g": 64,
+   "b": 44,
+   "literal name": "Forest Green FS 24079",
+   "comment": ""
+ },
+ {
+   "r": 65,
+   "g": 74,
+   "b": 83,
+   "literal name": "Medium Gunship Gray FS 36118",
+   "comment": ""
+ },
+ {
+   "r": 66,
+   "g": 63,
+   "b": 44,
+   "literal name": "Forest Green FS 34079",
+   "comment": ""
+ },
+ {
+   "r": 67,
+   "g": 111,
+   "b": 148,
+   "literal name": "Medium Blue FS 35177",
+   "comment": ""
+ },
+ {
+   "r": 68,
+   "g": 55,
+   "b": 36,
+   "literal name": "Leather Brown FS 30051",
+   "comment": ""
+ },
+ {
+   "r": 68,
+   "g": 80,
+   "b": 58,
+   "literal name": "Green FS 34082",
+   "comment": ""
+ },
+ {
+   "r": 69,
+   "g": 73,
+   "b": 50,
+   "literal name": "Light Green FS 34102",
+   "comment": ""
+ },
+ {
+   "r": 69,
+   "g": 77,
+   "b": 66,
+   "literal name": "Dark Green FS 34096",
+   "comment": ""
+ },
+ {
+   "r": 69,
+   "g": 82,
+   "b": 56,
+   "literal name": "Green FS 34127",
+   "comment": ""
+ },
+ {
+   "r": 70,
+   "g": 105,
+   "b": 111,
+   "literal name": "Sea Blue FS 34058",
+   "comment": ""
+ },
+ {
+   "r": 71,
+   "g": 54,
+   "b": 34,
+   "literal name": "Brown FS 30099",
+   "comment": ""
+ },
+ {
+   "r": 71,
+   "g": 77,
+   "b": 73,
+   "literal name": "Dark Gray FS 36099",
+   "comment": ""
+ },
+ {
+   "r": 74,
+   "g": 55,
+   "b": 51,
+   "literal name": "Brown FS 20062",
+   "comment": ""
+ },
+ {
+   "r": 74,
+   "g": 76,
+   "b": 52,
+   "literal name": "Field Green FS 34097",
+   "comment": ""
+ },
+ {
+   "r": 75,
+   "g": 101,
+   "b": 74,
+   "literal name": "Deep Green FS 34128",
+   "comment": ""
+ },
+ {
+   "r": 76,
+   "g": 42,
+   "b": 33,
+   "literal name": "Brown FS 30111",
+   "comment": ""
+ },
+ {
+   "r": 77,
+   "g": 20,
+   "b": 11,
+   "literal name": "Hull Red FS 30075",
+   "comment": ""
+ },
+ {
+   "r": 77,
+   "g": 107,
+   "b": 83,
+   "literal name": "Medium Gray Green FS 34227",
+   "comment": ""
+ },
+ {
+   "r": 78,
+   "g": 160,
+   "b": 78,
+   "literal name": "Green FS 24190",
+   "comment": ""
+ },
+ {
+   "r": 79,
+   "g": 83,
+   "b": 56,
+   "literal name": "Green FS 34098",
+   "comment": ""
+ },
+ {
+   "r": 81,
+   "g": 94,
+   "b": 50,
+   "literal name": "Dark Green FS 14258",
+   "comment": ""
+ },
+ {
+   "r": 81,
+   "g": 104,
+   "b": 14,
+   "literal name": "Yellow Green FS 34259",
+   "comment": ""
+ },
+ {
+   "r": 83,
+   "g": 31,
+   "b": 35,
+   "literal name": "Maroon FS 20061",
+   "comment": ""
+ },
+ {
+   "r": 83,
+   "g": 47,
+   "b": 21,
+   "literal name": "Brown Special FS 10140",
+   "comment": ""
+ },
+ {
+   "r": 83,
+   "g": 47,
+   "b": 23,
+   "literal name": "Brown Special FS 30140",
+   "comment": ""
+ },
+ {
+   "r": 83,
+   "g": 100,
+   "b": 55,
+   "literal name": "Interior Green FS 34151",
+   "comment": ""
+ },
+ {
+   "r": 84,
+   "g": 59,
+   "b": 52,
+   "literal name": "Brown FS 30045",
+   "comment": ""
+ },
+ {
+   "r": 84,
+   "g": 94,
+   "b": 86,
+   "literal name": "Gray FS 36152",
+   "comment": ""
+ },
+ {
+   "r": 86,
+   "g": 64,
+   "b": 50,
+   "literal name": "Brown FS 30097",
+   "comment": ""
+ },
+ {
+   "r": 86,
+   "g": 98,
+   "b": 110,
+   "literal name": "Intermediate Blue FS 35164",
+   "comment": ""
+ },
+ {
+   "r": 88,
+   "g": 94,
+   "b": 80,
+   "literal name": "Green FS 34159",
+   "comment": ""
+ },
+ {
+   "r": 91,
+   "g": 70,
+   "b": 43,
+   "literal name": "Field Drab FS 30118",
+   "comment": ""
+ },
+ {
+   "r": 93,
+   "g": 75,
+   "b": 51,
+   "literal name": "Brown FS 33105",
+   "comment": ""
+ },
+ {
+   "r": 96,
+   "g": 102,
+   "b": 102,
+   "literal name": "Neutral Gray FS 36173",
+   "comment": ""
+ },
+ {
+   "r": 97,
+   "g": 47,
+   "b": 36,
+   "literal name": "Red Brown FS 30091",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 117,
+   "b": 126,
+   "literal name": "Gray Blue FS 35237",
+   "comment": ""
+ },
+ {
+   "r": 104,
+   "g": 93,
+   "b": 71,
+   "literal name": "Tan Green FS 34201",
+   "comment": ""
+ },
+ {
+   "r": 104,
+   "g": 118,
+   "b": 129,
+   "literal name": "Blue Gray FS 35189",
+   "comment": ""
+ },
+ {
+   "r": 105,
+   "g": 64,
+   "b": 36,
+   "literal name": "Brown Special FS 20140",
+   "comment": ""
+ },
+ {
+   "r": 105,
+   "g": 66,
+   "b": 35,
+   "literal name": "Brown FS 31090",
+   "comment": ""
+ },
+ {
+   "r": 106,
+   "g": 108,
+   "b": 107,
+   "literal name": "Gray FS 36251",
+   "comment": ""
+ },
+ {
+   "r": 106,
+   "g": 115,
+   "b": 122,
+   "literal name": "Gray FS 26152",
+   "comment": ""
+ },
+ {
+   "r": 106,
+   "g": 133,
+   "b": 162,
+   "literal name": "Dark Blue FS 35190",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 67,
+   "b": 59,
+   "literal name": "Brown FS 30160",
+   "comment": ""
+ },
+ {
+   "r": 109,
+   "g": 148,
+   "b": 119,
+   "literal name": "Green FS 24272",
+   "comment": ""
+ },
+ {
+   "r": 111,
+   "g": 117,
+   "b": 113,
+   "literal name": "Dark Gull Gray FS 36231",
+   "comment": ""
+ },
+ {
+   "r": 111,
+   "g": 128,
+   "b": 84,
+   "literal name": "Green FS 34258",
+   "comment": ""
+ },
+ {
+   "r": 112,
+   "g": 68,
+   "b": 55,
+   "literal name": "Earth Red FS 30117",
+   "comment": ""
+ },
+ {
+   "r": 112,
+   "g": 71,
+   "b": 43,
+   "literal name": "Brown FS 30215",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 85,
+   "b": 64,
+   "literal name": "Tan FS 30219",
+   "comment": ""
+ },
+ {
+   "r": 114,
+   "g": 160,
+   "b": 193,
+   "literal name": "Air Superiority Blue FS 15450",
+   "comment": ""
+ },
+ {
+   "r": 116,
+   "g": 153,
+   "b": 172,
+   "literal name": "Air Superiority Blue FS 35450",
+   "comment": ""
+ },
+ {
+   "r": 117,
+   "g": 127,
+   "b": 163,
+   "literal name": "Azure Blue FS 35231",
+   "comment": ""
+ },
+ {
+   "r": 120,
+   "g": 130,
+   "b": 165,
+   "literal name": "Blue FS 35240",
+   "comment": ""
+ },
+ {
+   "r": 120,
+   "g": 155,
+   "b": 157,
+   "literal name": "Blue FS 35414",
+   "comment": ""
+ },
+ {
+   "r": 121,
+   "g": 75,
+   "b": 122,
+   "literal name": "Purple FS 37100",
+   "comment": ""
+ },
+ {
+   "r": 121,
+   "g": 127,
+   "b": 127,
+   "literal name": "Medium Gray FS 26270",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 117,
+   "b": 95,
+   "literal name": "Gray FS 36165",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 127,
+   "b": 130,
+   "literal name": "Medium Gray FS 36270",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 188,
+   "b": 224,
+   "literal name": "Sky Blue FS 15200",
+   "comment": ""
+ },
+ {
+   "r": 127,
+   "g": 133,
+   "b": 129,
+   "literal name": "Dark Gray FS 36280",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 140,
+   "b": 140,
+   "literal name": "Dark Compass Ghost Gray FS 26320",
+   "comment": ""
+ },
+ {
+   "r": 129,
+   "g": 139,
+   "b": 141,
+   "literal name": "Dark Compass Ghost Gray FS 36320",
+   "comment": ""
+ },
+ {
+   "r": 129,
+   "g": 148,
+   "b": 144,
+   "literal name": "Light Gray FS 36329",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 50,
+   "b": 31,
+   "literal name": "Red Brown FS 20109",
+   "comment": ""
+ },
+ {
+   "r": 135,
+   "g": 134,
+   "b": 132,
+   "literal name": "Light Gull Gray FS 26440",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 134,
+   "b": 133,
+   "literal name": "Light Gull Gray FS 16440",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 142,
+   "b": 141,
+   "literal name": "Light Gray FS 36373",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 140,
+   "b": 132,
+   "literal name": "Flint Gray FS 36314",
+   "comment": ""
+ },
+ {
+   "r": 141,
+   "g": 122,
+   "b": 105,
+   "literal name": "Tan FS 30227",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 105,
+   "b": 58,
+   "literal name": "Tan FS 33245",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 171,
+   "b": 174,
+   "literal name": "Blue FS 35352",
+   "comment": ""
+ },
+ {
+   "r": 145,
+   "g": 163,
+   "b": 149,
+   "literal name": "Green FS 24410",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 64,
+   "b": 10,
+   "literal name": "Brown Yellow FS 20100",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 148,
+   "b": 152,
+   "literal name": "Aircraft Exterior Gray FS 36300",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 139,
+   "b": 108,
+   "literal name": "Sand Brown FS 30277",
+   "comment": ""
+ },
+ {
+   "r": 149,
+   "g": 127,
+   "b": 86,
+   "literal name": "Sand FS 33303",
+   "comment": ""
+ },
+ {
+   "r": 149,
+   "g": 146,
+   "b": 141,
+   "literal name": "Gray FS 36307",
+   "comment": ""
+ },
+ {
+   "r": 149,
+   "g": 152,
+   "b": 161,
+   "literal name": "Light Campers Ghost Gray FS 26375",
+   "comment": ""
+ },
+ {
+   "r": 149,
+   "g": 152,
+   "b": 161,
+   "literal name": "Light Compass Ghost Gray FS 36375",
+   "comment": ""
+ },
+ {
+   "r": 150,
+   "g": 171,
+   "b": 172,
+   "literal name": "Blue FS 25352",
+   "comment": ""
+ },
+ {
+   "r": 152,
+   "g": 166,
+   "b": 167,
+   "literal name": "Sky Gray FS 36473",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 46,
+   "b": 36,
+   "literal name": "Insignia Red FS 31136",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 47,
+   "b": 37,
+   "literal name": "Insignia Red FS 11136",
+   "comment": ""
+ },
+ {
+   "r": 157,
+   "g": 180,
+   "b": 198,
+   "literal name": "Light Sky Blue FS 35526",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 162,
+   "b": 163,
+   "literal name": "Aircraft Gray FS 16473",
+   "comment": ""
+ },
+ {
+   "r": 159,
+   "g": 144,
+   "b": 89,
+   "literal name": "Tan FS 33440",
+   "comment": ""
+ },
+ {
+   "r": 159,
+   "g": 173,
+   "b": 140,
+   "literal name": "Light Gray Green FS 34417",
+   "comment": ""
+ },
+ {
+   "r": 160,
+   "g": 178,
+   "b": 154,
+   "literal name": "Light Gray Green FS 34424",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 135,
+   "b": 68,
+   "literal name": "Yellow Sand FS 20266",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 135,
+   "b": 68,
+   "literal name": "Yellow Sand FS 30266",
+   "comment": ""
+ },
+ {
+   "r": 163,
+   "g": 140,
+   "b": 108,
+   "literal name": "Dessert Tan FS 33446",
+   "comment": ""
+ },
+ {
+   "r": 163,
+   "g": 148,
+   "b": 125,
+   "literal name": "Tan FS 36555",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 142,
+   "b": 126,
+   "literal name": "Sand FS 30279",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 146,
+   "b": 114,
+   "literal name": "Dark Yellow FS 33448",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 182,
+   "b": 185,
+   "literal name": "Gray FS 36463",
+   "comment": ""
+ },
+ {
+   "r": 168,
+   "g": 182,
+   "b": 147,
+   "literal name": "Green FS 34414",
+   "comment": ""
+ },
+ {
+   "r": 171,
+   "g": 150,
+   "b": 123,
+   "literal name": "Night Tan FS 20450",
+   "comment": ""
+ },
+ {
+   "r": 172,
+   "g": 172,
+   "b": 164,
+   "literal name": "Light Gull Gray FS 36440",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 141,
+   "b": 80,
+   "literal name": "Tan FS 20260",
+   "comment": ""
+ },
+ {
+   "r": 178,
+   "g": 166,
+   "b": 140,
+   "literal name": "Sand FS 30372",
+   "comment": ""
+ },
+ {
+   "r": 180,
+   "g": 142,
+   "b": 93,
+   "literal name": "Tan FS 30257",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 31,
+   "b": 17,
+   "literal name": "Red FS 21105",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 129,
+   "b": 89,
+   "literal name": "Yellow Sand FS 30400",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 180,
+   "b": 171,
+   "literal name": "Gray FS 36492",
+   "comment": ""
+ },
+ {
+   "r": 184,
+   "g": 183,
+   "b": 163,
+   "literal name": "Canadian Voodoo Gray FS 16515",
+   "comment": ""
+ },
+ {
+   "r": 185,
+   "g": 132,
+   "b": 92,
+   "literal name": "Tan FS 20400",
+   "comment": ""
+ },
+ {
+   "r": 185,
+   "g": 177,
+   "b": 156,
+   "literal name": "Tan FS 36521",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 22,
+   "b": 12,
+   "literal name": "International Orange FS 12197",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 178,
+   "b": 165,
+   "literal name": "Medium Gray FS 36424",
+   "comment": ""
+ },
+ {
+   "r": 188,
+   "g": 119,
+   "b": 86,
+   "literal name": "Tan FS 20252",
+   "comment": ""
+ },
+ {
+   "r": 189,
+   "g": 136,
+   "b": 70,
+   "literal name": "Ochre FS 33434",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 187,
+   "b": 178,
+   "literal name": "Gray FS 36559",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 29,
+   "b": 10,
+   "literal name": "Red FS 31350",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 218,
+   "b": 153,
+   "literal name": "Light Green FS 34552",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 180,
+   "b": 144,
+   "literal name": "Sand FS 33617",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 197,
+   "b": 202,
+   "literal name": "Light Gray FS 36495",
+   "comment": ""
+ },
+ {
+   "r": 199,
+   "g": 171,
+   "b": 132,
+   "literal name": "Middlestone FS 33531",
+   "comment": ""
+ },
+ {
+   "r": 199,
+   "g": 201,
+   "b": 164,
+   "literal name": "Sky FS 34554",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 193,
+   "b": 177,
+   "literal name": "Gray FS 36622",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 213,
+   "b": 209,
+   "literal name": "Light Blue FS 35622",
+   "comment": ""
+ },
+ {
+   "r": 206,
+   "g": 152,
+   "b": 26,
+   "literal name": "Earth Yellow FS 23275",
+   "comment": ""
+ },
+ {
+   "r": 207,
+   "g": 216,
+   "b": 221,
+   "literal name": "Light Blue FS 25550",
+   "comment": ""
+ },
+ {
+   "r": 211,
+   "g": 34,
+   "b": 0,
+   "literal name": "Red FS 31302",
+   "comment": ""
+ },
+ {
+   "r": 216,
+   "g": 239,
+   "b": 171,
+   "literal name": "Green FS 34666",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 204,
+   "b": 165,
+   "literal name": "Cream FS 23578",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 229,
+   "b": 104,
+   "literal name": "Lime Yellow FS 13670",
+   "comment": ""
+ },
+ {
+   "r": 222,
+   "g": 194,
+   "b": 110,
+   "literal name": "Beige FS 23594",
+   "comment": ""
+ },
+ {
+   "r": 223,
+   "g": 203,
+   "b": 168,
+   "literal name": "Sand FS 33711",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 159,
+   "b": 105,
+   "literal name": "Tan FS 22516",
+   "comment": ""
+ },
+ {
+   "r": 226,
+   "g": 194,
+   "b": 147,
+   "literal name": "Sand FS 32648",
+   "comment": ""
+ },
+ {
+   "r": 227,
+   "g": 207,
+   "b": 183,
+   "literal name": "Sand FS 33690",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 51,
+   "b": 1,
+   "literal name": "Red FS 21310",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 51,
+   "b": 1,
+   "literal name": "Red FS 22190",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 68,
+   "b": 0,
+   "literal name": "Red FS 21400",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 178,
+   "b": 166,
+   "literal name": "Pink FS 11630",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 242,
+   "b": 248,
+   "literal name": "Insignia White FS 17875",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 242,
+   "b": 248,
+   "literal name": "Insignia White FS 27875",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 242,
+   "b": 248,
+   "literal name": "Insignia White FS 37875",
+   "comment": ""
+ },
+ {
+   "r": 238,
+   "g": 221,
+   "b": 175,
+   "literal name": "Sand FS 23722",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 108,
+   "b": 0,
+   "literal name": "Orange FS 32473",
+   "comment": ""
+ },
+ {
+   "r": 240,
+   "g": 214,
+   "b": 177,
+   "literal name": "Sand FS 33717",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 199,
+   "b": 161,
+   "literal name": "Radome Tan FS 33613",
+   "comment": ""
+ },
+ {
+   "r": 245,
+   "g": 171,
+   "b": 48,
+   "literal name": "Orange Yellow FS 13538",
+   "comment": ""
+ },
+ {
+   "r": 245,
+   "g": 202,
+   "b": 134,
+   "literal name": "Yellow Sand FS 33695",
+   "comment": ""
+ },
+ {
+   "r": 247,
+   "g": 209,
+   "b": 0,
+   "literal name": "Yellow FS 13591",
+   "comment": ""
+ },
+ {
+   "r": 248,
+   "g": 249,
+   "b": 243,
+   "literal name": "Insignia White FS 17925",
+   "comment": ""
+ },
+ {
+   "r": 248,
+   "g": 249,
+   "b": 243,
+   "literal name": "Insignia White FS 37925",
+   "comment": ""
+ },
+ {
+   "r": 250,
+   "g": 204,
+   "b": 127,
+   "literal name": "Yellow Sand FS 23697",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 43,
+   "b": 17,
+   "literal name": "Fluorescent Red FS 28915",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 254,
+   "b": 235,
+   "literal name": "White FS 27780",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 72,
+   "b": 39,
+   "literal name": "Fluorescent Red Orange FS 18913",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 206,
+   "b": 22,
+   "literal name": "Yellow FS 23655",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 211,
+   "b": 29,
+   "literal name": "Blue Angels Yellow FS 13655",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 251,
+   "b": 210,
+   "literal name": "White FS 37855",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 71,
+   "b": 40,
+   "literal name": "Fluorescent Red Orange FS 28913",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 193,
+   "b": 16,
+   "literal name": "Orange Yellow FS 33538",
+   "comment": ""
+ }
+]

@@ -1,0 +1,9354 @@
+[
+ {
+   "r": 0,
+   "g": 20,
+   "b": 137,
+   "literal name": "Pantone Reflex Blue C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 24,
+   "b": 113,
+   "literal name": "Pantone 2748 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 26,
+   "b": 112,
+   "literal name": "Pantone 662 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 26,
+   "b": 114,
+   "literal name": "Pantone 2747 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 30,
+   "b": 96,
+   "literal name": "Pantone 2757 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 30,
+   "b": 98,
+   "literal name": "Pantone 2758 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 32,
+   "b": 91,
+   "literal name": "Pantone 281 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 35,
+   "b": 156,
+   "literal name": "Pantone Dark Blue C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 37,
+   "b": 84,
+   "literal name": "Pantone 655 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 38,
+   "b": 58,
+   "literal name": "Pantone 539 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 38,
+   "b": 62,
+   "literal name": "Pantone 2965 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 40,
+   "b": 85,
+   "literal name": "Pantone 295 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 42,
+   "b": 58,
+   "literal name": "Pantone 303 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 43,
+   "b": 73,
+   "literal name": "Pantone 7463 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 45,
+   "b": 114,
+   "literal name": "Pantone 288 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 46,
+   "b": 93,
+   "literal name": "Pantone 648 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 47,
+   "b": 108,
+   "literal name": "Pantone 294 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 48,
+   "b": 87,
+   "literal name": "Pantone 540 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 48,
+   "b": 135,
+   "literal name": "Pantone 287 C",
+   "comment": "Air Force Blue (USAF)"
+ },
+ {
+   "r": 0,
+   "g": 49,
+   "b": 60,
+   "literal name": "Pantone 547 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 51,
+   "b": 160,
+   "literal name": "Pantone 286 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 53,
+   "b": 148,
+   "literal name": "Pantone 661 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 56,
+   "b": 101,
+   "literal name": "Pantone 2955 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 58,
+   "b": 112,
+   "literal name": "Pantone 654 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 59,
+   "b": 73,
+   "literal name": "Pantone 309 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 59,
+   "b": 92,
+   "literal name": "Pantone 302 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 60,
+   "b": 113,
+   "literal name": "Pantone 541 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 61,
+   "b": 76,
+   "literal name": "Pantone 548 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 61,
+   "b": 165,
+   "literal name": "Pantone 293 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 62,
+   "b": 81,
+   "literal name": "Pantone 3035 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 71,
+   "b": 187,
+   "literal name": "Pantone 2728 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 72,
+   "b": 81,
+   "literal name": "Pantone 316 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 73,
+   "b": 118,
+   "literal name": "Pantone 7693 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 75,
+   "b": 135,
+   "literal name": "Pantone 301 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 76,
+   "b": 69,
+   "literal name": "Pantone 3302 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 76,
+   "b": 151,
+   "literal name": "Pantone 2945 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 78,
+   "b": 66,
+   "literal name": "Pantone 3305 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 79,
+   "b": 89,
+   "literal name": "Pantone 3165 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 79,
+   "b": 113,
+   "literal name": "Pantone 3025 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 81,
+   "b": 81,
+   "literal name": "Pantone 7722 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 83,
+   "b": 76,
+   "literal name": "Pantone 330 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 85,
+   "b": 135,
+   "literal name": "Pantone 7692 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 85,
+   "b": 140,
+   "literal name": "Pantone 7462 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 86,
+   "b": 112,
+   "literal name": "Pantone 7708 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 87,
+   "b": 63,
+   "literal name": "Pantone 7484 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 87,
+   "b": 118,
+   "literal name": "Pantone 7701 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 87,
+   "b": 184,
+   "literal name": "Pantone 2935 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 88,
+   "b": 68,
+   "literal name": "Pantone 7729 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 88,
+   "b": 124,
+   "literal name": "Pantone 308 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 89,
+   "b": 76,
+   "literal name": "Pantone 561 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 89,
+   "b": 79,
+   "literal name": "Pantone 3292 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 90,
+   "b": 112,
+   "literal name": "Pantone 7470 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 94,
+   "b": 93,
+   "literal name": "Pantone 7721 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 94,
+   "b": 184,
+   "literal name": "Pantone 300 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 95,
+   "b": 97,
+   "literal name": "Pantone 323 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 95,
+   "b": 131,
+   "literal name": "Pantone 634 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 95,
+   "b": 134,
+   "literal name": "Pantone 7469 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 97,
+   "b": 127,
+   "literal name": "Pantone 7707 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 98,
+   "b": 105,
+   "literal name": "Pantone 7715 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 98,
+   "b": 114,
+   "literal name": "Pantone 3155 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 98,
+   "b": 152,
+   "literal name": "Pantone 7691 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 98,
+   "b": 155,
+   "literal name": "Pantone 3015 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 99,
+   "b": 65,
+   "literal name": "Pantone 3425 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 99,
+   "b": 91,
+   "literal name": "Pantone 7720 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 102,
+   "b": 79,
+   "literal name": "Pantone 336 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 103,
+   "b": 71,
+   "literal name": "Pantone 342 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 103,
+   "b": 127,
+   "literal name": "Pantone 315 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 103,
+   "b": 160,
+   "literal name": "Pantone 641 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 104,
+   "b": 69,
+   "literal name": "Pantone 7728 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 104,
+   "b": 94,
+   "literal name": "Pantone 329 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 106,
+   "b": 82,
+   "literal name": "Pantone 3298 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 106,
+   "b": 142,
+   "literal name": "Pantone 7706 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 107,
+   "b": 166,
+   "literal name": "Pantone 307 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 108,
+   "b": 91,
+   "literal name": "Pantone 568 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 109,
+   "b": 104,
+   "literal name": "Pantone 7719 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 111,
+   "b": 68,
+   "literal name": "Pantone 7727 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 111,
+   "b": 98,
+   "literal name": "Pantone 562 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 112,
+   "b": 65,
+   "literal name": "Pantone 7733 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 112,
+   "b": 150,
+   "literal name": "Pantone 7705 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 114,
+   "b": 206,
+   "literal name": "Pantone 285 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 115,
+   "b": 103,
+   "literal name": "Pantone 328 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 115,
+   "b": 119,
+   "literal name": "Pantone 322 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 115,
+   "b": 150,
+   "literal name": "Pantone 633 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 115,
+   "b": 152,
+   "literal name": "Pantone 7468 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 118,
+   "b": 114,
+   "literal name": "Pantone 7718 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 118,
+   "b": 128,
+   "literal name": "Pantone 7714 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 118,
+   "b": 129,
+   "literal name": "Pantone 7474 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 118,
+   "b": 168,
+   "literal name": "Pantone 7690 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 119,
+   "b": 73,
+   "literal name": "Pantone 3415 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 119,
+   "b": 139,
+   "literal name": "Pantone 3145 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 119,
+   "b": 200,
+   "literal name": "Pantone 3005 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 120,
+   "b": 100,
+   "literal name": "Pantone 3295 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 122,
+   "b": 51,
+   "literal name": "Pantone 356 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 122,
+   "b": 62,
+   "literal name": "Pantone 7732 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 122,
+   "b": 83,
+   "literal name": "Pantone 341 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 123,
+   "b": 75,
+   "literal name": "Pantone 7726 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 123,
+   "b": 95,
+   "literal name": "Pantone 335 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 125,
+   "b": 138,
+   "literal name": "Pantone 7713 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 125,
+   "b": 186,
+   "literal name": "Pantone 7461 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 127,
+   "b": 163,
+   "literal name": "Pantone 314 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 129,
+   "b": 109,
+   "literal name": "Pantone 569 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 130,
+   "b": 100,
+   "literal name": "Pantone 3288 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 130,
+   "b": 186,
+   "literal name": "Pantone 640 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 132,
+   "b": 61,
+   "literal name": "Pantone 348 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 132,
+   "b": 202,
+   "literal name": "Pantone Medium Blue C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 133,
+   "b": 120,
+   "literal name": "Pantone 3282 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 133,
+   "b": 125,
+   "literal name": "Pantone 7717 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 133,
+   "b": 155,
+   "literal name": "Pantone 7712 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 133,
+   "b": 173,
+   "literal name": "Pantone 7704 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 133,
+   "b": 202,
+   "literal name": "Pantone Process Blue C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 134,
+   "b": 117,
+   "literal name": "Pantone 327 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 134,
+   "b": 191,
+   "literal name": "Pantone 7460 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 135,
+   "b": 85,
+   "literal name": "Pantone 7725 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 140,
+   "b": 149,
+   "literal name": "Pantone 321 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 142,
+   "b": 170,
+   "literal name": "Pantone 3135 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 146,
+   "b": 188,
+   "literal name": "Pantone 313 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 147,
+   "b": 178,
+   "literal name": "Pantone 632 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 149,
+   "b": 200,
+   "literal name": "Pantone 639 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 150,
+   "b": 57,
+   "literal name": "Pantone 355 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 150,
+   "b": 94,
+   "literal name": "Pantone 340 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 150,
+   "b": 108,
+   "literal name": "Pantone 7724 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 150,
+   "b": 129,
+   "literal name": "Pantone 3285 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 150,
+   "b": 143,
+   "literal name": "Pantone 7716 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 151,
+   "b": 117,
+   "literal name": "Pantone 334 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 151,
+   "b": 169,
+   "literal name": "Pantone 7711 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 154,
+   "b": 68,
+   "literal name": "Pantone 347 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 154,
+   "b": 206,
+   "literal name": "Pantone 801 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 155,
+   "b": 119,
+   "literal name": "Pantone 3278 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 156,
+   "b": 166,
+   "literal name": "Pantone 320 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 156,
+   "b": 189,
+   "literal name": "Pantone 7703 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 156,
+   "b": 222,
+   "literal name": "Pantone 2925 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 159,
+   "b": 77,
+   "literal name": "Pantone 7482 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 163,
+   "b": 173,
+   "literal name": "Pantone 7467 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 163,
+   "b": 224,
+   "literal name": "Pantone 299 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 164,
+   "b": 153,
+   "literal name": "Pantone 3272 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 167,
+   "b": 181,
+   "literal name": "Pantone 7710 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 169,
+   "b": 206,
+   "literal name": "Pantone 312 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 169,
+   "b": 224,
+   "literal name": "Pantone 2995 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 171,
+   "b": 132,
+   "literal name": "Pantone Green C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 171,
+   "b": 142,
+   "literal name": "Pantone 3268 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 174,
+   "b": 199,
+   "literal name": "Pantone 3125 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 175,
+   "b": 102,
+   "literal name": "Pantone 3405 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 175,
+   "b": 215,
+   "literal name": "Pantone 638 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 176,
+   "b": 139,
+   "literal name": "Pantone Bright Green C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 176,
+   "b": 185,
+   "literal name": "Pantone 7466 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 177,
+   "b": 64,
+   "literal name": "Pantone 354 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 178,
+   "b": 169,
+   "literal name": "Pantone 326 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 179,
+   "b": 136,
+   "literal name": "Pantone 339 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 179,
+   "b": 152,
+   "literal name": "Pantone 3275 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 181,
+   "b": 226,
+   "literal name": "Pantone 306 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 183,
+   "b": 79,
+   "literal name": "Pantone 7481 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 191,
+   "b": 111,
+   "literal name": "Pantone 7480 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 191,
+   "b": 179,
+   "literal name": "Pantone 3262 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 193,
+   "b": 213,
+   "literal name": "Pantone 3115 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 195,
+   "b": 137,
+   "literal name": "Pantone 3395 C",
+   "comment": ""
+ },
+ {
+   "r": 0,
+   "g": 199,
+   "b": 177,
+   "literal name": "Pantone 3265 C",
+   "comment": ""
+ },
+ {
+   "r": 1,
+   "g": 33,
+   "b": 105,
+   "literal name": "Pantone 280 C",
+   "comment": ""
+ },
+ {
+   "r": 1,
+   "g": 66,
+   "b": 106,
+   "literal name": "Pantone 7694 C",
+   "comment": ""
+ },
+ {
+   "r": 3,
+   "g": 70,
+   "b": 56,
+   "literal name": "Pantone 3308 C",
+   "comment": ""
+ },
+ {
+   "r": 4,
+   "g": 28,
+   "b": 44,
+   "literal name": "Pantone 296 C",
+   "comment": ""
+ },
+ {
+   "r": 4,
+   "g": 30,
+   "b": 66,
+   "literal name": "Pantone 282 C",
+   "comment": ""
+ },
+ {
+   "r": 4,
+   "g": 106,
+   "b": 56,
+   "literal name": "Pantone 349 C",
+   "comment": ""
+ },
+ {
+   "r": 5,
+   "g": 195,
+   "b": 222,
+   "literal name": "Pantone 311 C",
+   "comment": ""
+ },
+ {
+   "r": 6,
+   "g": 3,
+   "b": 141,
+   "literal name": "Pantone 2738 C",
+   "comment": ""
+ },
+ {
+   "r": 7,
+   "g": 29,
+   "b": 73,
+   "literal name": "Pantone 2768 C",
+   "comment": ""
+ },
+ {
+   "r": 7,
+   "g": 39,
+   "b": 45,
+   "literal name": "Pantone 5463 C",
+   "comment": ""
+ },
+ {
+   "r": 7,
+   "g": 43,
+   "b": 49,
+   "literal name": "Pantone 546 C",
+   "comment": ""
+ },
+ {
+   "r": 8,
+   "g": 31,
+   "b": 44,
+   "literal name": "Pantone 5395 C",
+   "comment": ""
+ },
+ {
+   "r": 12,
+   "g": 35,
+   "b": 64,
+   "literal name": "Pantone 289 C",
+   "comment": ""
+ },
+ {
+   "r": 13,
+   "g": 82,
+   "b": 87,
+   "literal name": "Pantone 7476 C",
+   "comment": ""
+ },
+ {
+   "r": 16,
+   "g": 6,
+   "b": 159,
+   "literal name": "Pantone Blue 072 C",
+   "comment": ""
+ },
+ {
+   "r": 16,
+   "g": 24,
+   "b": 32,
+   "literal name": "Pantone Black 6 C",
+   "comment": ""
+ },
+ {
+   "r": 17,
+   "g": 87,
+   "b": 64,
+   "literal name": "Pantone 343 C",
+   "comment": ""
+ },
+ {
+   "r": 17,
+   "g": 94,
+   "b": 103,
+   "literal name": "Pantone 5473 C",
+   "comment": ""
+ },
+ {
+   "r": 19,
+   "g": 30,
+   "b": 41,
+   "literal name": "Pantone 7547 C",
+   "comment": ""
+ },
+ {
+   "r": 19,
+   "g": 41,
+   "b": 75,
+   "literal name": "Pantone 2767 C",
+   "comment": ""
+ },
+ {
+   "r": 19,
+   "g": 50,
+   "b": 43,
+   "literal name": "Pantone 627 C",
+   "comment": ""
+ },
+ {
+   "r": 20,
+   "g": 27,
+   "b": 77,
+   "literal name": "Pantone 2766 C",
+   "comment": ""
+ },
+ {
+   "r": 21,
+   "g": 31,
+   "b": 109,
+   "literal name": "Pantone 2756 C",
+   "comment": ""
+ },
+ {
+   "r": 21,
+   "g": 71,
+   "b": 52,
+   "literal name": "Pantone 3435 C",
+   "comment": ""
+ },
+ {
+   "r": 22,
+   "g": 92,
+   "b": 125,
+   "literal name": "Pantone 7700 C",
+   "comment": ""
+ },
+ {
+   "r": 23,
+   "g": 28,
+   "b": 143,
+   "literal name": "Pantone 2746 C",
+   "comment": ""
+ },
+ {
+   "r": 23,
+   "g": 63,
+   "b": 53,
+   "literal name": "Pantone 567 C",
+   "comment": ""
+ },
+ {
+   "r": 24,
+   "g": 48,
+   "b": 40,
+   "literal name": "Pantone 5535 C",
+   "comment": ""
+ },
+ {
+   "r": 24,
+   "g": 51,
+   "b": 47,
+   "literal name": "Pantone 5467 C",
+   "comment": ""
+ },
+ {
+   "r": 27,
+   "g": 54,
+   "b": 93,
+   "literal name": "Pantone 534 C",
+   "comment": ""
+ },
+ {
+   "r": 28,
+   "g": 31,
+   "b": 42,
+   "literal name": "Pantone 532 C",
+   "comment": ""
+ },
+ {
+   "r": 29,
+   "g": 37,
+   "b": 45,
+   "literal name": "Pantone 433 C",
+   "comment": ""
+ },
+ {
+   "r": 29,
+   "g": 60,
+   "b": 52,
+   "literal name": "Pantone 560 C",
+   "comment": ""
+ },
+ {
+   "r": 29,
+   "g": 66,
+   "b": 138,
+   "literal name": "Pantone 7687 C",
+   "comment": ""
+ },
+ {
+   "r": 29,
+   "g": 79,
+   "b": 145,
+   "literal name": "Pantone 7686 C",
+   "comment": ""
+ },
+ {
+   "r": 30,
+   "g": 26,
+   "b": 52,
+   "literal name": "Pantone 5255 C",
+   "comment": ""
+ },
+ {
+   "r": 30,
+   "g": 34,
+   "b": 170,
+   "literal name": "Pantone 2736 C",
+   "comment": ""
+ },
+ {
+   "r": 31,
+   "g": 42,
+   "b": 68,
+   "literal name": "Pantone 533 C",
+   "comment": ""
+ },
+ {
+   "r": 32,
+   "g": 21,
+   "b": 71,
+   "literal name": "Pantone 2765 C",
+   "comment": ""
+ },
+ {
+   "r": 32,
+   "g": 23,
+   "b": 71,
+   "literal name": "Pantone 275 C",
+   "comment": ""
+ },
+ {
+   "r": 32,
+   "g": 92,
+   "b": 64,
+   "literal name": "Pantone 554 C",
+   "comment": ""
+ },
+ {
+   "r": 33,
+   "g": 21,
+   "b": 81,
+   "literal name": "Pantone 274 C",
+   "comment": ""
+ },
+ {
+   "r": 33,
+   "g": 35,
+   "b": 34,
+   "literal name": "Pantone 419 C",
+   "comment": ""
+ },
+ {
+   "r": 33,
+   "g": 39,
+   "b": 33,
+   "literal name": "Pantone Black 3 C",
+   "comment": ""
+ },
+ {
+   "r": 33,
+   "g": 87,
+   "b": 50,
+   "literal name": "Pantone 357 C",
+   "comment": ""
+ },
+ {
+   "r": 34,
+   "g": 28,
+   "b": 53,
+   "literal name": "Pantone 276 C",
+   "comment": ""
+ },
+ {
+   "r": 34,
+   "g": 34,
+   "b": 35,
+   "literal name": "Pantone Neutral Black C",
+   "comment": ""
+ },
+ {
+   "r": 34,
+   "g": 55,
+   "b": 43,
+   "literal name": "Pantone 5605 C",
+   "comment": ""
+ },
+ {
+   "r": 34,
+   "g": 136,
+   "b": 72,
+   "literal name": "Pantone 7731 C",
+   "comment": ""
+ },
+ {
+   "r": 35,
+   "g": 97,
+   "b": 146,
+   "literal name": "Pantone 647 C",
+   "comment": ""
+ },
+ {
+   "r": 36,
+   "g": 19,
+   "b": 95,
+   "literal name": "Pantone 273 C",
+   "comment": ""
+ },
+ {
+   "r": 36,
+   "g": 76,
+   "b": 90,
+   "literal name": "Pantone 7477 C",
+   "comment": ""
+ },
+ {
+   "r": 37,
+   "g": 14,
+   "b": 98,
+   "literal name": "Pantone 2755 C",
+   "comment": ""
+ },
+ {
+   "r": 37,
+   "g": 40,
+   "b": 42,
+   "literal name": "Pantone 426 C",
+   "comment": ""
+ },
+ {
+   "r": 37,
+   "g": 55,
+   "b": 70,
+   "literal name": "Pantone 7546 C",
+   "comment": ""
+ },
+ {
+   "r": 38,
+   "g": 208,
+   "b": 124,
+   "literal name": "Pantone 7479 C",
+   "comment": ""
+ },
+ {
+   "r": 39,
+   "g": 93,
+   "b": 56,
+   "literal name": "Pantone 7483 C",
+   "comment": ""
+ },
+ {
+   "r": 39,
+   "g": 153,
+   "b": 137,
+   "literal name": "Pantone 7473 C",
+   "comment": ""
+ },
+ {
+   "r": 40,
+   "g": 0,
+   "b": 113,
+   "literal name": "Pantone 2745 C",
+   "comment": ""
+ },
+ {
+   "r": 40,
+   "g": 71,
+   "b": 52,
+   "literal name": "Pantone 553 C",
+   "comment": ""
+ },
+ {
+   "r": 40,
+   "g": 92,
+   "b": 77,
+   "literal name": "Pantone 626 C",
+   "comment": ""
+ },
+ {
+   "r": 40,
+   "g": 97,
+   "b": 64,
+   "literal name": "Pantone 7734 C",
+   "comment": ""
+ },
+ {
+   "r": 40,
+   "g": 114,
+   "b": 79,
+   "literal name": "Pantone 555 C",
+   "comment": ""
+ },
+ {
+   "r": 41,
+   "g": 143,
+   "b": 194,
+   "literal name": "Pantone 7689 C",
+   "comment": ""
+ },
+ {
+   "r": 42,
+   "g": 210,
+   "b": 201,
+   "literal name": "Pantone 3252 C",
+   "comment": ""
+ },
+ {
+   "r": 44,
+   "g": 82,
+   "b": 52,
+   "literal name": "Pantone 350 C",
+   "comment": ""
+ },
+ {
+   "r": 44,
+   "g": 86,
+   "b": 151,
+   "literal name": "Pantone 7685 C",
+   "comment": ""
+ },
+ {
+   "r": 44,
+   "g": 213,
+   "b": 196,
+   "literal name": "Pantone 3255 C",
+   "comment": ""
+ },
+ {
+   "r": 45,
+   "g": 41,
+   "b": 38,
+   "literal name": "Pantone Black C",
+   "comment": ""
+ },
+ {
+   "r": 45,
+   "g": 204,
+   "b": 211,
+   "literal name": "Pantone 319 C",
+   "comment": ""
+ },
+ {
+   "r": 46,
+   "g": 0,
+   "b": 139,
+   "literal name": "Pantone 2735 C",
+   "comment": ""
+ },
+ {
+   "r": 46,
+   "g": 26,
+   "b": 71,
+   "literal name": "Pantone 2695 C",
+   "comment": ""
+ },
+ {
+   "r": 48,
+   "g": 127,
+   "b": 226,
+   "literal name": "Pantone 2727 C",
+   "comment": ""
+ },
+ {
+   "r": 49,
+   "g": 38,
+   "b": 29,
+   "literal name": "Pantone Black 4 C",
+   "comment": ""
+ },
+ {
+   "r": 49,
+   "g": 155,
+   "b": 66,
+   "literal name": "Pantone 7739 C",
+   "comment": ""
+ },
+ {
+   "r": 50,
+   "g": 98,
+   "b": 149,
+   "literal name": "Pantone 653 C",
+   "comment": ""
+ },
+ {
+   "r": 51,
+   "g": 0,
+   "b": 114,
+   "literal name": "Pantone 2685 C",
+   "comment": ""
+ },
+ {
+   "r": 51,
+   "g": 47,
+   "b": 33,
+   "literal name": "Pantone Black 2 C",
+   "comment": ""
+ },
+ {
+   "r": 51,
+   "g": 63,
+   "b": 72,
+   "literal name": "Pantone 432 C",
+   "comment": ""
+ },
+ {
+   "r": 52,
+   "g": 101,
+   "b": 127,
+   "literal name": "Pantone 7699 C",
+   "comment": ""
+ },
+ {
+   "r": 54,
+   "g": 87,
+   "b": 59,
+   "literal name": "Pantone 7735 C",
+   "comment": ""
+ },
+ {
+   "r": 55,
+   "g": 58,
+   "b": 54,
+   "literal name": "Pantone 447 C",
+   "comment": ""
+ },
+ {
+   "r": 56,
+   "g": 46,
+   "b": 44,
+   "literal name": "Pantone 440 C",
+   "comment": ""
+ },
+ {
+   "r": 56,
+   "g": 47,
+   "b": 45,
+   "literal name": "Pantone 412 C",
+   "comment": ""
+ },
+ {
+   "r": 56,
+   "g": 94,
+   "b": 157,
+   "literal name": "Pantone 7684 C",
+   "comment": ""
+ },
+ {
+   "r": 57,
+   "g": 85,
+   "b": 66,
+   "literal name": "Pantone 7736 C",
+   "comment": ""
+ },
+ {
+   "r": 58,
+   "g": 93,
+   "b": 174,
+   "literal name": "Pantone 7455 C",
+   "comment": ""
+ },
+ {
+   "r": 58,
+   "g": 145,
+   "b": 63,
+   "literal name": "Pantone 7740 C",
+   "comment": ""
+ },
+ {
+   "r": 60,
+   "g": 16,
+   "b": 83,
+   "literal name": "Pantone 2627 C",
+   "comment": ""
+ },
+ {
+   "r": 60,
+   "g": 219,
+   "b": 192,
+   "literal name": "Pantone 333 C",
+   "comment": ""
+ },
+ {
+   "r": 61,
+   "g": 57,
+   "b": 53,
+   "literal name": "Pantone Black 7 C",
+   "comment": ""
+ },
+ {
+   "r": 61,
+   "g": 68,
+   "b": 30,
+   "literal name": "Pantone 5747 C",
+   "comment": ""
+ },
+ {
+   "r": 62,
+   "g": 43,
+   "b": 46,
+   "literal name": "Pantone Black 5 C",
+   "comment": ""
+ },
+ {
+   "r": 62,
+   "g": 72,
+   "b": 39,
+   "literal name": "Pantone 5743 C",
+   "comment": ""
+ },
+ {
+   "r": 62,
+   "g": 93,
+   "b": 88,
+   "literal name": "Pantone 5477 C",
+   "comment": ""
+ },
+ {
+   "r": 62,
+   "g": 177,
+   "b": 200,
+   "literal name": "Pantone 631 C",
+   "comment": ""
+ },
+ {
+   "r": 63,
+   "g": 32,
+   "b": 33,
+   "literal name": "Pantone 4975 C",
+   "comment": ""
+ },
+ {
+   "r": 63,
+   "g": 42,
+   "b": 86,
+   "literal name": "Pantone 669 C",
+   "comment": ""
+ },
+ {
+   "r": 63,
+   "g": 68,
+   "b": 68,
+   "literal name": "Pantone 446 C",
+   "comment": ""
+ },
+ {
+   "r": 64,
+   "g": 58,
+   "b": 96,
+   "literal name": "Pantone 5265 C",
+   "comment": ""
+ },
+ {
+   "r": 64,
+   "g": 126,
+   "b": 201,
+   "literal name": "Pantone 660 C",
+   "comment": ""
+ },
+ {
+   "r": 64,
+   "g": 193,
+   "b": 172,
+   "literal name": "Pantone 7465 C",
+   "comment": ""
+ },
+ {
+   "r": 65,
+   "g": 39,
+   "b": 59,
+   "literal name": "Pantone 7449 C",
+   "comment": ""
+ },
+ {
+   "r": 65,
+   "g": 116,
+   "b": 141,
+   "literal name": "Pantone 7698 C",
+   "comment": ""
+ },
+ {
+   "r": 65,
+   "g": 143,
+   "b": 222,
+   "literal name": "Pantone 279 C",
+   "comment": ""
+ },
+ {
+   "r": 65,
+   "g": 182,
+   "b": 230,
+   "literal name": "Pantone 298 C",
+   "comment": ""
+ },
+ {
+   "r": 66,
+   "g": 85,
+   "b": 99,
+   "literal name": "Pantone 7545 C",
+   "comment": ""
+ },
+ {
+   "r": 66,
+   "g": 109,
+   "b": 169,
+   "literal name": "Pantone 7683 C",
+   "comment": ""
+ },
+ {
+   "r": 66,
+   "g": 152,
+   "b": 181,
+   "literal name": "Pantone 7459 C",
+   "comment": ""
+ },
+ {
+   "r": 67,
+   "g": 105,
+   "b": 91,
+   "literal name": "Pantone 5545 C",
+   "comment": ""
+ },
+ {
+   "r": 67,
+   "g": 176,
+   "b": 42,
+   "literal name": "Pantone 361 C",
+   "comment": ""
+ },
+ {
+   "r": 68,
+   "g": 0,
+   "b": 153,
+   "literal name": "Pantone Violet C",
+   "comment": ""
+ },
+ {
+   "r": 68,
+   "g": 105,
+   "b": 61,
+   "literal name": "Pantone 7743 C",
+   "comment": ""
+ },
+ {
+   "r": 68,
+   "g": 136,
+   "b": 62,
+   "literal name": "Pantone 7741 C",
+   "comment": ""
+ },
+ {
+   "r": 68,
+   "g": 214,
+   "b": 44,
+   "literal name": "Pantone 802 C",
+   "comment": ""
+ },
+ {
+   "r": 69,
+   "g": 53,
+   "b": 54,
+   "literal name": "Pantone 439 C",
+   "comment": ""
+ },
+ {
+   "r": 70,
+   "g": 152,
+   "b": 203,
+   "literal name": "Pantone 7688 C",
+   "comment": ""
+ },
+ {
+   "r": 71,
+   "g": 10,
+   "b": 104,
+   "literal name": "Pantone 2617 C",
+   "comment": ""
+ },
+ {
+   "r": 71,
+   "g": 55,
+   "b": 41,
+   "literal name": "Pantone 7533 C",
+   "comment": ""
+ },
+ {
+   "r": 71,
+   "g": 215,
+   "b": 172,
+   "literal name": "Pantone 3385 C",
+   "comment": ""
+ },
+ {
+   "r": 72,
+   "g": 92,
+   "b": 199,
+   "literal name": "Pantone 2726 C",
+   "comment": ""
+ },
+ {
+   "r": 72,
+   "g": 122,
+   "b": 123,
+   "literal name": "Pantone 7475 C",
+   "comment": ""
+ },
+ {
+   "r": 72,
+   "g": 162,
+   "b": 63,
+   "literal name": "Pantone 7738 C",
+   "comment": ""
+ },
+ {
+   "r": 72,
+   "g": 169,
+   "b": 197,
+   "literal name": "Pantone 7702 C",
+   "comment": ""
+ },
+ {
+   "r": 73,
+   "g": 197,
+   "b": 177,
+   "literal name": "Pantone 3258 C",
+   "comment": ""
+ },
+ {
+   "r": 74,
+   "g": 48,
+   "b": 65,
+   "literal name": "Pantone 5185 C",
+   "comment": ""
+ },
+ {
+   "r": 74,
+   "g": 65,
+   "b": 42,
+   "literal name": "Pantone 448 C",
+   "comment": ""
+ },
+ {
+   "r": 74,
+   "g": 119,
+   "b": 41,
+   "literal name": "Pantone 364 C",
+   "comment": ""
+ },
+ {
+   "r": 74,
+   "g": 119,
+   "b": 60,
+   "literal name": "Pantone 7742 C",
+   "comment": ""
+ },
+ {
+   "r": 75,
+   "g": 48,
+   "b": 72,
+   "literal name": "Pantone 518 C",
+   "comment": ""
+ },
+ {
+   "r": 75,
+   "g": 56,
+   "b": 76,
+   "literal name": "Pantone 7448 C",
+   "comment": ""
+ },
+ {
+   "r": 75,
+   "g": 61,
+   "b": 42,
+   "literal name": "Pantone 7554 C",
+   "comment": ""
+ },
+ {
+   "r": 75,
+   "g": 79,
+   "b": 84,
+   "literal name": "Pantone 7540 C",
+   "comment": ""
+ },
+ {
+   "r": 75,
+   "g": 149,
+   "b": 96,
+   "literal name": "Pantone 7730 C",
+   "comment": ""
+ },
+ {
+   "r": 76,
+   "g": 65,
+   "b": 132,
+   "literal name": "Pantone 7672 C",
+   "comment": ""
+ },
+ {
+   "r": 76,
+   "g": 140,
+   "b": 43,
+   "literal name": "Pantone 363 C",
+   "comment": ""
+ },
+ {
+   "r": 78,
+   "g": 0,
+   "b": 142,
+   "literal name": "Pantone Medium Purple C",
+   "comment": ""
+ },
+ {
+   "r": 78,
+   "g": 54,
+   "b": 41,
+   "literal name": "Pantone 476 C",
+   "comment": ""
+ },
+ {
+   "r": 78,
+   "g": 73,
+   "b": 52,
+   "literal name": "Pantone 7771 C",
+   "comment": ""
+ },
+ {
+   "r": 78,
+   "g": 91,
+   "b": 49,
+   "literal name": "Pantone 574 C",
+   "comment": ""
+ },
+ {
+   "r": 78,
+   "g": 135,
+   "b": 160,
+   "literal name": "Pantone 7697 C",
+   "comment": ""
+ },
+ {
+   "r": 78,
+   "g": 195,
+   "b": 224,
+   "literal name": "Pantone 637 C",
+   "comment": ""
+ },
+ {
+   "r": 79,
+   "g": 44,
+   "b": 29,
+   "literal name": "Pantone 4625 C",
+   "comment": ""
+ },
+ {
+   "r": 79,
+   "g": 117,
+   "b": 139,
+   "literal name": "Pantone 5405 C",
+   "comment": ""
+ },
+ {
+   "r": 79,
+   "g": 134,
+   "b": 142,
+   "literal name": "Pantone 5483 C",
+   "comment": ""
+ },
+ {
+   "r": 80,
+   "g": 7,
+   "b": 120,
+   "literal name": "Pantone 2607 C",
+   "comment": ""
+ },
+ {
+   "r": 80,
+   "g": 43,
+   "b": 58,
+   "literal name": "Pantone 7645 C",
+   "comment": ""
+ },
+ {
+   "r": 80,
+   "g": 87,
+   "b": 89,
+   "literal name": "Pantone 445 C",
+   "comment": ""
+ },
+ {
+   "r": 80,
+   "g": 127,
+   "b": 112,
+   "literal name": "Pantone 625 C",
+   "comment": ""
+ },
+ {
+   "r": 80,
+   "g": 158,
+   "b": 47,
+   "literal name": "Pantone 362 C",
+   "comment": ""
+ },
+ {
+   "r": 80,
+   "g": 166,
+   "b": 132,
+   "literal name": "Pantone 7723 C",
+   "comment": ""
+ },
+ {
+   "r": 81,
+   "g": 40,
+   "b": 79,
+   "literal name": "Pantone 262 C",
+   "comment": ""
+ },
+ {
+   "r": 81,
+   "g": 42,
+   "b": 68,
+   "literal name": "Pantone 5115 C",
+   "comment": ""
+ },
+ {
+   "r": 81,
+   "g": 45,
+   "b": 109,
+   "literal name": "Pantone 269 C",
+   "comment": ""
+ },
+ {
+   "r": 81,
+   "g": 47,
+   "b": 46,
+   "literal name": "Pantone 497 C",
+   "comment": ""
+ },
+ {
+   "r": 81,
+   "g": 70,
+   "b": 137,
+   "literal name": "Pantone 7671 C",
+   "comment": ""
+ },
+ {
+   "r": 81,
+   "g": 83,
+   "b": 74,
+   "literal name": "Pantone 418 C",
+   "comment": ""
+ },
+ {
+   "r": 82,
+   "g": 49,
+   "b": 120,
+   "literal name": "Pantone 7680 C",
+   "comment": ""
+ },
+ {
+   "r": 82,
+   "g": 71,
+   "b": 39,
+   "literal name": "Pantone 449 C",
+   "comment": ""
+ },
+ {
+   "r": 83,
+   "g": 84,
+   "b": 53,
+   "literal name": "Pantone 7764 C",
+   "comment": ""
+ },
+ {
+   "r": 83,
+   "g": 84,
+   "b": 134,
+   "literal name": "Pantone 7673 C",
+   "comment": ""
+ },
+ {
+   "r": 83,
+   "g": 86,
+   "b": 90,
+   "literal name": "Pantone Cool Gray 11 C",
+   "comment": ""
+ },
+ {
+   "r": 84,
+   "g": 88,
+   "b": 90,
+   "literal name": "Pantone 425 C",
+   "comment": ""
+ },
+ {
+   "r": 84,
+   "g": 98,
+   "b": 35,
+   "literal name": "Pantone 371 C",
+   "comment": ""
+ },
+ {
+   "r": 85,
+   "g": 80,
+   "b": 37,
+   "literal name": "Pantone 5815 C",
+   "comment": ""
+ },
+ {
+   "r": 86,
+   "g": 61,
+   "b": 130,
+   "literal name": "Pantone 7679 C",
+   "comment": ""
+ },
+ {
+   "r": 86,
+   "g": 82,
+   "b": 148,
+   "literal name": "Pantone 7670 C",
+   "comment": ""
+ },
+ {
+   "r": 87,
+   "g": 41,
+   "b": 50,
+   "literal name": "Pantone 504 C",
+   "comment": ""
+ },
+ {
+   "r": 87,
+   "g": 44,
+   "b": 95,
+   "literal name": "Pantone 525 C",
+   "comment": ""
+ },
+ {
+   "r": 87,
+   "g": 45,
+   "b": 45,
+   "literal name": "Pantone 7631 C",
+   "comment": ""
+ },
+ {
+   "r": 88,
+   "g": 44,
+   "b": 131,
+   "literal name": "Pantone 268 C",
+   "comment": ""
+ },
+ {
+   "r": 88,
+   "g": 45,
+   "b": 64,
+   "literal name": "Pantone 7644 C",
+   "comment": ""
+ },
+ {
+   "r": 88,
+   "g": 61,
+   "b": 62,
+   "literal name": "Pantone 7617 C",
+   "comment": ""
+ },
+ {
+   "r": 88,
+   "g": 68,
+   "b": 70,
+   "literal name": "Pantone 438 C",
+   "comment": ""
+ },
+ {
+   "r": 88,
+   "g": 92,
+   "b": 59,
+   "literal name": "Pantone 7763 C",
+   "comment": ""
+ },
+ {
+   "r": 89,
+   "g": 49,
+   "b": 95,
+   "literal name": "Pantone 519 C",
+   "comment": ""
+ },
+ {
+   "r": 89,
+   "g": 74,
+   "b": 37,
+   "literal name": "Pantone 450 C",
+   "comment": ""
+ },
+ {
+   "r": 89,
+   "g": 84,
+   "b": 120,
+   "literal name": "Pantone 5275 C",
+   "comment": ""
+ },
+ {
+   "r": 89,
+   "g": 98,
+   "b": 29,
+   "literal name": "Pantone 378 C",
+   "comment": ""
+ },
+ {
+   "r": 89,
+   "g": 203,
+   "b": 232,
+   "literal name": "Pantone 305 C",
+   "comment": ""
+ },
+ {
+   "r": 90,
+   "g": 69,
+   "b": 34,
+   "literal name": "Pantone 7553 C",
+   "comment": ""
+ },
+ {
+   "r": 91,
+   "g": 52,
+   "b": 39,
+   "literal name": "Pantone 4695 C",
+   "comment": ""
+ },
+ {
+   "r": 91,
+   "g": 98,
+   "b": 54,
+   "literal name": "Pantone 7498 C",
+   "comment": ""
+ },
+ {
+   "r": 91,
+   "g": 103,
+   "b": 112,
+   "literal name": "Pantone 431 C",
+   "comment": ""
+ },
+ {
+   "r": 91,
+   "g": 127,
+   "b": 149,
+   "literal name": "Pantone 5415 C",
+   "comment": ""
+ },
+ {
+   "r": 91,
+   "g": 194,
+   "b": 231,
+   "literal name": "Pantone 2985 C",
+   "comment": ""
+ },
+ {
+   "r": 92,
+   "g": 6,
+   "b": 140,
+   "literal name": "Pantone 2597 C",
+   "comment": ""
+ },
+ {
+   "r": 92,
+   "g": 61,
+   "b": 49,
+   "literal name": "Pantone 7596 C",
+   "comment": ""
+ },
+ {
+   "r": 92,
+   "g": 70,
+   "b": 43,
+   "literal name": "Pantone 462 C",
+   "comment": ""
+ },
+ {
+   "r": 92,
+   "g": 71,
+   "b": 56,
+   "literal name": "Pantone 7589 C",
+   "comment": ""
+ },
+ {
+   "r": 92,
+   "g": 78,
+   "b": 99,
+   "literal name": "Pantone 7666 C",
+   "comment": ""
+ },
+ {
+   "r": 92,
+   "g": 127,
+   "b": 113,
+   "literal name": "Pantone 5555 C",
+   "comment": ""
+ },
+ {
+   "r": 92,
+   "g": 136,
+   "b": 218,
+   "literal name": "Pantone 2718 C",
+   "comment": ""
+ },
+ {
+   "r": 92,
+   "g": 184,
+   "b": 178,
+   "literal name": "Pantone 7472 C",
+   "comment": ""
+ },
+ {
+   "r": 93,
+   "g": 40,
+   "b": 95,
+   "literal name": "Pantone 261 C",
+   "comment": ""
+ },
+ {
+   "r": 93,
+   "g": 42,
+   "b": 44,
+   "literal name": "Pantone 490 C",
+   "comment": ""
+ },
+ {
+   "r": 93,
+   "g": 55,
+   "b": 84,
+   "literal name": "Pantone 7659 C",
+   "comment": ""
+ },
+ {
+   "r": 93,
+   "g": 71,
+   "b": 119,
+   "literal name": "Pantone 7447 C",
+   "comment": ""
+ },
+ {
+   "r": 93,
+   "g": 100,
+   "b": 57,
+   "literal name": "Pantone 7762 C",
+   "comment": ""
+ },
+ {
+   "r": 93,
+   "g": 121,
+   "b": 117,
+   "literal name": "Pantone 5487 C",
+   "comment": ""
+ },
+ {
+   "r": 94,
+   "g": 39,
+   "b": 81,
+   "literal name": "Pantone 7652 C",
+   "comment": ""
+ },
+ {
+   "r": 94,
+   "g": 54,
+   "b": 110,
+   "literal name": "Pantone 7665 C",
+   "comment": ""
+ },
+ {
+   "r": 94,
+   "g": 75,
+   "b": 60,
+   "literal name": "Pantone 7519 C",
+   "comment": ""
+ },
+ {
+   "r": 94,
+   "g": 81,
+   "b": 77,
+   "literal name": "Pantone 411 C",
+   "comment": ""
+ },
+ {
+   "r": 94,
+   "g": 103,
+   "b": 56,
+   "literal name": "Pantone 5753 C",
+   "comment": ""
+ },
+ {
+   "r": 94,
+   "g": 116,
+   "b": 97,
+   "literal name": "Pantone 5615 C",
+   "comment": ""
+ },
+ {
+   "r": 94,
+   "g": 138,
+   "b": 180,
+   "literal name": "Pantone 646 C",
+   "comment": ""
+ },
+ {
+   "r": 95,
+   "g": 33,
+   "b": 103,
+   "literal name": "Pantone 2623 C",
+   "comment": ""
+ },
+ {
+   "r": 95,
+   "g": 37,
+   "b": 159,
+   "literal name": "Pantone 267 C",
+   "comment": ""
+ },
+ {
+   "r": 95,
+   "g": 143,
+   "b": 180,
+   "literal name": "Pantone 7454 C",
+   "comment": ""
+ },
+ {
+   "r": 96,
+   "g": 61,
+   "b": 32,
+   "literal name": "Pantone 161 C",
+   "comment": ""
+ },
+ {
+   "r": 96,
+   "g": 110,
+   "b": 178,
+   "literal name": "Pantone 7456 C",
+   "comment": ""
+ },
+ {
+   "r": 97,
+   "g": 33,
+   "b": 65,
+   "literal name": "Pantone 690 C",
+   "comment": ""
+ },
+ {
+   "r": 97,
+   "g": 44,
+   "b": 81,
+   "literal name": "Pantone 511 C",
+   "comment": ""
+ },
+ {
+   "r": 97,
+   "g": 75,
+   "b": 121,
+   "literal name": "Pantone 668 C",
+   "comment": ""
+ },
+ {
+   "r": 97,
+   "g": 79,
+   "b": 37,
+   "literal name": "Pantone 4485 C",
+   "comment": ""
+ },
+ {
+   "r": 97,
+   "g": 94,
+   "b": 155,
+   "literal name": "Pantone 7669 C",
+   "comment": ""
+ },
+ {
+   "r": 98,
+   "g": 52,
+   "b": 18,
+   "literal name": "Pantone 732 C",
+   "comment": ""
+ },
+ {
+   "r": 98,
+   "g": 59,
+   "b": 42,
+   "literal name": "Pantone 477 C",
+   "comment": ""
+ },
+ {
+   "r": 98,
+   "g": 93,
+   "b": 32,
+   "literal name": "Pantone 581 C",
+   "comment": ""
+ },
+ {
+   "r": 98,
+   "g": 181,
+   "b": 229,
+   "literal name": "Pantone 2915 C",
+   "comment": ""
+ },
+ {
+   "r": 99,
+   "g": 50,
+   "b": 49,
+   "literal name": "Pantone 7630 C",
+   "comment": ""
+ },
+ {
+   "r": 99,
+   "g": 81,
+   "b": 61,
+   "literal name": "Pantone 7532 C",
+   "comment": ""
+ },
+ {
+   "r": 99,
+   "g": 89,
+   "b": 57,
+   "literal name": "Pantone 7770 C",
+   "comment": ""
+ },
+ {
+   "r": 99,
+   "g": 102,
+   "b": 106,
+   "literal name": "Pantone Cool Gray 10 C",
+   "comment": ""
+ },
+ {
+   "r": 99,
+   "g": 153,
+   "b": 174,
+   "literal name": "Pantone 7696 C",
+   "comment": ""
+ },
+ {
+   "r": 99,
+   "g": 177,
+   "b": 188,
+   "literal name": "Pantone 7709 C",
+   "comment": ""
+ },
+ {
+   "r": 100,
+   "g": 38,
+   "b": 103,
+   "literal name": "Pantone 260 C",
+   "comment": ""
+ },
+ {
+   "r": 100,
+   "g": 47,
+   "b": 108,
+   "literal name": "Pantone 520 C",
+   "comment": ""
+ },
+ {
+   "r": 100,
+   "g": 51,
+   "b": 53,
+   "literal name": "Pantone 1817 C",
+   "comment": ""
+ },
+ {
+   "r": 100,
+   "g": 167,
+   "b": 11,
+   "literal name": "Pantone 369 C",
+   "comment": ""
+ },
+ {
+   "r": 100,
+   "g": 204,
+   "b": 201,
+   "literal name": "Pantone 325 C",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 29,
+   "b": 50,
+   "literal name": "Pantone 7421 C",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 48,
+   "b": 36,
+   "literal name": "Pantone 483 C",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 49,
+   "b": 101,
+   "literal name": "Pantone 2622 C",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 50,
+   "b": 121,
+   "literal name": "Pantone 7664 C",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 56,
+   "b": 25,
+   "literal name": "Pantone 1545 C",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 102,
+   "b": 53,
+   "literal name": "Pantone 7750 C",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 102,
+   "b": 92,
+   "literal name": "Pantone 417 C",
+   "comment": ""
+ },
+ {
+   "r": 101,
+   "g": 141,
+   "b": 27,
+   "literal name": "Pantone 370 C",
+   "comment": ""
+ },
+ {
+   "r": 102,
+   "g": 67,
+   "b": 90,
+   "literal name": "Pantone 5195 C",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 30,
+   "b": 117,
+   "literal name": "Pantone 2613 C",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 33,
+   "b": 70,
+   "literal name": "Pantone 229 C",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 46,
+   "b": 69,
+   "literal name": "Pantone 7643 C",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 66,
+   "b": 48,
+   "literal name": "Pantone 7603 C",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 71,
+   "b": 54,
+   "literal name": "Pantone 7582 C",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 94,
+   "b": 51,
+   "literal name": "Pantone 7757 C",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 130,
+   "b": 58,
+   "literal name": "Pantone 575 C",
+   "comment": ""
+ },
+ {
+   "r": 103,
+   "g": 135,
+   "b": 183,
+   "literal name": "Pantone 7682 C",
+   "comment": ""
+ },
+ {
+   "r": 104,
+   "g": 52,
+   "b": 49,
+   "literal name": "Pantone 7610 C",
+   "comment": ""
+ },
+ {
+   "r": 104,
+   "g": 71,
+   "b": 141,
+   "literal name": "Pantone 7678 C",
+   "comment": ""
+ },
+ {
+   "r": 104,
+   "g": 91,
+   "b": 199,
+   "literal name": "Pantone 2725 C",
+   "comment": ""
+ },
+ {
+   "r": 104,
+   "g": 92,
+   "b": 32,
+   "literal name": "Pantone 3995 C",
+   "comment": ""
+ },
+ {
+   "r": 104,
+   "g": 110,
+   "b": 159,
+   "literal name": "Pantone 7668 C",
+   "comment": ""
+ },
+ {
+   "r": 104,
+   "g": 210,
+   "b": 223,
+   "literal name": "Pantone 3105 C",
+   "comment": ""
+ },
+ {
+   "r": 105,
+   "g": 60,
+   "b": 94,
+   "literal name": "Pantone 5125 C",
+   "comment": ""
+ },
+ {
+   "r": 105,
+   "g": 63,
+   "b": 35,
+   "literal name": "Pantone 469 C",
+   "comment": ""
+ },
+ {
+   "r": 105,
+   "g": 91,
+   "b": 36,
+   "literal name": "Pantone 455 C",
+   "comment": ""
+ },
+ {
+   "r": 105,
+   "g": 97,
+   "b": 88,
+   "literal name": "Pantone 405 C",
+   "comment": ""
+ },
+ {
+   "r": 105,
+   "g": 179,
+   "b": 231,
+   "literal name": "Pantone 292 C",
+   "comment": ""
+ },
+ {
+   "r": 106,
+   "g": 42,
+   "b": 91,
+   "literal name": "Pantone 7651 C",
+   "comment": ""
+ },
+ {
+   "r": 106,
+   "g": 44,
+   "b": 62,
+   "literal name": "Pantone 7428 C",
+   "comment": ""
+ },
+ {
+   "r": 106,
+   "g": 52,
+   "b": 96,
+   "literal name": "Pantone 7658 C",
+   "comment": ""
+ },
+ {
+   "r": 106,
+   "g": 55,
+   "b": 53,
+   "literal name": "Pantone 498 C",
+   "comment": ""
+ },
+ {
+   "r": 106,
+   "g": 209,
+   "b": 227,
+   "literal name": "Pantone 310 C",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 48,
+   "b": 119,
+   "literal name": "Pantone 7663 C",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 53,
+   "b": 41,
+   "literal name": "Pantone 175 C",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 61,
+   "b": 46,
+   "literal name": "Pantone 7595 C",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 76,
+   "b": 76,
+   "literal name": "Pantone 7616 C",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 164,
+   "b": 184,
+   "literal name": "Pantone 549 C",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 165,
+   "b": 57,
+   "literal name": "Pantone 7737 C",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 187,
+   "b": 174,
+   "literal name": "Pantone 563 C",
+   "comment": ""
+ },
+ {
+   "r": 107,
+   "g": 202,
+   "b": 186,
+   "literal name": "Pantone 570 C",
+   "comment": ""
+ },
+ {
+   "r": 108,
+   "g": 29,
+   "b": 69,
+   "literal name": "Pantone 222 C",
+   "comment": ""
+ },
+ {
+   "r": 108,
+   "g": 87,
+   "b": 27,
+   "literal name": "Pantone 133 C",
+   "comment": ""
+ },
+ {
+   "r": 108,
+   "g": 93,
+   "b": 52,
+   "literal name": "Pantone 7561 C",
+   "comment": ""
+ },
+ {
+   "r": 108,
+   "g": 172,
+   "b": 228,
+   "literal name": "Pantone 284 C",
+   "comment": ""
+ },
+ {
+   "r": 108,
+   "g": 194,
+   "b": 74,
+   "literal name": "Pantone 360 C",
+   "comment": ""
+ },
+ {
+   "r": 109,
+   "g": 32,
+   "b": 119,
+   "literal name": "Pantone 259 C",
+   "comment": ""
+ },
+ {
+   "r": 109,
+   "g": 51,
+   "b": 50,
+   "literal name": "Pantone 7629 C",
+   "comment": ""
+ },
+ {
+   "r": 109,
+   "g": 79,
+   "b": 71,
+   "literal name": "Pantone 7518 C",
+   "comment": ""
+ },
+ {
+   "r": 109,
+   "g": 113,
+   "b": 46,
+   "literal name": "Pantone 5757 C",
+   "comment": ""
+ },
+ {
+   "r": 109,
+   "g": 205,
+   "b": 184,
+   "literal name": "Pantone 3248 C",
+   "comment": ""
+ },
+ {
+   "r": 110,
+   "g": 43,
+   "b": 98,
+   "literal name": "Pantone 7657 C",
+   "comment": ""
+ },
+ {
+   "r": 110,
+   "g": 76,
+   "b": 30,
+   "literal name": "Pantone 1405 C",
+   "comment": ""
+ },
+ {
+   "r": 110,
+   "g": 98,
+   "b": 89,
+   "literal name": "Pantone Warm Gray 11 C",
+   "comment": ""
+ },
+ {
+   "r": 110,
+   "g": 124,
+   "b": 160,
+   "literal name": "Pantone 7667 C",
+   "comment": ""
+ },
+ {
+   "r": 110,
+   "g": 206,
+   "b": 178,
+   "literal name": "Pantone 338 C",
+   "comment": ""
+ },
+ {
+   "r": 111,
+   "g": 38,
+   "b": 61,
+   "literal name": "Pantone 209 C",
+   "comment": ""
+ },
+ {
+   "r": 111,
+   "g": 44,
+   "b": 63,
+   "literal name": "Pantone 505 C",
+   "comment": ""
+ },
+ {
+   "r": 111,
+   "g": 80,
+   "b": 145,
+   "literal name": "Pantone 7677 C",
+   "comment": ""
+ },
+ {
+   "r": 111,
+   "g": 162,
+   "b": 135,
+   "literal name": "Pantone 556 C",
+   "comment": ""
+ },
+ {
+   "r": 112,
+   "g": 32,
+   "b": 130,
+   "literal name": "Pantone 2603 C",
+   "comment": ""
+ },
+ {
+   "r": 112,
+   "g": 47,
+   "b": 138,
+   "literal name": "Pantone 526 C",
+   "comment": ""
+ },
+ {
+   "r": 112,
+   "g": 63,
+   "b": 42,
+   "literal name": "Pantone 478 C",
+   "comment": ""
+ },
+ {
+   "r": 112,
+   "g": 115,
+   "b": 114,
+   "literal name": "Pantone 424 C",
+   "comment": ""
+ },
+ {
+   "r": 112,
+   "g": 133,
+   "b": 115,
+   "literal name": "Pantone 5625 C",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 92,
+   "b": 42,
+   "literal name": "Pantone 147 C",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 97,
+   "b": 53,
+   "literal name": "Pantone 7769 C",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 124,
+   "b": 125,
+   "literal name": "Pantone 444 C",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 153,
+   "b": 73,
+   "literal name": "Pantone 7490 C",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 178,
+   "b": 201,
+   "literal name": "Pantone 7458 C",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 197,
+   "b": 232,
+   "literal name": "Pantone 297 C",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 204,
+   "b": 152,
+   "literal name": "Pantone 346 C",
+   "comment": ""
+ },
+ {
+   "r": 113,
+   "g": 219,
+   "b": 212,
+   "literal name": "Pantone 3242 C",
+   "comment": ""
+ },
+ {
+   "r": 114,
+   "g": 34,
+   "b": 87,
+   "literal name": "Pantone 7650 C",
+   "comment": ""
+ },
+ {
+   "r": 114,
+   "g": 36,
+   "b": 108,
+   "literal name": "Pantone 255 C",
+   "comment": ""
+ },
+ {
+   "r": 114,
+   "g": 115,
+   "b": 55,
+   "literal name": "Pantone 7749 C",
+   "comment": ""
+ },
+ {
+   "r": 115,
+   "g": 46,
+   "b": 74,
+   "literal name": "Pantone 7642 C",
+   "comment": ""
+ },
+ {
+   "r": 115,
+   "g": 56,
+   "b": 29,
+   "literal name": "Pantone 168 C",
+   "comment": ""
+ },
+ {
+   "r": 115,
+   "g": 83,
+   "b": 29,
+   "literal name": "Pantone 7552 C",
+   "comment": ""
+ },
+ {
+   "r": 115,
+   "g": 102,
+   "b": 53,
+   "literal name": "Pantone 7756 C",
+   "comment": ""
+ },
+ {
+   "r": 115,
+   "g": 123,
+   "b": 76,
+   "literal name": "Pantone 5763 C",
+   "comment": ""
+ },
+ {
+   "r": 116,
+   "g": 79,
+   "b": 40,
+   "literal name": "Pantone 463 C",
+   "comment": ""
+ },
+ {
+   "r": 116,
+   "g": 83,
+   "b": 28,
+   "literal name": "Pantone 140 C",
+   "comment": ""
+ },
+ {
+   "r": 116,
+   "g": 102,
+   "b": 97,
+   "literal name": "Pantone 410 C",
+   "comment": ""
+ },
+ {
+   "r": 116,
+   "g": 113,
+   "b": 54,
+   "literal name": "Pantone 7761 C",
+   "comment": ""
+ },
+ {
+   "r": 116,
+   "g": 116,
+   "b": 193,
+   "literal name": "Pantone 272 C",
+   "comment": ""
+ },
+ {
+   "r": 116,
+   "g": 170,
+   "b": 80,
+   "literal name": "Pantone 7489 C",
+   "comment": ""
+ },
+ {
+   "r": 116,
+   "g": 209,
+   "b": 234,
+   "literal name": "Pantone Blue 0821 C",
+   "comment": ""
+ },
+ {
+   "r": 117,
+   "g": 59,
+   "b": 189,
+   "literal name": "Pantone 266 C",
+   "comment": ""
+ },
+ {
+   "r": 117,
+   "g": 102,
+   "b": 160,
+   "literal name": "Pantone 7676 C",
+   "comment": ""
+ },
+ {
+   "r": 117,
+   "g": 120,
+   "b": 123,
+   "literal name": "Pantone Cool Gray 9 C",
+   "comment": ""
+ },
+ {
+   "r": 118,
+   "g": 35,
+   "b": 47,
+   "literal name": "Pantone 188 C",
+   "comment": ""
+ },
+ {
+   "r": 118,
+   "g": 134,
+   "b": 146,
+   "literal name": "Pantone 7544 C",
+   "comment": ""
+ },
+ {
+   "r": 118,
+   "g": 136,
+   "b": 29,
+   "literal name": "Pantone 7496 C",
+   "comment": ""
+ },
+ {
+   "r": 119,
+   "g": 37,
+   "b": 131,
+   "literal name": "Pantone 2612 C",
+   "comment": ""
+ },
+ {
+   "r": 119,
+   "g": 66,
+   "b": 18,
+   "literal name": "Pantone 731 C",
+   "comment": ""
+ },
+ {
+   "r": 119,
+   "g": 81,
+   "b": 53,
+   "literal name": "Pantone 7568 C",
+   "comment": ""
+ },
+ {
+   "r": 119,
+   "g": 110,
+   "b": 100,
+   "literal name": "Pantone 404 C",
+   "comment": ""
+ },
+ {
+   "r": 119,
+   "g": 197,
+   "b": 213,
+   "literal name": "Pantone 630 C",
+   "comment": ""
+ },
+ {
+   "r": 120,
+   "g": 47,
+   "b": 64,
+   "literal name": "Pantone 195 C",
+   "comment": ""
+ },
+ {
+   "r": 120,
+   "g": 113,
+   "b": 33,
+   "literal name": "Pantone 385 C",
+   "comment": ""
+ },
+ {
+   "r": 120,
+   "g": 157,
+   "b": 74,
+   "literal name": "Pantone 576 C",
+   "comment": ""
+ },
+ {
+   "r": 120,
+   "g": 159,
+   "b": 144,
+   "literal name": "Pantone 624 C",
+   "comment": ""
+ },
+ {
+   "r": 120,
+   "g": 190,
+   "b": 32,
+   "literal name": "Pantone 368 C",
+   "comment": ""
+ },
+ {
+   "r": 120,
+   "g": 214,
+   "b": 75,
+   "literal name": "Pantone 7488 C",
+   "comment": ""
+ },
+ {
+   "r": 121,
+   "g": 110,
+   "b": 101,
+   "literal name": "Pantone Warm Gray 10 C",
+   "comment": ""
+ },
+ {
+   "r": 121,
+   "g": 134,
+   "b": 60,
+   "literal name": "Pantone 7491 C",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 62,
+   "b": 58,
+   "literal name": "Pantone 499 C",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 65,
+   "b": 131,
+   "literal name": "Pantone 7662 C",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 104,
+   "b": 85,
+   "literal name": "Pantone 7531 C",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 114,
+   "b": 86,
+   "literal name": "Pantone 7497 C",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 153,
+   "b": 172,
+   "literal name": "Pantone 5425 C",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 154,
+   "b": 1,
+   "literal name": "Pantone 377 C",
+   "comment": ""
+ },
+ {
+   "r": 122,
+   "g": 225,
+   "b": 191,
+   "literal name": "Pantone 3375 C",
+   "comment": ""
+ },
+ {
+   "r": 123,
+   "g": 73,
+   "b": 49,
+   "literal name": "Pantone 7602 C",
+   "comment": ""
+ },
+ {
+   "r": 123,
+   "g": 77,
+   "b": 53,
+   "literal name": "Pantone 7588 C",
+   "comment": ""
+ },
+ {
+   "r": 123,
+   "g": 100,
+   "b": 105,
+   "literal name": "Pantone 437 C",
+   "comment": ""
+ },
+ {
+   "r": 123,
+   "g": 164,
+   "b": 219,
+   "literal name": "Pantone 659 C",
+   "comment": ""
+ },
+ {
+   "r": 123,
+   "g": 166,
+   "b": 222,
+   "literal name": "Pantone 7453 C",
+   "comment": ""
+ },
+ {
+   "r": 123,
+   "g": 167,
+   "b": 188,
+   "literal name": "Pantone 7695 C",
+   "comment": ""
+ },
+ {
+   "r": 123,
+   "g": 175,
+   "b": 212,
+   "literal name": "Pantone 542 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 37,
+   "b": 41,
+   "literal name": "Pantone 1815 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 40,
+   "b": 85,
+   "literal name": "Pantone 683 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 58,
+   "b": 45,
+   "literal name": "Pantone 7594 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 77,
+   "b": 58,
+   "literal name": "Pantone 4705 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 105,
+   "b": 146,
+   "literal name": "Pantone 667 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 127,
+   "b": 171,
+   "literal name": "Pantone 7675 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 128,
+   "b": 52,
+   "literal name": "Pantone 7748 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 135,
+   "b": 142,
+   "literal name": "Pantone 430 C",
+   "comment": ""
+ },
+ {
+   "r": 124,
+   "g": 224,
+   "b": 211,
+   "literal name": "Pantone 3245 C",
+   "comment": ""
+ },
+ {
+   "r": 125,
+   "g": 34,
+   "b": 72,
+   "literal name": "Pantone 216 C",
+   "comment": ""
+ },
+ {
+   "r": 125,
+   "g": 63,
+   "b": 22,
+   "literal name": "Pantone 725 C",
+   "comment": ""
+ },
+ {
+   "r": 125,
+   "g": 85,
+   "b": 199,
+   "literal name": "Pantone 2665 C",
+   "comment": ""
+ },
+ {
+   "r": 125,
+   "g": 98,
+   "b": 46,
+   "literal name": "Pantone 7560 C",
+   "comment": ""
+ },
+ {
+   "r": 125,
+   "g": 155,
+   "b": 193,
+   "literal name": "Pantone 652 C",
+   "comment": ""
+ },
+ {
+   "r": 125,
+   "g": 161,
+   "b": 196,
+   "literal name": "Pantone 645 C",
+   "comment": ""
+ },
+ {
+   "r": 126,
+   "g": 45,
+   "b": 64,
+   "literal name": "Pantone 7638 C",
+   "comment": ""
+ },
+ {
+   "r": 126,
+   "g": 84,
+   "b": 117,
+   "literal name": "Pantone 5135 C",
+   "comment": ""
+ },
+ {
+   "r": 126,
+   "g": 127,
+   "b": 116,
+   "literal name": "Pantone 416 C",
+   "comment": ""
+ },
+ {
+   "r": 126,
+   "g": 221,
+   "b": 211,
+   "literal name": "Pantone 7471 C",
+   "comment": ""
+ },
+ {
+   "r": 127,
+   "g": 48,
+   "b": 53,
+   "literal name": "Pantone 491 C",
+   "comment": ""
+ },
+ {
+   "r": 127,
+   "g": 156,
+   "b": 144,
+   "literal name": "Pantone 5565 C",
+   "comment": ""
+ },
+ {
+   "r": 127,
+   "g": 169,
+   "b": 174,
+   "literal name": "Pantone 5493 C",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 34,
+   "b": 95,
+   "literal name": "Pantone 242 C",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 39,
+   "b": 108,
+   "literal name": "Pantone 249 C",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 47,
+   "b": 45,
+   "literal name": "Pantone 7624 C",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 49,
+   "b": 167,
+   "literal name": "Pantone 527 C",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 148,
+   "b": 221,
+   "literal name": "Pantone 7452 C",
+   "comment": ""
+ },
+ {
+   "r": 128,
+   "g": 224,
+   "b": 167,
+   "literal name": "Pantone 353 C",
+   "comment": ""
+ },
+ {
+   "r": 129,
+   "g": 49,
+   "b": 47,
+   "literal name": "Pantone 181 C",
+   "comment": ""
+ },
+ {
+   "r": 129,
+   "g": 96,
+   "b": 64,
+   "literal name": "Pantone 7505 C",
+   "comment": ""
+ },
+ {
+   "r": 130,
+   "g": 59,
+   "b": 52,
+   "literal name": "Pantone 7609 C",
+   "comment": ""
+ },
+ {
+   "r": 130,
+   "g": 70,
+   "b": 175,
+   "literal name": "Pantone 2587 C",
+   "comment": ""
+ },
+ {
+   "r": 130,
+   "g": 122,
+   "b": 4,
+   "literal name": "Pantone 392 C",
+   "comment": ""
+ },
+ {
+   "r": 130,
+   "g": 153,
+   "b": 149,
+   "literal name": "Pantone 5497 C",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 0,
+   "b": 101,
+   "literal name": "Pantone 2425 C",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 49,
+   "b": 119,
+   "literal name": "Pantone 512 C",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 57,
+   "b": 33,
+   "literal name": "Pantone 1685 C",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 65,
+   "b": 44,
+   "literal name": "Pantone 7601 C",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 93,
+   "b": 50,
+   "literal name": "Pantone 7575 C",
+   "comment": ""
+ },
+ {
+   "r": 131,
+   "g": 120,
+   "b": 111,
+   "literal name": "Pantone Warm Gray 9 C",
+   "comment": ""
+ },
+ {
+   "r": 132,
+   "g": 11,
+   "b": 85,
+   "literal name": "Pantone 235 C",
+   "comment": ""
+ },
+ {
+   "r": 132,
+   "g": 50,
+   "b": 155,
+   "literal name": "Pantone 2593 C",
+   "comment": ""
+ },
+ {
+   "r": 132,
+   "g": 52,
+   "b": 78,
+   "literal name": "Pantone 506 C",
+   "comment": ""
+ },
+ {
+   "r": 132,
+   "g": 117,
+   "b": 78,
+   "literal name": "Pantone 871 C",
+   "comment": ""
+ },
+ {
+   "r": 132,
+   "g": 189,
+   "b": 0,
+   "literal name": "Pantone 376 C",
+   "comment": ""
+ },
+ {
+   "r": 133,
+   "g": 67,
+   "b": 30,
+   "literal name": "Pantone 7517 C",
+   "comment": ""
+ },
+ {
+   "r": 133,
+   "g": 113,
+   "b": 77,
+   "literal name": "Pantone 872 C",
+   "comment": ""
+ },
+ {
+   "r": 133,
+   "g": 120,
+   "b": 116,
+   "literal name": "Pantone 409 C",
+   "comment": ""
+ },
+ {
+   "r": 133,
+   "g": 176,
+   "b": 154,
+   "literal name": "Pantone 557 C",
+   "comment": ""
+ },
+ {
+   "r": 134,
+   "g": 31,
+   "b": 65,
+   "literal name": "Pantone 208 C",
+   "comment": ""
+ },
+ {
+   "r": 134,
+   "g": 38,
+   "b": 51,
+   "literal name": "Pantone 202 C",
+   "comment": ""
+ },
+ {
+   "r": 134,
+   "g": 74,
+   "b": 51,
+   "literal name": "Pantone 7581 C",
+   "comment": ""
+ },
+ {
+   "r": 134,
+   "g": 100,
+   "b": 122,
+   "literal name": "Pantone 5205 C",
+   "comment": ""
+ },
+ {
+   "r": 134,
+   "g": 103,
+   "b": 97,
+   "literal name": "Pantone 7615 C",
+   "comment": ""
+ },
+ {
+   "r": 134,
+   "g": 109,
+   "b": 75,
+   "literal name": "Pantone 873 C",
+   "comment": ""
+ },
+ {
+   "r": 134,
+   "g": 200,
+   "b": 188,
+   "literal name": "Pantone 564 C",
+   "comment": ""
+ },
+ {
+   "r": 135,
+   "g": 24,
+   "b": 157,
+   "literal name": "Pantone 2602 C",
+   "comment": ""
+ },
+ {
+   "r": 135,
+   "g": 38,
+   "b": 81,
+   "literal name": "Pantone 7435 C",
+   "comment": ""
+ },
+ {
+   "r": 135,
+   "g": 75,
+   "b": 82,
+   "literal name": "Pantone 4985 C",
+   "comment": ""
+ },
+ {
+   "r": 135,
+   "g": 103,
+   "b": 79,
+   "literal name": "Pantone 875 C",
+   "comment": ""
+ },
+ {
+   "r": 135,
+   "g": 140,
+   "b": 180,
+   "literal name": "Pantone 7674 C",
+   "comment": ""
+ },
+ {
+   "r": 136,
+   "g": 107,
+   "b": 37,
+   "literal name": "Pantone 1265 C",
+   "comment": ""
+ },
+ {
+   "r": 136,
+   "g": 139,
+   "b": 141,
+   "literal name": "Pantone Cool Gray 8 C",
+   "comment": ""
+ },
+ {
+   "r": 136,
+   "g": 141,
+   "b": 48,
+   "literal name": "Pantone 7747 C",
+   "comment": ""
+ },
+ {
+   "r": 136,
+   "g": 219,
+   "b": 223,
+   "literal name": "Pantone 318 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 12,
+   "b": 88,
+   "literal name": "Pantone 228 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 59,
+   "b": 103,
+   "literal name": "Pantone 689 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 60,
+   "b": 71,
+   "literal name": "Pantone 697 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 83,
+   "b": 47,
+   "literal name": "Pantone 7567 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 115,
+   "b": 34,
+   "literal name": "Pantone 119 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 118,
+   "b": 48,
+   "literal name": "Pantone 7755 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 122,
+   "b": 39,
+   "literal name": "Pantone 105 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 129,
+   "b": 61,
+   "literal name": "Pantone 5825 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 134,
+   "b": 202,
+   "literal name": "Pantone 7446 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 141,
+   "b": 141,
+   "literal name": "Pantone 423 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 144,
+   "b": 100,
+   "literal name": "Pantone 5773 C",
+   "comment": ""
+ },
+ {
+   "r": 137,
+   "g": 171,
+   "b": 227,
+   "literal name": "Pantone 7451 C",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 21,
+   "b": 56,
+   "literal name": "Pantone 1955 C",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 27,
+   "b": 97,
+   "literal name": "Pantone 7649 C",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 42,
+   "b": 43,
+   "literal name": "Pantone 7623 C",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 57,
+   "b": 27,
+   "literal name": "Pantone 7526 C",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 123,
+   "b": 25,
+   "literal name": "Pantone 620 C",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 141,
+   "b": 74,
+   "literal name": "Pantone 5767 C",
+   "comment": ""
+ },
+ {
+   "r": 138,
+   "g": 141,
+   "b": 143,
+   "literal name": "Pantone 877 C",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 71,
+   "b": 32,
+   "literal name": "Pantone 1615 C",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 91,
+   "b": 41,
+   "literal name": "Pantone 464 C",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 99,
+   "b": 75,
+   "literal name": "Pantone 876 C",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 111,
+   "b": 78,
+   "literal name": "Pantone 874 C",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 132,
+   "b": 215,
+   "literal name": "Pantone 2715 C",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 184,
+   "b": 232,
+   "literal name": "Pantone 278 C",
+   "comment": ""
+ },
+ {
+   "r": 139,
+   "g": 211,
+   "b": 230,
+   "literal name": "Pantone 636 C",
+   "comment": ""
+ },
+ {
+   "r": 140,
+   "g": 71,
+   "b": 153,
+   "literal name": "Pantone 258 C",
+   "comment": ""
+ },
+ {
+   "r": 140,
+   "g": 119,
+   "b": 50,
+   "literal name": "Pantone 4495 C",
+   "comment": ""
+ },
+ {
+   "r": 140,
+   "g": 130,
+   "b": 121,
+   "literal name": "Pantone Warm Gray 8 C",
+   "comment": ""
+ },
+ {
+   "r": 140,
+   "g": 133,
+   "b": 123,
+   "literal name": "Pantone 403 C",
+   "comment": ""
+ },
+ {
+   "r": 140,
+   "g": 226,
+   "b": 208,
+   "literal name": "Pantone 332 C",
+   "comment": ""
+ },
+ {
+   "r": 141,
+   "g": 63,
+   "b": 43,
+   "literal name": "Pantone 7600 C",
+   "comment": ""
+ },
+ {
+   "r": 141,
+   "g": 110,
+   "b": 151,
+   "literal name": "Pantone 7661 C",
+   "comment": ""
+ },
+ {
+   "r": 141,
+   "g": 137,
+   "b": 165,
+   "literal name": "Pantone 5285 C",
+   "comment": ""
+ },
+ {
+   "r": 141,
+   "g": 185,
+   "b": 202,
+   "literal name": "Pantone 550 C",
+   "comment": ""
+ },
+ {
+   "r": 141,
+   "g": 200,
+   "b": 232,
+   "literal name": "Pantone 2905 C",
+   "comment": ""
+ },
+ {
+   "r": 142,
+   "g": 44,
+   "b": 72,
+   "literal name": "Pantone 7641 C",
+   "comment": ""
+ },
+ {
+   "r": 142,
+   "g": 58,
+   "b": 128,
+   "literal name": "Pantone 7656 C",
+   "comment": ""
+ },
+ {
+   "r": 142,
+   "g": 140,
+   "b": 19,
+   "literal name": "Pantone 582 C",
+   "comment": ""
+ },
+ {
+   "r": 142,
+   "g": 144,
+   "b": 137,
+   "literal name": "Pantone 7539 C",
+   "comment": ""
+ },
+ {
+   "r": 142,
+   "g": 159,
+   "b": 188,
+   "literal name": "Pantone 535 C",
+   "comment": ""
+ },
+ {
+   "r": 142,
+   "g": 221,
+   "b": 101,
+   "literal name": "Pantone 7487 C",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 50,
+   "b": 55,
+   "literal name": "Pantone 492 C",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 106,
+   "b": 42,
+   "literal name": "Pantone 7559 C",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 126,
+   "b": 53,
+   "literal name": "Pantone 7768 C",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 153,
+   "b": 62,
+   "literal name": "Pantone 7495 C",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 214,
+   "b": 189,
+   "literal name": "Pantone 337 C",
+   "comment": ""
+ },
+ {
+   "r": 143,
+   "g": 226,
+   "b": 176,
+   "literal name": "Pantone 352 C",
+   "comment": ""
+ },
+ {
+   "r": 144,
+   "g": 99,
+   "b": 205,
+   "literal name": "Pantone 265 C",
+   "comment": ""
+ },
+ {
+   "r": 145,
+   "g": 0,
+   "b": 72,
+   "literal name": "Pantone 221 C",
+   "comment": ""
+ },
+ {
+   "r": 145,
+   "g": 47,
+   "b": 70,
+   "literal name": "Pantone 7637 C",
+   "comment": ""
+ },
+ {
+   "r": 145,
+   "g": 133,
+   "b": 44,
+   "literal name": "Pantone 7760 C",
+   "comment": ""
+ },
+ {
+   "r": 145,
+   "g": 147,
+   "b": 136,
+   "literal name": "Pantone 415 C",
+   "comment": ""
+ },
+ {
+   "r": 145,
+   "g": 157,
+   "b": 157,
+   "literal name": "Pantone 443 C",
+   "comment": ""
+ },
+ {
+   "r": 145,
+   "g": 214,
+   "b": 172,
+   "literal name": "Pantone 345 C",
+   "comment": ""
+ },
+ {
+   "r": 146,
+   "g": 76,
+   "b": 46,
+   "literal name": "Pantone 7587 C",
+   "comment": ""
+ },
+ {
+   "r": 146,
+   "g": 172,
+   "b": 160,
+   "literal name": "Pantone 5575 C",
+   "comment": ""
+ },
+ {
+   "r": 146,
+   "g": 193,
+   "b": 233,
+   "literal name": "Pantone 283 C",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 39,
+   "b": 44,
+   "literal name": "Pantone 7622 C",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 50,
+   "b": 142,
+   "literal name": "Pantone 513 C",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 64,
+   "b": 84,
+   "literal name": "Pantone 7640 C",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 77,
+   "b": 17,
+   "literal name": "Pantone 724 C",
+   "comment": ""
+ },
+ {
+   "r": 147,
+   "g": 109,
+   "b": 115,
+   "literal name": "Pantone 7639 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 69,
+   "b": 11,
+   "literal name": "Pantone 1535 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 96,
+   "b": 55,
+   "literal name": "Pantone 4635 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 121,
+   "b": 93,
+   "literal name": "Pantone 7504 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 135,
+   "b": 148,
+   "literal name": "Pantone 7653 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 147,
+   "b": 0,
+   "literal name": "Pantone 384 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 154,
+   "b": 144,
+   "literal name": "Pantone 7538 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 165,
+   "b": 150,
+   "literal name": "Pantone 5635 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 169,
+   "b": 203,
+   "literal name": "Pantone 7681 C",
+   "comment": ""
+ },
+ {
+   "r": 148,
+   "g": 183,
+   "b": 187,
+   "literal name": "Pantone 5503 C",
+   "comment": ""
+ },
+ {
+   "r": 149,
+   "g": 108,
+   "b": 88,
+   "literal name": "Pantone 4715 C",
+   "comment": ""
+ },
+ {
+   "r": 149,
+   "g": 149,
+   "b": 210,
+   "literal name": "Pantone 271 C",
+   "comment": ""
+ },
+ {
+   "r": 150,
+   "g": 0,
+   "b": 81,
+   "literal name": "Pantone 676 C",
+   "comment": ""
+ },
+ {
+   "r": 150,
+   "g": 56,
+   "b": 33,
+   "literal name": "Pantone 174 C",
+   "comment": ""
+ },
+ {
+   "r": 150,
+   "g": 60,
+   "b": 189,
+   "literal name": "Pantone 7442 C",
+   "comment": ""
+ },
+ {
+   "r": 150,
+   "g": 113,
+   "b": 38,
+   "literal name": "Pantone 7558 C",
+   "comment": ""
+ },
+ {
+   "r": 150,
+   "g": 120,
+   "b": 211,
+   "literal name": "Pantone 2655 C",
+   "comment": ""
+ },
+ {
+   "r": 150,
+   "g": 140,
+   "b": 131,
+   "literal name": "Pantone Warm Gray 7 C",
+   "comment": ""
+ },
+ {
+   "r": 151,
+   "g": 27,
+   "b": 47,
+   "literal name": "Pantone 7427 C",
+   "comment": ""
+ },
+ {
+   "r": 151,
+   "g": 140,
+   "b": 135,
+   "literal name": "Pantone 408 C",
+   "comment": ""
+ },
+ {
+   "r": 151,
+   "g": 153,
+   "b": 155,
+   "literal name": "Pantone Cool Gray 7 C",
+   "comment": ""
+ },
+ {
+   "r": 151,
+   "g": 215,
+   "b": 0,
+   "literal name": "Pantone 375 C",
+   "comment": ""
+ },
+ {
+   "r": 152,
+   "g": 29,
+   "b": 151,
+   "literal name": "Pantone 254 C",
+   "comment": ""
+ },
+ {
+   "r": 152,
+   "g": 72,
+   "b": 86,
+   "literal name": "Pantone 696 C",
+   "comment": ""
+ },
+ {
+   "r": 152,
+   "g": 164,
+   "b": 174,
+   "literal name": "Pantone 7543 C",
+   "comment": ""
+ },
+ {
+   "r": 152,
+   "g": 219,
+   "b": 206,
+   "literal name": "Pantone 571 C",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 30,
+   "b": 102,
+   "literal name": "Pantone 7648 C",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 72,
+   "b": 120,
+   "literal name": "Pantone 682 C",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 85,
+   "b": 43,
+   "literal name": "Pantone 7516 C",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 96,
+   "b": 23,
+   "literal name": "Pantone 1395 C",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 133,
+   "b": 66,
+   "literal name": "Pantone 4505 C",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 145,
+   "b": 164,
+   "literal name": "Pantone 7660 C",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 155,
+   "b": 48,
+   "literal name": "Pantone 7746 C",
+   "comment": ""
+ },
+ {
+   "r": 153,
+   "g": 214,
+   "b": 234,
+   "literal name": "Pantone 2975 C",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 51,
+   "b": 36,
+   "literal name": "Pantone 484 C",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 106,
+   "b": 79,
+   "literal name": "Pantone 7525 C",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 118,
+   "b": 17,
+   "literal name": "Pantone 126 C",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 135,
+   "b": 0,
+   "literal name": "Pantone 3985 C",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 149,
+   "b": 0,
+   "literal name": "Pantone 391 C",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 185,
+   "b": 173,
+   "literal name": "Pantone 623 C",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 190,
+   "b": 170,
+   "literal name": "Pantone 558 C",
+   "comment": ""
+ },
+ {
+   "r": 154,
+   "g": 219,
+   "b": 232,
+   "literal name": "Pantone 304 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 34,
+   "b": 66,
+   "literal name": "Pantone 7420 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 38,
+   "b": 182,
+   "literal name": "Pantone 2592 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 39,
+   "b": 67,
+   "literal name": "Pantone 194 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 50,
+   "b": 89,
+   "literal name": "Pantone 7434 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 90,
+   "b": 26,
+   "literal name": "Pantone 154 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 119,
+   "b": 147,
+   "literal name": "Pantone 5145 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 148,
+   "b": 95,
+   "literal name": "Pantone 451 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 184,
+   "b": 211,
+   "literal name": "Pantone 644 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 203,
+   "b": 235,
+   "literal name": "Pantone 291 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 211,
+   "b": 221,
+   "literal name": "Pantone 629 C",
+   "comment": ""
+ },
+ {
+   "r": 155,
+   "g": 227,
+   "b": 191,
+   "literal name": "Pantone 7478 C",
+   "comment": ""
+ },
+ {
+   "r": 156,
+   "g": 97,
+   "b": 105,
+   "literal name": "Pantone 4995 C",
+   "comment": ""
+ },
+ {
+   "r": 156,
+   "g": 132,
+   "b": 18,
+   "literal name": "Pantone 112 C",
+   "comment": ""
+ },
+ {
+   "r": 156,
+   "g": 175,
+   "b": 136,
+   "literal name": "Pantone 7494 C",
+   "comment": ""
+ },
+ {
+   "r": 156,
+   "g": 219,
+   "b": 217,
+   "literal name": "Pantone 324 C",
+   "comment": ""
+ },
+ {
+   "r": 157,
+   "g": 34,
+   "b": 53,
+   "literal name": "Pantone 201 C",
+   "comment": ""
+ },
+ {
+   "r": 157,
+   "g": 67,
+   "b": 44,
+   "literal name": "Pantone 7593 C",
+   "comment": ""
+ },
+ {
+   "r": 157,
+   "g": 150,
+   "b": 141,
+   "literal name": "Pantone 402 C",
+   "comment": ""
+ },
+ {
+   "r": 157,
+   "g": 176,
+   "b": 172,
+   "literal name": "Pantone 5507 C",
+   "comment": ""
+ },
+ {
+   "r": 157,
+   "g": 231,
+   "b": 215,
+   "literal name": "Pantone Green 0921 C",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 0,
+   "b": 126,
+   "literal name": "Pantone 2415 C",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 42,
+   "b": 43,
+   "literal name": "Pantone 7628 C",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 42,
+   "b": 47,
+   "literal name": "Pantone 704 C",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 83,
+   "b": 48,
+   "literal name": "Pantone 7586 C",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 101,
+   "b": 46,
+   "literal name": "Pantone 730 C",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 106,
+   "b": 56,
+   "literal name": "Pantone 7574 C",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 151,
+   "b": 142,
+   "literal name": "Pantone Black 0961 C",
+   "comment": ""
+ },
+ {
+   "r": 158,
+   "g": 162,
+   "b": 162,
+   "literal name": "Pantone 422 C",
+   "comment": ""
+ },
+ {
+   "r": 159,
+   "g": 92,
+   "b": 192,
+   "literal name": "Pantone 7441 C",
+   "comment": ""
+ },
+ {
+   "r": 159,
+   "g": 125,
+   "b": 35,
+   "literal name": "Pantone 7557 C",
+   "comment": ""
+ },
+ {
+   "r": 159,
+   "g": 145,
+   "b": 42,
+   "literal name": "Pantone 619 C",
+   "comment": ""
+ },
+ {
+   "r": 159,
+   "g": 174,
+   "b": 229,
+   "literal name": "Pantone 2716 C",
+   "comment": ""
+ },
+ {
+   "r": 160,
+   "g": 94,
+   "b": 181,
+   "literal name": "Pantone 2583 C",
+   "comment": ""
+ },
+ {
+   "r": 160,
+   "g": 116,
+   "b": 0,
+   "literal name": "Pantone 132 C",
+   "comment": ""
+ },
+ {
+   "r": 160,
+   "g": 134,
+   "b": 41,
+   "literal name": "Pantone 7754 C",
+   "comment": ""
+ },
+ {
+   "r": 160,
+   "g": 146,
+   "b": 0,
+   "literal name": "Pantone 399 C",
+   "comment": ""
+ },
+ {
+   "r": 160,
+   "g": 153,
+   "b": 88,
+   "literal name": "Pantone 5835 C",
+   "comment": ""
+ },
+ {
+   "r": 160,
+   "g": 209,
+   "b": 202,
+   "literal name": "Pantone 7464 C",
+   "comment": ""
+ },
+ {
+   "r": 160,
+   "g": 218,
+   "b": 179,
+   "literal name": "Pantone 344 C",
+   "comment": ""
+ },
+ {
+   "r": 161,
+   "g": 86,
+   "b": 28,
+   "literal name": "Pantone 160 C",
+   "comment": ""
+ },
+ {
+   "r": 161,
+   "g": 90,
+   "b": 149,
+   "literal name": "Pantone 7655 C",
+   "comment": ""
+ },
+ {
+   "r": 161,
+   "g": 146,
+   "b": 178,
+   "literal name": "Pantone 666 C",
+   "comment": ""
+ },
+ {
+   "r": 161,
+   "g": 214,
+   "b": 202,
+   "literal name": "Pantone 565 C",
+   "comment": ""
+ },
+ {
+   "r": 161,
+   "g": 216,
+   "b": 132,
+   "literal name": "Pantone 359 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 0,
+   "b": 103,
+   "literal name": "Pantone 234 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 119,
+   "b": 166,
+   "literal name": "Pantone 7440 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 120,
+   "b": 156,
+   "literal name": "Pantone 7654 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 142,
+   "b": 42,
+   "literal name": "Pantone 456 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 165,
+   "b": 105,
+   "literal name": "Pantone 5777 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 170,
+   "b": 173,
+   "literal name": "Pantone 429 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 172,
+   "b": 171,
+   "literal name": "Pantone 442 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 178,
+   "b": 200,
+   "literal name": "Pantone 536 C",
+   "comment": ""
+ },
+ {
+   "r": 162,
+   "g": 228,
+   "b": 184,
+   "literal name": "Pantone 351 C",
+   "comment": ""
+ },
+ {
+   "r": 163,
+   "g": 127,
+   "b": 116,
+   "literal name": "Pantone 7614 C",
+   "comment": ""
+ },
+ {
+   "r": 163,
+   "g": 147,
+   "b": 130,
+   "literal name": "Pantone 7530 C",
+   "comment": ""
+ },
+ {
+   "r": 163,
+   "g": 170,
+   "b": 131,
+   "literal name": "Pantone 5783 C",
+   "comment": ""
+ },
+ {
+   "r": 163,
+   "g": 178,
+   "b": 164,
+   "literal name": "Pantone 5645 C",
+   "comment": ""
+ },
+ {
+   "r": 163,
+   "g": 199,
+   "b": 210,
+   "literal name": "Pantone 551 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 18,
+   "b": 63,
+   "literal name": "Pantone 7426 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 52,
+   "b": 58,
+   "literal name": "Pantone 1807 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 73,
+   "b": 61,
+   "literal name": "Pantone 7608 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 82,
+   "b": 72,
+   "literal name": "Pantone 7524 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 90,
+   "b": 42,
+   "literal name": "Pantone 470 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 188,
+   "b": 194,
+   "literal name": "Pantone 7542 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 200,
+   "b": 225,
+   "literal name": "Pantone 543 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 214,
+   "b": 94,
+   "literal name": "Pantone 367 C",
+   "comment": ""
+ },
+ {
+   "r": 164,
+   "g": 219,
+   "b": 232,
+   "literal name": "Pantone 635 C",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 0,
+   "b": 52,
+   "literal name": "Pantone 207 C",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 0,
+   "b": 80,
+   "literal name": "Pantone 220 C",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 24,
+   "b": 144,
+   "literal name": "Pantone 248 C",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 110,
+   "b": 135,
+   "literal name": "Pantone 7646 C",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 127,
+   "b": 178,
+   "literal name": "Pantone 521 C",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 156,
+   "b": 148,
+   "literal name": "Pantone Warm Gray 6 C",
+   "comment": ""
+ },
+ {
+   "r": 165,
+   "g": 223,
+   "b": 211,
+   "literal name": "Pantone 572 C",
+   "comment": ""
+ },
+ {
+   "r": 166,
+   "g": 9,
+   "b": 61,
+   "literal name": "Pantone 1945 C",
+   "comment": ""
+ },
+ {
+   "r": 166,
+   "g": 25,
+   "b": 46,
+   "literal name": "Pantone 187 C",
+   "comment": ""
+ },
+ {
+   "r": 166,
+   "g": 85,
+   "b": 35,
+   "literal name": "Pantone 1605 C",
+   "comment": ""
+ },
+ {
+   "r": 166,
+   "g": 99,
+   "b": 27,
+   "literal name": "Pantone 7512 C",
+   "comment": ""
+ },
+ {
+   "r": 166,
+   "g": 159,
+   "b": 136,
+   "literal name": "Pantone 7536 C",
+   "comment": ""
+ },
+ {
+   "r": 166,
+   "g": 187,
+   "b": 200,
+   "literal name": "Pantone 5435 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 43,
+   "b": 42,
+   "literal name": "Pantone 7627 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 58,
+   "b": 100,
+   "literal name": "Pantone 7433 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 99,
+   "b": 137,
+   "literal name": "Pantone 688 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 102,
+   "b": 43,
+   "literal name": "Pantone 7573 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 109,
+   "b": 17,
+   "literal name": "Pantone 146 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 123,
+   "b": 202,
+   "literal name": "Pantone 2577 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 162,
+   "b": 195,
+   "literal name": "Pantone 7445 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 164,
+   "b": 224,
+   "literal name": "Pantone 2705 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 168,
+   "b": 170,
+   "literal name": "Pantone Cool Gray 6 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 172,
+   "b": 162,
+   "literal name": "Pantone 7537 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 188,
+   "b": 214,
+   "literal name": "Pantone 651 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 189,
+   "b": 177,
+   "literal name": "Pantone 5585 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 198,
+   "b": 237,
+   "literal name": "Pantone 2717 C",
+   "comment": ""
+ },
+ {
+   "r": 167,
+   "g": 230,
+   "b": 215,
+   "literal name": "Pantone 331 C",
+   "comment": ""
+ },
+ {
+   "r": 168,
+   "g": 61,
+   "b": 114,
+   "literal name": "Pantone 7647 C",
+   "comment": ""
+ },
+ {
+   "r": 168,
+   "g": 153,
+   "b": 104,
+   "literal name": "Pantone 7503 C",
+   "comment": ""
+ },
+ {
+   "r": 168,
+   "g": 169,
+   "b": 158,
+   "literal name": "Pantone 414 C",
+   "comment": ""
+ },
+ {
+   "r": 168,
+   "g": 173,
+   "b": 0,
+   "literal name": "Pantone 383 C",
+   "comment": ""
+ },
+ {
+   "r": 169,
+   "g": 67,
+   "b": 30,
+   "literal name": "Pantone 1675 C",
+   "comment": ""
+ },
+ {
+   "r": 169,
+   "g": 196,
+   "b": 127,
+   "literal name": "Pantone 577 C",
+   "comment": ""
+ },
+ {
+   "r": 170,
+   "g": 0,
+   "b": 97,
+   "literal name": "Pantone 227 C",
+   "comment": ""
+ },
+ {
+   "r": 170,
+   "g": 128,
+   "b": 102,
+   "literal name": "Pantone 479 C",
+   "comment": ""
+ },
+ {
+   "r": 170,
+   "g": 138,
+   "b": 0,
+   "literal name": "Pantone 111 C",
+   "comment": ""
+ },
+ {
+   "r": 170,
+   "g": 157,
+   "b": 46,
+   "literal name": "Pantone 7767 C",
+   "comment": ""
+ },
+ {
+   "r": 171,
+   "g": 35,
+   "b": 40,
+   "literal name": "Pantone 7621 C",
+   "comment": ""
+ },
+ {
+   "r": 171,
+   "g": 92,
+   "b": 87,
+   "literal name": "Pantone 7523 C",
+   "comment": ""
+ },
+ {
+   "r": 171,
+   "g": 152,
+   "b": 157,
+   "literal name": "Pantone 436 C",
+   "comment": ""
+ },
+ {
+   "r": 171,
+   "g": 173,
+   "b": 35,
+   "literal name": "Pantone 7745 C",
+   "comment": ""
+ },
+ {
+   "r": 171,
+   "g": 199,
+   "b": 202,
+   "literal name": "Pantone 5513 C",
+   "comment": ""
+ },
+ {
+   "r": 171,
+   "g": 202,
+   "b": 233,
+   "literal name": "Pantone 277 C",
+   "comment": ""
+ },
+ {
+   "r": 172,
+   "g": 20,
+   "b": 90,
+   "literal name": "Pantone 215 C",
+   "comment": ""
+ },
+ {
+   "r": 172,
+   "g": 79,
+   "b": 198,
+   "literal name": "Pantone 2582 C",
+   "comment": ""
+ },
+ {
+   "r": 172,
+   "g": 132,
+   "b": 0,
+   "literal name": "Pantone 118 C",
+   "comment": ""
+ },
+ {
+   "r": 172,
+   "g": 159,
+   "b": 60,
+   "literal name": "Pantone 618 C",
+   "comment": ""
+ },
+ {
+   "r": 172,
+   "g": 163,
+   "b": 154,
+   "literal name": "Pantone Warm Gray 5 C",
+   "comment": ""
+ },
+ {
+   "r": 173,
+   "g": 26,
+   "b": 172,
+   "literal name": "Pantone 253 C",
+   "comment": ""
+ },
+ {
+   "r": 173,
+   "g": 100,
+   "b": 51,
+   "literal name": "Pantone 7566 C",
+   "comment": ""
+ },
+ {
+   "r": 173,
+   "g": 124,
+   "b": 89,
+   "literal name": "Pantone 4645 C",
+   "comment": ""
+ },
+ {
+   "r": 173,
+   "g": 132,
+   "b": 31,
+   "literal name": "Pantone 1255 C",
+   "comment": ""
+ },
+ {
+   "r": 173,
+   "g": 150,
+   "b": 220,
+   "literal name": "Pantone 2645 C",
+   "comment": ""
+ },
+ {
+   "r": 173,
+   "g": 164,
+   "b": 0,
+   "literal name": "Pantone 398 C",
+   "comment": ""
+ },
+ {
+   "r": 173,
+   "g": 202,
+   "b": 184,
+   "literal name": "Pantone 559 C",
+   "comment": ""
+ },
+ {
+   "r": 173,
+   "g": 220,
+   "b": 145,
+   "literal name": "Pantone 358 C",
+   "comment": ""
+ },
+ {
+   "r": 174,
+   "g": 37,
+   "b": 115,
+   "literal name": "Pantone 675 C",
+   "comment": ""
+ },
+ {
+   "r": 174,
+   "g": 138,
+   "b": 121,
+   "literal name": "Pantone 4725 C",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 22,
+   "b": 133,
+   "literal name": "Pantone 241 C",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 39,
+   "b": 47,
+   "literal name": "Pantone 1805 C",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 92,
+   "b": 55,
+   "literal name": "Pantone 7585 C",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 109,
+   "b": 4,
+   "literal name": "Pantone 139 C",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 149,
+   "b": 166,
+   "literal name": "Pantone 5215 C",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 152,
+   "b": 0,
+   "literal name": "Pantone 104 C",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 169,
+   "b": 110,
+   "literal name": "Pantone 5845 C",
+   "comment": ""
+ },
+ {
+   "r": 175,
+   "g": 169,
+   "b": 160,
+   "literal name": "Pantone 401 C",
+   "comment": ""
+ },
+ {
+   "r": 176,
+   "g": 0,
+   "b": 142,
+   "literal name": "Pantone 2405 C",
+   "comment": ""
+ },
+ {
+   "r": 176,
+   "g": 74,
+   "b": 90,
+   "literal name": "Pantone 7419 C",
+   "comment": ""
+ },
+ {
+   "r": 176,
+   "g": 108,
+   "b": 150,
+   "literal name": "Pantone 681 C",
+   "comment": ""
+ },
+ {
+   "r": 176,
+   "g": 124,
+   "b": 131,
+   "literal name": "Pantone 5005 C",
+   "comment": ""
+ },
+ {
+   "r": 176,
+   "g": 170,
+   "b": 126,
+   "literal name": "Pantone 452 C",
+   "comment": ""
+ },
+ {
+   "r": 176,
+   "g": 189,
+   "b": 176,
+   "literal name": "Pantone 5655 C",
+   "comment": ""
+ },
+ {
+   "r": 177,
+   "g": 85,
+   "b": 51,
+   "literal name": "Pantone 7592 C",
+   "comment": ""
+ },
+ {
+   "r": 177,
+   "g": 179,
+   "b": 179,
+   "literal name": "Pantone Cool Gray 5 C",
+   "comment": ""
+ },
+ {
+   "r": 177,
+   "g": 192,
+   "b": 188,
+   "literal name": "Pantone 5517 C",
+   "comment": ""
+ },
+ {
+   "r": 177,
+   "g": 201,
+   "b": 232,
+   "literal name": "Pantone 658 C",
+   "comment": ""
+ },
+ {
+   "r": 177,
+   "g": 228,
+   "b": 227,
+   "literal name": "Pantone 317 C",
+   "comment": ""
+ },
+ {
+   "r": 178,
+   "g": 136,
+   "b": 185,
+   "literal name": "Pantone 7439 C",
+   "comment": ""
+ },
+ {
+   "r": 178,
+   "g": 168,
+   "b": 162,
+   "literal name": "Pantone 407 C",
+   "comment": ""
+ },
+ {
+   "r": 178,
+   "g": 180,
+   "b": 178,
+   "literal name": "Pantone 421 C",
+   "comment": ""
+ },
+ {
+   "r": 179,
+   "g": 61,
+   "b": 38,
+   "literal name": "Pantone 7599 C",
+   "comment": ""
+ },
+ {
+   "r": 179,
+   "g": 105,
+   "b": 36,
+   "literal name": "Pantone 723 C",
+   "comment": ""
+ },
+ {
+   "r": 179,
+   "g": 155,
+   "b": 0,
+   "literal name": "Pantone 613 C",
+   "comment": ""
+ },
+ {
+   "r": 179,
+   "g": 163,
+   "b": 105,
+   "literal name": "Pantone 4515 C",
+   "comment": ""
+ },
+ {
+   "r": 179,
+   "g": 176,
+   "b": 196,
+   "literal name": "Pantone 5295 C",
+   "comment": ""
+ },
+ {
+   "r": 179,
+   "g": 185,
+   "b": 149,
+   "literal name": "Pantone 5793 C",
+   "comment": ""
+ },
+ {
+   "r": 180,
+   "g": 106,
+   "b": 85,
+   "literal name": "Pantone 7522 C",
+   "comment": ""
+ },
+ {
+   "r": 180,
+   "g": 107,
+   "b": 122,
+   "literal name": "Pantone 695 C",
+   "comment": ""
+ },
+ {
+   "r": 180,
+   "g": 126,
+   "b": 0,
+   "literal name": "Pantone 7551 C",
+   "comment": ""
+ },
+ {
+   "r": 180,
+   "g": 169,
+   "b": 31,
+   "literal name": "Pantone 7766 C",
+   "comment": ""
+ },
+ {
+   "r": 180,
+   "g": 181,
+   "b": 223,
+   "literal name": "Pantone 270 C",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 37,
+   "b": 85,
+   "literal name": "Pantone 7425 C",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 92,
+   "b": 128,
+   "literal name": "Pantone 7432 C",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 128,
+   "b": 209,
+   "literal name": "Pantone 528 C",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 129,
+   "b": 80,
+   "literal name": "Pantone 729 C",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 133,
+   "b": 0,
+   "literal name": "Pantone 125 C",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 189,
+   "b": 0,
+   "literal name": "Pantone 390 C",
+   "comment": ""
+ },
+ {
+   "r": 181,
+   "g": 227,
+   "b": 216,
+   "literal name": "Pantone 573 C",
+   "comment": ""
+ },
+ {
+   "r": 182,
+   "g": 114,
+   "b": 51,
+   "literal name": "Pantone 7572 C",
+   "comment": ""
+ },
+ {
+   "r": 182,
+   "g": 173,
+   "b": 165,
+   "literal name": "Pantone Warm Gray 4 C",
+   "comment": ""
+ },
+ {
+   "r": 182,
+   "g": 184,
+   "b": 220,
+   "literal name": "Pantone 7444 C",
+   "comment": ""
+ },
+ {
+   "r": 182,
+   "g": 207,
+   "b": 208,
+   "literal name": "Pantone 5523 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 49,
+   "b": 44,
+   "literal name": "Pantone 7620 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 119,
+   "b": 41,
+   "literal name": "Pantone 7511 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 139,
+   "b": 32,
+   "literal name": "Pantone 7556 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 169,
+   "b": 154,
+   "literal name": "Pantone 7529 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 176,
+   "b": 156,
+   "literal name": "Pantone 7535 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 191,
+   "b": 16,
+   "literal name": "Pantone 583 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 201,
+   "b": 211,
+   "literal name": "Pantone 5445 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 205,
+   "b": 194,
+   "literal name": "Pantone 622 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 206,
+   "b": 149,
+   "literal name": "Pantone 578 C",
+   "comment": ""
+ },
+ {
+   "r": 183,
+   "g": 221,
+   "b": 121,
+   "literal name": "Pantone 366 C",
+   "comment": ""
+ },
+ {
+   "r": 184,
+   "g": 58,
+   "b": 75,
+   "literal name": "Pantone 703 C",
+   "comment": ""
+ },
+ {
+   "r": 184,
+   "g": 97,
+   "b": 37,
+   "literal name": "Pantone 471 C",
+   "comment": ""
+ },
+ {
+   "r": 184,
+   "g": 132,
+   "b": 203,
+   "literal name": "Pantone 2573 C",
+   "comment": ""
+ },
+ {
+   "r": 184,
+   "g": 157,
+   "b": 24,
+   "literal name": "Pantone 457 C",
+   "comment": ""
+ },
+ {
+   "r": 184,
+   "g": 204,
+   "b": 234,
+   "literal name": "Pantone 2708 C",
+   "comment": ""
+ },
+ {
+   "r": 184,
+   "g": 221,
+   "b": 225,
+   "literal name": "Pantone 628 C",
+   "comment": ""
+ },
+ {
+   "r": 185,
+   "g": 71,
+   "b": 0,
+   "literal name": "Pantone 1525 C",
+   "comment": ""
+ },
+ {
+   "r": 185,
+   "g": 151,
+   "b": 91,
+   "literal name": "Pantone 465 C",
+   "comment": ""
+ },
+ {
+   "r": 185,
+   "g": 211,
+   "b": 220,
+   "literal name": "Pantone 552 C",
+   "comment": ""
+ },
+ {
+   "r": 185,
+   "g": 217,
+   "b": 235,
+   "literal name": "Pantone 290 C",
+   "comment": ""
+ },
+ {
+   "r": 185,
+   "g": 220,
+   "b": 210,
+   "literal name": "Pantone 566 C",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 12,
+   "b": 47,
+   "literal name": "Pantone 200 C",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 88,
+   "b": 38,
+   "literal name": "Pantone 7584 C",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 156,
+   "b": 197,
+   "literal name": "Pantone 522 C",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 187,
+   "b": 177,
+   "literal name": "Pantone 413 C",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 188,
+   "b": 22,
+   "literal name": "Pantone 7744 C",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 189,
+   "b": 139,
+   "literal name": "Pantone 5787 C",
+   "comment": ""
+ },
+ {
+   "r": 186,
+   "g": 197,
+   "b": 185,
+   "literal name": "Pantone 5665 C",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 22,
+   "b": 163,
+   "literal name": "Pantone 247 C",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 41,
+   "b": 187,
+   "literal name": "Pantone Purple C",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 166,
+   "b": 0,
+   "literal name": "Pantone 3975 C",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 179,
+   "b": 35,
+   "literal name": "Pantone 7765 C",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 188,
+   "b": 188,
+   "literal name": "Pantone Cool Gray 4 C",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 197,
+   "b": 146,
+   "literal name": "Pantone 7493 C",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 199,
+   "b": 214,
+   "literal name": "Pantone 537 C",
+   "comment": ""
+ },
+ {
+   "r": 187,
+   "g": 221,
+   "b": 230,
+   "literal name": "Pantone 7457 C",
+   "comment": ""
+ },
+ {
+   "r": 188,
+   "g": 32,
+   "b": 75,
+   "literal name": "Pantone 7636 C",
+   "comment": ""
+ },
+ {
+   "r": 188,
+   "g": 138,
+   "b": 126,
+   "literal name": "Pantone 7613 C",
+   "comment": ""
+ },
+ {
+   "r": 188,
+   "g": 201,
+   "b": 197,
+   "literal name": "Pantone 5527 C",
+   "comment": ""
+ },
+ {
+   "r": 188,
+   "g": 209,
+   "b": 155,
+   "literal name": "Pantone 579 C",
+   "comment": ""
+ },
+ {
+   "r": 188,
+   "g": 225,
+   "b": 148,
+   "literal name": "Pantone 7486 C",
+   "comment": ""
+ },
+ {
+   "r": 189,
+   "g": 71,
+   "b": 42,
+   "literal name": "Pantone 7598 C",
+   "comment": ""
+ },
+ {
+   "r": 189,
+   "g": 155,
+   "b": 96,
+   "literal name": "Pantone 7562 C",
+   "comment": ""
+ },
+ {
+   "r": 189,
+   "g": 197,
+   "b": 219,
+   "literal name": "Pantone 7450 C",
+   "comment": ""
+ },
+ {
+   "r": 189,
+   "g": 214,
+   "b": 230,
+   "literal name": "Pantone 544 C",
+   "comment": ""
+ },
+ {
+   "r": 190,
+   "g": 58,
+   "b": 52,
+   "literal name": "Pantone 180 C",
+   "comment": ""
+ },
+ {
+   "r": 190,
+   "g": 77,
+   "b": 0,
+   "literal name": "Pantone 718 C",
+   "comment": ""
+ },
+ {
+   "r": 190,
+   "g": 83,
+   "b": 28,
+   "literal name": "Pantone 167 C",
+   "comment": ""
+ },
+ {
+   "r": 190,
+   "g": 106,
+   "b": 20,
+   "literal name": "Pantone 153 C",
+   "comment": ""
+ },
+ {
+   "r": 190,
+   "g": 132,
+   "b": 163,
+   "literal name": "Pantone 687 C",
+   "comment": ""
+ },
+ {
+   "r": 190,
+   "g": 198,
+   "b": 196,
+   "literal name": "Pantone 441 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 13,
+   "b": 62,
+   "literal name": "Pantone 193 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 148,
+   "b": 116,
+   "literal name": "Pantone 4655 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 155,
+   "b": 222,
+   "literal name": "Pantone Violet 0631 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 165,
+   "b": 184,
+   "literal name": "Pantone 5155 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 184,
+   "b": 0,
+   "literal name": "Pantone 397 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 184,
+   "b": 175,
+   "literal name": "Pantone Warm Gray 3 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 187,
+   "b": 152,
+   "literal name": "Pantone 453 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 204,
+   "b": 128,
+   "literal name": "Pantone 7492 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 206,
+   "b": 194,
+   "literal name": "Pantone 5595 C",
+   "comment": ""
+ },
+ {
+   "r": 191,
+   "g": 206,
+   "b": 214,
+   "literal name": "Pantone 5455 C",
+   "comment": ""
+ },
+ {
+   "r": 192,
+   "g": 76,
+   "b": 54,
+   "literal name": "Pantone 7619 C",
+   "comment": ""
+ },
+ {
+   "r": 192,
+   "g": 81,
+   "b": 49,
+   "literal name": "Pantone 7580 C",
+   "comment": ""
+ },
+ {
+   "r": 192,
+   "g": 125,
+   "b": 89,
+   "literal name": "Pantone 7591 C",
+   "comment": ""
+ },
+ {
+   "r": 192,
+   "g": 156,
+   "b": 131,
+   "literal name": "Pantone 7521 C",
+   "comment": ""
+ },
+ {
+   "r": 192,
+   "g": 163,
+   "b": 146,
+   "literal name": "Pantone 4735 C",
+   "comment": ""
+ },
+ {
+   "r": 192,
+   "g": 181,
+   "b": 97,
+   "literal name": "Pantone 617 C",
+   "comment": ""
+ },
+ {
+   "r": 192,
+   "g": 187,
+   "b": 135,
+   "literal name": "Pantone 5855 C",
+   "comment": ""
+ },
+ {
+   "r": 193,
+   "g": 103,
+   "b": 132,
+   "literal name": "Pantone 7634 C",
+   "comment": ""
+ },
+ {
+   "r": 193,
+   "g": 108,
+   "b": 24,
+   "literal name": "Pantone 7414 C",
+   "comment": ""
+ },
+ {
+   "r": 193,
+   "g": 160,
+   "b": 30,
+   "literal name": "Pantone 7753 C",
+   "comment": ""
+ },
+ {
+   "r": 193,
+   "g": 160,
+   "b": 218,
+   "literal name": "Pantone 2567 C",
+   "comment": ""
+ },
+ {
+   "r": 193,
+   "g": 167,
+   "b": 226,
+   "literal name": "Pantone 264 C",
+   "comment": ""
+ },
+ {
+   "r": 193,
+   "g": 178,
+   "b": 182,
+   "literal name": "Pantone 435 C",
+   "comment": ""
+ },
+ {
+   "r": 193,
+   "g": 198,
+   "b": 200,
+   "literal name": "Pantone 428 C",
+   "comment": ""
+ },
+ {
+   "r": 194,
+   "g": 110,
+   "b": 96,
+   "literal name": "Pantone 7607 C",
+   "comment": ""
+ },
+ {
+   "r": 194,
+   "g": 225,
+   "b": 137,
+   "literal name": "Pantone 365 C",
+   "comment": ""
+ },
+ {
+   "r": 195,
+   "g": 198,
+   "b": 168,
+   "literal name": "Pantone 5803 C",
+   "comment": ""
+ },
+ {
+   "r": 195,
+   "g": 215,
+   "b": 238,
+   "literal name": "Pantone 2707 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 98,
+   "b": 45,
+   "literal name": "Pantone 7583 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 132,
+   "b": 144,
+   "literal name": "Pantone 694 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 164,
+   "b": 167,
+   "literal name": "Pantone 7633 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 176,
+   "b": 0,
+   "literal name": "Pantone 612 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 178,
+   "b": 0,
+   "literal name": "Pantone 7759 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 188,
+   "b": 183,
+   "literal name": "Pantone 406 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 191,
+   "b": 182,
+   "literal name": "Pantone 400 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 214,
+   "b": 0,
+   "literal name": "Pantone 382 C",
+   "comment": ""
+ },
+ {
+   "r": 196,
+   "g": 214,
+   "b": 164,
+   "literal name": "Pantone 580 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 0,
+   "b": 62,
+   "literal name": "Pantone 1935 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 41,
+   "b": 155,
+   "literal name": "Pantone 240 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 139,
+   "b": 104,
+   "literal name": "Pantone 7515 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 169,
+   "b": 0,
+   "literal name": "Pantone 103 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 180,
+   "b": 227,
+   "literal name": "Pantone 2635 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 183,
+   "b": 131,
+   "literal name": "Pantone 4525 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 185,
+   "b": 172,
+   "literal name": "Pantone 7528 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 207,
+   "b": 218,
+   "literal name": "Pantone 538 C",
+   "comment": ""
+ },
+ {
+   "r": 197,
+   "g": 232,
+   "b": 108,
+   "literal name": "Pantone 374 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 0,
+   "b": 126,
+   "literal name": "Pantone 233 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 53,
+   "b": 39,
+   "literal name": "Pantone 7626 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 54,
+   "b": 99,
+   "literal name": "Pantone 7635 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 87,
+   "b": 154,
+   "literal name": "Pantone 674 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 110,
+   "b": 78,
+   "literal name": "Pantone 7618 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 125,
+   "b": 48,
+   "literal name": "Pantone 7571 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 133,
+   "b": 143,
+   "literal name": "Pantone 500 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 137,
+   "b": 63,
+   "literal name": "Pantone 7510 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 146,
+   "b": 20,
+   "literal name": "Pantone 1245 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 161,
+   "b": 207,
+   "literal name": "Pantone 257 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 169,
+   "b": 146,
+   "literal name": "Pantone 480 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 170,
+   "b": 118,
+   "literal name": "Pantone 466 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 176,
+   "b": 188,
+   "literal name": "Pantone 5225 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 188,
+   "b": 208,
+   "literal name": "Pantone 665 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 196,
+   "b": 210,
+   "literal name": "Pantone 5305 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 200,
+   "b": 155,
+   "literal name": "Pantone 5797 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 214,
+   "b": 227,
+   "literal name": "Pantone 643 C",
+   "comment": ""
+ },
+ {
+   "r": 198,
+   "g": 218,
+   "b": 231,
+   "literal name": "Pantone 545 C",
+   "comment": ""
+ },
+ {
+   "r": 199,
+   "g": 36,
+   "b": 177,
+   "literal name": "Pantone 246 C",
+   "comment": ""
+ },
+ {
+   "r": 199,
+   "g": 201,
+   "b": 199,
+   "literal name": "Pantone 420 C",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 0,
+   "b": 161,
+   "literal name": "Pantone 2395 C",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 16,
+   "b": 46,
+   "literal name": "Pantone 186 C",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 130,
+   "b": 66,
+   "literal name": "Pantone 722 C",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 201,
+   "b": 199,
+   "literal name": "Pantone Cool Gray 3 C",
+   "comment": ""
+ },
+ {
+   "r": 200,
+   "g": 216,
+   "b": 235,
+   "literal name": "Pantone 657 C",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 100,
+   "b": 207,
+   "literal name": "Pantone 252 C",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 128,
+   "b": 158,
+   "literal name": "Pantone 7431 C",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 139,
+   "b": 219,
+   "literal name": "Pantone 2572 C",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 150,
+   "b": 182,
+   "literal name": "Pantone 680 C",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 151,
+   "b": 0,
+   "literal name": "Pantone 117 C",
+   "comment": ""
+ },
+ {
+   "r": 201,
+   "g": 177,
+   "b": 208,
+   "literal name": "Pantone 523 C",
+   "comment": ""
+ },
+ {
+   "r": 202,
+   "g": 154,
+   "b": 142,
+   "literal name": "Pantone 7612 C",
+   "comment": ""
+ },
+ {
+   "r": 202,
+   "g": 162,
+   "b": 221,
+   "literal name": "Pantone 529 C",
+   "comment": ""
+ },
+ {
+   "r": 202,
+   "g": 182,
+   "b": 75,
+   "literal name": "Pantone 7751 C",
+   "comment": ""
+ },
+ {
+   "r": 202,
+   "g": 199,
+   "b": 167,
+   "literal name": "Pantone 454 C",
+   "comment": ""
+ },
+ {
+   "r": 203,
+   "g": 44,
+   "b": 48,
+   "literal name": "Pantone 711 C",
+   "comment": ""
+ },
+ {
+   "r": 203,
+   "g": 51,
+   "b": 59,
+   "literal name": "Pantone 1797 C",
+   "comment": ""
+ },
+ {
+   "r": 203,
+   "g": 96,
+   "b": 21,
+   "literal name": "Pantone 159 C",
+   "comment": ""
+ },
+ {
+   "r": 203,
+   "g": 160,
+   "b": 82,
+   "literal name": "Pantone 7407 C",
+   "comment": ""
+ },
+ {
+   "r": 203,
+   "g": 163,
+   "b": 216,
+   "literal name": "Pantone 2563 C",
+   "comment": ""
+ },
+ {
+   "r": 203,
+   "g": 196,
+   "b": 188,
+   "literal name": "Pantone Warm Gray 2 C",
+   "comment": ""
+ },
+ {
+   "r": 203,
+   "g": 199,
+   "b": 147,
+   "literal name": "Pantone 5865 C",
+   "comment": ""
+ },
+ {
+   "r": 203,
+   "g": 211,
+   "b": 235,
+   "literal name": "Pantone 2706 C",
+   "comment": ""
+ },
+ {
+   "r": 204,
+   "g": 138,
+   "b": 0,
+   "literal name": "Pantone 131 C",
+   "comment": ""
+ },
+ {
+   "r": 204,
+   "g": 161,
+   "b": 166,
+   "literal name": "Pantone 5015 C",
+   "comment": ""
+ },
+ {
+   "r": 204,
+   "g": 174,
+   "b": 208,
+   "literal name": "Pantone 7437 C",
+   "comment": ""
+ },
+ {
+   "r": 205,
+   "g": 84,
+   "b": 91,
+   "literal name": "Pantone 7418 C",
+   "comment": ""
+ },
+ {
+   "r": 205,
+   "g": 121,
+   "b": 37,
+   "literal name": "Pantone 7565 C",
+   "comment": ""
+ },
+ {
+   "r": 205,
+   "g": 160,
+   "b": 119,
+   "literal name": "Pantone 728 C",
+   "comment": ""
+ },
+ {
+   "r": 205,
+   "g": 167,
+   "b": 136,
+   "literal name": "Pantone 4665 C",
+   "comment": ""
+ },
+ {
+   "r": 205,
+   "g": 181,
+   "b": 167,
+   "literal name": "Pantone 4745 C",
+   "comment": ""
+ },
+ {
+   "r": 205,
+   "g": 234,
+   "b": 128,
+   "literal name": "Pantone 373 C",
+   "comment": ""
+ },
+ {
+   "r": 206,
+   "g": 0,
+   "b": 55,
+   "literal name": "Pantone 206 C",
+   "comment": ""
+ },
+ {
+   "r": 206,
+   "g": 0,
+   "b": 86,
+   "literal name": "Pantone Strong Red C",
+   "comment": ""
+ },
+ {
+   "r": 206,
+   "g": 0,
+   "b": 88,
+   "literal name": "Pantone Rubine Red C",
+   "comment": ""
+ },
+ {
+   "r": 206,
+   "g": 15,
+   "b": 105,
+   "literal name": "Pantone 214 C",
+   "comment": ""
+ },
+ {
+   "r": 206,
+   "g": 184,
+   "b": 136,
+   "literal name": "Pantone 7502 C",
+   "comment": ""
+ },
+ {
+   "r": 206,
+   "g": 217,
+   "b": 229,
+   "literal name": "Pantone 650 C",
+   "comment": ""
+ },
+ {
+   "r": 206,
+   "g": 220,
+   "b": 0,
+   "literal name": "Pantone 381 C",
+   "comment": ""
+ },
+ {
+   "r": 207,
+   "g": 69,
+   "b": 32,
+   "literal name": "Pantone 173 C",
+   "comment": ""
+ },
+ {
+   "r": 207,
+   "g": 127,
+   "b": 0,
+   "literal name": "Pantone 145 C",
+   "comment": ""
+ },
+ {
+   "r": 207,
+   "g": 176,
+   "b": 35,
+   "literal name": "Pantone 7752 C",
+   "comment": ""
+ },
+ {
+   "r": 207,
+   "g": 181,
+   "b": 0,
+   "literal name": "Pantone 606 C",
+   "comment": ""
+ },
+ {
+   "r": 207,
+   "g": 196,
+   "b": 147,
+   "literal name": "Pantone 4535 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 0,
+   "b": 111,
+   "literal name": "Pantone 226 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 161,
+   "b": 186,
+   "literal name": "Pantone 686 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 190,
+   "b": 199,
+   "literal name": "Pantone 5235 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 196,
+   "b": 197,
+   "literal name": "Pantone 434 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 200,
+   "b": 131,
+   "literal name": "Pantone 616 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 208,
+   "b": 206,
+   "literal name": "Pantone Cool Gray 2 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 209,
+   "b": 171,
+   "literal name": "Pantone 5807 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 211,
+   "b": 212,
+   "literal name": "Pantone 427 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 222,
+   "b": 187,
+   "literal name": "Pantone 7485 C",
+   "comment": ""
+ },
+ {
+   "r": 208,
+   "g": 223,
+   "b": 0,
+   "literal name": "Pantone 389 C",
+   "comment": ""
+ },
+ {
+   "r": 209,
+   "g": 65,
+   "b": 36,
+   "literal name": "Pantone 7597 C",
+   "comment": ""
+ },
+ {
+   "r": 209,
+   "g": 144,
+   "b": 0,
+   "literal name": "Pantone 7550 C",
+   "comment": ""
+ },
+ {
+   "r": 209,
+   "g": 204,
+   "b": 189,
+   "literal name": "Pantone 7534 C",
+   "comment": ""
+ },
+ {
+   "r": 209,
+   "g": 221,
+   "b": 230,
+   "literal name": "Pantone 642 C",
+   "comment": ""
+ },
+ {
+   "r": 209,
+   "g": 224,
+   "b": 215,
+   "literal name": "Pantone 621 C",
+   "comment": ""
+ },
+ {
+   "r": 210,
+   "g": 38,
+   "b": 48,
+   "literal name": "Pantone 1795 C",
+   "comment": ""
+ },
+ {
+   "r": 210,
+   "g": 91,
+   "b": 115,
+   "literal name": "Pantone 702 C",
+   "comment": ""
+ },
+ {
+   "r": 210,
+   "g": 159,
+   "b": 19,
+   "literal name": "Pantone 7555 C",
+   "comment": ""
+ },
+ {
+   "r": 210,
+   "g": 206,
+   "b": 158,
+   "literal name": "Pantone 5875 C",
+   "comment": ""
+ },
+ {
+   "r": 210,
+   "g": 215,
+   "b": 85,
+   "literal name": "Pantone 584 C",
+   "comment": ""
+ },
+ {
+   "r": 211,
+   "g": 130,
+   "b": 53,
+   "literal name": "Pantone 7412 C",
+   "comment": ""
+ },
+ {
+   "r": 211,
+   "g": 131,
+   "b": 43,
+   "literal name": "Pantone 7570 C",
+   "comment": ""
+ },
+ {
+   "r": 211,
+   "g": 187,
+   "b": 168,
+   "literal name": "Pantone 481 C",
+   "comment": ""
+ },
+ {
+   "r": 211,
+   "g": 188,
+   "b": 141,
+   "literal name": "Pantone 467 C",
+   "comment": ""
+ },
+ {
+   "r": 211,
+   "g": 192,
+   "b": 205,
+   "literal name": "Pantone 5165 C",
+   "comment": ""
+ },
+ {
+   "r": 212,
+   "g": 93,
+   "b": 0,
+   "literal name": "Pantone 717 C",
+   "comment": ""
+ },
+ {
+   "r": 212,
+   "g": 139,
+   "b": 200,
+   "literal name": "Pantone 514 C",
+   "comment": ""
+ },
+ {
+   "r": 212,
+   "g": 181,
+   "b": 158,
+   "literal name": "Pantone 7590 C",
+   "comment": ""
+ },
+ {
+   "r": 212,
+   "g": 195,
+   "b": 4,
+   "literal name": "Pantone 7758 C",
+   "comment": ""
+ },
+ {
+   "r": 212,
+   "g": 235,
+   "b": 142,
+   "literal name": "Pantone 372 C",
+   "comment": ""
+ },
+ {
+   "r": 213,
+   "g": 0,
+   "b": 50,
+   "literal name": "Pantone 199 C",
+   "comment": ""
+ },
+ {
+   "r": 213,
+   "g": 57,
+   "b": 181,
+   "literal name": "Pantone 2385 C",
+   "comment": ""
+ },
+ {
+   "r": 213,
+   "g": 120,
+   "b": 0,
+   "literal name": "Pantone 1385 C",
+   "comment": ""
+ },
+ {
+   "r": 213,
+   "g": 146,
+   "b": 170,
+   "literal name": "Pantone 507 C",
+   "comment": ""
+ },
+ {
+   "r": 213,
+   "g": 158,
+   "b": 215,
+   "literal name": "Pantone 7438 C",
+   "comment": ""
+ },
+ {
+   "r": 213,
+   "g": 162,
+   "b": 134,
+   "literal name": "Pantone 7514 C",
+   "comment": ""
+ },
+ {
+   "r": 213,
+   "g": 194,
+   "b": 216,
+   "literal name": "Pantone 524 C",
+   "comment": ""
+ },
+ {
+   "r": 213,
+   "g": 203,
+   "b": 159,
+   "literal name": "Pantone 4545 C",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 37,
+   "b": 152,
+   "literal name": "Pantone Pink C",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 147,
+   "b": 138,
+   "literal name": "Pantone 7606 C",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 154,
+   "b": 45,
+   "literal name": "Pantone 7563 C",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 164,
+   "b": 97,
+   "literal name": "Pantone 7509 C",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 191,
+   "b": 221,
+   "literal name": "Pantone 256 C",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 201,
+   "b": 202,
+   "literal name": "Pantone 7632 C",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 207,
+   "b": 141,
+   "literal name": "Pantone 615 C",
+   "comment": ""
+ },
+ {
+   "r": 214,
+   "g": 210,
+   "b": 196,
+   "literal name": "Pantone 7527 C",
+   "comment": ""
+ },
+ {
+   "r": 215,
+   "g": 136,
+   "b": 37,
+   "literal name": "Pantone 7569 C",
+   "comment": ""
+ },
+ {
+   "r": 215,
+   "g": 163,
+   "b": 171,
+   "literal name": "Pantone 693 C",
+   "comment": ""
+ },
+ {
+   "r": 215,
+   "g": 169,
+   "b": 227,
+   "literal name": "Pantone 2562 C",
+   "comment": ""
+ },
+ {
+   "r": 215,
+   "g": 185,
+   "b": 228,
+   "literal name": "Pantone 530 C",
+   "comment": ""
+ },
+ {
+   "r": 215,
+   "g": 196,
+   "b": 183,
+   "literal name": "Pantone 4755 C",
+   "comment": ""
+ },
+ {
+   "r": 215,
+   "g": 198,
+   "b": 230,
+   "literal name": "Pantone 263 C",
+   "comment": ""
+ },
+ {
+   "r": 215,
+   "g": 200,
+   "b": 38,
+   "literal name": "Pantone 611 C",
+   "comment": ""
+ },
+ {
+   "r": 215,
+   "g": 210,
+   "b": 203,
+   "literal name": "Pantone Warm Gray 1 C",
+   "comment": ""
+ },
+ {
+   "r": 216,
+   "g": 96,
+   "b": 24,
+   "literal name": "Pantone 1595 C",
+   "comment": ""
+ },
+ {
+   "r": 216,
+   "g": 200,
+   "b": 209,
+   "literal name": "Pantone 5175 C",
+   "comment": ""
+ },
+ {
+   "r": 216,
+   "g": 215,
+   "b": 223,
+   "literal name": "Pantone 5315 C",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 134,
+   "b": 186,
+   "literal name": "Pantone 673 C",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 180,
+   "b": 143,
+   "literal name": "Pantone 727 C",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 199,
+   "b": 86,
+   "literal name": "Pantone 458 C",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 200,
+   "b": 158,
+   "literal name": "Pantone 7501 C",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 217,
+   "b": 214,
+   "literal name": "Pantone Cool Gray 1 C",
+   "comment": ""
+ },
+ {
+   "r": 217,
+   "g": 225,
+   "b": 226,
+   "literal name": "Pantone 7541 C",
+   "comment": ""
+ },
+ {
+   "r": 218,
+   "g": 24,
+   "b": 132,
+   "literal name": "Pantone 219 C",
+   "comment": ""
+ },
+ {
+   "r": 218,
+   "g": 41,
+   "b": 28,
+   "literal name": "Pantone 485 C",
+   "comment": ""
+ },
+ {
+   "r": 218,
+   "g": 165,
+   "b": 173,
+   "literal name": "Pantone 501 C",
+   "comment": ""
+ },
+ {
+   "r": 218,
+   "g": 170,
+   "b": 0,
+   "literal name": "Pantone 110 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 62,
+   "b": 177,
+   "literal name": "Pantone 239 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 134,
+   "b": 78,
+   "literal name": "Pantone 7576 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 138,
+   "b": 6,
+   "literal name": "Pantone 7564 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 183,
+   "b": 187,
+   "literal name": "Pantone 5025 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 200,
+   "b": 182,
+   "literal name": "Pantone 482 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 205,
+   "b": 211,
+   "literal name": "Pantone 5245 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 222,
+   "b": 112,
+   "literal name": "Pantone 585 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 226,
+   "b": 233,
+   "literal name": "Pantone 649 C",
+   "comment": ""
+ },
+ {
+   "r": 219,
+   "g": 228,
+   "b": 66,
+   "literal name": "Pantone 380 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 68,
+   "b": 5,
+   "literal name": "Pantone 1665 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 88,
+   "b": 42,
+   "literal name": "Pantone 7579 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 107,
+   "b": 47,
+   "literal name": "Pantone 7578 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 134,
+   "b": 51,
+   "literal name": "Pantone 7413 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 134,
+   "b": 153,
+   "literal name": "Pantone 493 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 169,
+   "b": 191,
+   "literal name": "Pantone 7430 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 182,
+   "b": 201,
+   "literal name": "Pantone 685 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 191,
+   "b": 166,
+   "literal name": "Pantone 4675 C",
+   "comment": ""
+ },
+ {
+   "r": 220,
+   "g": 213,
+   "b": 154,
+   "literal name": "Pantone 614 C",
+   "comment": ""
+ },
+ {
+   "r": 221,
+   "g": 127,
+   "b": 211,
+   "literal name": "Pantone 245 C",
+   "comment": ""
+ },
+ {
+   "r": 221,
+   "g": 156,
+   "b": 223,
+   "literal name": "Pantone 251 C",
+   "comment": ""
+ },
+ {
+   "r": 221,
+   "g": 164,
+   "b": 111,
+   "literal name": "Pantone 721 C",
+   "comment": ""
+ },
+ {
+   "r": 221,
+   "g": 188,
+   "b": 176,
+   "literal name": "Pantone 7611 C",
+   "comment": ""
+ },
+ {
+   "r": 221,
+   "g": 203,
+   "b": 164,
+   "literal name": "Pantone 468 C",
+   "comment": ""
+ },
+ {
+   "r": 221,
+   "g": 218,
+   "b": 232,
+   "literal name": "Pantone 7443 C",
+   "comment": ""
+ },
+ {
+   "r": 221,
+   "g": 229,
+   "b": 237,
+   "literal name": "Pantone 656 C",
+   "comment": ""
+ },
+ {
+   "r": 222,
+   "g": 124,
+   "b": 0,
+   "literal name": "Pantone 138 C",
+   "comment": ""
+ },
+ {
+   "r": 222,
+   "g": 190,
+   "b": 210,
+   "literal name": "Pantone 679 C",
+   "comment": ""
+ },
+ {
+   "r": 222,
+   "g": 205,
+   "b": 99,
+   "literal name": "Pantone 459 C",
+   "comment": ""
+ },
+ {
+   "r": 223,
+   "g": 25,
+   "b": 149,
+   "literal name": "Pantone 225 C",
+   "comment": ""
+ },
+ {
+   "r": 223,
+   "g": 70,
+   "b": 97,
+   "literal name": "Pantone 198 C",
+   "comment": ""
+ },
+ {
+   "r": 223,
+   "g": 160,
+   "b": 201,
+   "literal name": "Pantone 672 C",
+   "comment": ""
+ },
+ {
+   "r": 223,
+   "g": 194,
+   "b": 195,
+   "literal name": "Pantone 5035 C",
+   "comment": ""
+ },
+ {
+   "r": 223,
+   "g": 200,
+   "b": 231,
+   "literal name": "Pantone 531 C",
+   "comment": ""
+ },
+ {
+   "r": 223,
+   "g": 209,
+   "b": 167,
+   "literal name": "Pantone 7500 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 0,
+   "b": 77,
+   "literal name": "Pantone 1925 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 60,
+   "b": 49,
+   "literal name": "Pantone 179 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 62,
+   "b": 82,
+   "literal name": "Pantone 710 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 69,
+   "b": 123,
+   "literal name": "Pantone 205 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 78,
+   "b": 57,
+   "literal name": "Pantone 7417 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 98,
+   "b": 135,
+   "literal name": "Pantone 7423 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 126,
+   "b": 60,
+   "literal name": "Pantone 7577 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 192,
+   "b": 159,
+   "literal name": "Pantone 726 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 198,
+   "b": 173,
+   "literal name": "Pantone 4685 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 219,
+   "b": 227,
+   "literal name": "Pantone 664 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 226,
+   "b": 124,
+   "literal name": "Pantone 586 C",
+   "comment": ""
+ },
+ {
+   "r": 224,
+   "g": 231,
+   "b": 33,
+   "literal name": "Pantone 388 C",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 0,
+   "b": 152,
+   "literal name": "Pantone Rhodamine Red C",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 82,
+   "b": 61,
+   "literal name": "Pantone 7625 C",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 183,
+   "b": 167,
+   "literal name": "Pantone 7513 C",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 184,
+   "b": 127,
+   "literal name": "Pantone 7508 C",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 187,
+   "b": 180,
+   "literal name": "Pantone 7605 C",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 205,
+   "b": 0,
+   "literal name": "Pantone 605 C",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 213,
+   "b": 85,
+   "literal name": "Pantone 610 C",
+   "comment": ""
+ },
+ {
+   "r": 225,
+   "g": 224,
+   "b": 0,
+   "literal name": "Pantone 396 C",
+   "comment": ""
+ },
+ {
+   "r": 226,
+   "g": 69,
+   "b": 133,
+   "literal name": "Pantone 7424 C",
+   "comment": ""
+ },
+ {
+   "r": 226,
+   "g": 119,
+   "b": 205,
+   "literal name": "Pantone 2375 C",
+   "comment": ""
+ },
+ {
+   "r": 226,
+   "g": 172,
+   "b": 215,
+   "literal name": "Pantone 515 C",
+   "comment": ""
+ },
+ {
+   "r": 226,
+   "g": 188,
+   "b": 203,
+   "literal name": "Pantone 7429 C",
+   "comment": ""
+ },
+ {
+   "r": 226,
+   "g": 232,
+   "b": 104,
+   "literal name": "Pantone 379 C",
+   "comment": ""
+ },
+ {
+   "r": 227,
+   "g": 28,
+   "b": 121,
+   "literal name": "Pantone 213 C",
+   "comment": ""
+ },
+ {
+   "r": 227,
+   "g": 82,
+   "b": 5,
+   "literal name": "Pantone 166 C",
+   "comment": ""
+ },
+ {
+   "r": 227,
+   "g": 200,
+   "b": 216,
+   "literal name": "Pantone 678 C",
+   "comment": ""
+ },
+ {
+   "r": 227,
+   "g": 228,
+   "b": 141,
+   "literal name": "Pantone 587 C",
+   "comment": ""
+ },
+ {
+   "r": 227,
+   "g": 233,
+   "b": 53,
+   "literal name": "Pantone 387 C",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 0,
+   "b": 43,
+   "literal name": "Pantone 185 C",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 0,
+   "b": 70,
+   "literal name": "Pantone 192 C",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 93,
+   "b": 191,
+   "literal name": "Pantone 238 C",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 169,
+   "b": 187,
+   "literal name": "Pantone 508 C",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 190,
+   "b": 195,
+   "literal name": "Pantone 692 C",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 198,
+   "b": 212,
+   "literal name": "Pantone 684 C",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 213,
+   "b": 211,
+   "literal name": "Pantone 7604 C",
+   "comment": ""
+ },
+ {
+   "r": 228,
+   "g": 215,
+   "b": 126,
+   "literal name": "Pantone 460 C",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 106,
+   "b": 84,
+   "literal name": "Pantone 7416 C",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 109,
+   "b": 177,
+   "literal name": "Pantone 218 C",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 114,
+   "b": 0,
+   "literal name": "Pantone 152 C",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 155,
+   "b": 220,
+   "literal name": "Pantone 244 C",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 158,
+   "b": 109,
+   "literal name": "Pantone 472 C",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 186,
+   "b": 193,
+   "literal name": "Pantone 502 C",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 206,
+   "b": 219,
+   "literal name": "Pantone 677 C",
+   "comment": ""
+ },
+ {
+   "r": 229,
+   "g": 225,
+   "b": 230,
+   "literal name": "Pantone 663 C",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 134,
+   "b": 153,
+   "literal name": "Pantone 701 C",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 166,
+   "b": 93,
+   "literal name": "Pantone 7411 C",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 186,
+   "b": 168,
+   "literal name": "Pantone 7415 C",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 188,
+   "b": 216,
+   "literal name": "Pantone 671 C",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 190,
+   "b": 221,
+   "literal name": "Pantone 516 C",
+   "comment": ""
+ },
+ {
+   "r": 230,
+   "g": 222,
+   "b": 119,
+   "literal name": "Pantone 609 C",
+   "comment": ""
+ },
+ {
+   "r": 231,
+   "g": 130,
+   "b": 169,
+   "literal name": "Pantone 204 C",
+   "comment": ""
+ },
+ {
+   "r": 231,
+   "g": 183,
+   "b": 138,
+   "literal name": "Pantone 720 C",
+   "comment": ""
+ },
+ {
+   "r": 231,
+   "g": 186,
+   "b": 228,
+   "literal name": "Pantone 250 C",
+   "comment": ""
+ },
+ {
+   "r": 232,
+   "g": 119,
+   "b": 34,
+   "literal name": "Pantone 158 C",
+   "comment": ""
+ },
+ {
+   "r": 232,
+   "g": 146,
+   "b": 124,
+   "literal name": "Pantone 486 C",
+   "comment": ""
+ },
+ {
+   "r": 232,
+   "g": 156,
+   "b": 174,
+   "literal name": "Pantone 197 C",
+   "comment": ""
+ },
+ {
+   "r": 232,
+   "g": 179,
+   "b": 195,
+   "literal name": "Pantone 509 C",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 60,
+   "b": 172,
+   "literal name": "Pantone 232 C",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 162,
+   "b": 178,
+   "literal name": "Pantone 494 C",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 196,
+   "b": 199,
+   "literal name": "Pantone 503 C",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 205,
+   "b": 208,
+   "literal name": "Pantone 691 C",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 223,
+   "b": 151,
+   "literal name": "Pantone 461 C",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 225,
+   "b": 134,
+   "literal name": "Pantone 608 C",
+   "comment": ""
+ },
+ {
+   "r": 233,
+   "g": 236,
+   "b": 107,
+   "literal name": "Pantone 386 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 39,
+   "b": 194,
+   "literal name": "Pantone 807 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 118,
+   "b": 0,
+   "literal name": "Pantone 716 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 167,
+   "b": 148,
+   "literal name": "Pantone 487 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 170,
+   "b": 0,
+   "literal name": "Pantone 124 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 184,
+   "b": 228,
+   "literal name": "Pantone 243 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 190,
+   "b": 176,
+   "literal name": "Pantone 7520 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 190,
+   "b": 219,
+   "literal name": "Pantone 217 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 211,
+   "b": 226,
+   "literal name": "Pantone 670 C",
+   "comment": ""
+ },
+ {
+   "r": 234,
+   "g": 218,
+   "b": 36,
+   "literal name": "Pantone 604 C",
+   "comment": ""
+ },
+ {
+   "r": 235,
+   "g": 111,
+   "b": 189,
+   "literal name": "Pantone 224 C",
+   "comment": ""
+ },
+ {
+   "r": 235,
+   "g": 190,
+   "b": 203,
+   "literal name": "Pantone 510 C",
+   "comment": ""
+ },
+ {
+   "r": 235,
+   "g": 198,
+   "b": 223,
+   "literal name": "Pantone 517 C",
+   "comment": ""
+ },
+ {
+   "r": 235,
+   "g": 228,
+   "b": 154,
+   "literal name": "Pantone 607 C",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 134,
+   "b": 208,
+   "literal name": "Pantone 237 C",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 161,
+   "b": 84,
+   "literal name": "Pantone 157 C",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 179,
+   "b": 203,
+   "literal name": "Pantone 203 C",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 186,
+   "b": 168,
+   "literal name": "Pantone 488 C",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 195,
+   "b": 178,
+   "literal name": "Pantone 489 C",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 199,
+   "b": 205,
+   "literal name": "Pantone 196 C",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 216,
+   "b": 152,
+   "literal name": "Pantone 7402 C",
+   "comment": ""
+ },
+ {
+   "r": 236,
+   "g": 232,
+   "b": 26,
+   "literal name": "Pantone 395 C",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 139,
+   "b": 0,
+   "literal name": "Pantone 144 C",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 200,
+   "b": 163,
+   "literal name": "Pantone 719 C",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 224,
+   "b": 75,
+   "literal name": "Pantone 603 C",
+   "comment": ""
+ },
+ {
+   "r": 237,
+   "g": 233,
+   "b": 57,
+   "literal name": "Pantone 394 C",
+   "comment": ""
+ },
+ {
+   "r": 238,
+   "g": 39,
+   "b": 55,
+   "literal name": "Pantone 1788 C",
+   "comment": ""
+ },
+ {
+   "r": 238,
+   "g": 212,
+   "b": 132,
+   "literal name": "Pantone 7403 C",
+   "comment": ""
+ },
+ {
+   "r": 238,
+   "g": 218,
+   "b": 234,
+   "literal name": "Pantone 7436 C",
+   "comment": ""
+ },
+ {
+   "r": 238,
+   "g": 220,
+   "b": 0,
+   "literal name": "Pantone 3965 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 51,
+   "b": 64,
+   "literal name": "Pantone Red 032 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 66,
+   "b": 111,
+   "literal name": "Pantone 191 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 74,
+   "b": 129,
+   "literal name": "Pantone 1915 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 96,
+   "b": 121,
+   "literal name": "Pantone 709 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 149,
+   "b": 207,
+   "literal name": "Pantone 223 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 186,
+   "b": 225,
+   "literal name": "Pantone 2365 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 190,
+   "b": 125,
+   "literal name": "Pantone 156 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 209,
+   "b": 159,
+   "literal name": "Pantone 155 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 219,
+   "b": 178,
+   "literal name": "Pantone 7506 C",
+   "comment": ""
+ },
+ {
+   "r": 239,
+   "g": 223,
+   "b": 0,
+   "literal name": "Pantone 3955 C",
+   "comment": ""
+ },
+ {
+   "r": 240,
+   "g": 78,
+   "b": 152,
+   "literal name": "Pantone 212 C",
+   "comment": ""
+ },
+ {
+   "r": 240,
+   "g": 179,
+   "b": 35,
+   "literal name": "Pantone 7409 C",
+   "comment": ""
+ },
+ {
+   "r": 240,
+   "g": 191,
+   "b": 155,
+   "literal name": "Pantone 473 C",
+   "comment": ""
+ },
+ {
+   "r": 240,
+   "g": 232,
+   "b": 123,
+   "literal name": "Pantone 602 C",
+   "comment": ""
+ },
+ {
+   "r": 240,
+   "g": 233,
+   "b": 145,
+   "literal name": "Pantone 601 C",
+   "comment": ""
+ },
+ {
+   "r": 240,
+   "g": 236,
+   "b": 116,
+   "literal name": "Pantone 393 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 167,
+   "b": 220,
+   "literal name": "Pantone 236 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 178,
+   "b": 220,
+   "literal name": "Pantone Magenta 0521 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 180,
+   "b": 52,
+   "literal name": "Pantone 143 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 189,
+   "b": 200,
+   "literal name": "Pantone 495 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 190,
+   "b": 72,
+   "literal name": "Pantone 142 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 196,
+   "b": 0,
+   "literal name": "Pantone 7406 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 198,
+   "b": 167,
+   "literal name": "Pantone 474 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 230,
+   "b": 178,
+   "literal name": "Pantone 7499 C",
+   "comment": ""
+ },
+ {
+   "r": 241,
+   "g": 235,
+   "b": 156,
+   "literal name": "Pantone 600 C",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 119,
+   "b": 198,
+   "literal name": "Pantone 231 C",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 169,
+   "b": 0,
+   "literal name": "Pantone 130 C",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 172,
+   "b": 185,
+   "literal name": "Pantone 700 C",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 198,
+   "b": 207,
+   "literal name": "Pantone 496 C",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 199,
+   "b": 92,
+   "literal name": "Pantone 141 C",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 205,
+   "b": 0,
+   "literal name": "Pantone 7405 C",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 212,
+   "b": 215,
+   "literal name": "Pantone 698 C",
+   "comment": ""
+ },
+ {
+   "r": 242,
+   "g": 240,
+   "b": 161,
+   "literal name": "Pantone Yellow 0131 C",
+   "comment": ""
+ },
+ {
+   "r": 243,
+   "g": 207,
+   "b": 179,
+   "literal name": "Pantone 475 C",
+   "comment": ""
+ },
+ {
+   "r": 243,
+   "g": 208,
+   "b": 62,
+   "literal name": "Pantone 129 C",
+   "comment": ""
+ },
+ {
+   "r": 243,
+   "g": 213,
+   "b": 78,
+   "literal name": "Pantone 128 C",
+   "comment": ""
+ },
+ {
+   "r": 243,
+   "g": 221,
+   "b": 109,
+   "literal name": "Pantone 127 C",
+   "comment": ""
+ },
+ {
+   "r": 243,
+   "g": 229,
+   "b": 0,
+   "literal name": "Pantone 3945 C",
+   "comment": ""
+ },
+ {
+   "r": 243,
+   "g": 234,
+   "b": 93,
+   "literal name": "Pantone 3935 C",
+   "comment": ""
+ },
+ {
+   "r": 244,
+   "g": 54,
+   "b": 76,
+   "literal name": "Pantone 1787 C",
+   "comment": ""
+ },
+ {
+   "r": 244,
+   "g": 166,
+   "b": 215,
+   "literal name": "Pantone 230 C",
+   "comment": ""
+ },
+ {
+   "r": 244,
+   "g": 195,
+   "b": 204,
+   "literal name": "Pantone 699 C",
+   "comment": ""
+ },
+ {
+   "r": 244,
+   "g": 205,
+   "b": 212,
+   "literal name": "Pantone 7422 C",
+   "comment": ""
+ },
+ {
+   "r": 244,
+   "g": 218,
+   "b": 64,
+   "literal name": "Pantone 7404 C",
+   "comment": ""
+ },
+ {
+   "r": 245,
+   "g": 126,
+   "b": 182,
+   "literal name": "Pantone 211 C",
+   "comment": ""
+ },
+ {
+   "r": 245,
+   "g": 155,
+   "b": 187,
+   "literal name": "Pantone 1905 C",
+   "comment": ""
+ },
+ {
+   "r": 245,
+   "g": 182,
+   "b": 205,
+   "literal name": "Pantone 1895 C",
+   "comment": ""
+ },
+ {
+   "r": 245,
+   "g": 218,
+   "b": 223,
+   "literal name": "Pantone 705 C",
+   "comment": ""
+ },
+ {
+   "r": 245,
+   "g": 225,
+   "b": 164,
+   "literal name": "Pantone 7401 C",
+   "comment": ""
+ },
+ {
+   "r": 246,
+   "g": 82,
+   "b": 117,
+   "literal name": "Pantone 184 C",
+   "comment": ""
+ },
+ {
+   "r": 246,
+   "g": 117,
+   "b": 153,
+   "literal name": "Pantone 190 C",
+   "comment": ""
+ },
+ {
+   "r": 246,
+   "g": 141,
+   "b": 46,
+   "literal name": "Pantone 715 C",
+   "comment": ""
+ },
+ {
+   "r": 246,
+   "g": 190,
+   "b": 0,
+   "literal name": "Pantone 7408 C",
+   "comment": ""
+ },
+ {
+   "r": 246,
+   "g": 235,
+   "b": 97,
+   "literal name": "Pantone 100 C",
+   "comment": ""
+ },
+ {
+   "r": 247,
+   "g": 206,
+   "b": 215,
+   "literal name": "Pantone 706 C",
+   "comment": ""
+ },
+ {
+   "r": 247,
+   "g": 234,
+   "b": 72,
+   "literal name": "Pantone 101 C",
+   "comment": ""
+ },
+ {
+   "r": 248,
+   "g": 72,
+   "b": 94,
+   "literal name": "Pantone 1785 C",
+   "comment": ""
+ },
+ {
+   "r": 248,
+   "g": 144,
+   "b": 165,
+   "literal name": "Pantone 708 C",
+   "comment": ""
+ },
+ {
+   "r": 248,
+   "g": 163,
+   "b": 188,
+   "literal name": "Pantone 189 C",
+   "comment": ""
+ },
+ {
+   "r": 248,
+   "g": 224,
+   "b": 142,
+   "literal name": "Pantone 1205 C",
+   "comment": ""
+ },
+ {
+   "r": 249,
+   "g": 56,
+   "b": 34,
+   "literal name": "Pantone Bright Red C",
+   "comment": ""
+ },
+ {
+   "r": 249,
+   "g": 66,
+   "b": 58,
+   "literal name": "Pantone Warm Red C",
+   "comment": ""
+ },
+ {
+   "r": 249,
+   "g": 159,
+   "b": 201,
+   "literal name": "Pantone 210 C",
+   "comment": ""
+ },
+ {
+   "r": 249,
+   "g": 181,
+   "b": 196,
+   "literal name": "Pantone 707 C",
+   "comment": ""
+ },
+ {
+   "r": 249,
+   "g": 229,
+   "b": 71,
+   "literal name": "Pantone 106 C",
+   "comment": ""
+ },
+ {
+   "r": 250,
+   "g": 70,
+   "b": 22,
+   "literal name": "Pantone 172 C",
+   "comment": ""
+ },
+ {
+   "r": 250,
+   "g": 187,
+   "b": 203,
+   "literal name": "Pantone 182 C",
+   "comment": ""
+ },
+ {
+   "r": 250,
+   "g": 224,
+   "b": 83,
+   "literal name": "Pantone 113 C",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 99,
+   "b": 126,
+   "literal name": "Pantone 1777 C",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 216,
+   "b": 114,
+   "literal name": "Pantone 1215 C",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 219,
+   "b": 101,
+   "literal name": "Pantone 120 C",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 221,
+   "b": 64,
+   "literal name": "Pantone 114 C",
+   "comment": ""
+ },
+ {
+   "r": 251,
+   "g": 225,
+   "b": 34,
+   "literal name": "Pantone 107 C",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 76,
+   "b": 2,
+   "literal name": "Pantone 1655 C",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 155,
+   "b": 179,
+   "literal name": "Pantone 183 C",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 174,
+   "b": 187,
+   "literal name": "Pantone Red 0331 C",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 175,
+   "b": 192,
+   "literal name": "Pantone 1767 C",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 200,
+   "b": 155,
+   "literal name": "Pantone 712 C",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 210,
+   "b": 153,
+   "literal name": "Pantone 7507 C",
+   "comment": ""
+ },
+ {
+   "r": 252,
+   "g": 227,
+   "b": 0,
+   "literal name": "Pantone 102 C",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 170,
+   "b": 99,
+   "literal name": "Pantone 714 C",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 190,
+   "b": 135,
+   "literal name": "Pantone 713 C",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 208,
+   "b": 134,
+   "literal name": "Pantone 1345 C",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 210,
+   "b": 110,
+   "literal name": "Pantone 134 C",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 215,
+   "b": 87,
+   "literal name": "Pantone 121 C",
+   "comment": ""
+ },
+ {
+   "r": 253,
+   "g": 218,
+   "b": 36,
+   "literal name": "Pantone 115 C",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 80,
+   "b": 0,
+   "literal name": "Pantone Orange 021 C",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 173,
+   "b": 119,
+   "literal name": "Pantone 7410 C",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 203,
+   "b": 139,
+   "literal name": "Pantone 148 C",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 209,
+   "b": 65,
+   "literal name": "Pantone 122 C",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 219,
+   "b": 0,
+   "literal name": "Pantone 108 C",
+   "comment": ""
+ },
+ {
+   "r": 254,
+   "g": 221,
+   "b": 0,
+   "literal name": "Pantone Yellow C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 62,
+   "b": 181,
+   "literal name": "Pantone 806 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 88,
+   "b": 93,
+   "literal name": "Pantone 178 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 92,
+   "b": 57,
+   "literal name": "Pantone 171 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 94,
+   "b": 0,
+   "literal name": "Pantone Bright Orange C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 103,
+   "b": 31,
+   "literal name": "Pantone 165 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 105,
+   "b": 0,
+   "literal name": "Pantone 1505 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 106,
+   "b": 19,
+   "literal name": "Pantone 1585 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 106,
+   "b": 57,
+   "literal name": "Pantone 1645 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 114,
+   "b": 118,
+   "literal name": "Pantone 805 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 127,
+   "b": 50,
+   "literal name": "Pantone 1575 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 127,
+   "b": 65,
+   "literal name": "Pantone 164 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 128,
+   "b": 139,
+   "literal name": "Pantone 177 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 130,
+   "b": 0,
+   "literal name": "Pantone 151 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 134,
+   "b": 116,
+   "literal name": "Pantone 170 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 141,
+   "b": 109,
+   "literal name": "Pantone 1635 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 141,
+   "b": 161,
+   "literal name": "Pantone 1775 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 143,
+   "b": 28,
+   "literal name": "Pantone 1495 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 157,
+   "b": 110,
+   "literal name": "Pantone 163 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 158,
+   "b": 27,
+   "literal name": "Pantone 1375 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 160,
+   "b": 106,
+   "literal name": "Pantone 1565 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 163,
+   "b": 0,
+   "literal name": "Pantone 137 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 163,
+   "b": 139,
+   "literal name": "Pantone 1625 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 163,
+   "b": 181,
+   "literal name": "Pantone 1765 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 170,
+   "b": 77,
+   "literal name": "Pantone 804 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 174,
+   "b": 98,
+   "literal name": "Pantone 1485 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 177,
+   "b": 187,
+   "literal name": "Pantone 176 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 178,
+   "b": 91,
+   "literal name": "Pantone 150 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 179,
+   "b": 171,
+   "literal name": "Pantone 169 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 181,
+   "b": 0,
+   "literal name": "Pantone 7549 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 181,
+   "b": 73,
+   "literal name": "Pantone 1365 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 184,
+   "b": 28,
+   "literal name": "Pantone 1235 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 185,
+   "b": 144,
+   "literal name": "Pantone 1555 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 190,
+   "b": 159,
+   "literal name": "Pantone 162 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 191,
+   "b": 63,
+   "literal name": "Pantone 136 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 194,
+   "b": 123,
+   "literal name": "Pantone 149 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 197,
+   "b": 110,
+   "literal name": "Pantone 1355 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 198,
+   "b": 0,
+   "literal name": "Pantone 7548 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 198,
+   "b": 88,
+   "literal name": "Pantone 135 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 199,
+   "b": 44,
+   "literal name": "Pantone 123 C",
+   "comment": ""
+ },
+ {
+   "r": 255,
+   "g": 200,
+   "b": 69,
+   "literal name": "Pantone 1225 C",
+   "comment": ""
+ }
+]

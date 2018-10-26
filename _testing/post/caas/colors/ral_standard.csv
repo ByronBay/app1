@@ -1,0 +1,214 @@
+literal name;r;g;b;comment
+1000 Grünbeige;190;189;127;Green beige
+1001 Beige;194;176;120;Beige
+1002 Sandgelb;198;166;100;Sand yellow
+1003 Signalgelb;229;190;001;Signal yellow
+1004 Goldgelb;205;164;052;Golden yellow
+1005 Honiggelb;169;131;007;Honey yellow
+1006 Maisgelb;228;160;016;Maize yellow
+1007 Narzissengelb;220;156;000;Daffodil yellow
+1011 Braunbeige;138;102;066;Brown beige
+1012 Zitronengelb;199;180;070;Lemon yellow
+1013 Perlweiß;234;230;202;Oyster white
+1014 Elfenbein;225;204;079;Ivory
+1015 Hellelfenbein;230;214;144;Light ivory
+1016 Schwefelgelb;237;255;033;Sulfur yellow
+1017 Safrangelb;245;208;051;Saffron yellow
+1018 Zinkgelb;248;243;053;Zinc yellow
+1019 Graubeige;158;151;100;Grey beige
+1020 Olivgelb;153;153;080;Olive yellow
+1021 Rapsgelb;243;218;011;Rape yellow
+1023 Verkehrsgelb;250;210;001;Traffic yellow
+1024 Ockergelb;174;160;075;Ochre yellow
+1026 Leuchtgelb;255;255;000;Luminous yellow
+1027 Currygelb;157;145;001;Curry
+1028 Melonengelb;244;169;000;Melon yellow
+1032 Ginstergelb;214;174;001;Broom yellow
+1033 Dahliengelb;243;165;005;Dahlia yellow
+1034 Pastellgelb;239;169;074;Pastel yellow
+1035 Perlbeige;106;093;077;Pearl beige
+1036 Perlgold;112;083;053;Pearl gold
+1037 Sonnengelb;243;159;024;Sun yellow
+2000 Gelborange;237;118;014;Yellow orange
+2001 Rotorange;201;060;032;Red orange
+2002 Blutorange;203;040;033;Vermilion
+2003 Pastellorange;255;117;020;Pastel orange
+2004 Reinorange;244;070;017;Pure orange
+2005 Leuchtorange;255;035;001;Luminous orange
+2007 Leuchthellorange;255;164;032;Luminous bright orange
+2008 Hellrotorange;247;094;037;Bright red orange
+2009 Verkehrsorange;245;064;033;Traffic orange
+2010 Signalorange;216;075;032;Signal orange
+2011 Tieforange;236;124;038;Deep orange
+2012 Lachsorange;235;106;014;Salmon range
+2013 Perlorange;195;088;049;Pearl orange
+3000 Feuerrot;175;043;030;Flame red
+3001 Signalrot;165;032;025;Signal red
+3002 Karminrot;162;035;029;Carmine red
+3003 Rubinrot;155;017;030;Ruby red
+3004 Purpurrot;117;021;030;Purple red
+3005 Weinrot;094;033;041;Wine red
+3007 Schwarzrot;065;034;039;Black red
+3009 Oxidrot;100;036;036;Oxide red
+3011 Braunrot;120;031;025;Brown red
+3012 Beigerot;193;135;107;Beige red
+3013 Tomatenrot;161;035;018;Tomato red
+3014 Altrosa;211;110;112;Antique pink
+3015 Hellrosa;234;137;154;Light pink
+3016 Korallenrot;179;040;033;Coral red
+3017 Rosa;230;050;068;Rose
+3018 Erdbeerrot;213;048;050;Strawberry red
+3020 Verkehrsrot;204;006;005;Traffic red
+3022 Lachsrot;217;080;048;Salmon pink
+3024 Leuchtrot;248;000;000;Luminous red
+3026 Leuchthellrot;254;000;000;Luminous bright red
+3027 Himbeerrot;197;029;052;Raspberry red
+3028 Reinrot;203;050;052;Pure  red
+3031 Orientrot;179;036;040;Orient red
+3032 Perlrubinrot;114;020;034;Pearl ruby red
+3033 Perlrosa;180;076;067;Pearl pink
+4001 Rotlila;222;076;138;Red lilac
+4002 Rotviolett;146;043;062;Red violet
+4003 Erikaviolett;222;076;138;Heather violet
+4004 Bordeauxviolett;110;028;052;Claret violet
+4005 Blaulila;108;070;117;Blue lilac
+4006 Verkehrspurpur;160;052;114;Traffic purple
+4007 Purpurviolett;074;025;044;Purple violet
+4008 Signalviolett;144;070;132;Signal violet
+4009 Pastellviolett;164;125;144;Pastel violet
+4010 Telemagenta;215;045;109;Telemagenta
+4011 Perlviolett;134;115;161;Pearl violet
+4012 Perlbrombeer;108;104;129;Pearl black berry
+5000 Violettblau;042;046;075;Violet blue
+5001 Grünblau;031;052;056;Green blue
+5002 Ultramarinblau;032;033;079;Ultramarine blue
+5003 Saphirblau;029;030;051;Saphire blue
+5004 Schwarzblau;032;033;079;Black blue
+5005 Signalblau;030;045;110;Signal blue
+5007 Brillantblau;062;095;138;Brillant blue
+5008 Graublau;038;037;045;Grey blue
+5009 Azurblau;002;086;105;Azure blue
+5010 Enzianblau;014;041;075;Gentian blue
+5011 Stahlblau;035;026;036;Steel blue
+5012 Lichtblau;059;131;189;Light blue
+5013 Kobaltblau;037;041;074;Cobalt blue
+5014 Taubenblau;096;111;140;Pigeon blue
+5015 Himmelblau;034;113;179;Sky blue
+5017 Verkehrsblau;006;057;113;Traffic blue
+5018 Türkisblau;063;136;143;Turquoise blue
+5019 Capriblau;027;085;131;Capri blue
+5020 Ozeanblau;029;051;074;Ocean blue
+5021 Wasserblau;037;109;123;Water blue
+5022 Nachtblau;037;040;080;Night blue
+5023 Fernblau;073;103;141;Distant blue
+5024 Pastellblau;093;155;155;Pastel blue
+5025 Perlenzian;042;100;120;Pearl gentian blue
+5026 Perlnachtblau;016;044;084;Pearl night blue
+6000 Patinagrün;049;102;080;Patina green
+6001 Smaragdgrün;040;114;051;Emerald green
+6002 Laubgrün;045;087;044;Leaf green
+6003 Olivgrün;066;070;050;Olive green
+6004 Blaugrün;031;058;061;Blue green
+6005 Moosgrün;047;069;056;Moss green
+6006 Grauoliv;062;059;050;Grey olive
+6007 Flaschengrün;052;059;041;Bottle green
+6008 Braungrün;057;053;042;Brown green
+6009 Tannengrün;049;055;043;Fir green
+6010 Grasgrün;053;104;045;Grass green
+6011 Resedagrün;088;114;070;Reseda green
+6012 Schwarzgrün;052;062;064;Black green
+6013 Schilfgrün;108;113;086;Reed green
+6014 Gelboliv;071;064;046;Yellow olive
+6015 Schwarzoliv;059;060;054;Black olive
+6016 Türkisgrün;030;089;069;Turquoise green
+6017 Maigrün;076;145;065;May green
+6018 Gelbgrün;087;166;057;Yellow green
+6019 Weißgrün;189;236;182;Pastel green
+6020 Chromoxidgrün;046;058;035;Chrome green
+6021 Blassgrün;137;172;118;Pale green
+6022 Braunoliv;037;034;027;Olive drab
+6024 Verkehrsgrün;048;132;070;Traffic green
+6025 Farngrün;061;100;045;Fern green
+6026 Opalgrün;001;093;082;Opal green
+6027 Lichtgrün;132;195;190;Light green
+6028 Kieferngrün;044;085;069;Pine green
+6029 Minzgrün;032;096;061;Mint green
+6032 Signalgrün;049;127;067;Signal green
+6033 Minttürkis;073;126;118;Mint turquoise
+6034 Pastelltürkis;127;181;181;Pastel turquoise
+6035 Perlgrün;028;084;045;Pearl green
+6036 Perlopalgrün;022;053;055;Pearl opal green
+6037 Reingrün;000;143;057;Pure green
+6038 Leuchtgrün;000;187;045;Luminous green
+7000 Fehgrau;120;133;139;Squirrel grey
+7001 Silbergrau;138;149;151;Silver grey
+7002 Olivgrau;126;123;082;Olive grey
+7003 Moosgrau;108;112;089;Moss grey
+7004 Signalgrau;150;153;146;Signal grey
+7005 Mausgrau;100;107;099;Mouse grey
+7006 Beigegrau;109;101;082;Beige grey
+7008 Khakigrau;106;095;049;Khaki grey
+7009 Grüngrau;077;086;069;Green grey
+7010 Zeltgrau;076;081;074;Tarpaulin grey
+7011 Eisengrau;067;075;077;Iron grey
+7012 Basaltgrau;078;087;084;Basalt grey
+7013 Braungrau;070;069;049;Brown grey
+7015 Schiefergrau;067;071;080;Slate grey
+7016 Anthrazitgrau;041;049;051;Anthracite grey
+7021 Schwarzgrau;035;040;043;Black grey
+7022 Umbragrau;051;047;044;Umbra grey
+7023 Betongrau;104;108;094;Concrete grey
+7024 Graphitgrau;071;074;081;Graphite grey
+7026 Granitgrau;047;053;059;Granite grey
+7030 Steingrau;139;140;122;Stone grey
+7031 Blaugrau;071;075;078;Blue grey
+7032 Kieselgrau;184;183;153;Pebble grey
+7033 Zementgrau;125;132;113;Cement grey
+7034 Gelbgrau;143;139;102;Yellow grey
+7035 Lichtgrau;215;215;215;Light grey
+7036 Platingrau;127;118;121;Platinum grey
+7037 Staubgrau;125;127;120;Dusty grey
+7038 Achatgrau;195;195;195;Agate grey
+7039 Quarzgrau;108;105;096;Quartz grey
+7040 Fenstergrau;157;161;170;Window grey
+7042 Verkehrsgrau A;141;148;141;Traffic grey A
+7043 Verkehrsgrau B;078;084;082;Traffic grey B
+7044 Seidengrau;202;196;176;Silk grey
+7045 Telegrau 1;144;144;144;Telegrey 1
+7046 Telegrau 2;130;137;143;Telegrey 2
+7047 Telegrau 4;208;208;208;Telegrey 4
+7048 Perlmausgrau;137;129;118;Pearl mouse grey
+8000 Grünbraun;130;108;052;Green brown
+8001 Ockerbraun;149;095;032;Ochre brown
+8002 Signalbraun;108;059;042;Signal brown
+8003 Lehmbraun;115;066;034;Clay brown
+8004 Kupferbraun;142;064;042;Copper brown
+8007 Rehbraun;089;053;031;Fawn brown
+8008 Olivbraun;111;079;040;Olive brown
+8011 Nussbraun;091;058;041;Nut brown
+8012 Rotbraun;089;035;033;Red brown
+8014 Sepiabraun;056;044;030;Sepia brown
+8015 Kastanienbraun;099;058;052;Chestnut brown
+8016 Mahagonibraun;076;047;039;Mahogany brown
+8017 Schokoladen-braun;069;050;046;Chocolate brown
+8019 Graubraun;064;058;058;Grey brown
+8022 Schwarzbraun;033;033;033;Black brown
+8023 Orangebraun;166;094;046;Orange brown
+8024 Beigebraun;121;085;061;Beige brown
+8025 Blassbraun;117;092;072;Pale brown
+8028 Terrabraun;078;059;049;Terra brown
+8029 Perlkupfer;118;060;040;Pearl copper
+9001 Cremeweiß;250;244;227;Cream
+9002 Grauweiß;231;235;218;Grey white
+9003 Signalweiß;244;244;244;Signal white
+9004 Signalschwarz;040;040;040;Signal black
+9005 Tiefschwarz;010;010;013;Jet black
+9006 Weißaluminium;165;165;165;White aluminium
+9007 Graualuminium;143;143;143;Grey aluminium
+9010 Reinweiß;255;255;255;Pure white
+9011 Graphitschwarz;028;028;028;Graphite black
+9016 Verkehrsweiß;246;246;246;Traffic white
+9017 Verkehrs-schwarz;030;030;030;Traffic black
+9018 Papyrusweiß;215;215;215;Papyrus white
+9022 Perlhellgrau;156;156;156;Pearl light grey
+9023 Perldunkelgrau;130;130;130;Pearl dark grey
