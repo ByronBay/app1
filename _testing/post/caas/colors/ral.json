@@ -1,0 +1,1493 @@
+[
+ {
+   "literal name": "1000 Grünbeige",
+   "r": 190,
+   "g": 189,
+   "b": 127,
+   "comment": "Green beige"
+ },
+ {
+   "literal name": "1001 Beige",
+   "r": 194,
+   "g": 176,
+   "b": 120,
+   "comment": "Beige"
+ },
+ {
+   "literal name": "1002 Sandgelb",
+   "r": 198,
+   "g": 166,
+   "b": 100,
+   "comment": "Sand yellow"
+ },
+ {
+   "literal name": "1003 Signalgelb",
+   "r": 229,
+   "g": 190,
+   "b": 1,
+   "comment": "Signal yellow"
+ },
+ {
+   "literal name": "1004 Goldgelb",
+   "r": 205,
+   "g": 164,
+   "b": 52,
+   "comment": "Golden yellow"
+ },
+ {
+   "literal name": "1005 Honiggelb",
+   "r": 169,
+   "g": 131,
+   "b": 7,
+   "comment": "Honey yellow"
+ },
+ {
+   "literal name": "1006 Maisgelb",
+   "r": 228,
+   "g": 160,
+   "b": 16,
+   "comment": "Maize yellow"
+ },
+ {
+   "literal name": "1007 Narzissengelb",
+   "r": 220,
+   "g": 156,
+   "b": 0,
+   "comment": "Daffodil yellow"
+ },
+ {
+   "literal name": "1011 Braunbeige",
+   "r": 138,
+   "g": 102,
+   "b": 66,
+   "comment": "Brown beige"
+ },
+ {
+   "literal name": "1012 Zitronengelb",
+   "r": 199,
+   "g": 180,
+   "b": 70,
+   "comment": "Lemon yellow"
+ },
+ {
+   "literal name": "1013 Perlweiß",
+   "r": 234,
+   "g": 230,
+   "b": 202,
+   "comment": "Oyster white"
+ },
+ {
+   "literal name": "1014 Elfenbein",
+   "r": 225,
+   "g": 204,
+   "b": 79,
+   "comment": "Ivory"
+ },
+ {
+   "literal name": "1015 Hellelfenbein",
+   "r": 230,
+   "g": 214,
+   "b": 144,
+   "comment": "Light ivory"
+ },
+ {
+   "literal name": "1016 Schwefelgelb",
+   "r": 237,
+   "g": 255,
+   "b": 33,
+   "comment": "Sulfur yellow"
+ },
+ {
+   "literal name": "1017 Safrangelb",
+   "r": 245,
+   "g": 208,
+   "b": 51,
+   "comment": "Saffron yellow"
+ },
+ {
+   "literal name": "1018 Zinkgelb",
+   "r": 248,
+   "g": 243,
+   "b": 53,
+   "comment": "Zinc yellow"
+ },
+ {
+   "literal name": "1019 Graubeige",
+   "r": 158,
+   "g": 151,
+   "b": 100,
+   "comment": "Grey beige"
+ },
+ {
+   "literal name": "1020 Olivgelb",
+   "r": 153,
+   "g": 153,
+   "b": 80,
+   "comment": "Olive yellow"
+ },
+ {
+   "literal name": "1021 Rapsgelb",
+   "r": 243,
+   "g": 218,
+   "b": 11,
+   "comment": "Rape yellow"
+ },
+ {
+   "literal name": "1023 Verkehrsgelb",
+   "r": 250,
+   "g": 210,
+   "b": 1,
+   "comment": "Traffic yellow"
+ },
+ {
+   "literal name": "1024 Ockergelb",
+   "r": 174,
+   "g": 160,
+   "b": 75,
+   "comment": "Ochre yellow"
+ },
+ {
+   "literal name": "1026 Leuchtgelb",
+   "r": 255,
+   "g": 255,
+   "b": 0,
+   "comment": "Luminous yellow"
+ },
+ {
+   "literal name": "1027 Currygelb",
+   "r": 157,
+   "g": 145,
+   "b": 1,
+   "comment": "Curry"
+ },
+ {
+   "literal name": "1028 Melonengelb",
+   "r": 244,
+   "g": 169,
+   "b": 0,
+   "comment": "Melon yellow"
+ },
+ {
+   "literal name": "1032 Ginstergelb",
+   "r": 214,
+   "g": 174,
+   "b": 1,
+   "comment": "Broom yellow"
+ },
+ {
+   "literal name": "1033 Dahliengelb",
+   "r": 243,
+   "g": 165,
+   "b": 5,
+   "comment": "Dahlia yellow"
+ },
+ {
+   "literal name": "1034 Pastellgelb",
+   "r": 239,
+   "g": 169,
+   "b": 74,
+   "comment": "Pastel yellow"
+ },
+ {
+   "literal name": "1035 Perlbeige",
+   "r": 106,
+   "g": 93,
+   "b": 77,
+   "comment": "Pearl beige"
+ },
+ {
+   "literal name": "1036 Perlgold",
+   "r": 112,
+   "g": 83,
+   "b": 53,
+   "comment": "Pearl gold"
+ },
+ {
+   "literal name": "1037 Sonnengelb",
+   "r": 243,
+   "g": 159,
+   "b": 24,
+   "comment": "Sun yellow"
+ },
+ {
+   "literal name": "2000 Gelborange",
+   "r": 237,
+   "g": 118,
+   "b": 14,
+   "comment": "Yellow orange"
+ },
+ {
+   "literal name": "2001 Rotorange",
+   "r": 201,
+   "g": 60,
+   "b": 32,
+   "comment": "Red orange"
+ },
+ {
+   "literal name": "2002 Blutorange",
+   "r": 203,
+   "g": 40,
+   "b": 33,
+   "comment": "Vermilion"
+ },
+ {
+   "literal name": "2003 Pastellorange",
+   "r": 255,
+   "g": 117,
+   "b": 20,
+   "comment": "Pastel orange"
+ },
+ {
+   "literal name": "2004 Reinorange",
+   "r": 244,
+   "g": 70,
+   "b": 17,
+   "comment": "Pure orange"
+ },
+ {
+   "literal name": "2005 Leuchtorange",
+   "r": 255,
+   "g": 35,
+   "b": 1,
+   "comment": "Luminous orange"
+ },
+ {
+   "literal name": "2007 Leuchthellorange",
+   "r": 255,
+   "g": 164,
+   "b": 32,
+   "comment": "Luminous bright orange"
+ },
+ {
+   "literal name": "2008 Hellrotorange",
+   "r": 247,
+   "g": 94,
+   "b": 37,
+   "comment": "Bright red orange"
+ },
+ {
+   "literal name": "2009 Verkehrsorange",
+   "r": 245,
+   "g": 64,
+   "b": 33,
+   "comment": "Traffic orange"
+ },
+ {
+   "literal name": "2010 Signalorange",
+   "r": 216,
+   "g": 75,
+   "b": 32,
+   "comment": "Signal orange"
+ },
+ {
+   "literal name": "2011 Tieforange",
+   "r": 236,
+   "g": 124,
+   "b": 38,
+   "comment": "Deep orange"
+ },
+ {
+   "literal name": "2012 Lachsorange",
+   "r": 235,
+   "g": 106,
+   "b": 14,
+   "comment": "Salmon range"
+ },
+ {
+   "literal name": "2013 Perlorange",
+   "r": 195,
+   "g": 88,
+   "b": 49,
+   "comment": "Pearl orange"
+ },
+ {
+   "literal name": "3000 Feuerrot",
+   "r": 175,
+   "g": 43,
+   "b": 30,
+   "comment": "Flame red"
+ },
+ {
+   "literal name": "3001 Signalrot",
+   "r": 165,
+   "g": 32,
+   "b": 25,
+   "comment": "Signal red"
+ },
+ {
+   "literal name": "3002 Karminrot",
+   "r": 162,
+   "g": 35,
+   "b": 29,
+   "comment": "Carmine red"
+ },
+ {
+   "literal name": "3003 Rubinrot",
+   "r": 155,
+   "g": 17,
+   "b": 30,
+   "comment": "Ruby red"
+ },
+ {
+   "literal name": "3004 Purpurrot",
+   "r": 117,
+   "g": 21,
+   "b": 30,
+   "comment": "Purple red"
+ },
+ {
+   "literal name": "3005 Weinrot",
+   "r": 94,
+   "g": 33,
+   "b": 41,
+   "comment": "Wine red"
+ },
+ {
+   "literal name": "3007 Schwarzrot",
+   "r": 65,
+   "g": 34,
+   "b": 39,
+   "comment": "Black red"
+ },
+ {
+   "literal name": "3009 Oxidrot",
+   "r": 100,
+   "g": 36,
+   "b": 36,
+   "comment": "Oxide red"
+ },
+ {
+   "literal name": "3011 Braunrot",
+   "r": 120,
+   "g": 31,
+   "b": 25,
+   "comment": "Brown red"
+ },
+ {
+   "literal name": "3012 Beigerot",
+   "r": 193,
+   "g": 135,
+   "b": 107,
+   "comment": "Beige red"
+ },
+ {
+   "literal name": "3013 Tomatenrot",
+   "r": 161,
+   "g": 35,
+   "b": 18,
+   "comment": "Tomato red"
+ },
+ {
+   "literal name": "3014 Altrosa",
+   "r": 211,
+   "g": 110,
+   "b": 112,
+   "comment": "Antique pink"
+ },
+ {
+   "literal name": "3015 Hellrosa",
+   "r": 234,
+   "g": 137,
+   "b": 154,
+   "comment": "Light pink"
+ },
+ {
+   "literal name": "3016 Korallenrot",
+   "r": 179,
+   "g": 40,
+   "b": 33,
+   "comment": "Coral red"
+ },
+ {
+   "literal name": "3017 Rosa",
+   "r": 230,
+   "g": 50,
+   "b": 68,
+   "comment": "Rose"
+ },
+ {
+   "literal name": "3018 Erdbeerrot",
+   "r": 213,
+   "g": 48,
+   "b": 50,
+   "comment": "Strawberry red"
+ },
+ {
+   "literal name": "3020 Verkehrsrot",
+   "r": 204,
+   "g": 6,
+   "b": 5,
+   "comment": "Traffic red"
+ },
+ {
+   "literal name": "3022 Lachsrot",
+   "r": 217,
+   "g": 80,
+   "b": 48,
+   "comment": "Salmon pink"
+ },
+ {
+   "literal name": "3024 Leuchtrot",
+   "r": 248,
+   "g": 0,
+   "b": 0,
+   "comment": "Luminous red"
+ },
+ {
+   "literal name": "3026 Leuchthellrot",
+   "r": 254,
+   "g": 0,
+   "b": 0,
+   "comment": "Luminous bright red"
+ },
+ {
+   "literal name": "3027 Himbeerrot",
+   "r": 197,
+   "g": 29,
+   "b": 52,
+   "comment": "Raspberry red"
+ },
+ {
+   "literal name": "3028 Reinrot",
+   "r": 203,
+   "g": 50,
+   "b": 52,
+   "comment": "Pure  red"
+ },
+ {
+   "literal name": "3031 Orientrot",
+   "r": 179,
+   "g": 36,
+   "b": 40,
+   "comment": "Orient red"
+ },
+ {
+   "literal name": "3032 Perlrubinrot",
+   "r": 114,
+   "g": 20,
+   "b": 34,
+   "comment": "Pearl ruby red"
+ },
+ {
+   "literal name": "3033 Perlrosa",
+   "r": 180,
+   "g": 76,
+   "b": 67,
+   "comment": "Pearl pink"
+ },
+ {
+   "literal name": "4001 Rotlila",
+   "r": 222,
+   "g": 76,
+   "b": 138,
+   "comment": "Red lilac"
+ },
+ {
+   "literal name": "4002 Rotviolett",
+   "r": 146,
+   "g": 43,
+   "b": 62,
+   "comment": "Red violet"
+ },
+ {
+   "literal name": "4003 Erikaviolett",
+   "r": 222,
+   "g": 76,
+   "b": 138,
+   "comment": "Heather violet"
+ },
+ {
+   "literal name": "4004 Bordeauxviolett",
+   "r": 110,
+   "g": 28,
+   "b": 52,
+   "comment": "Claret violet"
+ },
+ {
+   "literal name": "4005 Blaulila",
+   "r": 108,
+   "g": 70,
+   "b": 117,
+   "comment": "Blue lilac"
+ },
+ {
+   "literal name": "4006 Verkehrspurpur",
+   "r": 160,
+   "g": 52,
+   "b": 114,
+   "comment": "Traffic purple"
+ },
+ {
+   "literal name": "4007 Purpurviolett",
+   "r": 74,
+   "g": 25,
+   "b": 44,
+   "comment": "Purple violet"
+ },
+ {
+   "literal name": "4008 Signalviolett",
+   "r": 144,
+   "g": 70,
+   "b": 132,
+   "comment": "Signal violet"
+ },
+ {
+   "literal name": "4009 Pastellviolett",
+   "r": 164,
+   "g": 125,
+   "b": 144,
+   "comment": "Pastel violet"
+ },
+ {
+   "literal name": "4010 Telemagenta",
+   "r": 215,
+   "g": 45,
+   "b": 109,
+   "comment": "Telemagenta"
+ },
+ {
+   "literal name": "4011 Perlviolett",
+   "r": 134,
+   "g": 115,
+   "b": 161,
+   "comment": "Pearl violet"
+ },
+ {
+   "literal name": "4012 Perlbrombeer",
+   "r": 108,
+   "g": 104,
+   "b": 129,
+   "comment": "Pearl black berry"
+ },
+ {
+   "literal name": "5000 Violettblau",
+   "r": 42,
+   "g": 46,
+   "b": 75,
+   "comment": "Violet blue"
+ },
+ {
+   "literal name": "5001 Grünblau",
+   "r": 31,
+   "g": 52,
+   "b": 56,
+   "comment": "Green blue"
+ },
+ {
+   "literal name": "5002 Ultramarinblau",
+   "r": 32,
+   "g": 33,
+   "b": 79,
+   "comment": "Ultramarine blue"
+ },
+ {
+   "literal name": "5003 Saphirblau",
+   "r": 29,
+   "g": 30,
+   "b": 51,
+   "comment": "Saphire blue"
+ },
+ {
+   "literal name": "5004 Schwarzblau",
+   "r": 32,
+   "g": 33,
+   "b": 79,
+   "comment": "Black blue"
+ },
+ {
+   "literal name": "5005 Signalblau",
+   "r": 30,
+   "g": 45,
+   "b": 110,
+   "comment": "Signal blue"
+ },
+ {
+   "literal name": "5007 Brillantblau",
+   "r": 62,
+   "g": 95,
+   "b": 138,
+   "comment": "Brillant blue"
+ },
+ {
+   "literal name": "5008 Graublau",
+   "r": 38,
+   "g": 37,
+   "b": 45,
+   "comment": "Grey blue"
+ },
+ {
+   "literal name": "5009 Azurblau",
+   "r": 2,
+   "g": 86,
+   "b": 105,
+   "comment": "Azure blue"
+ },
+ {
+   "literal name": "5010 Enzianblau",
+   "r": 14,
+   "g": 41,
+   "b": 75,
+   "comment": "Gentian blue"
+ },
+ {
+   "literal name": "5011 Stahlblau",
+   "r": 35,
+   "g": 26,
+   "b": 36,
+   "comment": "Steel blue"
+ },
+ {
+   "literal name": "5012 Lichtblau",
+   "r": 59,
+   "g": 131,
+   "b": 189,
+   "comment": "Light blue"
+ },
+ {
+   "literal name": "5013 Kobaltblau",
+   "r": 37,
+   "g": 41,
+   "b": 74,
+   "comment": "Cobalt blue"
+ },
+ {
+   "literal name": "5014 Taubenblau",
+   "r": 96,
+   "g": 111,
+   "b": 140,
+   "comment": "Pigeon blue"
+ },
+ {
+   "literal name": "5015 Himmelblau",
+   "r": 34,
+   "g": 113,
+   "b": 179,
+   "comment": "Sky blue"
+ },
+ {
+   "literal name": "5017 Verkehrsblau",
+   "r": 6,
+   "g": 57,
+   "b": 113,
+   "comment": "Traffic blue"
+ },
+ {
+   "literal name": "5018 Türkisblau",
+   "r": 63,
+   "g": 136,
+   "b": 143,
+   "comment": "Turquoise blue"
+ },
+ {
+   "literal name": "5019 Capriblau",
+   "r": 27,
+   "g": 85,
+   "b": 131,
+   "comment": "Capri blue"
+ },
+ {
+   "literal name": "5020 Ozeanblau",
+   "r": 29,
+   "g": 51,
+   "b": 74,
+   "comment": "Ocean blue"
+ },
+ {
+   "literal name": "5021 Wasserblau",
+   "r": 37,
+   "g": 109,
+   "b": 123,
+   "comment": "Water blue"
+ },
+ {
+   "literal name": "5022 Nachtblau",
+   "r": 37,
+   "g": 40,
+   "b": 80,
+   "comment": "Night blue"
+ },
+ {
+   "literal name": "5023 Fernblau",
+   "r": 73,
+   "g": 103,
+   "b": 141,
+   "comment": "Distant blue"
+ },
+ {
+   "literal name": "5024 Pastellblau",
+   "r": 93,
+   "g": 155,
+   "b": 155,
+   "comment": "Pastel blue"
+ },
+ {
+   "literal name": "5025 Perlenzian",
+   "r": 42,
+   "g": 100,
+   "b": 120,
+   "comment": "Pearl gentian blue"
+ },
+ {
+   "literal name": "5026 Perlnachtblau",
+   "r": 16,
+   "g": 44,
+   "b": 84,
+   "comment": "Pearl night blue"
+ },
+ {
+   "literal name": "6000 Patinagrün",
+   "r": 49,
+   "g": 102,
+   "b": 80,
+   "comment": "Patina green"
+ },
+ {
+   "literal name": "6001 Smaragdgrün",
+   "r": 40,
+   "g": 114,
+   "b": 51,
+   "comment": "Emerald green"
+ },
+ {
+   "literal name": "6002 Laubgrün",
+   "r": 45,
+   "g": 87,
+   "b": 44,
+   "comment": "Leaf green"
+ },
+ {
+   "literal name": "6003 Olivgrün",
+   "r": 66,
+   "g": 70,
+   "b": 50,
+   "comment": "Olive green"
+ },
+ {
+   "literal name": "6004 Blaugrün",
+   "r": 31,
+   "g": 58,
+   "b": 61,
+   "comment": "Blue green"
+ },
+ {
+   "literal name": "6005 Moosgrün",
+   "r": 47,
+   "g": 69,
+   "b": 56,
+   "comment": "Moss green"
+ },
+ {
+   "literal name": "6006 Grauoliv",
+   "r": 62,
+   "g": 59,
+   "b": 50,
+   "comment": "Grey olive"
+ },
+ {
+   "literal name": "6007 Flaschengrün",
+   "r": 52,
+   "g": 59,
+   "b": 41,
+   "comment": "Bottle green"
+ },
+ {
+   "literal name": "6008 Braungrün",
+   "r": 57,
+   "g": 53,
+   "b": 42,
+   "comment": "Brown green"
+ },
+ {
+   "literal name": "6009 Tannengrün",
+   "r": 49,
+   "g": 55,
+   "b": 43,
+   "comment": "Fir green"
+ },
+ {
+   "literal name": "6010 Grasgrün",
+   "r": 53,
+   "g": 104,
+   "b": 45,
+   "comment": "Grass green"
+ },
+ {
+   "literal name": "6011 Resedagrün",
+   "r": 88,
+   "g": 114,
+   "b": 70,
+   "comment": "Reseda green"
+ },
+ {
+   "literal name": "6012 Schwarzgrün",
+   "r": 52,
+   "g": 62,
+   "b": 64,
+   "comment": "Black green"
+ },
+ {
+   "literal name": "6013 Schilfgrün",
+   "r": 108,
+   "g": 113,
+   "b": 86,
+   "comment": "Reed green"
+ },
+ {
+   "literal name": "6014 Gelboliv",
+   "r": 71,
+   "g": 64,
+   "b": 46,
+   "comment": "Yellow olive"
+ },
+ {
+   "literal name": "6015 Schwarzoliv",
+   "r": 59,
+   "g": 60,
+   "b": 54,
+   "comment": "Black olive"
+ },
+ {
+   "literal name": "6016 Türkisgrün",
+   "r": 30,
+   "g": 89,
+   "b": 69,
+   "comment": "Turquoise green"
+ },
+ {
+   "literal name": "6017 Maigrün",
+   "r": 76,
+   "g": 145,
+   "b": 65,
+   "comment": "May green"
+ },
+ {
+   "literal name": "6018 Gelbgrün",
+   "r": 87,
+   "g": 166,
+   "b": 57,
+   "comment": "Yellow green"
+ },
+ {
+   "literal name": "6019 Weißgrün",
+   "r": 189,
+   "g": 236,
+   "b": 182,
+   "comment": "Pastel green"
+ },
+ {
+   "literal name": "6020 Chromoxidgrün",
+   "r": 46,
+   "g": 58,
+   "b": 35,
+   "comment": "Chrome green"
+ },
+ {
+   "literal name": "6021 Blassgrün",
+   "r": 137,
+   "g": 172,
+   "b": 118,
+   "comment": "Pale green"
+ },
+ {
+   "literal name": "6022 Braunoliv",
+   "r": 37,
+   "g": 34,
+   "b": 27,
+   "comment": "Olive drab"
+ },
+ {
+   "literal name": "6024 Verkehrsgrün",
+   "r": 48,
+   "g": 132,
+   "b": 70,
+   "comment": "Traffic green"
+ },
+ {
+   "literal name": "6025 Farngrün",
+   "r": 61,
+   "g": 100,
+   "b": 45,
+   "comment": "Fern green"
+ },
+ {
+   "literal name": "6026 Opalgrün",
+   "r": 1,
+   "g": 93,
+   "b": 82,
+   "comment": "Opal green"
+ },
+ {
+   "literal name": "6027 Lichtgrün",
+   "r": 132,
+   "g": 195,
+   "b": 190,
+   "comment": "Light green"
+ },
+ {
+   "literal name": "6028 Kieferngrün",
+   "r": 44,
+   "g": 85,
+   "b": 69,
+   "comment": "Pine green"
+ },
+ {
+   "literal name": "6029 Minzgrün",
+   "r": 32,
+   "g": 96,
+   "b": 61,
+   "comment": "Mint green"
+ },
+ {
+   "literal name": "6032 Signalgrün",
+   "r": 49,
+   "g": 127,
+   "b": 67,
+   "comment": "Signal green"
+ },
+ {
+   "literal name": "6033 Minttürkis",
+   "r": 73,
+   "g": 126,
+   "b": 118,
+   "comment": "Mint turquoise"
+ },
+ {
+   "literal name": "6034 Pastelltürkis",
+   "r": 127,
+   "g": 181,
+   "b": 181,
+   "comment": "Pastel turquoise"
+ },
+ {
+   "literal name": "6035 Perlgrün",
+   "r": 28,
+   "g": 84,
+   "b": 45,
+   "comment": "Pearl green"
+ },
+ {
+   "literal name": "6036 Perlopalgrün",
+   "r": 22,
+   "g": 53,
+   "b": 55,
+   "comment": "Pearl opal green"
+ },
+ {
+   "literal name": "6037 Reingrün",
+   "r": 0,
+   "g": 143,
+   "b": 57,
+   "comment": "Pure green"
+ },
+ {
+   "literal name": "6038 Leuchtgrün",
+   "r": 0,
+   "g": 187,
+   "b": 45,
+   "comment": "Luminous green"
+ },
+ {
+   "literal name": "7000 Fehgrau",
+   "r": 120,
+   "g": 133,
+   "b": 139,
+   "comment": "Squirrel grey"
+ },
+ {
+   "literal name": "7001 Silbergrau",
+   "r": 138,
+   "g": 149,
+   "b": 151,
+   "comment": "Silver grey"
+ },
+ {
+   "literal name": "7002 Olivgrau",
+   "r": 126,
+   "g": 123,
+   "b": 82,
+   "comment": "Olive grey"
+ },
+ {
+   "literal name": "7003 Moosgrau",
+   "r": 108,
+   "g": 112,
+   "b": 89,
+   "comment": "Moss grey"
+ },
+ {
+   "literal name": "7004 Signalgrau",
+   "r": 150,
+   "g": 153,
+   "b": 146,
+   "comment": "Signal grey"
+ },
+ {
+   "literal name": "7005 Mausgrau",
+   "r": 100,
+   "g": 107,
+   "b": 99,
+   "comment": "Mouse grey"
+ },
+ {
+   "literal name": "7006 Beigegrau",
+   "r": 109,
+   "g": 101,
+   "b": 82,
+   "comment": "Beige grey"
+ },
+ {
+   "literal name": "7008 Khakigrau",
+   "r": 106,
+   "g": 95,
+   "b": 49,
+   "comment": "Khaki grey"
+ },
+ {
+   "literal name": "7009 Grüngrau",
+   "r": 77,
+   "g": 86,
+   "b": 69,
+   "comment": "Green grey"
+ },
+ {
+   "literal name": "7010 Zeltgrau",
+   "r": 76,
+   "g": 81,
+   "b": 74,
+   "comment": "Tarpaulin grey"
+ },
+ {
+   "literal name": "7011 Eisengrau",
+   "r": 67,
+   "g": 75,
+   "b": 77,
+   "comment": "Iron grey"
+ },
+ {
+   "literal name": "7012 Basaltgrau",
+   "r": 78,
+   "g": 87,
+   "b": 84,
+   "comment": "Basalt grey"
+ },
+ {
+   "literal name": "7013 Braungrau",
+   "r": 70,
+   "g": 69,
+   "b": 49,
+   "comment": "Brown grey"
+ },
+ {
+   "literal name": "7015 Schiefergrau",
+   "r": 67,
+   "g": 71,
+   "b": 80,
+   "comment": "Slate grey"
+ },
+ {
+   "literal name": "7016 Anthrazitgrau",
+   "r": 41,
+   "g": 49,
+   "b": 51,
+   "comment": "Anthracite grey"
+ },
+ {
+   "literal name": "7021 Schwarzgrau",
+   "r": 35,
+   "g": 40,
+   "b": 43,
+   "comment": "Black grey"
+ },
+ {
+   "literal name": "7022 Umbragrau",
+   "r": 51,
+   "g": 47,
+   "b": 44,
+   "comment": "Umbra grey"
+ },
+ {
+   "literal name": "7023 Betongrau",
+   "r": 104,
+   "g": 108,
+   "b": 94,
+   "comment": "Concrete grey"
+ },
+ {
+   "literal name": "7024 Graphitgrau",
+   "r": 71,
+   "g": 74,
+   "b": 81,
+   "comment": "Graphite grey"
+ },
+ {
+   "literal name": "7026 Granitgrau",
+   "r": 47,
+   "g": 53,
+   "b": 59,
+   "comment": "Granite grey"
+ },
+ {
+   "literal name": "7030 Steingrau",
+   "r": 139,
+   "g": 140,
+   "b": 122,
+   "comment": "Stone grey"
+ },
+ {
+   "literal name": "7031 Blaugrau",
+   "r": 71,
+   "g": 75,
+   "b": 78,
+   "comment": "Blue grey"
+ },
+ {
+   "literal name": "7032 Kieselgrau",
+   "r": 184,
+   "g": 183,
+   "b": 153,
+   "comment": "Pebble grey"
+ },
+ {
+   "literal name": "7033 Zementgrau",
+   "r": 125,
+   "g": 132,
+   "b": 113,
+   "comment": "Cement grey"
+ },
+ {
+   "literal name": "7034 Gelbgrau",
+   "r": 143,
+   "g": 139,
+   "b": 102,
+   "comment": "Yellow grey"
+ },
+ {
+   "literal name": "7035 Lichtgrau",
+   "r": 215,
+   "g": 215,
+   "b": 215,
+   "comment": "Light grey"
+ },
+ {
+   "literal name": "7036 Platingrau",
+   "r": 127,
+   "g": 118,
+   "b": 121,
+   "comment": "Platinum grey"
+ },
+ {
+   "literal name": "7037 Staubgrau",
+   "r": 125,
+   "g": 127,
+   "b": 120,
+   "comment": "Dusty grey"
+ },
+ {
+   "literal name": "7038 Achatgrau",
+   "r": 195,
+   "g": 195,
+   "b": 195,
+   "comment": "Agate grey"
+ },
+ {
+   "literal name": "7039 Quarzgrau",
+   "r": 108,
+   "g": 105,
+   "b": 96,
+   "comment": "Quartz grey"
+ },
+ {
+   "literal name": "7040 Fenstergrau",
+   "r": 157,
+   "g": 161,
+   "b": 170,
+   "comment": "Window grey"
+ },
+ {
+   "literal name": "7042 Verkehrsgrau A",
+   "r": 141,
+   "g": 148,
+   "b": 141,
+   "comment": "Traffic grey A"
+ },
+ {
+   "literal name": "7043 Verkehrsgrau B",
+   "r": 78,
+   "g": 84,
+   "b": 82,
+   "comment": "Traffic grey B"
+ },
+ {
+   "literal name": "7044 Seidengrau",
+   "r": 202,
+   "g": 196,
+   "b": 176,
+   "comment": "Silk grey"
+ },
+ {
+   "literal name": "7045 Telegrau 1",
+   "r": 144,
+   "g": 144,
+   "b": 144,
+   "comment": "Telegrey 1"
+ },
+ {
+   "literal name": "7046 Telegrau 2",
+   "r": 130,
+   "g": 137,
+   "b": 143,
+   "comment": "Telegrey 2"
+ },
+ {
+   "literal name": "7047 Telegrau 4",
+   "r": 208,
+   "g": 208,
+   "b": 208,
+   "comment": "Telegrey 4"
+ },
+ {
+   "literal name": "7048 Perlmausgrau",
+   "r": 137,
+   "g": 129,
+   "b": 118,
+   "comment": "Pearl mouse grey"
+ },
+ {
+   "literal name": "8000 Grünbraun",
+   "r": 130,
+   "g": 108,
+   "b": 52,
+   "comment": "Green brown"
+ },
+ {
+   "literal name": "8001 Ockerbraun",
+   "r": 149,
+   "g": 95,
+   "b": 32,
+   "comment": "Ochre brown"
+ },
+ {
+   "literal name": "8002 Signalbraun",
+   "r": 108,
+   "g": 59,
+   "b": 42,
+   "comment": "Signal brown"
+ },
+ {
+   "literal name": "8003 Lehmbraun",
+   "r": 115,
+   "g": 66,
+   "b": 34,
+   "comment": "Clay brown"
+ },
+ {
+   "literal name": "8004 Kupferbraun",
+   "r": 142,
+   "g": 64,
+   "b": 42,
+   "comment": "Copper brown"
+ },
+ {
+   "literal name": "8007 Rehbraun",
+   "r": 89,
+   "g": 53,
+   "b": 31,
+   "comment": "Fawn brown"
+ },
+ {
+   "literal name": "8008 Olivbraun",
+   "r": 111,
+   "g": 79,
+   "b": 40,
+   "comment": "Olive brown"
+ },
+ {
+   "literal name": "8011 Nussbraun",
+   "r": 91,
+   "g": 58,
+   "b": 41,
+   "comment": "Nut brown"
+ },
+ {
+   "literal name": "8012 Rotbraun",
+   "r": 89,
+   "g": 35,
+   "b": 33,
+   "comment": "Red brown"
+ },
+ {
+   "literal name": "8014 Sepiabraun",
+   "r": 56,
+   "g": 44,
+   "b": 30,
+   "comment": "Sepia brown"
+ },
+ {
+   "literal name": "8015 Kastanienbraun",
+   "r": 99,
+   "g": 58,
+   "b": 52,
+   "comment": "Chestnut brown"
+ },
+ {
+   "literal name": "8016 Mahagonibraun",
+   "r": 76,
+   "g": 47,
+   "b": 39,
+   "comment": "Mahogany brown"
+ },
+ {
+   "literal name": "8017 Schokoladen-braun",
+   "r": 69,
+   "g": 50,
+   "b": 46,
+   "comment": "Chocolate brown"
+ },
+ {
+   "literal name": "8019 Graubraun",
+   "r": 64,
+   "g": 58,
+   "b": 58,
+   "comment": "Grey brown"
+ },
+ {
+   "literal name": "8022 Schwarzbraun",
+   "r": 33,
+   "g": 33,
+   "b": 33,
+   "comment": "Black brown"
+ },
+ {
+   "literal name": "8023 Orangebraun",
+   "r": 166,
+   "g": 94,
+   "b": 46,
+   "comment": "Orange brown"
+ },
+ {
+   "literal name": "8024 Beigebraun",
+   "r": 121,
+   "g": 85,
+   "b": 61,
+   "comment": "Beige brown"
+ },
+ {
+   "literal name": "8025 Blassbraun",
+   "r": 117,
+   "g": 92,
+   "b": 72,
+   "comment": "Pale brown"
+ },
+ {
+   "literal name": "8028 Terrabraun",
+   "r": 78,
+   "g": 59,
+   "b": 49,
+   "comment": "Terra brown"
+ },
+ {
+   "literal name": "8029 Perlkupfer",
+   "r": 118,
+   "g": 60,
+   "b": 40,
+   "comment": "Pearl copper"
+ },
+ {
+   "literal name": "9001 Cremeweiß",
+   "r": 250,
+   "g": 244,
+   "b": 227,
+   "comment": "Cream"
+ },
+ {
+   "literal name": "9002 Grauweiß",
+   "r": 231,
+   "g": 235,
+   "b": 218,
+   "comment": "Grey white"
+ },
+ {
+   "literal name": "9003 Signalweiß",
+   "r": 244,
+   "g": 244,
+   "b": 244,
+   "comment": "Signal white"
+ },
+ {
+   "literal name": "9004 Signalschwarz",
+   "r": 40,
+   "g": 40,
+   "b": 40,
+   "comment": "Signal black"
+ },
+ {
+   "literal name": "9005 Tiefschwarz",
+   "r": 10,
+   "g": 10,
+   "b": 13,
+   "comment": "Jet black"
+ },
+ {
+   "literal name": "9006 Weißaluminium",
+   "r": 165,
+   "g": 165,
+   "b": 165,
+   "comment": "White aluminium"
+ },
+ {
+   "literal name": "9007 Graualuminium",
+   "r": 143,
+   "g": 143,
+   "b": 143,
+   "comment": "Grey aluminium"
+ },
+ {
+   "literal name": "9010 Reinweiß",
+   "r": 255,
+   "g": 255,
+   "b": 255,
+   "comment": "Pure white"
+ },
+ {
+   "literal name": "9011 Graphitschwarz",
+   "r": 28,
+   "g": 28,
+   "b": 28,
+   "comment": "Graphite black"
+ },
+ {
+   "literal name": "9016 Verkehrsweiß",
+   "r": 246,
+   "g": 246,
+   "b": 246,
+   "comment": "Traffic white"
+ },
+ {
+   "literal name": "9017 Verkehrs-schwarz",
+   "r": 30,
+   "g": 30,
+   "b": 30,
+   "comment": "Traffic black"
+ },
+ {
+   "literal name": "9018 Papyrusweiß",
+   "r": 215,
+   "g": 215,
+   "b": 215,
+   "comment": "Papyrus white"
+ },
+ {
+   "literal name": "9022 Perlhellgrau",
+   "r": 156,
+   "g": 156,
+   "b": 156,
+   "comment": "Pearl light grey"
+ },
+ {
+   "literal name": "9023 Perldunkelgrau",
+   "r": 130,
+   "g": 130,
+   "b": 130,
+   "comment": "Pearl dark grey"
+ }
+]
