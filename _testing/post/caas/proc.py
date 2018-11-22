@@ -22,7 +22,10 @@ def rgb_from_image_dev(workingPath, imagePathFilename):
     return returnDict
 
 
-def process_main(path_to_current_image, path_and_filename_to_current_image):
+def process_main(
+    path_to_current_image,
+    image_meta_information,
+    path_and_filename_to_current_image):
 
     # make working dir
     timestamp = caas.lib.get_timestamp()
@@ -38,7 +41,7 @@ def process_main(path_to_current_image, path_and_filename_to_current_image):
 
     # process image
     # result_image = rgb_from_image_dev(workingPath, imagePathFilename)
-    result_image = caas.rgb_from_image_v1.run(
+    result_image = caas.rgb_from_image_v2.run(
         workingPath, path_and_filename_to_current_image)
 
     # process colors

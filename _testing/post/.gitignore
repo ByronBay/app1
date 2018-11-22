@@ -105,3 +105,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# additonal stuff not to go on the repsitory
+data

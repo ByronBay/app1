@@ -6,7 +6,7 @@ import caas
 import pathlib
 
 
-class WorkingPathsAndDirectoriesForIcoming(object):
+class WorkingFolder(object):
 
     def __init__(self):
         self.uuid = caas.lib.get_uuid()

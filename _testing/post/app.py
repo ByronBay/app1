@@ -6,6 +6,7 @@ import os
 import caas
 import caas.lib
 import caas.proc
+import caas.ImageAcquisitionInformation
 import json
 
 app = Flask(__name__)  # create the Flask app
@@ -33,7 +34,7 @@ def image_analysis_feedback():
     message_text = "😊\nThat really makes us happy.\nThank you for your feedback!"
 
     if feedbackInformation["userliking"] == "bad":
-        message_text = "😢\nWe are sorry we couldn't help this time.\nThank you for your feedback!"
+        message_text = "😢\nWe are sorry we couldn't help this time.\nThank you for your feedback and keep the love!"
 
     data = {
         'message': [
@@ -56,36 +57,56 @@ def image_analysis_request():
         # prepare working paths and directories
         print("1---")
 
-        wpadfii = caas.lib.WorkingPathsAndDirectoriesForIcoming()
+        working_folder = caas.lib.WorkingFolder()
 
-        print(wpadfii)
+        print(working_folder)
 
         # write image data
-        print("2---")
+        print("2--- data image")
 
+        print("get request-data start")
         imageData = request.get_data()
+        print("get request-data end")
 
-        with open(wpadfii.path_and_filename_to_incoming_image, 'wb') as f:
+        print("write request-data start")
+        with open(working_folder.path_and_filename_to_incoming_image, 'wb') as f:
             f.write(imageData)
+            
+        print("write request-data end")
 
-        # write meta data
-        print("3---")
+        # write request dat (urlencoded)
+        print("3--- data request")
 
         for key, value in request.args.to_dict().items():
 
-            print("** key: {} \nvalue: {}".format(key, value))
+            print("-- key: {} \nvalue: {}".format(key, value))
+
+            # write data to files
 
             pfnJson = pathlib.PurePath(
-                wpadfii.path_to_incoming_image, "{}.json".format(key))
+                working_folder.path_to_incoming_image, "{}.json".format(key))
 
             caas.lib.save_json(value, pfnJson)
 
         # processing
         print("3---")
 
+        # get additional image information
+
+        imageMetaExtractor = caas.ImageAcquisitionInformation.ImageAcquisitionInformation(working_folder.path_and_filename_to_incoming_image)
+        
+        image_meta = imageMetaExtractor.getBasicExif()
+
+        pfnJson = pathlib.PurePath(
+            working_folder.path_to_incoming_image, "{}.json".format("imageMeta"))
+
+        caas.lib.save_json(image_meta, pfnJson)
+
+        # process data
         resultData = caas.proc.process_main(
-            wpadfii.path_to_incoming_image,
-            wpadfii.path_and_filename_to_incoming_image)
+            working_folder.path_to_incoming_image,
+            image_meta,
+            working_folder.path_and_filename_to_incoming_image)
 
         # result preparation
         print("4---")
@@ -95,10 +116,10 @@ def image_analysis_request():
 
         data = {
             'meta': {
-                'uuid': wpadfii.uuid,
-                'timestamp': wpadfii.timestamp,
-                'storageImagePfn': wpadfii.path_and_filename_to_incoming_image,
-                'storageImage': wpadfii.path_to_incoming_image,
+                'uuid': working_folder.uuid,
+                'timestamp': working_folder.timestamp,
+                'storageImagePfn': working_folder.path_and_filename_to_incoming_image,
+                'storageImage': working_folder.path_to_incoming_image,
             },
             'device': 'x',
             'result': resultData,
