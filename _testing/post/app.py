@@ -6,7 +6,6 @@ import os
 import caas
 import caas.lib
 import caas.proc
-import caas.ImageAcquisitionInformation
 import json
 
 app = Flask(__name__)  # create the Flask app
@@ -79,7 +78,7 @@ def image_analysis_request():
 
         for key, value in request.args.to_dict().items():
 
-            print("-- key: {} \nvalue: {}".format(key, value))
+            print(" -- key: {} \nvalue: {}".format(key, value))
 
             # write data to files
 
@@ -91,18 +90,8 @@ def image_analysis_request():
         # processing
         print("3---")
 
-        # get additional image information
+        image_meta = 0
 
-        imageMetaExtractor = caas.ImageAcquisitionInformation.ImageAcquisitionInformation(working_folder.path_and_filename_to_incoming_image)
-        
-        image_meta = imageMetaExtractor.getBasicExif()
-
-        pfnJson = pathlib.PurePath(
-            working_folder.path_to_incoming_image, "{}.json".format("imageMeta"))
-
-        caas.lib.save_json(image_meta, pfnJson)
-
-        # process data
         resultData = caas.proc.process_main(
             working_folder.path_to_incoming_image,
             image_meta,
