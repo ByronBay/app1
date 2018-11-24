@@ -61,20 +61,20 @@ def image_analysis_request():
         print(working_folder)
 
         # write image data
-        print("2--- data image")
+        print("2--- data from image")
 
-        print("get request-data start")
+        print("get image-data start")
         imageData = request.get_data()
-        print("get request-data end")
+        print("get image-data end")
 
-        print("write request-data start")
+        print("write image-data start")
         with open(working_folder.path_and_filename_to_incoming_image, 'wb') as f:
             f.write(imageData)
             
-        print("write request-data end")
+        print("write image-data end")
 
         # write request dat (urlencoded)
-        print("3--- data request")
+        print("3--- data from request")
 
         for key, value in request.args.to_dict().items():
 
