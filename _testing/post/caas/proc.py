@@ -5,9 +5,8 @@ import json
 
 from random import randint
 
-import caas.rgb_from_image_v1
-import caas.rgb_from_image_v2
-import caas.color_from_rgb_v1
+import caas.rgb_from_image
+import caas.color_from_rgb
 import caas.lib
 
 
@@ -41,11 +40,11 @@ def process_main(
 
     # process image
     # result_image = rgb_from_image_dev(workingPath, imagePathFilename)
-    result_image = caas.rgb_from_image_v2.run(
+    result_image = caas.rgb_from_image.run(
         workingPath, path_and_filename_to_current_image)
 
     # process colors
-    result_color = caas.color_from_rgb_v1.run(
+    result_color = caas.color_from_rgb.run(
         workingPath, path_and_filename_to_current_image, result_image)
 
     # generate return value in case of errors

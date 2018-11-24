@@ -1,0 +1,1 @@
+{"dataType":{"version":"1.0","name":"deviceGeoLocation","comment":"geolocation data"},"data":{"enabled":"true","accuracy":"5.1","latitude":"47.62462","longitude":"8.21106","altitude":"376.4","currentAddress":"No address available","providerName":"gps","speed":"-1","timeSystem":"1542914444512"}}
