@@ -18,15 +18,23 @@ class WorkingFolder(object):
         self.filename_of_current_image = self.timestamp + \
             "_" + str(self.uuid) + ".jpg"
 
-        self.path_and_filename_to_incoming_image = str(pathlib.PurePath(
-            caas.storage_root,
-            self.directory_name_of_current_image,
-            self.filename_of_current_image))
-
-        self.path_to_incoming_image = str(pathlib.PurePath(
+        # root path to incoming image
+        self.root_path_to_incoming_image = str(pathlib.PurePath(
             caas.storage_root,
             self.directory_name_of_current_image))
 
+        # path to incoming image
+        self.path_to_incoming_image = str(pathlib.PurePath(
+            self.root_path_to_incoming_image,
+            self.directory_name_of_current_image,
+            "in"))
+
+        # path and filename to incoming image
+        self.path_and_filename_to_incoming_image = str(pathlib.PurePath(
+            self.path_to_incoming_image,
+            self.filename_of_current_image))
+
+        # create direcotory
         pathlib.Path(self.path_to_incoming_image).mkdir(
             parents=True, exist_ok=True)
 
@@ -36,13 +44,19 @@ class WorkingFolder(object):
 
         s = s + "uuid: {}\n".format(
             self.uuid)
+        
         s = s + "timestamp: {}\n".format(
             self.timestamp)
-        s = s + "path_and_filename_to_incoming_image: {}\n".format(
-            str(self.path_and_filename_to_incoming_image))
+        
+        s = s + "incoming root path: {}\n".format(
+            str(self.root_path_to_incoming_image))
+
         s = s + "path_to_incoming_image: {}\n".format(
             str(self.path_to_incoming_image))
-
+        
+        s = s + "path_and_filename_to_incoming_image: {}\n".format(
+            str(self.path_and_filename_to_incoming_image))
+        
         return s
 
 
