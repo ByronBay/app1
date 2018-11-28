@@ -56,8 +56,8 @@ def image_analysis_request():
         # prepare working paths and directories
         print("1---")
 
-        working_folder = caas.lib.WorkingFolder()
-
+        working_folder = caas.lib.FolderManager()
+        working_folder.create_folders()
         print(working_folder)
 
         # write image data
@@ -90,11 +90,8 @@ def image_analysis_request():
         # processing
         print("3---")
 
-        image_meta = 0
-
         resultData = caas.proc.process_main(
-            working_folder.path_to_incoming_image,
-            image_meta,
+            working_folder.path_working,
             working_folder.path_and_filename_to_incoming_image)
 
         # result preparation

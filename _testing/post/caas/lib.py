@@ -6,11 +6,82 @@ import caas
 import pathlib
 
 
-class WorkingFolder(object):
+class FolderManager(object):
+
+    image_subfolder = "in"
+    attributes_filename = "attributes.json"
 
     def __init__(self):
+
         self.uuid = caas.lib.get_uuid()
         self.timestamp = caas.lib.get_timestamp()
+
+    def create_folders(self, directory_to_use=""):
+
+        if not directory_to_use:
+            # start new structure
+            self.init_green_field()
+            self.write_attributes()
+        else:
+            # veryfiy for being existing structure
+            self.init_brown_field(directory_to_use)
+
+    def init_brown_field(self, directory_to_use):
+        
+        # check for presence attribute file
+        pfnAttribs = pathlib.Path(
+            directory_to_use,
+            self.attributes_filename) 
+        isFile = pfnAttribs.is_file()
+
+        if (isFile):
+            # read attributes
+            attribs = caas.lib.read_json_into_dict(str(pfnAttribs))
+            
+            # get image filename
+            filename_image = attribs['filename_of_current_image']       
+            
+            # check for presence of image
+            pfnImage = pathlib.Path(
+                directory_to_use,
+                self.image_subfolder,
+                filename_image) 
+            isFile = pfnImage.is_file()
+
+            self.filename_of_current_image = filename_image
+
+            self.root_path_to_incoming_image = directory_to_use
+
+            self.path_to_incoming_image = str(pathlib.Path(
+                self.root_path_to_incoming_image,
+                self.image_subfolder))
+
+            self.path_and_filename_to_incoming_image = str(pathlib.Path(
+                self.path_to_incoming_image,
+                self.filename_of_current_image))
+
+            # path working
+            self.path_working = str(pathlib.PurePath(
+                self.root_path_to_incoming_image, self.timestamp))
+
+            pathlib.Path(self.path_working).mkdir(
+                parents=True, exist_ok=True)
+
+    def write_attributes(self):
+        
+        dict = {
+            'uuid': str(self.uuid),
+            'timestamp_incoming': self.timestamp,
+            'filename_of_current_image': self.filename_of_current_image
+            }
+
+        pfnAttributes = str(pathlib.PurePath(
+            self.root_path_to_incoming_image,
+            self.attributes_filename))
+
+        caas.lib.save_dict_as_json(dict, pfnAttributes)
+
+    def init_green_field(self):
 
         self.directory_name_of_current_image = self.timestamp + \
             "_" + str(self.uuid)
@@ -18,7 +89,7 @@ class WorkingFolder(object):
         self.filename_of_current_image = self.timestamp + \
             "_" + str(self.uuid) + ".jpg"
 
-        # root path to incoming image
+        # root path to incominng image and processing
         self.root_path_to_incoming_image = str(pathlib.PurePath(
             caas.storage_root,
             self.directory_name_of_current_image))
@@ -26,17 +97,22 @@ class WorkingFolder(object):
         # path to incoming image
         self.path_to_incoming_image = str(pathlib.PurePath(
             self.root_path_to_incoming_image,
-            self.directory_name_of_current_image,
-            "in"))
+            self.image_subfolder))
+
+        pathlib.Path(self.path_to_incoming_image).mkdir(
+            parents=True, exist_ok=True)
+
+        # path working
+        self.path_working = str(pathlib.PurePath(
+            self.root_path_to_incoming_image, self.timestamp))
+
+        pathlib.Path(self.path_working).mkdir(
+            parents=True, exist_ok=True)
 
         # path and filename to incoming image
         self.path_and_filename_to_incoming_image = str(pathlib.PurePath(
             self.path_to_incoming_image,
             self.filename_of_current_image))
-
-        # create direcotory
-        pathlib.Path(self.path_to_incoming_image).mkdir(
-            parents=True, exist_ok=True)
 
     def __repr__(self):
 
@@ -57,6 +133,9 @@ class WorkingFolder(object):
         s = s + "path_and_filename_to_incoming_image: {}\n".format(
             str(self.path_and_filename_to_incoming_image))
         
+        s = s + "path_working: : {}\n".format(
+            str(self.path_working))
+
         return s
 
 
@@ -114,11 +193,20 @@ def save_json(data, pfnOutFile):
         file.write(data)
 
 
-def save_dict_as_json(data, pfnOutFile):
+def save_dict_as_json(dict, pfnOutFile):
 
     with open(pfnOutFile, 'w') as file:
-        json.dump(data, file)
+        json.dump(dict, file)
 
+
+def read_json_into_dict(pfnInFile):
+    
+    dict = {}
+    
+    with open(pfnInFile, 'r') as file:
+        dict = json.load(file)
+
+    return dict
 
 def colormap_jet(n):
     r, g, b, = np.zeros(n), np.zeros(n), np.zeros(n)

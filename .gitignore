@@ -106,3 +106,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 _testing/post/.vscode/settings.json
+_testing/post/data_dev/.DS_Store
+_testing/post/.DS_Store
+_testing/post/data/.DS_Store
+_testing/post/data/.DS_Store

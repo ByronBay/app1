@@ -22,17 +22,10 @@ def rgb_from_image_dev(workingPath, imagePathFilename):
 
 
 def process_main(
-    path_to_current_image,
-    image_meta_information,
+    path_working,
     path_and_filename_to_current_image):
 
-    # make working dir
-    timestamp = caas.lib.get_timestamp()
-
-    workingPath = os.path.join(path_to_current_image, timestamp)
-
-    pathlib.Path(workingPath).mkdir(parents=True, exist_ok=True)
-
+    
     # here: determine wether image is an inquiry for color or a reference image
     # reference images have marker in it
 
@@ -41,11 +34,11 @@ def process_main(
     # process image
     # result_image = rgb_from_image_dev(workingPath, imagePathFilename)
     result_image = caas.rgb_from_image.run(
-        workingPath, path_and_filename_to_current_image)
+        path_working, path_and_filename_to_current_image)
 
     # process colors
     result_color = caas.color_from_rgb.run(
-        workingPath, path_and_filename_to_current_image, result_image)
+        path_working, path_and_filename_to_current_image, result_image)
 
     # generate return value in case of errors
     # TBD
@@ -58,14 +51,14 @@ def process_main(
     }
 
     returnDict["results"] = {
-        "workingPath": workingPath,
+        "workingPath": path_working,
         "color": result_color
     }
 
     print("processing result:")
     print(json.dumps(returnDict))
 
-    pfnOutFile = os.path.join(workingPath, "processing.json")
+    pfnOutFile = os.path.join(path_working, "processing.json")
     
     caas.lib.save_dict_as_json(returnDict, pfnOutFile)
     
