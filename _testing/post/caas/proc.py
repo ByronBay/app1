@@ -25,8 +25,10 @@ def process_main(
     path_working,
     path_and_filename_to_current_image):
 
+    # at this stage: extract exif properties as jon and store in working dir
     
-    # here: determine wether image is an inquiry for color or a reference image
+    
+    # at this stage: determine wether image is an inquiry for color or a reference image
     # reference images have marker in it
 
     #  = check_for_marker(workingPath, imagePathFilename)
