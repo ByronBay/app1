@@ -16,6 +16,10 @@ def getCameraPropertiesAsDict(pfnImage):
     for tag_dec in tags_dec:
         tag_str = TAGS.get(tag_dec, tag_dec)
         value = exif.get(tag_dec, "undefined")
+        
+        if isinstance(value, bytes):
+            value = value.decode('utf-8')
+        
         # print("value: {:5d} , 0x{:05x}   tag: {} value: {}".format(tag_dec, tag_dec , tag_str, value))
 
         exif_dict[tag_str] = value
@@ -82,22 +86,26 @@ def getLocationAsDict(pfnImage):
 
     gpsinfo = {}
 
-    for key in gps_dict.keys():
-        decode = GPSTAGS.get(key, key)
-        gps_value = gps_dict.get(key, None)
+    if gps_dict is not None:
 
-        if decode == 'GPSTimeStamp':
-            gps_value = _gps_process_time_tuple(gps_value)
+        for key in gps_dict.keys():
+            decode = GPSTAGS.get(key, key)
+            gps_value = gps_dict.get(key, None)
 
-        if isinstance(gps_value, tuple):
-            gps_value = _gps_tuple_processing(gps_value)
+            if decode == 'GPSTimeStamp':
+                gps_value = _gps_process_time_tuple(gps_value)
 
-        if isinstance(gps_value, bytes):
-            gps_value = gps_value.decode('utf-8')
+            if isinstance(gps_value, tuple):
+                gps_value = _gps_tuple_processing(gps_value)
 
-        #print("tag: {}  value: {}  type of value: {}".format(
-        #    decode, gps_value, type(gps_value)))
+            if isinstance(gps_value, bytes):
+                gps_value = gps_value.decode('utf-8')
 
-        gpsinfo[decode] = gps_value
+            #print("tag: {}  value: {}  type of value: {}".format(
+            #    decode, gps_value, type(gps_value)))
+
+            gpsinfo[decode] = gps_value
+
+    gpsinfo['error'] = 'Location Exif header not found in image'
 
     return gpsinfo

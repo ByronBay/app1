@@ -16,7 +16,7 @@ class FolderManager(object):
         self.uuid = caas.lib.get_uuid()
         self.timestamp = caas.lib.get_timestamp()
 
-    def create_folders(self, directory_to_use=""):
+    def create_folder_structure(self, directory_to_use=""):
 
         if not directory_to_use:
             # start new structure
@@ -180,11 +180,6 @@ def centroid_histogram(clt):
 def contains_markers(image):
 
     return False
-
-
-def get_exif_from_jpg(pfnImage):
-
-    return {}
 
 
 def save_json(data, pfnOutFile):

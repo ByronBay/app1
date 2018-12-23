@@ -56,9 +56,9 @@ def image_analysis_request():
         # prepare working paths and directories
         print("1---")
 
-        working_folder = caas.lib.FolderManager()
-        working_folder.create_folders()
-        print(working_folder)
+        folder_manager = caas.lib.FolderManager()
+        folder_manager.create_folder_structure()
+        print(folder_manager)
 
         # write image data
         print("2--- data from image")
@@ -68,7 +68,7 @@ def image_analysis_request():
         print("get image-data end")
 
         print("write image-data start")
-        with open(working_folder.path_and_filename_to_incoming_image, 'wb') as f:
+        with open(folder_manager.path_and_filename_to_incoming_image, 'wb') as f:
             f.write(imageData)
             
         print("write image-data end")
@@ -83,16 +83,14 @@ def image_analysis_request():
             # write data to files
 
             pfnJson = pathlib.PurePath(
-                working_folder.path_to_incoming_image, "{}.json".format(key))
+                folder_manager.path_to_incoming_image, "{}.json".format(key))
 
             caas.lib.save_json(value, pfnJson)
 
         # processing
         print("3---")
 
-        resultData = caas.proc.process_main(
-            working_folder.path_working,
-            working_folder.path_and_filename_to_incoming_image)
+        resultData = caas.proc.process_main(folder_manager)
 
         # result preparation
         print("4---")
@@ -102,10 +100,10 @@ def image_analysis_request():
 
         data = {
             'meta': {
-                'uuid': working_folder.uuid,
-                'timestamp': working_folder.timestamp,
-                'storageImagePfn': working_folder.path_and_filename_to_incoming_image,
-                'storageImage': working_folder.path_to_incoming_image,
+                'uuid': folder_manager.uuid,
+                'timestamp': folder_manager.timestamp,
+                'storageImagePfn': folder_manager.path_and_filename_to_incoming_image,
+                'storageImage': folder_manager.path_to_incoming_image,
             },
             'device': 'x',
             'result': resultData,
