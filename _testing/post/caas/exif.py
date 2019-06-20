@@ -109,3 +109,7 @@ def getLocationAsDict(pfnImage):
     gpsinfo['error'] = 'Location Exif header not found in image'
 
     return gpsinfo
+
+
+def create_device_identification():
+    pass

@@ -32,8 +32,7 @@ def import_color_definitions(name, pfnColorDefinition, colors_collected):
     except Exception as e:
         print(e)
 
-    colors_collected[name] = {"rgbs": rgbs,
-                              "names": names, "comments": comments}
+    colors_collected[name] = {"rgbs": rgbs,"names": names, "comments": comments}
 
 
 # import_color_definitions("test", "caas/colors/_test.json", color_definitions)
